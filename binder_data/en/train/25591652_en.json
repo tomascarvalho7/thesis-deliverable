@@ -1,0 +1,491 @@
+{
+  "text": "Objective.\nTo analyze epileptic seizure aggravation associated with antiepileptic drugs (AED) in adult patients.\nMaterial and methods.\nWe examined 1407 patients aged 18-89 years. \nDifferent patterns of seizure aggravation were identified in 103 patients. \nResults.\nAggravated seizures due the generic substitution were found in 32 patients. \nFirst was topiramate (TPM) (n=12), followed by valproates (VPA) (n=8), carbamazepine (CBZ) (n=5), lamotrigine (LTG) (n=1) and levetiracetam (LEV) (n=1). \nPatients with idiopathic generalized epilepsies (IGE) suffered aggravation with CBZ in 17 cases, VPA - in 6, TPM - in 6, LTG - in 1 and LEV - in 1. \nCBZ aggravated absences in patients with juvenile absence epilepsy (JAE) were found in 5 cases of 17 (29.4%), with childhood absence epilepsy (CAE) - in 1 of 24 (4.2%), absences and myoclonic jerks in juvenile myoclonic epilepsy (JME) - in 9 of 47 (19.1%), absences with eyelid myoclonus (Jeavons syndrome) - in 2 of 11 (18.2%).  \nSeizure aggravations with different AEDs were observed in 13 patients. \nThis pattern of aggravation was associated with resistant epilepsy and poor prognosis.  \nSeizure aggravation due to increasing the dose of AEDs was found in 10 cases and associated with resistant epilepsy and poor outcome. \n\"True\" aggravation was associated with CBZ in 34 patients, including 16 IGE patients, with TPM - in 13, VPA - 5, LTG - 5, LEV - 2 and with clonazepam in 1 patient. \nMost often seizure aggravation was associated with CBZ in IGE patients (8.3%), and with LTG, TPM and CBZ in patients with other epileptic syndromes (non IGE): 4.9%, 4% and 3.7%, respectively. \nConclusions. \nDifferent AEDs can cause aggravation. \nSeizures aggravation after generic substitution was characteristic of TPM most frequently. \nSeizure aggravation with different AEDs and due to increasing the dose of AEDs was associated with poor outcome. \nIn all cases, seizure aggravation was more frequently caused by LTG (4.7%), CBZ (3.7%) and TPM (3.3%). \nTo reduce the risk of aggravation, slow AEDs titration and keeping a diary of seizures are required. \n",
+  "entities": [
+    {
+      "start": 976,
+      "end": 983,
+      "mention": "Seizure",
+      "label": "DISO"
+    },
+    {
+      "start": 1187,
+      "end": 1191,
+      "mention": "AEDs",
+      "label": "CHEM"
+    },
+    {
+      "start": 1849,
+      "end": 1853,
+      "mention": "AEDs",
+      "label": "CHEM"
+    },
+    {
+      "start": 2033,
+      "end": 2037,
+      "mention": "AEDs",
+      "label": "CHEM"
+    },
+    {
+      "start": 1654,
+      "end": 1658,
+      "mention": "AEDs",
+      "label": "CHEM"
+    },
+    {
+      "start": 1012,
+      "end": 1016,
+      "mention": "AEDs",
+      "label": "CHEM"
+    },
+    {
+      "start": 1953,
+      "end": 1956,
+      "mention": "LTG",
+      "label": "CHEM"
+    },
+    {
+      "start": 1525,
+      "end": 1528,
+      "mention": "LTG",
+      "label": "CHEM"
+    },
+    {
+      "start": 1411,
+      "end": 1421,
+      "mention": "clonazepam",
+      "label": "CHEM"
+    },
+    {
+      "start": 453,
+      "end": 456,
+      "mention": "LTG",
+      "label": "CHEM"
+    },
+    {
+      "start": 1385,
+      "end": 1388,
+      "mention": "LTG",
+      "label": "CHEM"
+    },
+    {
+      "start": 617,
+      "end": 620,
+      "mention": "LTG",
+      "label": "CHEM"
+    },
+    {
+      "start": 875,
+      "end": 878,
+      "mention": "JME",
+      "label": "DISO"
+    },
+    {
+      "start": 934,
+      "end": 950,
+      "mention": "Jeavons syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 760,
+      "end": 786,
+      "mention": "childhood absence epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 632,
+      "end": 635,
+      "mention": "LEV",
+      "label": "CHEM"
+    },
+    {
+      "start": 364,
+      "end": 367,
+      "mention": "TPM",
+      "label": "CHEM"
+    },
+    {
+      "start": 413,
+      "end": 426,
+      "mention": "carbamazepine",
+      "label": "CHEM"
+    },
+    {
+      "start": 22,
+      "end": 39,
+      "mention": "epileptic seizure",
+      "label": "DISO"
+    },
+    {
+      "start": 686,
+      "end": 711,
+      "mention": "juvenile absence epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 483,
+      "end": 486,
+      "mention": "LEV",
+      "label": "CHEM"
+    },
+    {
+      "start": 916,
+      "end": 922,
+      "mention": "eyelid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 916,
+      "end": 932,
+      "mention": "eyelid myoclonus",
+      "label": "DISO"
+    },
+    {
+      "start": 855,
+      "end": 864,
+      "mention": "myoclonic",
+      "label": "DISO"
+    },
+    {
+      "start": 1810,
+      "end": 1814,
+      "mention": "AEDs",
+      "label": "CHEM"
+    },
+    {
+      "start": 89,
+      "end": 92,
+      "mention": "AED",
+      "label": "CHEM"
+    },
+    {
+      "start": 593,
+      "end": 596,
+      "mention": "VPA",
+      "label": "CHEM"
+    },
+    {
+      "start": 1376,
+      "end": 1379,
+      "mention": "VPA",
+      "label": "CHEM"
+    },
+    {
+      "start": 605,
+      "end": 608,
+      "mention": "TPM",
+      "label": "CHEM"
+    },
+    {
+      "start": 1980,
+      "end": 1983,
+      "mention": "TPM",
+      "label": "CHEM"
+    },
+    {
+      "start": 389,
+      "end": 399,
+      "mention": "valproates",
+      "label": "CHEM"
+    },
+    {
+      "start": 1753,
+      "end": 1756,
+      "mention": "TPM",
+      "label": "CHEM"
+    },
+    {
+      "start": 1363,
+      "end": 1366,
+      "mention": "TPM",
+      "label": "CHEM"
+    },
+    {
+      "start": 1530,
+      "end": 1533,
+      "mention": "TPM",
+      "label": "CHEM"
+    },
+    {
+      "start": 352,
+      "end": 362,
+      "mention": "topiramate",
+      "label": "CHEM"
+    },
+    {
+      "start": 713,
+      "end": 716,
+      "mention": "JAE",
+      "label": "DISO"
+    },
+    {
+      "start": 1096,
+      "end": 1114,
+      "mention": "resistant epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 440,
+      "end": 451,
+      "mention": "lamotrigine",
+      "label": "CHEM"
+    },
+    {
+      "start": 68,
+      "end": 87,
+      "mention": "antiepileptic drugs",
+      "label": "CHEM"
+    },
+    {
+      "start": 923,
+      "end": 932,
+      "mention": "myoclonus",
+      "label": "DISO"
+    },
+    {
+      "start": 1234,
+      "end": 1252,
+      "mention": "resistant epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 2071,
+      "end": 2079,
+      "mention": "seizures",
+      "label": "DISO"
+    },
+    {
+      "start": 1137,
+      "end": 1144,
+      "mention": "Seizure",
+      "label": "DISO"
+    },
+    {
+      "start": 1448,
+      "end": 1455,
+      "mention": "seizure",
+      "label": "DISO"
+    },
+    {
+      "start": 1903,
+      "end": 1910,
+      "mention": "seizure",
+      "label": "DISO"
+    },
+    {
+      "start": 1683,
+      "end": 1691,
+      "mention": "Seizures",
+      "label": "DISO"
+    },
+    {
+      "start": 202,
+      "end": 209,
+      "mention": "seizure",
+      "label": "DISO"
+    },
+    {
+      "start": 1775,
+      "end": 1782,
+      "mention": "Seizure",
+      "label": "DISO"
+    },
+    {
+      "start": 32,
+      "end": 39,
+      "mention": "seizure",
+      "label": "DISO"
+    },
+    {
+      "start": 827,
+      "end": 842,
+      "mention": "myoclonic jerks",
+      "label": "DISO"
+    },
+    {
+      "start": 510,
+      "end": 543,
+      "mention": "idiopathic generalized epilepsies",
+      "label": "DISO"
+    },
+    {
+      "start": 401,
+      "end": 404,
+      "mention": "VPA",
+      "label": "CHEM"
+    },
+    {
+      "start": 276,
+      "end": 284,
+      "mention": "seizures",
+      "label": "DISO"
+    },
+    {
+      "start": 788,
+      "end": 791,
+      "mention": "CAE",
+      "label": "DISO"
+    },
+    {
+      "start": 1394,
+      "end": 1397,
+      "mention": "LEV",
+      "label": "CHEM"
+    },
+    {
+      "start": 1488,
+      "end": 1491,
+      "mention": "CBZ",
+      "label": "CHEM"
+    },
+    {
+      "start": 1344,
+      "end": 1347,
+      "mention": "IGE",
+      "label": "DISO"
+    },
+    {
+      "start": 545,
+      "end": 548,
+      "mention": "IGE",
+      "label": "DISO"
+    },
+    {
+      "start": 1590,
+      "end": 1593,
+      "mention": "IGE",
+      "label": "DISO"
+    },
+    {
+      "start": 22,
+      "end": 31,
+      "mention": "epileptic",
+      "label": "DISO"
+    },
+    {
+      "start": 778,
+      "end": 786,
+      "mention": "epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 1538,
+      "end": 1541,
+      "mention": "CBZ",
+      "label": "CHEM"
+    },
+    {
+      "start": 576,
+      "end": 579,
+      "mention": "CBZ",
+      "label": "CHEM"
+    },
+    {
+      "start": 703,
+      "end": 711,
+      "mention": "epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 428,
+      "end": 431,
+      "mention": "CBZ",
+      "label": "CHEM"
+    },
+    {
+      "start": 1965,
+      "end": 1968,
+      "mention": "CBZ",
+      "label": "CHEM"
+    },
+    {
+      "start": 1495,
+      "end": 1498,
+      "mention": "IGE",
+      "label": "DISO"
+    },
+    {
+      "start": 1311,
+      "end": 1314,
+      "mention": "CBZ",
+      "label": "CHEM"
+    },
+    {
+      "start": 1565,
+      "end": 1584,
+      "mention": "epileptic syndromes",
+      "label": "DISO"
+    },
+    {
+      "start": 846,
+      "end": 873,
+      "mention": "juvenile myoclonic epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 533,
+      "end": 543,
+      "mention": "epilepsies",
+      "label": "DISO"
+    },
+    {
+      "start": 865,
+      "end": 873,
+      "mention": "epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 814,
+      "end": 822,
+      "mention": "absences",
+      "label": "DISO"
+    },
+    {
+      "start": 660,
+      "end": 668,
+      "mention": "absences",
+      "label": "DISO"
+    },
+    {
+      "start": 902,
+      "end": 910,
+      "mention": "absences",
+      "label": "DISO"
+    },
+    {
+      "start": 1106,
+      "end": 1114,
+      "mention": "epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 468,
+      "end": 481,
+      "mention": "levetiracetam",
+      "label": "CHEM"
+    },
+    {
+      "start": 1244,
+      "end": 1252,
+      "mention": "epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 645,
+      "end": 648,
+      "mention": "CBZ",
+      "label": "CHEM"
+    },
+    {
+      "start": 1586,
+      "end": 1593,
+      "mention": "non IGE",
+      "label": "DISO"
+    },
+    {
+      "start": 855,
+      "end": 873,
+      "mention": "myoclonic epilepsy",
+      "label": "DISO"
+    }
+  ]
+}

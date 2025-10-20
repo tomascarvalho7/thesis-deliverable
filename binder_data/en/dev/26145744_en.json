@@ -1,0 +1,359 @@
+{
+  "text": "[The mechanical properties of the bone tissue from the middle facial region].  The objective of the present work was to study age-related features of the reaction of the maxillary sinus cavity walls to a variety of impacts associated with the surgical interventions. To this effect, a variety of stress-strain conditions were simulated that are known to arise in the maxillary sinus cavity walls under the action of different force vectors taking into consideration the age-specific peculiarities of the mechanical structure of the bone tissue. The 3D model of the maxillary sinus cavity was built up based on the results of spiral computed tomography with the use of the Solid Works 2012 software package (USA).  The finite element method (FEM) was employed to construct the grid. Three variants of force application were simulated, one to the canine fossa region, another to the upper portion of the alveolar process at the border between the upper and lower walls of the sinus, and the third to the anterior part of the inferior nasal passage. The study has demonstrated that the bone wall of the maxillary sinus differently responds to the impacts of similar magnitude depending on the application point and age-related physical and mechanical properties of the bone tissue.  This finding should be taken into account in the choice of the optimal surgical approach to the maxillary sinus. It was calculated that endonasal interventions should be preferred for the treatment of patients above 60 years of age as the minimally injurious ones to the bone tissue.  Moreover, special caution is needed when the intervention is performed beneath the canine fossa, where the bone is extremely fragile and the risk of injury extension to the floor of the maxillary sinus is especially high. ",
+  "entities": [
+    {
+      "start": 1032,
+      "end": 1037,
+      "mention": "nasal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1648,
+      "end": 1660,
+      "mention": "canine fossa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 845,
+      "end": 857,
+      "mention": "canine fossa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 55,
+      "end": 75,
+      "mention": "middle facial region",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 902,
+      "end": 918,
+      "mention": "alveolar process",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 180,
+      "end": 185,
+      "mention": "sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 34,
+      "end": 45,
+      "mention": "bone tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 170,
+      "end": 192,
+      "mention": "maxillary sinus cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1083,
+      "end": 1115,
+      "mention": "bone wall of the maxillary sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 367,
+      "end": 395,
+      "mention": "maxillary sinus cavity walls",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 170,
+      "end": 198,
+      "mention": "maxillary sinus cavity walls",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1100,
+      "end": 1115,
+      "mention": "maxillary sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1110,
+      "end": 1115,
+      "mention": "sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 537,
+      "end": 543,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 575,
+      "end": 580,
+      "mention": "sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1761,
+      "end": 1766,
+      "mention": "sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 974,
+      "end": 979,
+      "mention": "sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 377,
+      "end": 389,
+      "mention": "sinus cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 575,
+      "end": 587,
+      "mention": "sinus cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 180,
+      "end": 192,
+      "mention": "sinus cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 377,
+      "end": 382,
+      "mention": "sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1386,
+      "end": 1391,
+      "mention": "sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 565,
+      "end": 587,
+      "mention": "maxillary sinus cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 367,
+      "end": 389,
+      "mention": "maxillary sinus cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1556,
+      "end": 1562,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 532,
+      "end": 543,
+      "mention": "bone tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1266,
+      "end": 1277,
+      "mention": "bone tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 532,
+      "end": 536,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1672,
+      "end": 1676,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1266,
+      "end": 1270,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 34,
+      "end": 38,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1083,
+      "end": 1092,
+      "mention": "bone wall",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1416,
+      "end": 1425,
+      "mention": "endonasal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1023,
+      "end": 1045,
+      "mention": "inferior nasal passage",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 955,
+      "end": 979,
+      "mention": "lower walls of the sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 945,
+      "end": 950,
+      "mention": "upper walls of the sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 961,
+      "end": 979,
+      "mention": "upper walls of the sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 902,
+      "end": 910,
+      "mention": "alveolar",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1738,
+      "end": 1766,
+      "mention": "floor of the maxillary sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 39,
+      "end": 45,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1271,
+      "end": 1277,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1551,
+      "end": 1562,
+      "mention": "bone tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1083,
+      "end": 1087,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1551,
+      "end": 1555,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 565,
+      "end": 574,
+      "mention": "maxillary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 170,
+      "end": 185,
+      "mention": "maxillary sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1376,
+      "end": 1391,
+      "mention": "maxillary sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1376,
+      "end": 1385,
+      "mention": "maxillary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1100,
+      "end": 1109,
+      "mention": "maxillary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 62,
+      "end": 68,
+      "mention": "facial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1002,
+      "end": 1045,
+      "mention": "anterior part of the inferior nasal passage",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 565,
+      "end": 580,
+      "mention": "maxillary sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 367,
+      "end": 382,
+      "mention": "maxillary sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 367,
+      "end": 376,
+      "mention": "maxillary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1751,
+      "end": 1760,
+      "mention": "maxillary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1032,
+      "end": 1045,
+      "mention": "nasal passage",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1751,
+      "end": 1766,
+      "mention": "maxillary sinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 881,
+      "end": 918,
+      "mention": "upper portion of the alveolar process",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 170,
+      "end": 179,
+      "mention": "maxillary",
+      "label": "ANATOMY"
+    }
+  ]
+}

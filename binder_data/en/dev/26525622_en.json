@@ -1,0 +1,131 @@
+{
+  "text": "[Diagnosis and correction of cognitive impairment in preschool age children with epilepsy]. OBJECTIVE To study cognitive impairment and the efficacy of hopantenic acid (pantogam) in children, aged from 4 to 7 years, with epilepsy and cognitive impairment.  MATERIAL AND METHODS The study included 40 children with epilepsy treated with pantogam (the main group) and 23 children with epilepsy who did not receive pantogam (the comparison group). All children were diagnosed with cryptogenic epilepsy and symptomatic epilepsy.  We presented the main results of the clinical examination including routine EEG, video-EEG monitoring and brain MRI. An analysis of cognitive impairment in children of the comparison group and in the main group before and after treatment with pantogam was performed using a set of neurocognitive tests (the Luscher Color Test, «Piano playing test», «Three word test» and «Four is redundant test»). RESULTS AND CONCLUSION There were a significant decrease in cognitive impairment in children of the main group compared to the comparison group as well as age normalization and improvement of EEG after 2 months of treatment in 15% of the patients. The good tolerability of the drug and no increase in the frequency of seizures were observed. ",
+  "entities": [
+    {
+      "start": 234,
+      "end": 254,
+      "mention": "cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 314,
+      "end": 322,
+      "mention": "epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 1242,
+      "end": 1250,
+      "mention": "seizures",
+      "label": "DISO"
+    },
+    {
+      "start": 163,
+      "end": 167,
+      "mention": "acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 658,
+      "end": 678,
+      "mention": "cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 81,
+      "end": 89,
+      "mention": "epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 29,
+      "end": 49,
+      "mention": "cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 632,
+      "end": 637,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 383,
+      "end": 391,
+      "mention": "epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 111,
+      "end": 131,
+      "mention": "cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 984,
+      "end": 1004,
+      "mention": "cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 515,
+      "end": 523,
+      "mention": "epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 503,
+      "end": 523,
+      "mention": "symptomatic epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 490,
+      "end": 498,
+      "mention": "epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 221,
+      "end": 229,
+      "mention": "epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 412,
+      "end": 420,
+      "mention": "pantogam",
+      "label": "CHEM"
+    },
+    {
+      "start": 769,
+      "end": 777,
+      "mention": "pantogam",
+      "label": "CHEM"
+    },
+    {
+      "start": 152,
+      "end": 167,
+      "mention": "hopantenic acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 478,
+      "end": 498,
+      "mention": "cryptogenic epilepsy",
+      "label": "DISO"
+    },
+    {
+      "start": 336,
+      "end": 344,
+      "mention": "pantogam",
+      "label": "CHEM"
+    },
+    {
+      "start": 169,
+      "end": 177,
+      "mention": "pantogam",
+      "label": "CHEM"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "text": "[Remote consequences of the long-term uncontrollable consumption of anxiolytics and hypnotics in elderly: a problem of drug dependence]. AIM To identify main clinical/psychopathological characteristics of aged psychiatric inpatients who regularly used anxiolytic and hypnotic benzodiazepines without control from the physician. MATERIAL AND METHODS  Authors examined 56 women over 50 years hospitalized due to a psychiatric disorder. Before admission, they regularly used benzodiazepines without a prescription for more than 2 months. The patients were studied during 4 weeks in the hospital.  To assess the severity and dynamics of their condition, we administered psychopathological analysis and common psychometric scales as well as our own version of the scale for benzodiazepine dependence. RESULTS AND CONCLUSION The diagnosis of drug dependence was based on the three criteria: symptoms of pathological dependence of benzodiazepine, benzodiazepine withdrawal syndrome with severe somatic/autonomic symptoms and exacerbation of dependence, increase in tolerability to benzodiazepine anxiolytics and hypnotics; 64.3% of the patients met these criteria. An analysis of risk factors for this disease in elderly demonstrated the higher risk in patients aged ≤ 60 years and in those who used diazepam. The risk was higher in patients who preferred phenazepam. ",
+  "entities": [
+    {
+      "start": 955,
+      "end": 974,
+      "mention": "withdrawal syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 897,
+      "end": 920,
+      "mention": "pathological dependence",
+      "label": "DISO"
+    },
+    {
+      "start": 68,
+      "end": 79,
+      "mention": "anxiolytics",
+      "label": "CHEM"
+    },
+    {
+      "start": 472,
+      "end": 487,
+      "mention": "benzodiazepines",
+      "label": "CHEM"
+    },
+    {
+      "start": 84,
+      "end": 93,
+      "mention": "hypnotics",
+      "label": "CHEM"
+    },
+    {
+      "start": 267,
+      "end": 275,
+      "mention": "hypnotic",
+      "label": "CHEM"
+    },
+    {
+      "start": 1089,
+      "end": 1100,
+      "mention": "anxiolytics",
+      "label": "CHEM"
+    },
+    {
+      "start": 666,
+      "end": 684,
+      "mention": "psychopathological",
+      "label": "DISO"
+    },
+    {
+      "start": 1074,
+      "end": 1088,
+      "mention": "benzodiazepine",
+      "label": "CHEM"
+    },
+    {
+      "start": 167,
+      "end": 185,
+      "mention": "psychopathological",
+      "label": "DISO"
+    },
+    {
+      "start": 924,
+      "end": 938,
+      "mention": "benzodiazepine",
+      "label": "CHEM"
+    },
+    {
+      "start": 210,
+      "end": 221,
+      "mention": "psychiatric",
+      "label": "DISO"
+    },
+    {
+      "start": 412,
+      "end": 432,
+      "mention": "psychiatric disorder",
+      "label": "DISO"
+    },
+    {
+      "start": 267,
+      "end": 291,
+      "mention": "hypnotic benzodiazepines",
+      "label": "CHEM"
+    },
+    {
+      "start": 276,
+      "end": 291,
+      "mention": "benzodiazepines",
+      "label": "CHEM"
+    },
+    {
+      "start": 940,
+      "end": 974,
+      "mention": "benzodiazepine withdrawal syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 940,
+      "end": 954,
+      "mention": "benzodiazepine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1293,
+      "end": 1301,
+      "mention": "diazepam",
+      "label": "CHEM"
+    },
+    {
+      "start": 119,
+      "end": 134,
+      "mention": "drug dependence",
+      "label": "DISO"
+    },
+    {
+      "start": 836,
+      "end": 851,
+      "mention": "drug dependence",
+      "label": "DISO"
+    },
+    {
+      "start": 1105,
+      "end": 1114,
+      "mention": "hypnotics",
+      "label": "CHEM"
+    },
+    {
+      "start": 897,
+      "end": 938,
+      "mention": "pathological dependence of benzodiazepine",
+      "label": "DISO"
+    },
+    {
+      "start": 769,
+      "end": 794,
+      "mention": "benzodiazepine dependence",
+      "label": "DISO"
+    },
+    {
+      "start": 1349,
+      "end": 1359,
+      "mention": "phenazepam",
+      "label": "CHEM"
+    },
+    {
+      "start": 769,
+      "end": 783,
+      "mention": "benzodiazepine",
+      "label": "CHEM"
+    },
+    {
+      "start": 987,
+      "end": 1013,
+      "mention": "somatic/autonomic symptoms",
+      "label": "DISO"
+    },
+    {
+      "start": 252,
+      "end": 262,
+      "mention": "anxiolytic",
+      "label": "CHEM"
+    }
+  ]
+}

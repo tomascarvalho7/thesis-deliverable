@@ -1,0 +1,203 @@
+{
+  "text": "[A clinical-electroneuromyographic study of the efficacy of ipidacrine in patients with mononeuropathies]. OBJECTIVE To evaluate the efficacy and tolerability of axamon (ipidacrine) therapy in patients with focal neuropathies--mononeuropathies.  MATERIAL AND METHODS We examined 35 patients, aged 18 years and older, with focal neuropathies (tunnel syndromes, radiculopathies).  In the main group (n=20) axamon (ipidacrine) was prescribed in addition to the basic (standard) therapy (group B vitamins, lipoic acid) during 6 week, in the control group (n=15) patients remained only on the basic (standard) treatment. RESULTS In the main group positive clinical changes were accompanied by the more significant positive electroneuromyographic (ENMG) dynamics as compared to the control group (the increased amplitude of M-response in the muscles of the hand and feet; increased nerve conduction velocity in the peripheral nerves as a manifestation of remyelination activity, and others).  CONCLUSION The obtained clinical and ENMG data indicate that axamon (ipidacrine) is a unique cholinesterase inhibitor with conduction action primarily targeting on efferent (motor) fibers of the peripheral nerves. ",
+  "entities": [
+    {
+      "start": 162,
+      "end": 168,
+      "mention": "axamon",
+      "label": "CHEM"
+    },
+    {
+      "start": 404,
+      "end": 410,
+      "mention": "axamon",
+      "label": "CHEM"
+    },
+    {
+      "start": 60,
+      "end": 70,
+      "mention": "ipidacrine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1151,
+      "end": 1174,
+      "mention": "efferent (motor) fibers",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 360,
+      "end": 375,
+      "mention": "radiculopathies",
+      "label": "DISO"
+    },
+    {
+      "start": 1095,
+      "end": 1104,
+      "mention": "inhibitor",
+      "label": "CHEM"
+    },
+    {
+      "start": 836,
+      "end": 843,
+      "mention": "muscles",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 328,
+      "end": 340,
+      "mention": "neuropathies",
+      "label": "DISO"
+    },
+    {
+      "start": 1048,
+      "end": 1054,
+      "mention": "axamon",
+      "label": "CHEM"
+    },
+    {
+      "start": 213,
+      "end": 225,
+      "mention": "neuropathies",
+      "label": "DISO"
+    },
+    {
+      "start": 412,
+      "end": 422,
+      "mention": "ipidacrine",
+      "label": "CHEM"
+    },
+    {
+      "start": 909,
+      "end": 926,
+      "mention": "peripheral nerves",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1182,
+      "end": 1199,
+      "mention": "peripheral nerves",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 88,
+      "end": 104,
+      "mention": "mononeuropathies",
+      "label": "DISO"
+    },
+    {
+      "start": 1056,
+      "end": 1066,
+      "mention": "ipidacrine",
+      "label": "CHEM"
+    },
+    {
+      "start": 322,
+      "end": 340,
+      "mention": "focal neuropathies",
+      "label": "DISO"
+    },
+    {
+      "start": 342,
+      "end": 358,
+      "mention": "tunnel syndromes",
+      "label": "DISO"
+    },
+    {
+      "start": 1080,
+      "end": 1094,
+      "mention": "cholinesterase",
+      "label": "CHEM"
+    },
+    {
+      "start": 1080,
+      "end": 1127,
+      "mention": "cholinesterase inhibitor with conduction action",
+      "label": "CHEM"
+    },
+    {
+      "start": 860,
+      "end": 864,
+      "mention": "feet",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1193,
+      "end": 1199,
+      "mention": "nerves",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 920,
+      "end": 926,
+      "mention": "nerves",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 851,
+      "end": 855,
+      "mention": "hand",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 492,
+      "end": 500,
+      "mention": "vitamins",
+      "label": "CHEM"
+    },
+    {
+      "start": 1168,
+      "end": 1174,
+      "mention": "fibers",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 170,
+      "end": 180,
+      "mention": "ipidacrine",
+      "label": "CHEM"
+    },
+    {
+      "start": 207,
+      "end": 225,
+      "mention": "focal neuropathies",
+      "label": "DISO"
+    },
+    {
+      "start": 509,
+      "end": 513,
+      "mention": "acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 1080,
+      "end": 1103,
+      "mention": "cholinesterase inhibito",
+      "label": "CHEM"
+    },
+    {
+      "start": 502,
+      "end": 513,
+      "mention": "lipoic acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 484,
+      "end": 500,
+      "mention": "group B vitamins",
+      "label": "CHEM"
+    },
+    {
+      "start": 227,
+      "end": 243,
+      "mention": "mononeuropathies",
+      "label": "DISO"
+    },
+    {
+      "start": 876,
+      "end": 881,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    }
+  ]
+}

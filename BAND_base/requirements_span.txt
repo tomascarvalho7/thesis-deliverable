@@ -1,0 +1,15 @@
+datasets
+evaluate
+transformers
+torch
+accelerate
+seqeval
+setuptools
+wheel
+notebook==5.7.8
+allennlp
+huggingface-hub==0.26.2
+# Optional dependencies
+numpy                   # Required for numerical operations
+pandas                  # For data manipulation
+spacy                   # For tokenization, etc.

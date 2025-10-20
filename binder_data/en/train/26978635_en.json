@@ -1,0 +1,545 @@
+{
+  "text": "[Internal carotid artery dissection as a cause of severe ischemic stroke with lethal outcome].  We present a medical history of a 30-year old male patient with fatal ischemic stroke, resulting from the right internal carotid artery (ICA) dissection provoked by repeated head tilts and verified by magnetic resonance imaging and pathomorphological examination. At admission, the high level of creatine phosphokinase (5284 un/ml, normal level<171) in the blood was found, the coagulation parameters were normal. Autopsy revealed intramural hematoma (IMH), which was located between the media and adventitia of the arterial wall, began at 3 cm above the common carotid artery bifurcation and extended to the base of the skull.  The lumen of the ICA at the level of the IMG and intracranial parts as well as of the middle cerebral artery was occluded by the thrombus. The histological examination of the right ICA wall found splitting, thinning, fragmentation, disrupters of internal elastic membrane, severe media fibrosis, myocyte necrosis at the site of the dissection with the surrounding leukocyte infiltration, as well as lymphocytic infiltrates, clusters of eosinophils in adventitia. Similar changes, except myocyte necrosis, were also found in intact (non-dissected) brain supplying arteries. In general, they were similar to those in fibromuscular dysplasia (FMD). Histochemical and electron microscopic studies of skeletal muscles showed signs of mitochondrial cytopathy. The authors discuss the relationship between the dissection, FMD and mitochondrial pathology. ",
+  "entities": [
+    {
+      "start": 811,
+      "end": 833,
+      "mention": "middle cerebral artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1272,
+      "end": 1277,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 225,
+      "end": 231,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1288,
+      "end": 1296,
+      "mention": "arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 854,
+      "end": 862,
+      "mention": "thrombus",
+      "label": "DISO"
+    },
+    {
+      "start": 25,
+      "end": 35,
+      "mention": "dissection",
+      "label": "DISO"
+    },
+    {
+      "start": 1528,
+      "end": 1538,
+      "mention": "dissection",
+      "label": "DISO"
+    },
+    {
+      "start": 1430,
+      "end": 1437,
+      "mention": "muscles",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 932,
+      "end": 940,
+      "mention": "thinning",
+      "label": "DISO"
+    },
+    {
+      "start": 1057,
+      "end": 1067,
+      "mention": "dissection",
+      "label": "DISO"
+    },
+    {
+      "start": 1176,
+      "end": 1186,
+      "mention": "adventitia",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1005,
+      "end": 1019,
+      "mention": "media fibrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 57,
+      "end": 72,
+      "mention": "ischemic stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 1,
+      "end": 35,
+      "mention": "Internal carotid artery dissection",
+      "label": "DISO"
+    },
+    {
+      "start": 651,
+      "end": 672,
+      "mention": "common carotid artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 50,
+      "end": 72,
+      "mention": "severe ischemic stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 18,
+      "end": 24,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 766,
+      "end": 769,
+      "mention": "IMG",
+      "label": "DISO"
+    },
+    {
+      "start": 651,
+      "end": 684,
+      "mention": "common carotid artery bifurcation",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1212,
+      "end": 1228,
+      "mention": "myocyte necrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1021,
+      "end": 1037,
+      "mention": "myocyte necrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 774,
+      "end": 786,
+      "mention": "intracranial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 705,
+      "end": 722,
+      "mention": "base of the skull",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 774,
+      "end": 792,
+      "mention": "intracranial parts",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1272,
+      "end": 1296,
+      "mention": "brain supplying arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1005,
+      "end": 1010,
+      "mention": "media",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1340,
+      "end": 1363,
+      "mention": "fibromuscular dysplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 666,
+      "end": 672,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 827,
+      "end": 833,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1540,
+      "end": 1543,
+      "mention": "FMD",
+      "label": "DISO"
+    },
+    {
+      "start": 238,
+      "end": 248,
+      "mention": "dissection",
+      "label": "DISO"
+    },
+    {
+      "start": 10,
+      "end": 24,
+      "mention": "carotid artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1089,
+      "end": 1111,
+      "mention": "leukocyte infiltration",
+      "label": "DISO"
+    },
+    {
+      "start": 957,
+      "end": 996,
+      "mention": "disrupters of internal elastic membrane",
+      "label": "DISO"
+    },
+    {
+      "start": 1220,
+      "end": 1228,
+      "mention": "necrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 818,
+      "end": 833,
+      "mention": "cerebral artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1029,
+      "end": 1037,
+      "mention": "necrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 612,
+      "end": 620,
+      "mention": "arterial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 998,
+      "end": 1019,
+      "mention": "severe media fibrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1468,
+      "end": 1477,
+      "mention": "cytopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 717,
+      "end": 722,
+      "mention": "skull",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 538,
+      "end": 546,
+      "mention": "hematoma",
+      "label": "DISO"
+    },
+    {
+      "start": 729,
+      "end": 745,
+      "mention": "lumen of the ICA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 612,
+      "end": 625,
+      "mention": "arterial wall",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 988,
+      "end": 996,
+      "mention": "membrane",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 942,
+      "end": 955,
+      "mention": "fragmentation",
+      "label": "DISO"
+    },
+    {
+      "start": 1212,
+      "end": 1219,
+      "mention": "myocyte",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1021,
+      "end": 1028,
+      "mention": "myocyte",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 270,
+      "end": 274,
+      "mention": "head",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 900,
+      "end": 914,
+      "mention": "right ICA wall",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 527,
+      "end": 546,
+      "mention": "intramural hematoma",
+      "label": "DISO"
+    },
+    {
+      "start": 1124,
+      "end": 1147,
+      "mention": "lymphocytic infiltrates",
+      "label": "DISO"
+    },
+    {
+      "start": 1354,
+      "end": 1363,
+      "mention": "dysplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 1454,
+      "end": 1477,
+      "mention": "mitochondrial cytopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 673,
+      "end": 684,
+      "mention": "bifurcation",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 453,
+      "end": 458,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1548,
+      "end": 1561,
+      "mention": "mitochondrial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1454,
+      "end": 1467,
+      "mention": "mitochondrial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1011,
+      "end": 1019,
+      "mention": "fibrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 10,
+      "end": 35,
+      "mention": "carotid artery dissection",
+      "label": "DISO"
+    },
+    {
+      "start": 1548,
+      "end": 1571,
+      "mention": "mitochondrial pathology",
+      "label": "DISO"
+    },
+    {
+      "start": 166,
+      "end": 174,
+      "mention": "ischemic",
+      "label": "DISO"
+    },
+    {
+      "start": 166,
+      "end": 181,
+      "mention": "ischemic stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 971,
+      "end": 996,
+      "mention": "internal elastic membrane",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 202,
+      "end": 231,
+      "mention": "right internal carotid artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 900,
+      "end": 909,
+      "mention": "right ICA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1,
+      "end": 24,
+      "mention": "Internal carotid artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 906,
+      "end": 909,
+      "mention": "ICA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 57,
+      "end": 65,
+      "mention": "ischemic",
+      "label": "DISO"
+    },
+    {
+      "start": 1421,
+      "end": 1429,
+      "mention": "skeletal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 175,
+      "end": 181,
+      "mention": "stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 66,
+      "end": 72,
+      "mention": "stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 1161,
+      "end": 1172,
+      "mention": "eosinophils",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 208,
+      "end": 231,
+      "mention": "internal carotid artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 980,
+      "end": 996,
+      "mention": "elastic membrane",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 594,
+      "end": 626,
+      "mention": "adventitia of the arterial wall,",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 233,
+      "end": 236,
+      "mention": "ICA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 742,
+      "end": 745,
+      "mention": "ICA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 584,
+      "end": 589,
+      "mention": "media of the arterial wall,",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 605,
+      "end": 626,
+      "mention": "media of the arterial wall,",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 217,
+      "end": 231,
+      "mention": "carotid artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 658,
+      "end": 672,
+      "mention": "carotid artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 921,
+      "end": 930,
+      "mention": "splitting",
+      "label": "DISO"
+    },
+    {
+      "start": 1365,
+      "end": 1368,
+      "mention": "FMD",
+      "label": "DISO"
+    },
+    {
+      "start": 1421,
+      "end": 1437,
+      "mention": "skeletal muscles",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 548,
+      "end": 551,
+      "mention": "IMH",
+      "label": "DISO"
+    },
+    {
+      "start": 392,
+      "end": 414,
+      "mention": "creatine phosphokinase",
+      "label": "CHEM"
+    },
+    {
+      "start": 217,
+      "end": 224,
+      "mention": "carotid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1124,
+      "end": 1135,
+      "mention": "lymphocytic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1089,
+      "end": 1098,
+      "mention": "leukocyte",
+      "label": "ANATOMY"
+    }
+  ]
+}

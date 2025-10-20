@@ -1,0 +1,365 @@
+{
+  "text": "OBJECTIVE  To study anterior eye segment toxicity of variously diluted brand name and generic antibiotic and antifungal drugs, including domestically produced generics (Moxifloxacin, asketin cefuroxime, amikacin, gentamicin, Diflucan, and amphotericin B), experimentally injected into the anterior chamber. MATERIAL AND METHODS A total of 13 Chinchilla rabbits were included in the experiment.  Group 1 (6 rabbits) received sterile intracameral injections of 0.2 ml antibiotics and antifungals in concentrations suitable for intravenous administration (Moxifloxacin 1.6 mg/ml, Diflucan 2 mg/ml, and the following generics: asketin cefuroxime 125 mg/ml, amikacin 50 mg/ml, gentamicin 40 mg/ml, amphotericin B 50 mg/m). BSS was injected into the fellow eye for control.  Group 2 (7 rabbits) also received sterile intracameral injections of 0.2 ml antibiotics and antifungals, which were the same as for group 1 but highly diluted (Moxifloxacin 150 μg/ml and 500 μg/ml, Diflucan 10 μg/ml, asketin cefuroxime 1 mg/ml, gentamicin 200 μg/ml, amikacin 400 μg/ml, amphotericin B 10 μg/ml). RESULTS There were no toxic effects in group 1 after BSS and Moxifloxacin 1.6 mg/ml injections into the anterior chamber. However, high concentrations of other antibiotic and antifungal drugs were associated with changes in the corneal endothelium of various severity (from cytoplasmic swelling of the endothelial cells to their complete desquamation), as well as fibrin exudation in the posterior chamber.  In group 2 neither of injected drugs caused toxic, allergic, or inflammatory reactions according to histopathological examination. CONCLUSION The experiment proved safety of the intracameral route of administration for highly diluted medications from the list and also demonstrated the absence of toxic reaction after intracameral injection of Moxifloxacin 1.6 mg/ml. ",
+  "entities": [
+    {
+      "start": 109,
+      "end": 125,
+      "mention": "antifungal drugs",
+      "label": "CHEM"
+    },
+    {
+      "start": 1310,
+      "end": 1329,
+      "mention": "corneal endothelium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 159,
+      "end": 167,
+      "mention": "generics",
+      "label": "CHEM"
+    },
+    {
+      "start": 1470,
+      "end": 1487,
+      "mention": "posterior chamber",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 191,
+      "end": 201,
+      "mention": "cefuroxime",
+      "label": "CHEM"
+    },
+    {
+      "start": 994,
+      "end": 1004,
+      "mention": "cefuroxime",
+      "label": "CHEM"
+    },
+    {
+      "start": 1384,
+      "end": 1401,
+      "mention": "endothelial cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1453,
+      "end": 1462,
+      "mention": "exudation",
+      "label": "DISO"
+    },
+    {
+      "start": 1709,
+      "end": 1735,
+      "mention": "highly diluted medications",
+      "label": "CHEM"
+    },
+    {
+      "start": 86,
+      "end": 93,
+      "mention": "generic",
+      "label": "CHEM"
+    },
+    {
+      "start": 183,
+      "end": 201,
+      "mention": "asketin cefuroxime",
+      "label": "CHEM"
+    },
+    {
+      "start": 289,
+      "end": 305,
+      "mention": "anterior chamber",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1186,
+      "end": 1202,
+      "mention": "anterior chamber",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 613,
+      "end": 621,
+      "mention": "generics",
+      "label": "CHEM"
+    },
+    {
+      "start": 623,
+      "end": 630,
+      "mention": "asketin",
+      "label": "CHEM"
+    },
+    {
+      "start": 986,
+      "end": 993,
+      "mention": "asketin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1384,
+      "end": 1395,
+      "mention": "endothelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1396,
+      "end": 1401,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1318,
+      "end": 1329,
+      "mention": "endothelium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1420,
+      "end": 1432,
+      "mention": "desquamation",
+      "label": "DISO"
+    },
+    {
+      "start": 29,
+      "end": 32,
+      "mention": "eye",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 751,
+      "end": 754,
+      "mention": "eye",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1368,
+      "end": 1376,
+      "mention": "swelling",
+      "label": "DISO"
+    },
+    {
+      "start": 861,
+      "end": 872,
+      "mention": "antifungals",
+      "label": "CHEM"
+    },
+    {
+      "start": 986,
+      "end": 1004,
+      "mention": "asketin cefuroxime",
+      "label": "CHEM"
+    },
+    {
+      "start": 482,
+      "end": 493,
+      "mention": "antifungals",
+      "label": "CHEM"
+    },
+    {
+      "start": 1257,
+      "end": 1273,
+      "mention": "antifungal drugs",
+      "label": "CHEM"
+    },
+    {
+      "start": 20,
+      "end": 40,
+      "mention": "anterior eye segment",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1310,
+      "end": 1317,
+      "mention": "corneal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 631,
+      "end": 641,
+      "mention": "cefuroxime",
+      "label": "CHEM"
+    },
+    {
+      "start": 845,
+      "end": 856,
+      "mention": "antibiotics",
+      "label": "CHEM"
+    },
+    {
+      "start": 1834,
+      "end": 1846,
+      "mention": "Moxifloxacin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1242,
+      "end": 1252,
+      "mention": "antibiotic",
+      "label": "CHEM"
+    },
+    {
+      "start": 929,
+      "end": 941,
+      "mention": "Moxifloxacin",
+      "label": "CHEM"
+    },
+    {
+      "start": 553,
+      "end": 565,
+      "mention": "Moxifloxacin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1036,
+      "end": 1044,
+      "mention": "amikacin",
+      "label": "CHEM"
+    },
+    {
+      "start": 203,
+      "end": 211,
+      "mention": "amikacin",
+      "label": "CHEM"
+    },
+    {
+      "start": 653,
+      "end": 661,
+      "mention": "amikacin",
+      "label": "CHEM"
+    },
+    {
+      "start": 693,
+      "end": 707,
+      "mention": "amphotericin B",
+      "label": "CHEM"
+    },
+    {
+      "start": 1135,
+      "end": 1138,
+      "mention": "BSS",
+      "label": "CHEM"
+    },
+    {
+      "start": 718,
+      "end": 721,
+      "mention": "BSS",
+      "label": "CHEM"
+    },
+    {
+      "start": 239,
+      "end": 253,
+      "mention": "amphotericin B",
+      "label": "CHEM"
+    },
+    {
+      "start": 1056,
+      "end": 1070,
+      "mention": "amphotericin B",
+      "label": "CHEM"
+    },
+    {
+      "start": 577,
+      "end": 585,
+      "mention": "Diflucan",
+      "label": "CHEM"
+    },
+    {
+      "start": 225,
+      "end": 233,
+      "mention": "Diflucan",
+      "label": "CHEM"
+    },
+    {
+      "start": 967,
+      "end": 975,
+      "mention": "Diflucan",
+      "label": "CHEM"
+    },
+    {
+      "start": 1541,
+      "end": 1549,
+      "mention": "allergic",
+      "label": "DISO"
+    },
+    {
+      "start": 1356,
+      "end": 1367,
+      "mention": "cytoplasmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1143,
+      "end": 1155,
+      "mention": "Moxifloxacin",
+      "label": "CHEM"
+    },
+    {
+      "start": 744,
+      "end": 754,
+      "mention": "fellow eye",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 169,
+      "end": 181,
+      "mention": "Moxifloxacin",
+      "label": "CHEM"
+    },
+    {
+      "start": 183,
+      "end": 190,
+      "mention": "asketin",
+      "label": "CHEM"
+    },
+    {
+      "start": 623,
+      "end": 641,
+      "mention": "asketin cefuroxime",
+      "label": "CHEM"
+    },
+    {
+      "start": 1014,
+      "end": 1024,
+      "mention": "gentamicin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1446,
+      "end": 1462,
+      "mention": "fibrin exudation",
+      "label": "DISO"
+    },
+    {
+      "start": 1554,
+      "end": 1566,
+      "mention": "inflammatory",
+      "label": "DISO"
+    },
+    {
+      "start": 466,
+      "end": 477,
+      "mention": "antibiotics",
+      "label": "CHEM"
+    },
+    {
+      "start": 213,
+      "end": 223,
+      "mention": "gentamicin",
+      "label": "CHEM"
+    },
+    {
+      "start": 672,
+      "end": 682,
+      "mention": "gentamicin",
+      "label": "CHEM"
+    },
+    {
+      "start": 94,
+      "end": 104,
+      "mention": "antibiotic",
+      "label": "CHEM"
+    }
+  ]
+}

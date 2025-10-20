@@ -1,0 +1,299 @@
+{
+  "text": "[The possibilities for determining the passenger position inside the car passenger compartment based on the injuries to the extremities estimated with the use of the sequential mathematical analysis].  \nThe objective of the present study was to determine the diagnostic coefficients (DC) of injuries to the upper and lower extremities of the passengers inside the car passenger compartment based on the analysis of 599 archival expert documents available from 45 regional state bureaus of forensic medical examination of the Russian federation for the period from 1995 till 2014. \nThese materials included the data obtained by the examination of 200 corpses and 300 live persons involved in the traffic accidents.  \nThe statistical and mathematical treatment of these materials with the use the sequential analysis method based on the Byes and Wald formulas yielded the diagnostic coefficients that made it possible to identify the most important signs characterizing the risk of injuries for the passenger occupying the front seat of the vehicle. \nIn the case of the lethal outcome, such injuries include fractures of the right femur (DC -8.9), bleeding (DC -7.1), wounds in the soft tissues of the right thigh (DC -5.0) with the injurious force applied to its anterior surface, bruises on the posterior surface of the right shoulder (DC -6.2), the right deltoid region (DC -5.9), and the posterior surface of the right forearm (DC -5.5), fractures of the right humerus (DC -5.), etc. \nWhen both the driver and the passengers survive, the most informative signs in the latter are bleeding and scratches (DC -14.5 and 11.5 respectively) in the soft tissues at the posterior surface of the right shoulder, fractures of the right humerus (DC -10.0), bruises on the anterior surface of the right thigh (DC -13.0), the posterior surface of the right forearm (DC -10.0) and the fontal region of the right lower leg (DC -10.0), bleeding in the posterior region of the right forearm (DC -9.0) and the anterior region of the left thigh (DC -8.6), fractures of the right femur (DG -8.1), etc. \nIt is concluded that the knowledge of diagnostic coefficients helps to draw attention of the experts to the analysis of the above morphological signs for the objective determination of the passenger position inside the car passenger compartment during traffic accidents and thereby to improve the quality of expert conclusions and the results of forensic medical examination of the injuries inflicted in car crashes. \n",
+  "entities": [
+    {
+      "start": 1185,
+      "end": 1192,
+      "mention": "tissues",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1664,
+      "end": 1703,
+      "mention": "posterior surface of the right shoulder",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1722,
+      "end": 1735,
+      "mention": "right humerus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1457,
+      "end": 1470,
+      "mention": "right humerus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1994,
+      "end": 2027,
+      "mention": "anterior region of the left thigh",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1390,
+      "end": 1428,
+      "mention": "posterior surface of the right forearm",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1763,
+      "end": 1798,
+      "mention": "anterior surface of the right thigh",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1968,
+      "end": 1975,
+      "mention": "forearm",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1262,
+      "end": 1278,
+      "mention": "anterior surface",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1815,
+      "end": 1853,
+      "mention": "posterior surface of the right forearm",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1728,
+      "end": 1735,
+      "mention": "humerus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1846,
+      "end": 1853,
+      "mention": "forearm",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1695,
+      "end": 1703,
+      "mention": "shoulder",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1938,
+      "end": 1975,
+      "mention": "posterior region of the right forearm",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 317,
+      "end": 334,
+      "mention": "lower extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 650,
+      "end": 657,
+      "mention": "corpses",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1356,
+      "end": 1370,
+      "mention": "deltoid region",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2062,
+      "end": 2067,
+      "mention": "femur",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1649,
+      "end": 1656,
+      "mention": "tissues",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1123,
+      "end": 1134,
+      "mention": "right femur",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1206,
+      "end": 1211,
+      "mention": "thigh",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1894,
+      "end": 1909,
+      "mention": "right lower leg",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1129,
+      "end": 1134,
+      "mention": "femur",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 124,
+      "end": 135,
+      "mention": "extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2022,
+      "end": 2027,
+      "mention": "thigh",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2017,
+      "end": 2027,
+      "mention": "left thigh",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1793,
+      "end": 1798,
+      "mention": "thigh",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1787,
+      "end": 1798,
+      "mention": "right thigh",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1200,
+      "end": 1211,
+      "mention": "right thigh",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1962,
+      "end": 1975,
+      "mention": "right forearm",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1463,
+      "end": 1470,
+      "mention": "humerus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1840,
+      "end": 1853,
+      "mention": "right forearm",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1415,
+      "end": 1428,
+      "mention": "right forearm",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2056,
+      "end": 2067,
+      "mention": "right femur",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1689,
+      "end": 1703,
+      "mention": "right shoulder",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1320,
+      "end": 1334,
+      "mention": "right shoulder",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1326,
+      "end": 1334,
+      "mention": "shoulder",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1295,
+      "end": 1334,
+      "mention": "posterior surface of the right shoulder",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1873,
+      "end": 1909,
+      "mention": "fontal region of the right lower leg",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1906,
+      "end": 1909,
+      "mention": "leg",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 307,
+      "end": 312,
+      "mention": "upper extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 323,
+      "end": 334,
+      "mention": "upper extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 323,
+      "end": 334,
+      "mention": "extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1421,
+      "end": 1428,
+      "mention": "forearm",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 307,
+      "end": 334,
+      "mention": "upper and lower extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1644,
+      "end": 1656,
+      "mention": "soft tissues",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1900,
+      "end": 1909,
+      "mention": "lower leg",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1350,
+      "end": 1370,
+      "mention": "right deltoid region",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1180,
+      "end": 1192,
+      "mention": "soft tissues",
+      "label": "ANATOMY"
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "text": "[Ophthalmologic manifestation of granulomatosis with polyangiitis (Wegener's granulomatosis)].  Granulomatosis with polyangiitis (GPA), formerly earlier known as Wegener's granulomatosis, is primary system necrotizing vasculitis of small and medium-sized vessels, which is characterized by the formation of foci of granulomatous inflammation. One of the target organs in GPA is the organ of vision.  Its affection may not only reduce quality of life, but also may lead to the severest complications even to fatal outcome. The affection varies in severity from slight inflammation of the ocular superficial structures to severe involvement of all orbital and ocular structures to develop complete blindness, including bilateral one.  GPA can affect any portion of the organ of vision. The changes are low specific, which makes early diagnosis and timely adequate therapy difficult. Overall all ophthalmologic manifestations can be divide into 4 groups: 1) lesions of the orbit and appendages; 2) those of the conjunctiva and fibrous tunic of the eyeball: 3) those of the retina: 4) those of the optic nerve. Orbital affection is characterized by the development of granulomas, dacryoadenitis with marked inflammatory infiltration of the surrounding tissues, including oculomotor muscles, and destruction of orbital bony walls. Nonspecific conjunctivitis and episcleritis are commonly encountered. Affection of the fibrous tunic of the eyeball is characterized by the development of necrotizing scleritis, peripheral ulcerative or stromal keratitis. The retina is rarely involved and mainly described as sporadic cases in the literature. The optic nerve is most commonly damaged due to the compression of the orbit by inflamed tissue; the lesion is more infrequently ischemic. ",
+  "entities": [
+    {
+      "start": 1306,
+      "end": 1313,
+      "mention": "orbital",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1045,
+      "end": 1053,
+      "mention": "eyeball:",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1434,
+      "end": 1441,
+      "mention": "eyeball",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 696,
+      "end": 705,
+      "mention": "blindness bilateral",
+      "label": "DISO"
+    },
+    {
+      "start": 717,
+      "end": 726,
+      "mention": "blindness bilateral",
+      "label": "DISO"
+    },
+    {
+      "start": 1291,
+      "end": 1324,
+      "mention": "destruction of orbital bony walls",
+      "label": "DISO"
+    },
+    {
+      "start": 1164,
+      "end": 1174,
+      "mention": "granulomas",
+      "label": "DISO"
+    },
+    {
+      "start": 485,
+      "end": 498,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 1413,
+      "end": 1426,
+      "mention": "fibrous tunic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1552,
+      "end": 1558,
+      "mention": "retina",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 315,
+      "end": 341,
+      "mention": "granulomatous inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 1070,
+      "end": 1076,
+      "mention": "retina",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 696,
+      "end": 705,
+      "mention": "blindness",
+      "label": "DISO"
+    },
+    {
+      "start": 1396,
+      "end": 1441,
+      "mention": "Affection of the fibrous tunic of the eyeball",
+      "label": "DISO"
+    },
+    {
+      "start": 1024,
+      "end": 1037,
+      "mention": "fibrous tunic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1248,
+      "end": 1255,
+      "mention": "tissues",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1314,
+      "end": 1318,
+      "mention": "bony",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1725,
+      "end": 1731,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1515,
+      "end": 1525,
+      "mention": "ulcerative",
+      "label": "DISO"
+    },
+    {
+      "start": 218,
+      "end": 228,
+      "mention": "vasculitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1493,
+      "end": 1502,
+      "mention": "scleritis",
+      "label": "DISO"
+    },
+    {
+      "start": 1529,
+      "end": 1546,
+      "mention": "stromal keratitis",
+      "label": "DISO"
+    },
+    {
+      "start": 206,
+      "end": 228,
+      "mention": "necrotizing vasculitis",
+      "label": "DISO"
+    },
+    {
+      "start": 33,
+      "end": 47,
+      "mention": "granulomatosis",
+      "label": "DISO"
+    },
+    {
+      "start": 970,
+      "end": 975,
+      "mention": "orbit",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1107,
+      "end": 1124,
+      "mention": "Orbital affection",
+      "label": "DISO"
+    },
+    {
+      "start": 955,
+      "end": 990,
+      "mention": "lesions of the orbit and appendages",
+      "label": "DISO"
+    },
+    {
+      "start": 1100,
+      "end": 1105,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1008,
+      "end": 1019,
+      "mention": "conjunctiva",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1107,
+      "end": 1114,
+      "mention": "Orbital",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 980,
+      "end": 990,
+      "mention": "appendages",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 687,
+      "end": 705,
+      "mention": "complete blindness",
+      "label": "DISO"
+    },
+    {
+      "start": 587,
+      "end": 616,
+      "mention": "ocular superficial structures",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 315,
+      "end": 328,
+      "mention": "granulomatous",
+      "label": "DISO"
+    },
+    {
+      "start": 646,
+      "end": 653,
+      "mention": "orbital",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1094,
+      "end": 1105,
+      "mention": "optic nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1640,
+      "end": 1651,
+      "mention": "optic nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1267,
+      "end": 1285,
+      "mention": "oculomotor muscles",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 96,
+      "end": 110,
+      "mention": "Granulomatosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1481,
+      "end": 1502,
+      "mention": "necrotizing scleritis",
+      "label": "DISO"
+    },
+    {
+      "start": 1504,
+      "end": 1525,
+      "mention": "peripheral ulcerative keratitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1537,
+      "end": 1546,
+      "mention": "peripheral ulcerative keratitis",
+      "label": "DISO"
+    },
+    {
+      "start": 172,
+      "end": 186,
+      "mention": "granulomatosis",
+      "label": "DISO"
+    },
+    {
+      "start": 77,
+      "end": 91,
+      "mention": "granulomatosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1707,
+      "end": 1712,
+      "mention": "orbit",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1481,
+      "end": 1492,
+      "mention": "necrotizing",
+      "label": "DISO"
+    },
+    {
+      "start": 658,
+      "end": 664,
+      "mention": "ocular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 361,
+      "end": 367,
+      "mention": "organs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 767,
+      "end": 772,
+      "mention": "organ",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 382,
+      "end": 387,
+      "mention": "organ",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1765,
+      "end": 1773,
+      "mention": "ischemic",
+      "label": "DISO"
+    },
+    {
+      "start": 53,
+      "end": 65,
+      "mention": "polyangiitis",
+      "label": "DISO"
+    },
+    {
+      "start": 955,
+      "end": 962,
+      "mention": "lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 116,
+      "end": 128,
+      "mention": "polyangiitis",
+      "label": "DISO"
+    },
+    {
+      "start": 329,
+      "end": 341,
+      "mention": "inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 232,
+      "end": 262,
+      "mention": "small and medium-sized vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 567,
+      "end": 579,
+      "mention": "inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 1306,
+      "end": 1324,
+      "mention": "orbital bony walls",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 567,
+      "end": 616,
+      "mention": "inflammation of the ocular superficial structures",
+      "label": "DISO"
+    },
+    {
+      "start": 1716,
+      "end": 1724,
+      "mention": "inflamed",
+      "label": "DISO"
+    },
+    {
+      "start": 1203,
+      "end": 1215,
+      "mention": "inflammatory",
+      "label": "DISO"
+    },
+    {
+      "start": 1338,
+      "end": 1352,
+      "mention": "conjunctivitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1688,
+      "end": 1699,
+      "mention": "compression",
+      "label": "DISO"
+    },
+    {
+      "start": 1357,
+      "end": 1369,
+      "mention": "episcleritis",
+      "label": "DISO"
+    },
+    {
+      "start": 767,
+      "end": 782,
+      "mention": "organ of vision",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 587,
+      "end": 593,
+      "mention": "ocular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1024,
+      "end": 1052,
+      "mention": "fibrous tunic of the eyeball",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 206,
+      "end": 217,
+      "mention": "necrotizing",
+      "label": "DISO"
+    },
+    {
+      "start": 1529,
+      "end": 1536,
+      "mention": "stromal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1646,
+      "end": 1651,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1203,
+      "end": 1228,
+      "mention": "inflammatory infiltration",
+      "label": "DISO"
+    },
+    {
+      "start": 162,
+      "end": 186,
+      "mention": "Wegener's granulomatosis",
+      "label": "DISO"
+    },
+    {
+      "start": 96,
+      "end": 128,
+      "mention": "Granulomatosis with polyangiitis",
+      "label": "DISO"
+    },
+    {
+      "start": 371,
+      "end": 374,
+      "mention": "GPA",
+      "label": "DISO"
+    },
+    {
+      "start": 1176,
+      "end": 1190,
+      "mention": "dacryoadenitis",
+      "label": "DISO"
+    },
+    {
+      "start": 33,
+      "end": 65,
+      "mention": "granulomatosis with polyangiitis",
+      "label": "DISO"
+    },
+    {
+      "start": 733,
+      "end": 736,
+      "mention": "GPA",
+      "label": "DISO"
+    },
+    {
+      "start": 130,
+      "end": 133,
+      "mention": "GPA",
+      "label": "DISO"
+    },
+    {
+      "start": 1688,
+      "end": 1712,
+      "mention": "compression of the orbit",
+      "label": "DISO"
+    },
+    {
+      "start": 191,
+      "end": 228,
+      "mention": "primary system necrotizing vasculitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1537,
+      "end": 1546,
+      "mention": "keratitis",
+      "label": "DISO"
+    },
+    {
+      "start": 255,
+      "end": 262,
+      "mention": "vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 382,
+      "end": 397,
+      "mention": "organ of vision",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1278,
+      "end": 1285,
+      "mention": "muscles",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 67,
+      "end": 91,
+      "mention": "Wegener's granulomatosis",
+      "label": "DISO"
+    }
+  ]
+}

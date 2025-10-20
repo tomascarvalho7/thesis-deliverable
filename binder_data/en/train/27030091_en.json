@@ -1,0 +1,281 @@
+{
+  "text": "[Characteristic of the fractures of the cervical, thoracic and lumbar vertebrae in the victims of a traffic accident found in the passenger compartment of a modern motor vehicle]. The objective of the present work was to study peculiar features of the injuries to three spinal regions in the victims of a head-on car collision found in the passenger compartments of modern motor vehicles equipped with seat belts and other safety means.  It was shown that most frequent fatal injuries to the driver include the fractures of the cervical, thoracic, and lumbar vertebrae. These injuries are much less frequent in the passengers occupying the front and the right back seats.  The multilayer and multiple character of the fractures in different parts of the spinal column in the car drivers is attributable to more pronounced spine flexion and extension associated with injuries of this kind. The fractures of the lower cervical vertebrae in the front seat passengers occur more frequently than injuries of a different type whereas the passengers of the back seats most frequently experience fractures of the upper cervical vertebrae. The passengers of the left back seat less frequently suffer from injuries to the thoracic spine than from the fractures of the cervical and lumbar vertebrae.  The passengers of the central back seat most frequently experience fractures of the thoracic part of the vertebral column and the passengers occupying the right back seat fractures of the lumbar vertebrae. ",
+  "entities": [
+    {
+      "start": 528,
+      "end": 536,
+      "mention": "cervical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1258,
+      "end": 1266,
+      "mention": "cervical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 754,
+      "end": 767,
+      "mention": "spinal column",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1271,
+      "end": 1277,
+      "mention": "lumbar",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 916,
+      "end": 924,
+      "mention": "cervical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1111,
+      "end": 1119,
+      "mention": "cervical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 63,
+      "end": 69,
+      "mention": "lumbar",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 916,
+      "end": 934,
+      "mention": "cervical vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 552,
+      "end": 558,
+      "mention": "lumbar",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1478,
+      "end": 1484,
+      "mention": "lumbar",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 270,
+      "end": 276,
+      "mention": "spinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1395,
+      "end": 1404,
+      "mention": "vertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1212,
+      "end": 1226,
+      "mention": "thoracic spine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 754,
+      "end": 760,
+      "mention": "spinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 270,
+      "end": 284,
+      "mention": "spinal regions",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 40,
+      "end": 48,
+      "mention": "cervical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 70,
+      "end": 79,
+      "mention": "vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 40,
+      "end": 48,
+      "mention": "cervical vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 70,
+      "end": 79,
+      "mention": "cervical vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1395,
+      "end": 1411,
+      "mention": "vertebral column",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1478,
+      "end": 1494,
+      "mention": "lumbar vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 552,
+      "end": 568,
+      "mention": "lumbar vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 910,
+      "end": 934,
+      "mention": "lower cervical vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 528,
+      "end": 536,
+      "mention": "cervical vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 559,
+      "end": 568,
+      "mention": "cervical vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1105,
+      "end": 1129,
+      "mention": "upper cervical vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1120,
+      "end": 1129,
+      "mention": "vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1221,
+      "end": 1226,
+      "mention": "spine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 50,
+      "end": 58,
+      "mention": "thoracic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1212,
+      "end": 1220,
+      "mention": "thoracic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 538,
+      "end": 546,
+      "mention": "thoracic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 50,
+      "end": 58,
+      "mention": "thoracic vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 70,
+      "end": 79,
+      "mention": "thoracic vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1374,
+      "end": 1387,
+      "mention": "thoracic part",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1271,
+      "end": 1287,
+      "mention": "lumbar vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1111,
+      "end": 1129,
+      "mention": "cervical vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 63,
+      "end": 79,
+      "mention": "lumbar vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1278,
+      "end": 1287,
+      "mention": "vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 822,
+      "end": 827,
+      "mention": "spine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 559,
+      "end": 568,
+      "mention": "vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 925,
+      "end": 934,
+      "mention": "vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1258,
+      "end": 1266,
+      "mention": "cervical vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1278,
+      "end": 1287,
+      "mention": "cervical vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 538,
+      "end": 546,
+      "mention": "thoracic vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 559,
+      "end": 568,
+      "mention": "thoracic vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1485,
+      "end": 1494,
+      "mention": "vertebrae",
+      "label": "ANATOMY"
+    }
+  ]
+}

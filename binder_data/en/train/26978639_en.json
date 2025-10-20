@@ -1,0 +1,251 @@
+{
+  "text": "[The lipid profile and psychometric assessments in patients with psychosomatic illnesses and chronic cerebral ischemia].  OBJECTIVE To explore the correlations between plasma cholesterol and triglyceride levels and psychometric assessments in patients with psychosomatic illnesses and chronic cerebral ischemia (CCI).  MATERIAL AND METHODS One hundred and ten patients (51% women, 49% men), aged from 46 to 76 years (mean 65.1 years) with CCI were examined.  The study included cholesterol and triglyceride tests and a battery of tests for assessment of cognitive functions and neurotization level. RESULTS Cholesterol levels were higher in patients with post-infarct cardiosclerosis (PICS) compared to the comparison group but did not differ from those of patients with peptic ulcer disease (PUD).  Triglyceride levels were high in both psychosomatic groups, with higher levels in the patients with PICS compared to the patients with PUD. Plasma cholesterol and triglyceride levels were not correlated with assessments of cognitive functions in patients of different age.  CONCLUSION Cognitive impairment and higher level of neurotization were characteristic of patients with psychosomatic illnesses.  Regression analysis has demonstrated that plasma cholesterol and triglyceride levels may be a prognostic factor for cognitive impairment. ",
+  "entities": [
+    {
+      "start": 293,
+      "end": 310,
+      "mention": "cerebral ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 285,
+      "end": 310,
+      "mention": "chronic cerebral ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 312,
+      "end": 315,
+      "mention": "CCI",
+      "label": "DISO"
+    },
+    {
+      "start": 93,
+      "end": 118,
+      "mention": "chronic cerebral ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 947,
+      "end": 958,
+      "mention": "cholesterol",
+      "label": "CHEM"
+    },
+    {
+      "start": 478,
+      "end": 489,
+      "mention": "cholesterol",
+      "label": "CHEM"
+    },
+    {
+      "start": 175,
+      "end": 186,
+      "mention": "cholesterol",
+      "label": "CHEM"
+    },
+    {
+      "start": 1252,
+      "end": 1263,
+      "mention": "cholesterol",
+      "label": "CHEM"
+    },
+    {
+      "start": 607,
+      "end": 618,
+      "mention": "Cholesterol",
+      "label": "CHEM"
+    },
+    {
+      "start": 793,
+      "end": 796,
+      "mention": "PUD",
+      "label": "DISO"
+    },
+    {
+      "start": 935,
+      "end": 938,
+      "mention": "PUD",
+      "label": "DISO"
+    },
+    {
+      "start": 1126,
+      "end": 1139,
+      "mention": "neurotization",
+      "label": "DISO"
+    },
+    {
+      "start": 578,
+      "end": 591,
+      "mention": "neurotization",
+      "label": "DISO"
+    },
+    {
+      "start": 439,
+      "end": 442,
+      "mention": "CCI",
+      "label": "DISO"
+    },
+    {
+      "start": 101,
+      "end": 118,
+      "mention": "cerebral ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 778,
+      "end": 791,
+      "mention": "ulcer disease",
+      "label": "DISO"
+    },
+    {
+      "start": 655,
+      "end": 683,
+      "mention": "post-infarct cardiosclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 494,
+      "end": 506,
+      "mention": "triglyceride",
+      "label": "CHEM"
+    },
+    {
+      "start": 800,
+      "end": 812,
+      "mention": "Triglyceride",
+      "label": "CHEM"
+    },
+    {
+      "start": 191,
+      "end": 203,
+      "mention": "triglyceride",
+      "label": "CHEM"
+    },
+    {
+      "start": 668,
+      "end": 683,
+      "mention": "cardiosclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1177,
+      "end": 1200,
+      "mention": "psychosomatic illnesses",
+      "label": "DISO"
+    },
+    {
+      "start": 838,
+      "end": 851,
+      "mention": "psychosomatic",
+      "label": "DISO"
+    },
+    {
+      "start": 65,
+      "end": 88,
+      "mention": "psychosomatic illnesses",
+      "label": "DISO"
+    },
+    {
+      "start": 257,
+      "end": 280,
+      "mention": "psychosomatic illnesses",
+      "label": "DISO"
+    },
+    {
+      "start": 771,
+      "end": 791,
+      "mention": "peptic ulcer disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1245,
+      "end": 1251,
+      "mention": "plasma",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 168,
+      "end": 174,
+      "mention": "plasma",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 940,
+      "end": 946,
+      "mention": "Plasma",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 5,
+      "end": 10,
+      "mention": "lipid",
+      "label": "CHEM"
+    },
+    {
+      "start": 1319,
+      "end": 1339,
+      "mention": "cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 1085,
+      "end": 1105,
+      "mention": "Cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 302,
+      "end": 310,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 110,
+      "end": 118,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 963,
+      "end": 975,
+      "mention": "triglyceride",
+      "label": "CHEM"
+    },
+    {
+      "start": 1268,
+      "end": 1280,
+      "mention": "triglyceride",
+      "label": "CHEM"
+    },
+    {
+      "start": 660,
+      "end": 667,
+      "mention": "infarct",
+      "label": "DISO"
+    },
+    {
+      "start": 101,
+      "end": 109,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 900,
+      "end": 904,
+      "mention": "PICS",
+      "label": "DISO"
+    },
+    {
+      "start": 293,
+      "end": 301,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 685,
+      "end": 689,
+      "mention": "PICS",
+      "label": "DISO"
+    }
+  ]
+}

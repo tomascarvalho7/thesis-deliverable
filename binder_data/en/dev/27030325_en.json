@@ -1,0 +1,461 @@
+{
+  "text": "[Nebulized budesonide in the treatment of exacerbations of chronic obstructive pulmonary disease: Efficacy, safety, and effects on the serum levels of soluble differentiation molecules]. AIM To investigate the efficacy and safety of nebulized budesonide and systemic glucocorticosteroids (GCS) (SGCS) in the treatment of an exacerbation of chronic obstructive pulmonary disease (COPD) and their effects on the serum concentration of soluble leukocyte differentiation antigens.  MATERIALS AND METHODS Seventy-eight hospitalized patients with an acute exacerbation of COPD were randomized into two groups: 1) 37 patients took nebulized budesonide 4 mg/day; 2) 41 patients received intravenous prednisolone.  The symptoms of COPD, forced expiratory volume in one second (FEV1) and other spirometric indicators, peripheral blood oxygen saturation (SpO2), and adverse events were studied. The serum levels of the soluble adhesion molecules CD50 (sCD50) and CD54 (sCD54) and the lymphocyte activation molecules CD38 (sCD38) and CD25 (sCD25) were investigated by an enzyme immunoassay. RESULTS There was a significant resolution of the symptoms of COPD, FEV1, and SpO2 in both groups after treatment. The incidence of hyperglycemia episodes was lower in the budesonide group than in the sGCS group. GCSs caused a decrease in the serum level of soluble interleukin-2 receptor (sCD25) in both groups. A prednisolone cycle, unlike a budesonide one, was found to reduce the concentrations of sCD54, sCD50, and sCD38. CONCLUSION Nebulized budesonide is an effective and safe alternative to SGCS in treating an exacerbation of COPD. Inhaled GCSs, unlike SGCSs, exhibit anti-inflammatory activity, but exert no immunosuppressive activity. ",
+  "entities": [
+    {
+      "start": 544,
+      "end": 570,
+      "mention": "acute exacerbation of COPD",
+      "label": "DISO"
+    },
+    {
+      "start": 1337,
+      "end": 1367,
+      "mention": "soluble interleukin-2 receptor",
+      "label": "CHEM"
+    },
+    {
+      "start": 1369,
+      "end": 1374,
+      "mention": "sCD25",
+      "label": "CHEM"
+    },
+    {
+      "start": 1028,
+      "end": 1033,
+      "mention": "sCD25",
+      "label": "CHEM"
+    },
+    {
+      "start": 348,
+      "end": 377,
+      "mention": "obstructive pulmonary disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1292,
+      "end": 1296,
+      "mention": "GCSs",
+      "label": "CHEM"
+    },
+    {
+      "start": 289,
+      "end": 292,
+      "mention": "GCS",
+      "label": "CHEM"
+    },
+    {
+      "start": 1,
+      "end": 21,
+      "mention": "Nebulized budesonide",
+      "label": "CHEM"
+    },
+    {
+      "start": 941,
+      "end": 946,
+      "mention": "sCD50",
+      "label": "CHEM"
+    },
+    {
+      "start": 1488,
+      "end": 1493,
+      "mention": "sCD50",
+      "label": "CHEM"
+    },
+    {
+      "start": 1359,
+      "end": 1367,
+      "mention": "receptor",
+      "label": "CHEM"
+    },
+    {
+      "start": 67,
+      "end": 96,
+      "mention": "obstructive pulmonary disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1628,
+      "end": 1632,
+      "mention": "GCSs",
+      "label": "CHEM"
+    },
+    {
+      "start": 1059,
+      "end": 1065,
+      "mention": "enzyme",
+      "label": "CHEM"
+    },
+    {
+      "start": 1598,
+      "end": 1618,
+      "mention": "exacerbation of COPD",
+      "label": "DISO"
+    },
+    {
+      "start": 550,
+      "end": 570,
+      "mention": "exacerbation of COPD",
+      "label": "DISO"
+    },
+    {
+      "start": 1499,
+      "end": 1504,
+      "mention": "sCD38",
+      "label": "CHEM"
+    },
+    {
+      "start": 1011,
+      "end": 1016,
+      "mention": "sCD38",
+      "label": "CHEM"
+    },
+    {
+      "start": 1005,
+      "end": 1009,
+      "mention": "CD38",
+      "label": "CHEM"
+    },
+    {
+      "start": 151,
+      "end": 184,
+      "mention": "soluble differentiation molecules",
+      "label": "CHEM"
+    },
+    {
+      "start": 467,
+      "end": 475,
+      "mention": "antigens",
+      "label": "CHEM"
+    },
+    {
+      "start": 295,
+      "end": 299,
+      "mention": "SGCS",
+      "label": "CHEM"
+    },
+    {
+      "start": 1280,
+      "end": 1284,
+      "mention": "sGCS",
+      "label": "CHEM"
+    },
+    {
+      "start": 1578,
+      "end": 1582,
+      "mention": "SGCS",
+      "label": "CHEM"
+    },
+    {
+      "start": 258,
+      "end": 287,
+      "mention": "systemic glucocorticosteroids",
+      "label": "CHEM"
+    },
+    {
+      "start": 1641,
+      "end": 1646,
+      "mention": "SGCSs",
+      "label": "CHEM"
+    },
+    {
+      "start": 441,
+      "end": 475,
+      "mention": "leukocyte differentiation antigens",
+      "label": "CHEM"
+    },
+    {
+      "start": 855,
+      "end": 869,
+      "mention": "adverse events",
+      "label": "DISO"
+    },
+    {
+      "start": 544,
+      "end": 562,
+      "mention": "acute exacerbation",
+      "label": "DISO"
+    },
+    {
+      "start": 324,
+      "end": 377,
+      "mention": "exacerbation of chronic obstructive pulmonary disease",
+      "label": "DISO"
+    },
+    {
+      "start": 42,
+      "end": 96,
+      "mention": "exacerbations of chronic obstructive pulmonary disease",
+      "label": "DISO"
+    },
+    {
+      "start": 267,
+      "end": 287,
+      "mention": "glucocorticosteroids",
+      "label": "CHEM"
+    },
+    {
+      "start": 819,
+      "end": 824,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 550,
+      "end": 562,
+      "mention": "exacerbation",
+      "label": "DISO"
+    },
+    {
+      "start": 958,
+      "end": 963,
+      "mention": "sCD54",
+      "label": "CHEM"
+    },
+    {
+      "start": 722,
+      "end": 726,
+      "mention": "COPD",
+      "label": "DISO"
+    },
+    {
+      "start": 1423,
+      "end": 1433,
+      "mention": "budesonide",
+      "label": "CHEM"
+    },
+    {
+      "start": 1251,
+      "end": 1261,
+      "mention": "budesonide",
+      "label": "CHEM"
+    },
+    {
+      "start": 379,
+      "end": 383,
+      "mention": "COPD",
+      "label": "DISO"
+    },
+    {
+      "start": 566,
+      "end": 570,
+      "mention": "COPD",
+      "label": "DISO"
+    },
+    {
+      "start": 59,
+      "end": 96,
+      "mention": "chronic obstructive pulmonary disease",
+      "label": "DISO"
+    },
+    {
+      "start": 340,
+      "end": 377,
+      "mention": "chronic obstructive pulmonary disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1141,
+      "end": 1145,
+      "mention": "COPD",
+      "label": "DISO"
+    },
+    {
+      "start": 1614,
+      "end": 1618,
+      "mention": "COPD",
+      "label": "DISO"
+    },
+    {
+      "start": 973,
+      "end": 983,
+      "mention": "lymphocyte",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 634,
+      "end": 644,
+      "mention": "budesonide",
+      "label": "CHEM"
+    },
+    {
+      "start": 11,
+      "end": 21,
+      "mention": "budesonide",
+      "label": "CHEM"
+    },
+    {
+      "start": 1345,
+      "end": 1367,
+      "mention": "interleukin-2 receptor",
+      "label": "CHEM"
+    },
+    {
+      "start": 691,
+      "end": 703,
+      "mention": "prednisolone",
+      "label": "CHEM"
+    },
+    {
+      "start": 1394,
+      "end": 1406,
+      "mention": "prednisolone",
+      "label": "CHEM"
+    },
+    {
+      "start": 1022,
+      "end": 1026,
+      "mention": "CD25",
+      "label": "CHEM"
+    },
+    {
+      "start": 916,
+      "end": 934,
+      "mention": "adhesion molecules",
+      "label": "CHEM"
+    },
+    {
+      "start": 79,
+      "end": 96,
+      "mention": "pulmonary disease",
+      "label": "DISO"
+    },
+    {
+      "start": 360,
+      "end": 377,
+      "mention": "pulmonary disease",
+      "label": "DISO"
+    },
+    {
+      "start": 79,
+      "end": 88,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 360,
+      "end": 369,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1211,
+      "end": 1224,
+      "mention": "hyperglycemia",
+      "label": "DISO"
+    },
+    {
+      "start": 1322,
+      "end": 1327,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 135,
+      "end": 140,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 42,
+      "end": 55,
+      "mention": "exacerbations",
+      "label": "DISO"
+    },
+    {
+      "start": 324,
+      "end": 336,
+      "mention": "exacerbation",
+      "label": "DISO"
+    },
+    {
+      "start": 1598,
+      "end": 1610,
+      "mention": "exacerbation",
+      "label": "DISO"
+    },
+    {
+      "start": 825,
+      "end": 831,
+      "mention": "oxygen",
+      "label": "CHEM"
+    },
+    {
+      "start": 410,
+      "end": 415,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1481,
+      "end": 1486,
+      "mention": "sCD54",
+      "label": "CHEM"
+    },
+    {
+      "start": 888,
+      "end": 893,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 973,
+      "end": 1004,
+      "mention": "lymphocyte activation molecules",
+      "label": "CHEM"
+    },
+    {
+      "start": 1345,
+      "end": 1358,
+      "mention": "interleukin-2",
+      "label": "CHEM"
+    },
+    {
+      "start": 1345,
+      "end": 1356,
+      "mention": "interleukin",
+      "label": "CHEM"
+    },
+    {
+      "start": 441,
+      "end": 450,
+      "mention": "leukocyte",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 935,
+      "end": 939,
+      "mention": "CD50",
+      "label": "CHEM"
+    },
+    {
+      "start": 952,
+      "end": 956,
+      "mention": "CD54",
+      "label": "CHEM"
+    },
+    {
+      "start": 1527,
+      "end": 1537,
+      "mention": "budesonide",
+      "label": "CHEM"
+    },
+    {
+      "start": 243,
+      "end": 253,
+      "mention": "budesonide",
+      "label": "CHEM"
+    },
+    {
+      "start": 808,
+      "end": 824,
+      "mention": "peripheral blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 175,
+      "end": 184,
+      "mention": "molecules",
+      "label": "CHEM"
+    }
+  ]
+}

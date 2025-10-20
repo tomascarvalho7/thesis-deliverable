@@ -1,0 +1,119 @@
+{
+  "text": "[Actual respiratory technologies in thoracic surgery: traditional problems and innovative solutions].  The problem of efficient gas exchange maintenance is always actual in anesthetic management of thoracic surgery and determines the selection of appropriate method of anesthesia. The article presents an experience of anesthesia during operations on lungs, trachea, bronchi and mediastinal structures performed from 1963 to 2015.  Current concept of safety and efficacy of anesthetic management in thoracic surgery is presented. The role of actual current respiratory technologies and methods of anesthesia per se to maximize the efficiency of gas exchange in all stages of thoracicsurgery is emphasized. Absolute coherence of anesthesiologist and surgeon based on correct interaction is the most important condition of successful surgery.  Effectiveness of special respiratory technologies for thoracic surgery associated with one-lung ventilation and prolonged wide dissection of airways is described. The research results and pathophysiological rationale for the use of special respiratory technologies including different variants of differentiated independent lung ventilation especially important for patients with concomitant cardiorespiratory pathology are presented.  We reported experience of effective gas exchange maintenance in reconstructive surgery of trachea and main bronchi including traditional mechanical ventilation with \"shunt-breath\" system, use of jet high-frequency ventilation and relatively new respiratory technology such as flow apnoeic oxygenation. ",
+  "entities": [
+    {
+      "start": 358,
+      "end": 365,
+      "mention": "trachea",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 367,
+      "end": 374,
+      "mention": "bronchi",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1314,
+      "end": 1317,
+      "mention": "gas",
+      "label": "CHEM"
+    },
+    {
+      "start": 983,
+      "end": 990,
+      "mention": "airways",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 128,
+      "end": 131,
+      "mention": "gas",
+      "label": "CHEM"
+    },
+    {
+      "start": 645,
+      "end": 648,
+      "mention": "gas",
+      "label": "CHEM"
+    },
+    {
+      "start": 379,
+      "end": 401,
+      "mention": "mediastinal structures",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1368,
+      "end": 1375,
+      "mention": "trachea",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 351,
+      "end": 356,
+      "mention": "lungs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 499,
+      "end": 507,
+      "mention": "thoracic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 379,
+      "end": 390,
+      "mention": "mediastinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 198,
+      "end": 206,
+      "mention": "thoracic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1166,
+      "end": 1170,
+      "mention": "lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 933,
+      "end": 937,
+      "mention": "lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1385,
+      "end": 1392,
+      "mention": "bronchi",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 896,
+      "end": 904,
+      "mention": "thoracic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 36,
+      "end": 44,
+      "mention": "thoracic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1380,
+      "end": 1392,
+      "mention": "main bronchi",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1234,
+      "end": 1261,
+      "mention": "cardiorespiratory pathology",
+      "label": "DISO"
+    }
+  ]
+}

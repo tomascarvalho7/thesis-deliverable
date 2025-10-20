@@ -1,0 +1,437 @@
+{
+  "text": "[An antinociceptive effect of chondroprotectors: a myth or a reality?]. Authors reviewed the literature on the efficacy of chondroprotectors in the treatment of chronic pain syndromes in comparison with placebo and other analgesics to discover the own antinociceptive effect of these drugs and mechanisms by which it occurs. Authors evaluated the results of various clinical studies on the effect of symptomatic slow-acting drugs for osteoarthritis (SYSADOA) on chronic pain syndrome in osteoarthritis and low back pain.  We compared their effects with those of NSAIDs, celecoxib, or placebo. Assessment of pain and functional status was performed using WOMAC, VASandLeken's index as well as the Roland--Morrisquality of life questionnaire.  The review of a number of clinical studies revealed a definite antinociceptive and anti-inflammatory effect of SYSADOA comparable with NSAIDs not only in the treatment of osteoarthritis, but also in chronic back pain, which is characterized by early onset and gradual development with a long-term retention of the result even after discontinuation of therapy. It has been shown that SYSADOA are able to reduce the level of inflammatory cytokines in the blood (IL-6, C-reactive protein) and to activate the production of anti-inflammatory cytokine IL-10 in the synovial membrane.  It is shown that blocking of the effects of interleukin 1-beta and thereby inhibition of inflammatory enzymes like nitric oxide synthase and cyclooxygenase-2 is one of the points of glucosamine chondrocytes application. The data obtained in numerous studies that confirm the ability of SYSADOA to inhibit proinflammatory cytokines open the new perspectives for their use in the treatment of not only joint pain but also other chronic pain syndromes. ",
+  "entities": [
+    {
+      "start": 1178,
+      "end": 1187,
+      "mention": "cytokines",
+      "label": "CHEM"
+    },
+    {
+      "start": 1289,
+      "end": 1294,
+      "mention": "IL-10",
+      "label": "CHEM"
+    },
+    {
+      "start": 169,
+      "end": 183,
+      "mention": "pain syndromes",
+      "label": "DISO"
+    },
+    {
+      "start": 470,
+      "end": 483,
+      "mention": "pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 1437,
+      "end": 1443,
+      "mention": "nitric",
+      "label": "CHEM"
+    },
+    {
+      "start": 1437,
+      "end": 1449,
+      "mention": "nitric oxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 400,
+      "end": 429,
+      "mention": "symptomatic slow-acting drugs",
+      "label": "CHEM"
+    },
+    {
+      "start": 1202,
+      "end": 1206,
+      "mention": "IL-6",
+      "label": "CHEM"
+    },
+    {
+      "start": 1444,
+      "end": 1449,
+      "mention": "oxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 1756,
+      "end": 1770,
+      "mention": "pain syndromes",
+      "label": "DISO"
+    },
+    {
+      "start": 1463,
+      "end": 1477,
+      "mention": "cyclooxygenase",
+      "label": "CHEM"
+    },
+    {
+      "start": 1748,
+      "end": 1770,
+      "mention": "chronic pain syndromes",
+      "label": "DISO"
+    },
+    {
+      "start": 1463,
+      "end": 1479,
+      "mention": "cyclooxygenase-2",
+      "label": "CHEM"
+    },
+    {
+      "start": 1627,
+      "end": 1652,
+      "mention": "proinflammatory cytokines",
+      "label": "CHEM"
+    },
+    {
+      "start": 1280,
+      "end": 1288,
+      "mention": "cytokine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1302,
+      "end": 1310,
+      "mention": "synovial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 434,
+      "end": 448,
+      "mention": "osteoarthritis",
+      "label": "DISO"
+    },
+    {
+      "start": 1424,
+      "end": 1431,
+      "mention": "enzymes",
+      "label": "CHEM"
+    },
+    {
+      "start": 1195,
+      "end": 1200,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 913,
+      "end": 927,
+      "mention": "osteoarthritis",
+      "label": "DISO"
+    },
+    {
+      "start": 830,
+      "end": 842,
+      "mention": "inflammatory",
+      "label": "DISO"
+    },
+    {
+      "start": 30,
+      "end": 47,
+      "mention": "chondroprotectors",
+      "label": "CHEM"
+    },
+    {
+      "start": 1219,
+      "end": 1226,
+      "mention": "protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 510,
+      "end": 514,
+      "mention": "back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1289,
+      "end": 1291,
+      "mention": "IL",
+      "label": "CHEM"
+    },
+    {
+      "start": 1165,
+      "end": 1177,
+      "mention": "inflammatory",
+      "label": "DISO"
+    },
+    {
+      "start": 949,
+      "end": 953,
+      "mention": "back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 123,
+      "end": 140,
+      "mention": "chondroprotectors",
+      "label": "CHEM"
+    },
+    {
+      "start": 510,
+      "end": 519,
+      "mention": "back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 949,
+      "end": 958,
+      "mention": "back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 487,
+      "end": 501,
+      "mention": "osteoarthritis",
+      "label": "DISO"
+    },
+    {
+      "start": 1450,
+      "end": 1458,
+      "mention": "synthase",
+      "label": "CHEM"
+    },
+    {
+      "start": 1722,
+      "end": 1732,
+      "mention": "joint pain",
+      "label": "DISO"
+    },
+    {
+      "start": 462,
+      "end": 483,
+      "mention": "chronic pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 1366,
+      "end": 1379,
+      "mention": "interleukin 1",
+      "label": "CHEM"
+    },
+    {
+      "start": 1202,
+      "end": 1204,
+      "mention": "IL",
+      "label": "CHEM"
+    },
+    {
+      "start": 161,
+      "end": 183,
+      "mention": "chronic pain syndromes",
+      "label": "DISO"
+    },
+    {
+      "start": 1411,
+      "end": 1423,
+      "mention": "inflammatory",
+      "label": "DISO"
+    },
+    {
+      "start": 1437,
+      "end": 1458,
+      "mention": "nitric oxide synthase",
+      "label": "CHEM"
+    },
+    {
+      "start": 400,
+      "end": 448,
+      "mention": "symptomatic slow-acting drugs for osteoarthritis",
+      "label": "CHEM"
+    },
+    {
+      "start": 450,
+      "end": 457,
+      "mention": "SYSADOA",
+      "label": "CHEM"
+    },
+    {
+      "start": 1366,
+      "end": 1377,
+      "mention": "interleukin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1504,
+      "end": 1515,
+      "mention": "glucosamine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1311,
+      "end": 1319,
+      "mention": "membrane",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1728,
+      "end": 1732,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 506,
+      "end": 514,
+      "mention": "low back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 607,
+      "end": 611,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 515,
+      "end": 519,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 169,
+      "end": 173,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1756,
+      "end": 1760,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 954,
+      "end": 958,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 203,
+      "end": 210,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 584,
+      "end": 591,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 1302,
+      "end": 1319,
+      "mention": "synovial membrane",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 941,
+      "end": 958,
+      "mention": "chronic back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1165,
+      "end": 1187,
+      "mention": "inflammatory cytokines",
+      "label": "CHEM"
+    },
+    {
+      "start": 1643,
+      "end": 1652,
+      "mention": "cytokines",
+      "label": "CHEM"
+    },
+    {
+      "start": 1516,
+      "end": 1528,
+      "mention": "chondrocytes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 470,
+      "end": 474,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 877,
+      "end": 883,
+      "mention": "NSAIDs",
+      "label": "CHEM"
+    },
+    {
+      "start": 221,
+      "end": 231,
+      "mention": "analgesics",
+      "label": "CHEM"
+    },
+    {
+      "start": 506,
+      "end": 519,
+      "mention": "low back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 570,
+      "end": 579,
+      "mention": "celecoxib",
+      "label": "CHEM"
+    },
+    {
+      "start": 1208,
+      "end": 1226,
+      "mention": "C-reactive protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 1411,
+      "end": 1431,
+      "mention": "inflammatory enzymes",
+      "label": "CHEM"
+    },
+    {
+      "start": 1608,
+      "end": 1615,
+      "mention": "SYSADOA",
+      "label": "CHEM"
+    },
+    {
+      "start": 1125,
+      "end": 1132,
+      "mention": "SYSADOA",
+      "label": "CHEM"
+    },
+    {
+      "start": 1722,
+      "end": 1727,
+      "mention": "joint",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 562,
+      "end": 568,
+      "mention": "NSAIDs",
+      "label": "CHEM"
+    },
+    {
+      "start": 1262,
+      "end": 1288,
+      "mention": "anti-inflammatory cytokine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1366,
+      "end": 1384,
+      "mention": "interleukin 1-beta",
+      "label": "CHEM"
+    },
+    {
+      "start": 853,
+      "end": 860,
+      "mention": "SYSADOA",
+      "label": "CHEM"
+    }
+  ]
+}

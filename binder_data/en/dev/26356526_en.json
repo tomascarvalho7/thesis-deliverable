@@ -1,0 +1,371 @@
+{
+  "text": "[Genetic aspects of migraine]. Migraine is a common disease characterized by severe headache with nausea, vomiting and hypersensitivity to sounds, light, smell.  Neurological symptoms during aura period develop in 25% of patients. Genes responsible for migraine development have been identified.  The mutations in familial hemiplegic migraine are better investigated. The serotonin system plays a key role in the migraine pathogenesis.  It was described the syndrome of migraine-like headache occurring due impaired serotonin metabolism in patients with celiac disease. Celiac disease is a chronic polysyndrome disease, enteropathy.  Arteriopathies associated with migraine are cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (syndrome CADASIL), retinal vasculopathy with cerebral leukodystrophy (RVCL), hereditary systemic angiopathy (HSA), mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes (MELAS). ",
+  "entities": [
+    {
+      "start": 797,
+      "end": 809,
+      "mention": "vasculopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 191,
+      "end": 195,
+      "mention": "aura",
+      "label": "DISO"
+    },
+    {
+      "start": 372,
+      "end": 381,
+      "mention": "serotonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 516,
+      "end": 525,
+      "mention": "serotonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 162,
+      "end": 183,
+      "mention": "Neurological symptoms",
+      "label": "DISO"
+    },
+    {
+      "start": 634,
+      "end": 673,
+      "mention": "Arteriopathies associated with migraine",
+      "label": "DISO"
+    },
+    {
+      "start": 84,
+      "end": 92,
+      "mention": "headache",
+      "label": "DISO"
+    },
+    {
+      "start": 964,
+      "end": 969,
+      "mention": "MELAS",
+      "label": "DISO"
+    },
+    {
+      "start": 484,
+      "end": 492,
+      "mention": "headache",
+      "label": "DISO"
+    },
+    {
+      "start": 372,
+      "end": 388,
+      "mention": "serotonin system",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 422,
+      "end": 434,
+      "mention": "pathogenesis",
+      "label": "DISO"
+    },
+    {
+      "start": 620,
+      "end": 631,
+      "mention": "enteropathy",
+      "label": "DISO"
+    },
+    {
+      "start": 119,
+      "end": 159,
+      "mention": "hypersensitivity to sounds, light, smell",
+      "label": "DISO"
+    },
+    {
+      "start": 98,
+      "end": 104,
+      "mention": "nausea",
+      "label": "DISO"
+    },
+    {
+      "start": 789,
+      "end": 838,
+      "mention": "retinal vasculopathy with cerebral leukodystrophy",
+      "label": "DISO"
+    },
+    {
+      "start": 840,
+      "end": 844,
+      "mention": "RVCL",
+      "label": "DISO"
+    },
+    {
+      "start": 323,
+      "end": 342,
+      "mention": "hemiplegic migraine",
+      "label": "DISO"
+    },
+    {
+      "start": 749,
+      "end": 768,
+      "mention": "leukoencephalopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 119,
+      "end": 145,
+      "mention": "hypersensitivity to sounds",
+      "label": "DISO"
+    },
+    {
+      "start": 942,
+      "end": 962,
+      "mention": "stroke-like episodes",
+      "label": "DISO"
+    },
+    {
+      "start": 570,
+      "end": 584,
+      "mention": "Celiac disease",
+      "label": "DISO"
+    },
+    {
+      "start": 554,
+      "end": 568,
+      "mention": "celiac disease",
+      "label": "DISO"
+    },
+    {
+      "start": 724,
+      "end": 744,
+      "mention": "subcortical infarcts",
+      "label": "DISO"
+    },
+    {
+      "start": 885,
+      "end": 898,
+      "mention": "mitochondrial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 678,
+      "end": 768,
+      "mention": "cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 779,
+      "end": 786,
+      "mention": "CADASIL",
+      "label": "DISO"
+    },
+    {
+      "start": 119,
+      "end": 135,
+      "mention": "hypersensitivity",
+      "label": "DISO"
+    },
+    {
+      "start": 678,
+      "end": 718,
+      "mention": "cerebral autosomal dominant arteriopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 789,
+      "end": 796,
+      "mention": "retinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 724,
+      "end": 735,
+      "mention": "subcortical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 314,
+      "end": 342,
+      "mention": "familial hemiplegic migraine",
+      "label": "DISO"
+    },
+    {
+      "start": 867,
+      "end": 877,
+      "mention": "angiopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 706,
+      "end": 718,
+      "mention": "arteriopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 847,
+      "end": 877,
+      "mention": "hereditary systemic angiopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 678,
+      "end": 686,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 77,
+      "end": 92,
+      "mention": "severe headache",
+      "label": "DISO"
+    },
+    {
+      "start": 736,
+      "end": 744,
+      "mention": "infarcts",
+      "label": "DISO"
+    },
+    {
+      "start": 598,
+      "end": 618,
+      "mention": "polysyndrome disease",
+      "label": "DISO"
+    },
+    {
+      "start": 507,
+      "end": 536,
+      "mention": "impaired serotonin metabolism",
+      "label": "DISO"
+    },
+    {
+      "start": 899,
+      "end": 916,
+      "mention": "encephalomyopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 942,
+      "end": 948,
+      "mention": "stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 922,
+      "end": 937,
+      "mention": "lactic acidosis",
+      "label": "DISO"
+    },
+    {
+      "start": 590,
+      "end": 618,
+      "mention": "chronic polysyndrome disease",
+      "label": "DISO"
+    },
+    {
+      "start": 929,
+      "end": 937,
+      "mention": "acidosis",
+      "label": "DISO"
+    },
+    {
+      "start": 815,
+      "end": 838,
+      "mention": "cerebral leukodystrophy",
+      "label": "DISO"
+    },
+    {
+      "start": 31,
+      "end": 39,
+      "mention": "Migraine",
+      "label": "DISO"
+    },
+    {
+      "start": 413,
+      "end": 421,
+      "mention": "migraine",
+      "label": "DISO"
+    },
+    {
+      "start": 20,
+      "end": 28,
+      "mention": "migraine",
+      "label": "DISO"
+    },
+    {
+      "start": 665,
+      "end": 673,
+      "mention": "migraine",
+      "label": "DISO"
+    },
+    {
+      "start": 253,
+      "end": 261,
+      "mention": "migraine",
+      "label": "DISO"
+    },
+    {
+      "start": 470,
+      "end": 478,
+      "mention": "migraine",
+      "label": "DISO"
+    },
+    {
+      "start": 470,
+      "end": 492,
+      "mention": "migraine-like headache",
+      "label": "DISO"
+    },
+    {
+      "start": 334,
+      "end": 342,
+      "mention": "migraine",
+      "label": "DISO"
+    },
+    {
+      "start": 789,
+      "end": 809,
+      "mention": "retinal vasculopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 885,
+      "end": 916,
+      "mention": "mitochondrial encephalomyopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 815,
+      "end": 823,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 922,
+      "end": 928,
+      "mention": "lactic",
+      "label": "CHEM"
+    },
+    {
+      "start": 885,
+      "end": 962,
+      "mention": "mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes",
+      "label": "DISO"
+    },
+    {
+      "start": 879,
+      "end": 882,
+      "mention": "HSA",
+      "label": "DISO"
+    },
+    {
+      "start": 824,
+      "end": 838,
+      "mention": "leukodystrophy",
+      "label": "DISO"
+    },
+    {
+      "start": 106,
+      "end": 114,
+      "mention": "vomiting",
+      "label": "DISO"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "text": "[Impact of preoperative drug therapy on the expression of apoptosis markers in colorectal liver metastases]. AIM to estimate the expression of p53 protein, effector caspases-3 and -7, and the antiapoptotic protein survivin in colorectal adenocarcinoma metastases to the liver in patients who have received preoperative cytotoxic and combined cytotoxic and target anti-VEGF therapies.  SUBJECTS AND METHODS Intraoperative samples from 122 patients with colorectal carcinoma metastases to the liver were immunohistologically examined.  The investigation included patients who had received preoperative treatment with cytotoxic drugs, combined cytotoxic and targeted anti-VEGF therapy. A control group consisted of patients who had not received preoperative anti-tumor drug treatment. RESULTS Expression of Caspase 3, including that of survivin, was significantly more frequently detected in the patients who had received combined cytotoxic and anti-VEGF therapy as compared to both those treated with only cytotoxic agents (p=0.00004) and the control group (p=0.0008) As compared to the latter, the women who had received cytotoxic therapy were found to have no survivin expression (p=0.015).  Investigation of the expression of caspase-7 and p53 revealed no statistically significant differences between the three groups. Addition of bevacizumab to preoperative standard therapy regimens for colorectal adenocarcinoma metastases to the liver leads to activated apoptosis in tumor cells, by enhancing the expression of effector caspase 3.  At the same time, standard cytotoxic chemotherapy regimens in women results in activated apoptosis, by decreasing the expression of the antiapoptotic protein survivin. ",
+  "entities": [
+    {
+      "start": 1004,
+      "end": 1020,
+      "mention": "cytotoxic agents",
+      "label": "CHEM"
+    },
+    {
+      "start": 615,
+      "end": 630,
+      "mention": "cytotoxic drugs",
+      "label": "CHEM"
+    },
+    {
+      "start": 1517,
+      "end": 1535,
+      "mention": "effector caspase 3",
+      "label": "CHEM"
+    },
+    {
+      "start": 156,
+      "end": 175,
+      "mention": "effector caspases-3",
+      "label": "CHEM"
+    },
+    {
+      "start": 452,
+      "end": 462,
+      "mention": "colorectal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1241,
+      "end": 1244,
+      "mention": "p53",
+      "label": "CHEM"
+    },
+    {
+      "start": 1227,
+      "end": 1236,
+      "mention": "caspase-7",
+      "label": "CHEM"
+    },
+    {
+      "start": 804,
+      "end": 813,
+      "mention": "Caspase 3",
+      "label": "CHEM"
+    },
+    {
+      "start": 156,
+      "end": 173,
+      "mention": "effector caspases -7",
+      "label": "CHEM"
+    },
+    {
+      "start": 180,
+      "end": 182,
+      "mention": "effector caspases -7",
+      "label": "CHEM"
+    },
+    {
+      "start": 90,
+      "end": 106,
+      "mention": "liver metastases",
+      "label": "DISO"
+    },
+    {
+      "start": 143,
+      "end": 154,
+      "mention": "p53 protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 143,
+      "end": 146,
+      "mention": "p53",
+      "label": "CHEM"
+    },
+    {
+      "start": 1391,
+      "end": 1401,
+      "mention": "colorectal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 421,
+      "end": 428,
+      "mention": "samples",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 804,
+      "end": 811,
+      "mention": "Caspase",
+      "label": "CHEM"
+    },
+    {
+      "start": 755,
+      "end": 770,
+      "mention": "anti-tumor drug",
+      "label": "CHEM"
+    },
+    {
+      "start": 1473,
+      "end": 1478,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 1473,
+      "end": 1484,
+      "mention": "tumor cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 463,
+      "end": 472,
+      "mention": "carcinoma",
+      "label": "DISO"
+    },
+    {
+      "start": 452,
+      "end": 496,
+      "mention": "colorectal carcinoma metastases to the liver",
+      "label": "DISO"
+    },
+    {
+      "start": 79,
+      "end": 106,
+      "mention": "colorectal liver metastases",
+      "label": "DISO"
+    },
+    {
+      "start": 1391,
+      "end": 1440,
+      "mention": "colorectal adenocarcinoma metastases to the liver",
+      "label": "DISO"
+    },
+    {
+      "start": 226,
+      "end": 275,
+      "mention": "colorectal adenocarcinoma metastases to the liver",
+      "label": "DISO"
+    },
+    {
+      "start": 760,
+      "end": 765,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 473,
+      "end": 483,
+      "mention": "metastases",
+      "label": "DISO"
+    },
+    {
+      "start": 206,
+      "end": 213,
+      "mention": "protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 1417,
+      "end": 1427,
+      "mention": "metastases",
+      "label": "DISO"
+    },
+    {
+      "start": 147,
+      "end": 154,
+      "mention": "protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 252,
+      "end": 262,
+      "mention": "metastases",
+      "label": "DISO"
+    },
+    {
+      "start": 96,
+      "end": 106,
+      "mention": "metastases",
+      "label": "DISO"
+    },
+    {
+      "start": 1479,
+      "end": 1484,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1402,
+      "end": 1416,
+      "mention": "adenocarcinoma",
+      "label": "DISO"
+    },
+    {
+      "start": 237,
+      "end": 251,
+      "mention": "adenocarcinoma",
+      "label": "DISO"
+    },
+    {
+      "start": 270,
+      "end": 275,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1435,
+      "end": 1440,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 90,
+      "end": 95,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 491,
+      "end": 496,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 79,
+      "end": 89,
+      "mention": "colorectal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1688,
+      "end": 1695,
+      "mention": "protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 226,
+      "end": 236,
+      "mention": "colorectal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 452,
+      "end": 472,
+      "mention": "colorectal carcinoma",
+      "label": "DISO"
+    },
+    {
+      "start": 669,
+      "end": 673,
+      "mention": "VEGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 1333,
+      "end": 1344,
+      "mention": "bevacizumab",
+      "label": "CHEM"
+    },
+    {
+      "start": 947,
+      "end": 951,
+      "mention": "VEGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 368,
+      "end": 372,
+      "mention": "VEGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 1160,
+      "end": 1168,
+      "mention": "survivin",
+      "label": "CHEM"
+    },
+    {
+      "start": 833,
+      "end": 841,
+      "mention": "survivin",
+      "label": "CHEM"
+    },
+    {
+      "start": 214,
+      "end": 222,
+      "mention": "survivin",
+      "label": "CHEM"
+    },
+    {
+      "start": 226,
+      "end": 251,
+      "mention": "colorectal adenocarcinoma",
+      "label": "DISO"
+    },
+    {
+      "start": 1391,
+      "end": 1416,
+      "mention": "colorectal adenocarcinoma",
+      "label": "DISO"
+    },
+    {
+      "start": 1696,
+      "end": 1704,
+      "mention": "survivin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1674,
+      "end": 1695,
+      "mention": "antiapoptotic protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 406,
+      "end": 428,
+      "mention": "Intraoperative samples",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1526,
+      "end": 1533,
+      "mention": "caspase",
+      "label": "CHEM"
+    },
+    {
+      "start": 1227,
+      "end": 1234,
+      "mention": "caspase",
+      "label": "CHEM"
+    },
+    {
+      "start": 156,
+      "end": 173,
+      "mention": "effector caspases",
+      "label": "CHEM"
+    },
+    {
+      "start": 1517,
+      "end": 1533,
+      "mention": "effector caspase",
+      "label": "CHEM"
+    },
+    {
+      "start": 165,
+      "end": 173,
+      "mention": "caspases",
+      "label": "CHEM"
+    },
+    {
+      "start": 192,
+      "end": 213,
+      "mention": "antiapoptotic protein",
+      "label": "CHEM"
+    }
+  ]
+}

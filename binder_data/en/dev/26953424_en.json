@@ -1,0 +1,299 @@
+{
+  "text": "[Modern clinical and radiological approach to diagnostics of odontogenic sinusitis].  Inflammatory diseases of the maxillary sinuses affect up to 70% of the adult population. Odontogenic maxillary sinusitis represents 13-86% of the inflammatory processes of maxillofacial area, with the incidence range being explained rather by varying diagnosis criteria than the true incidence difference of odontogenic lesions. The aim of the study was to summarize the clinical and radiological characteristics of odontogenic sinusitis according to patients records in the Department of Maxillofacial Surgery of Omsk Clinical Hospital No11 and the oral surgery department of BUZ GKSP No1 in 2009-2014.  A total of 948 records of patient (aged 17 to 68 years) with maxillary sinusitis were identified. X-ray examinations were performed by CT PISASSO TRIO (\"KoYo\", South Korea) and MSCT Brillians 6 and Brillians 64 ((Philips HealthCare), Netherlands). Images were obtained in axial projection with slice thickness of 0.2-0.6 mm with multiplanar reconstructions (MPR) in a variety of direct and oblique projections. Altogether 664 patients were diagnosed with foreign bodies in the maxillary sinuses (filling material in 569 cases, roots or root fragments? implants, rubber drains, fragments of endodontic instruments in 95 cases). In 284 persons odontogenic cysts were found. Almost every fifth case was complicated by mycotic infection. Analysis of the results showed that only a multidisciplinary approach including dentists, maxillofacial surgeons, otolaryngologists and radiologists, as well as dental volumetric tomography or multislice CT can ensure the correct clinical and radiological approaches to determine the tactics of treatment in patients with sinusitis, reduce the incidence of relapses and chronic inflammatory processes in the maxillary sinuses. ",
+  "entities": [
+    {
+      "start": 1515,
+      "end": 1528,
+      "mention": "maxillofacial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 394,
+      "end": 413,
+      "mention": "odontogenic lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 232,
+      "end": 254,
+      "mention": "inflammatory processes",
+      "label": "DISO"
+    },
+    {
+      "start": 1782,
+      "end": 1790,
+      "mention": "relapses",
+      "label": "DISO"
+    },
+    {
+      "start": 502,
+      "end": 523,
+      "mention": "odontogenic sinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 636,
+      "end": 640,
+      "mention": "oral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 175,
+      "end": 186,
+      "mention": "Odontogenic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1333,
+      "end": 1350,
+      "mention": "odontogenic cysts",
+      "label": "DISO"
+    },
+    {
+      "start": 1146,
+      "end": 1185,
+      "mention": "foreign bodies in the maxillary sinuses",
+      "label": "DISO"
+    },
+    {
+      "start": 1406,
+      "end": 1423,
+      "mention": "mycotic infection",
+      "label": "DISO"
+    },
+    {
+      "start": 1414,
+      "end": 1423,
+      "mention": "infection",
+      "label": "DISO"
+    },
+    {
+      "start": 575,
+      "end": 588,
+      "mention": "Maxillofacial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1281,
+      "end": 1291,
+      "mention": "endodontic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1345,
+      "end": 1350,
+      "mention": "cysts",
+      "label": "DISO"
+    },
+    {
+      "start": 258,
+      "end": 276,
+      "mention": "maxillofacial area",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1406,
+      "end": 1413,
+      "mention": "mycotic",
+      "label": "DISO"
+    },
+    {
+      "start": 1804,
+      "end": 1825,
+      "mention": "nflammatory processes",
+      "label": "DISO"
+    },
+    {
+      "start": 61,
+      "end": 82,
+      "mention": "odontogenic sinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 502,
+      "end": 513,
+      "mention": "odontogenic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1795,
+      "end": 1825,
+      "mention": "chronic inflammatory processes",
+      "label": "DISO"
+    },
+    {
+      "start": 86,
+      "end": 107,
+      "mention": "Inflammatory diseases",
+      "label": "DISO"
+    },
+    {
+      "start": 1833,
+      "end": 1842,
+      "mention": "maxillary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 187,
+      "end": 206,
+      "mention": "maxillary sinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 61,
+      "end": 72,
+      "mention": "odontogenic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 394,
+      "end": 405,
+      "mention": "odontogenic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1333,
+      "end": 1344,
+      "mention": "odontogenic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 752,
+      "end": 771,
+      "mention": "maxillary sinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1168,
+      "end": 1185,
+      "mention": "maxillary sinuses",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1146,
+      "end": 1160,
+      "mention": "foreign bodies",
+      "label": "DISO"
+    },
+    {
+      "start": 115,
+      "end": 132,
+      "mention": "maxillary sinuses",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 187,
+      "end": 196,
+      "mention": "maxillary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1168,
+      "end": 1177,
+      "mention": "maxillary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1747,
+      "end": 1756,
+      "mention": "sinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 115,
+      "end": 124,
+      "mention": "maxillary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 762,
+      "end": 771,
+      "mention": "sinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 406,
+      "end": 413,
+      "mention": "lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 175,
+      "end": 206,
+      "mention": "Odontogenic maxillary sinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 197,
+      "end": 206,
+      "mention": "sinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1253,
+      "end": 1259,
+      "mention": "rubber",
+      "label": "CHEM"
+    },
+    {
+      "start": 1227,
+      "end": 1241,
+      "mention": "root fragments",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 752,
+      "end": 761,
+      "mention": "maxillary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1843,
+      "end": 1850,
+      "mention": "sinuses",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1218,
+      "end": 1223,
+      "mention": "roots",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1833,
+      "end": 1850,
+      "mention": "maxillary sinuses",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 125,
+      "end": 132,
+      "mention": "sinuses",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1178,
+      "end": 1185,
+      "mention": "sinuses",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 73,
+      "end": 82,
+      "mention": "sinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1227,
+      "end": 1231,
+      "mention": "root",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 514,
+      "end": 523,
+      "mention": "sinusitis",
+      "label": "DISO"
+    }
+  ]
+}

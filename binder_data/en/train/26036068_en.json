@@ -1,0 +1,341 @@
+{
+  "text": "The objective of the present study was to detect injuries to the sublungual bone, larynx, and trachea resulting from intubation in the patients including those with the blunt neck trauma and to determine their character and localization.  Another objective was the forensic medical evaluation of these injuries from the standpoint of harm to human health. A total of 80 cases of death from neck injuries were available for the analysis.  These subjects underwent tracheal intubation prior to death that was performed either by an ambulance crew or in a hospital setting. Forty of these patients had the blunt neck trauma inflicted in the preceding period.  It was shown that tracheal intubation leads in 60% of the patients to isolated or combined fractures of the sublingual bone, laryngeal and tracheal cartilages in the form of the injuries to the greater horns of the hyoid bone and the inferior horns of the thyroid cartilage, fissures in the arch of the cricoid cartilage, sometimes cracks and complete fractures of the tracheal cartilages, and breaks of the connections between the hyoid bone body and its greater horns. The scope of the injuries in the neck region is larger and their severity higher when intubation is performed in the patients with the blunt neck trauma compared with the subjects undergoing intubation in the absence of previous external injurious impacts. It is concluded that forensic medical expertise and examination of the corpses of the subjects who had undergone tracheal intubation prior to death coming should include the removal of the entire complex of the neck organs together with the unopened larynx and the cervical portion of the trachea. Differential diagnostics of the injuries inflicted by tracheal intubation following the blunt neck trauma should be performed only by means of the comprehensive assessment of the external defects and the fractures of the constituents of the hyoid-laryngeal-tracheal complex using the graphical and vector methods of analysis. ",
+  "entities": [
+    {
+      "start": 1635,
+      "end": 1641,
+      "mention": "larynx",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1650,
+      "end": 1658,
+      "mention": "cervical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1161,
+      "end": 1172,
+      "mention": "neck region",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1940,
+      "end": 1948,
+      "mention": "tracheal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1089,
+      "end": 1104,
+      "mention": "hyoid bone body",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 851,
+      "end": 882,
+      "mention": "greater horns of the hyoid bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1674,
+      "end": 1681,
+      "mention": "trachea",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 796,
+      "end": 815,
+      "mention": "tracheal cartilages",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1026,
+      "end": 1045,
+      "mention": "tracheal cartilages",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1100,
+      "end": 1104,
+      "mention": "body",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 65,
+      "end": 80,
+      "mention": "sublungual bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 82,
+      "end": 88,
+      "mention": "larynx",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 94,
+      "end": 101,
+      "mention": "trachea",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 891,
+      "end": 930,
+      "mention": "inferior horns of the thyroid cartilage",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1650,
+      "end": 1681,
+      "mention": "cervical portion of the trachea",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1904,
+      "end": 1956,
+      "mention": "constituents of the hyoid-laryngeal-tracheal complex",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1089,
+      "end": 1099,
+      "mention": "hyoid bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 872,
+      "end": 882,
+      "mention": "hyoid bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1924,
+      "end": 1956,
+      "mention": "hyoid-laryngeal-tracheal complex",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 872,
+      "end": 877,
+      "mention": "hyoid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1924,
+      "end": 1929,
+      "mention": "hyoid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1113,
+      "end": 1126,
+      "mention": "greater horns",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 891,
+      "end": 905,
+      "mention": "inferior horns",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 851,
+      "end": 864,
+      "mention": "greater horns",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1095,
+      "end": 1099,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 776,
+      "end": 780,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 913,
+      "end": 930,
+      "mention": "thyroid cartilage",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1596,
+      "end": 1600,
+      "mention": "neck",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 609,
+      "end": 613,
+      "mention": "neck",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 175,
+      "end": 179,
+      "mention": "neck",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1269,
+      "end": 1273,
+      "mention": "neck",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 76,
+      "end": 80,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 390,
+      "end": 394,
+      "mention": "neck",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1161,
+      "end": 1165,
+      "mention": "neck",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 878,
+      "end": 882,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1456,
+      "end": 1463,
+      "mention": "corpses",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1574,
+      "end": 1607,
+      "mention": "entire complex of the neck organs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 948,
+      "end": 977,
+      "mention": "arch of the cricoid cartilage",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1737,
+      "end": 1745,
+      "mention": "tracheal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1777,
+      "end": 1781,
+      "mention": "neck",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 913,
+      "end": 920,
+      "mention": "thyroid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 782,
+      "end": 791,
+      "mention": "laryngeal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1601,
+      "end": 1607,
+      "mention": "organs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 463,
+      "end": 471,
+      "mention": "tracheal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1026,
+      "end": 1034,
+      "mention": "tracheal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 796,
+      "end": 804,
+      "mention": "tracheal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 675,
+      "end": 683,
+      "mention": "tracheal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 765,
+      "end": 780,
+      "mention": "sublingual bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 805,
+      "end": 815,
+      "mention": "cartilages",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1035,
+      "end": 1045,
+      "mention": "cartilages",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1930,
+      "end": 1939,
+      "mention": "laryngeal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1498,
+      "end": 1506,
+      "mention": "tracheal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 960,
+      "end": 977,
+      "mention": "cricoid cartilage",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 968,
+      "end": 977,
+      "mention": "cartilage",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1596,
+      "end": 1607,
+      "mention": "neck organs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 921,
+      "end": 930,
+      "mention": "cartilage",
+      "label": "ANATOMY"
+    }
+  ]
+}

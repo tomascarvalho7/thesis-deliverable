@@ -1,0 +1,329 @@
+{
+  "text": "[Contrast-induced acute kidney injury after primary percutaneous coronary interventions: Prevalence, predictive factors, and outcomes]. AIM  To study the incidence, severity, predictive factors, and prognostic value of contrast-induced acute kidney injury (CIAKI) in patients with ST-segment elevation acute coronary syndrome (STSEACS), who have undergone primary percutaneous coronary intervention (PCI). SUBJECTS AND METHODS The 2012 KDIGO criteria were used to estimate the incidence of CIAKI in 216 patients (mean age, 64 ± 13 years) admitted to Moscow City Clinical Hospital Sixty-Four and underwent primary PCI for STSEACS (hypertension in 90%, prior myocardial infarction in 27%, chronic kidney disease in 7%, type 2 diabetes mellitus in 21%). Logistic regression analysis was performed to identify predictive factors for CIAKI; following 12 months, its prognosis was assessed by phone. RESULTS Forty-three (20%) patients were diagnosed with Stages I (81%) and II (19%) CIAKI. The patients with CIAKI were older; they had higher baseline serum creatinine levels, a higher volume of contrast agent, a higher ratio of contrast medium volume to glomerular filtration rate, and lower left ventricular ejection fraction. Independent predictive factors for CIAKI were identified; these were chronic kidney disease, multivascular injury in the coronary bed, hospital therapy with loop diuretics, nephrotoxic antibiotics, or mineralocorticoid receptor antagonists. CONCLUSION The development of CIAKI is associated with poor outcomes, such as higher 30-day mortality and more frequent cardiovascular disease readmissions. ",
+  "entities": [
+    {
+      "start": 1424,
+      "end": 1450,
+      "mention": "mineralocorticoid receptor",
+      "label": "CHEM"
+    },
+    {
+      "start": 327,
+      "end": 334,
+      "mention": "STSEACS",
+      "label": "DISO"
+    },
+    {
+      "start": 977,
+      "end": 982,
+      "mention": "CIAKI",
+      "label": "DISO"
+    },
+    {
+      "start": 257,
+      "end": 262,
+      "mention": "CIAKI",
+      "label": "DISO"
+    },
+    {
+      "start": 829,
+      "end": 834,
+      "mention": "CIAKI",
+      "label": "DISO"
+    },
+    {
+      "start": 1494,
+      "end": 1499,
+      "mention": "CIAKI",
+      "label": "DISO"
+    },
+    {
+      "start": 1258,
+      "end": 1263,
+      "mention": "CIAKI",
+      "label": "DISO"
+    },
+    {
+      "start": 219,
+      "end": 255,
+      "mention": "contrast-induced acute kidney injury",
+      "label": "DISO"
+    },
+    {
+      "start": 1002,
+      "end": 1007,
+      "mention": "CIAKI",
+      "label": "DISO"
+    },
+    {
+      "start": 695,
+      "end": 709,
+      "mention": "kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 308,
+      "end": 325,
+      "mention": "coronary syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 657,
+      "end": 667,
+      "mention": "myocardial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1192,
+      "end": 1203,
+      "mention": "ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 724,
+      "end": 741,
+      "mention": "diabetes mellitus",
+      "label": "DISO"
+    },
+    {
+      "start": 1045,
+      "end": 1050,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1300,
+      "end": 1306,
+      "mention": "kidney",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 695,
+      "end": 701,
+      "mention": "kidney",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 308,
+      "end": 316,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1,
+      "end": 37,
+      "mention": "Contrast-induced acute kidney injury",
+      "label": "DISO"
+    },
+    {
+      "start": 1396,
+      "end": 1419,
+      "mention": "nephrotoxic antibiotics",
+      "label": "CHEM"
+    },
+    {
+      "start": 717,
+      "end": 741,
+      "mention": "type 2 diabetes mellitus",
+      "label": "DISO"
+    },
+    {
+      "start": 724,
+      "end": 732,
+      "mention": "diabetes",
+      "label": "DISO"
+    },
+    {
+      "start": 1300,
+      "end": 1314,
+      "mention": "kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 490,
+      "end": 495,
+      "mention": "CIAKI",
+      "label": "DISO"
+    },
+    {
+      "start": 242,
+      "end": 248,
+      "mention": "kidney",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1089,
+      "end": 1103,
+      "mention": "contrast agent",
+      "label": "CHEM"
+    },
+    {
+      "start": 1584,
+      "end": 1598,
+      "mention": "cardiovascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 657,
+      "end": 678,
+      "mention": "myocardial infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 630,
+      "end": 642,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 1149,
+      "end": 1159,
+      "mention": "glomerular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 236,
+      "end": 255,
+      "mention": "acute kidney injury",
+      "label": "DISO"
+    },
+    {
+      "start": 18,
+      "end": 37,
+      "mention": "acute kidney injury",
+      "label": "DISO"
+    },
+    {
+      "start": 302,
+      "end": 325,
+      "mention": "acute coronary syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 242,
+      "end": 255,
+      "mention": "kidney injury",
+      "label": "DISO"
+    },
+    {
+      "start": 24,
+      "end": 37,
+      "mention": "kidney injury",
+      "label": "DISO"
+    },
+    {
+      "start": 1380,
+      "end": 1394,
+      "mention": "loop diuretics",
+      "label": "CHEM"
+    },
+    {
+      "start": 1316,
+      "end": 1336,
+      "mention": "multivascular injury",
+      "label": "DISO"
+    },
+    {
+      "start": 1408,
+      "end": 1419,
+      "mention": "antibiotics",
+      "label": "CHEM"
+    },
+    {
+      "start": 1385,
+      "end": 1394,
+      "mention": "diuretics",
+      "label": "CHEM"
+    },
+    {
+      "start": 1584,
+      "end": 1606,
+      "mention": "cardiovascular disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1187,
+      "end": 1203,
+      "mention": "left ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1051,
+      "end": 1061,
+      "mention": "creatinine",
+      "label": "CHEM"
+    },
+    {
+      "start": 668,
+      "end": 678,
+      "mention": "infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 1292,
+      "end": 1314,
+      "mention": "chronic kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "mention": "kidney",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 377,
+      "end": 385,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1123,
+      "end": 1138,
+      "mention": "contrast medium",
+      "label": "CHEM"
+    },
+    {
+      "start": 687,
+      "end": 709,
+      "mention": "chronic kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1344,
+      "end": 1356,
+      "mention": "coronary bed",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 281,
+      "end": 325,
+      "mention": "ST-segment elevation acute coronary syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 65,
+      "end": 73,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1344,
+      "end": 1352,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1424,
+      "end": 1462,
+      "mention": "mineralocorticoid receptor antagonists",
+      "label": "CHEM"
+    },
+    {
+      "start": 621,
+      "end": 628,
+      "mention": "STSEACS",
+      "label": "DISO"
+    }
+  ]
+}

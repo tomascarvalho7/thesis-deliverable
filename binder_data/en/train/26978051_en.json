@@ -1,0 +1,143 @@
+{
+  "text": "[Clinical and therapeutic perspectives of agomelatine (valdoxan) in the treatment of anhedonia in patients with endogenous depressions].  OBJECTIVE To analyze the therapeutic effect of valdoxan on symptoms of anhedonia in patients with endogenous depressions and to develop indications for its use.  MATERIAL AND METHODS Authors examined 30 women, mean age 35,9 years with anhedonic depression (ICD-10 items F31.3-4, F33.1-2, F20.4). Valdoxan was administered in average daily dose from 25.8 to 45.8 mg during 30 days. Patient's status was assessed on 0, 7, 14 and 30th days, using clinical and psychometric (HAMD-21, HADS, SHAPS and UKU scales) methods. The reduction of scores was used as a measure of therapeutic effect designated as «mild», «moderate», «good» and «marked». RESULTS Antianhedonic effect of valdoxan on 30th day was superior to thymoleptic and anxiolytic effects of this drug (91.5 versus 82.2 and 76.9%). The marked effect was identified already on 14th day and enhanced to 30th day. The best effect was seen in depression of moderate severity. Single autonomic side-effects of the treatment were observed. CONCLUSION The course treatment of anhedonic depressions with valdoxan should be considered as preferable and highly effective method that provides a dominative antianhedonic effect in the spectrum of antidepressive properties of the drug. Good and marked effects have been achieved in 96.7% of patients. The intensity and rate of its formation, good tolerability allow to tailor indications of valdoxan basing on the psychopathological characteristics of gedonic disorders. ",
+  "entities": [
+    {
+      "start": 236,
+      "end": 258,
+      "mention": "endogenous depressions",
+      "label": "DISO"
+    },
+    {
+      "start": 373,
+      "end": 393,
+      "mention": "anhedonic depression",
+      "label": "DISO"
+    },
+    {
+      "start": 85,
+      "end": 94,
+      "mention": "anhedonia",
+      "label": "DISO"
+    },
+    {
+      "start": 1172,
+      "end": 1183,
+      "mention": "depressions",
+      "label": "DISO"
+    },
+    {
+      "start": 1189,
+      "end": 1197,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 185,
+      "end": 193,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 810,
+      "end": 818,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 55,
+      "end": 63,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 1032,
+      "end": 1063,
+      "mention": "depression of moderate severity",
+      "label": "DISO"
+    },
+    {
+      "start": 112,
+      "end": 134,
+      "mention": "endogenous depressions",
+      "label": "DISO"
+    },
+    {
+      "start": 1522,
+      "end": 1530,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 123,
+      "end": 134,
+      "mention": "depressions",
+      "label": "DISO"
+    },
+    {
+      "start": 247,
+      "end": 258,
+      "mention": "depressions",
+      "label": "DISO"
+    },
+    {
+      "start": 42,
+      "end": 53,
+      "mention": "agomelatine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1583,
+      "end": 1600,
+      "mention": "gedonic disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 1162,
+      "end": 1183,
+      "mention": "anhedonic depressions",
+      "label": "DISO"
+    },
+    {
+      "start": 1082,
+      "end": 1094,
+      "mention": "side-effects",
+      "label": "DISO"
+    },
+    {
+      "start": 209,
+      "end": 218,
+      "mention": "anhedonia",
+      "label": "DISO"
+    },
+    {
+      "start": 434,
+      "end": 442,
+      "mention": "Valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 1072,
+      "end": 1094,
+      "mention": "autonomic side-effects",
+      "label": "DISO"
+    },
+    {
+      "start": 1545,
+      "end": 1579,
+      "mention": "psychopathological characteristics",
+      "label": "DISO"
+    },
+    {
+      "start": 383,
+      "end": 393,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 1032,
+      "end": 1042,
+      "mention": "depression",
+      "label": "DISO"
+    }
+  ]
+}

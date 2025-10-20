@@ -1,0 +1,149 @@
+{
+  "text": "[Lung-preserving surgical treatment of patients with bronchial carcinoid]. Isolated bronchus resection for central cancer was performed in 25 patients including preoperative bronchoscopic removal of exophytic tumor in 20 (80%) observations in thoracic department of P. Gertsen Moscow Research Cancer Institute. According to morphological study typical carcinoid was diagnosed in 23 (92%) patients, atypical - in 2 (8%) cases.  All patients underwent conventional mediastinal lymphadenectomy. Postoperative complications after bronchus resection developed in 6 (33.3%) patients.  There were no deaths. Overall 5- and 10-year survival was 100% and 96% respectively.  The authors consider that by strict indications combination of endoscopic removal with isolated bronchus resection preserves all pulmonary parenchyma without prejudice for surgical radicalism. ",
+  "entities": [
+    {
+      "start": 115,
+      "end": 121,
+      "mention": "cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 293,
+      "end": 299,
+      "mention": "Cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 84,
+      "end": 92,
+      "mention": "bronchus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 53,
+      "end": 72,
+      "mention": "bronchial carcinoid",
+      "label": "DISO"
+    },
+    {
+      "start": 63,
+      "end": 72,
+      "mention": "carcinoid",
+      "label": "DISO"
+    },
+    {
+      "start": 352,
+      "end": 361,
+      "mention": "carcinoid",
+      "label": "DISO"
+    },
+    {
+      "start": 526,
+      "end": 534,
+      "mention": "bronchus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 53,
+      "end": 62,
+      "mention": "bronchial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 209,
+      "end": 214,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 107,
+      "end": 121,
+      "mention": "central cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 463,
+      "end": 474,
+      "mention": "mediastinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 243,
+      "end": 251,
+      "mention": "thoracic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 352,
+      "end": 361,
+      "mention": "carcinoid atypical",
+      "label": "DISO"
+    },
+    {
+      "start": 398,
+      "end": 406,
+      "mention": "carcinoid atypical",
+      "label": "DISO"
+    },
+    {
+      "start": 794,
+      "end": 803,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 506,
+      "end": 519,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 199,
+      "end": 208,
+      "mention": "exophytic",
+      "label": "DISO"
+    },
+    {
+      "start": 804,
+      "end": 814,
+      "mention": "parenchyma",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 794,
+      "end": 814,
+      "mention": "pulmonary parenchyma",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1,
+      "end": 5,
+      "mention": "Lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 492,
+      "end": 519,
+      "mention": "Postoperative complications",
+      "label": "DISO"
+    },
+    {
+      "start": 761,
+      "end": 769,
+      "mention": "bronchus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 344,
+      "end": 361,
+      "mention": "typical carcinoid",
+      "label": "DISO"
+    },
+    {
+      "start": 199,
+      "end": 214,
+      "mention": "exophytic tumor",
+      "label": "DISO"
+    }
+  ]
+}

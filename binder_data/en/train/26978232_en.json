@@ -1,0 +1,431 @@
+{
+  "text": "AIM  to investigate the specific features of somatostatin receptor expression in the ileal mucosa of patients with inflammatory bowel disease (IBD). MATERIAL AND METHODS Ileal biopsy specimens from 42 patients aged 22 to 55 years, including 16 patients with Crohn's disease (CD), 14 with indeterminate colitis of IBD unclassified (IBDU), and 12 with the unchanged ileal mucosa (a comparison group). Immunohistochemical examination was performed using anti-somatostatin receptor type 2 (SSTR-2) antibodies (Epitomics, USA). SSTR2-positively stained cells were counted per 100 epitheliocytes. RESULTS There were three receptor expression types: predominantly membranous, cytoplasmic, and mixed (membranous-cytoplasmic). Calculation of cells with membranous expression indicated that the median was 1 in the patients with Crohn's disease (interquartile range (IQR) 0.5), 3 in those with IBDU (IQR 2.5), and 2 (IQR 2) in the comparison group. These indicators were 1 (IQR 2), 3 (IQR 2), and 2 (IQR 1) for cytoplasmic expression and 5 (IQR 4), 2 (IQR 3), and 3 (IQR 2) for membranous-cytoplasmic one. CONCLUSION The number of SSTR-2-expressing cells was significantly smaller in the patients with Crohn's disease than that in those with the unchanged mucosa and in those with indeterminate (unclassified) colitis.  There were three SSTR2 staining types: predominantly membranous, cytoplasmic, and mixed (membranous-cytoplasmic). The cells with membranous staining appeared to be neuroendocrine, those with cytoplasmic expression were intraepithelial T lymphocytes, and those with membranous-cytoplasmic expression were both neuroendocrine and epithelial. ",
+  "entities": [
+    {
+      "start": 1410,
+      "end": 1421,
+      "mention": "cytoplasmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1079,
+      "end": 1090,
+      "mention": "cytoplasmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 115,
+      "end": 141,
+      "mention": "inflammatory bowel disease",
+      "label": "DISO"
+    },
+    {
+      "start": 704,
+      "end": 715,
+      "mention": "cytoplasmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 364,
+      "end": 369,
+      "mention": "ileal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 85,
+      "end": 90,
+      "mention": "ileal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 170,
+      "end": 175,
+      "mention": "Ileal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1001,
+      "end": 1012,
+      "mention": "cytoplasmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 45,
+      "end": 57,
+      "mention": "somatostatin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1586,
+      "end": 1597,
+      "mention": "cytoplasmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 128,
+      "end": 141,
+      "mention": "bowel disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1121,
+      "end": 1125,
+      "mention": "SSTR",
+      "label": "CHEM"
+    },
+    {
+      "start": 1121,
+      "end": 1127,
+      "mention": "SSTR-2",
+      "label": "CHEM"
+    },
+    {
+      "start": 1327,
+      "end": 1332,
+      "mention": "SSTR2",
+      "label": "CHEM"
+    },
+    {
+      "start": 456,
+      "end": 484,
+      "mention": "somatostatin receptor type 2",
+      "label": "CHEM"
+    },
+    {
+      "start": 669,
+      "end": 680,
+      "mention": "cytoplasmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 302,
+      "end": 309,
+      "mention": "colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 486,
+      "end": 492,
+      "mention": "SSTR-2",
+      "label": "CHEM"
+    },
+    {
+      "start": 523,
+      "end": 528,
+      "mention": "SSTR2",
+      "label": "CHEM"
+    },
+    {
+      "start": 1300,
+      "end": 1307,
+      "mention": "colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 288,
+      "end": 309,
+      "mention": "indeterminate colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1271,
+      "end": 1307,
+      "mention": "indeterminate (unclassified) colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 128,
+      "end": 133,
+      "mention": "bowel",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1375,
+      "end": 1386,
+      "mention": "cytoplasmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 486,
+      "end": 490,
+      "mention": "SSTR",
+      "label": "CHEM"
+    },
+    {
+      "start": 1501,
+      "end": 1512,
+      "mention": "cytoplasmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 288,
+      "end": 329,
+      "mention": "indeterminate colitis of IBD unclassified",
+      "label": "DISO"
+    },
+    {
+      "start": 143,
+      "end": 146,
+      "mention": "IBD",
+      "label": "DISO"
+    },
+    {
+      "start": 1529,
+      "end": 1544,
+      "mention": "intraepithelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1439,
+      "end": 1449,
+      "mention": "membranous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 657,
+      "end": 667,
+      "mention": "membranous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1363,
+      "end": 1373,
+      "mention": "membranous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1068,
+      "end": 1078,
+      "mention": "membranous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1545,
+      "end": 1558,
+      "mention": "T lymphocytes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 258,
+      "end": 273,
+      "mention": "Crohn's disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1547,
+      "end": 1558,
+      "mention": "lymphocytes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 85,
+      "end": 97,
+      "mention": "ileal mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 364,
+      "end": 376,
+      "mention": "ileal mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 115,
+      "end": 127,
+      "mention": "inflammatory",
+      "label": "DISO"
+    },
+    {
+      "start": 1192,
+      "end": 1207,
+      "mention": "Crohn's disease",
+      "label": "DISO"
+    },
+    {
+      "start": 819,
+      "end": 834,
+      "mention": "Crohn's disease",
+      "label": "DISO"
+    },
+    {
+      "start": 456,
+      "end": 477,
+      "mention": "somatostatin receptor",
+      "label": "CHEM"
+    },
+    {
+      "start": 45,
+      "end": 66,
+      "mention": "somatostatin receptor",
+      "label": "CHEM"
+    },
+    {
+      "start": 1529,
+      "end": 1558,
+      "mention": "intraepithelial T lymphocytes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1428,
+      "end": 1433,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1139,
+      "end": 1144,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 733,
+      "end": 738,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 548,
+      "end": 553,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 313,
+      "end": 329,
+      "mention": "IBD unclassified",
+      "label": "DISO"
+    },
+    {
+      "start": 451,
+      "end": 484,
+      "mention": "anti-somatostatin receptor type 2",
+      "label": "CHEM"
+    },
+    {
+      "start": 744,
+      "end": 754,
+      "mention": "membranous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 275,
+      "end": 277,
+      "mention": "CD",
+      "label": "DISO"
+    },
+    {
+      "start": 1575,
+      "end": 1585,
+      "mention": "membranous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 313,
+      "end": 316,
+      "mention": "IBD",
+      "label": "DISO"
+    },
+    {
+      "start": 494,
+      "end": 504,
+      "mention": "antibodies",
+      "label": "CHEM"
+    },
+    {
+      "start": 1638,
+      "end": 1648,
+      "mention": "epithelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 575,
+      "end": 589,
+      "mention": "epitheliocytes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 170,
+      "end": 192,
+      "mention": "Ileal biopsy specimens",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1246,
+      "end": 1252,
+      "mention": "mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 91,
+      "end": 97,
+      "mention": "mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 370,
+      "end": 376,
+      "mention": "mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 469,
+      "end": 477,
+      "mention": "receptor",
+      "label": "CHEM"
+    },
+    {
+      "start": 58,
+      "end": 66,
+      "mention": "receptor",
+      "label": "CHEM"
+    },
+    {
+      "start": 693,
+      "end": 703,
+      "mention": "membranous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 616,
+      "end": 624,
+      "mention": "receptor",
+      "label": "CHEM"
+    },
+    {
+      "start": 331,
+      "end": 335,
+      "mention": "IBDU",
+      "label": "DISO"
+    },
+    {
+      "start": 884,
+      "end": 888,
+      "mention": "IBDU",
+      "label": "DISO"
+    },
+    {
+      "start": 1474,
+      "end": 1488,
+      "mention": "neuroendocrine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 176,
+      "end": 192,
+      "mention": "biopsy specimens",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1619,
+      "end": 1633,
+      "mention": "neuroendocrine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1399,
+      "end": 1409,
+      "mention": "membranous",
+      "label": "ANATOMY"
+    }
+  ]
+}

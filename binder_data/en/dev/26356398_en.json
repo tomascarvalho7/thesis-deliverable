@@ -1,0 +1,197 @@
+{
+  "text": "[Double blind placebo controlled randomized pilot clinical trial of baclofen (Baclosan®) for alcohol dependence]. AIM To study efficacy and safety of baclofen for treatment of alcohol dependence.  MATERIAL AND METHODS 32 patients with alcohol dependence had been randomized into one of two treatment groups (16 patients in each): patients of the 1st group were treated with baclofen (50 mg/day) for 3 months while patients of the 2nd one received identically looking placebo. All the study subjects were scheduled to come to the clinic on the weekly basis to control alcohol use and compliance with the study medications (by riboflavin marker in urine) and also - for psychiatric evaluations (severity of craving for alcohol, anxiety and depression). Alcohol use evaluated with the Time Line Follow Back technique and gamma-glutamiltranspeptidase activity in blood. To assess anxiety Spielberger state-trait inventory and Hamilton scale were used.  Depression was assessed with Montgomery-Ashberg scale. To evaluate carving for alcohol used Obsessive-Compulsive Drinking scale, Penn Alcohol Craving scale, and Visual Analog Scale of Craving. Overall treatment effect assessed with the Clinical Global Impression scale. The study design was double blind. RESULTS AND CONCLUSION Baclofen did no differ significantly from placebo on either of primary or secondary outcome variables.  However, primary outcome variables of retention in treatment and drinking were slightly better in the baclofen group compared to placebo, and those differences were close to the level of statistical significance. There were no differences between the groups in either rate of adverse events or liver enzymes activity which is an evidence of safety and good tolerability of baclofen in alcohol dependent patients.  Further studies of baclofen for alcohol dependence in the larger sample size are needed. ",
+  "entities": [
+    {
+      "start": 1041,
+      "end": 1061,
+      "mention": "Obsessive-Compulsive",
+      "label": "DISO"
+    },
+    {
+      "start": 68,
+      "end": 76,
+      "mention": "baclofen",
+      "label": "CHEM"
+    },
+    {
+      "start": 876,
+      "end": 883,
+      "mention": "anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 1754,
+      "end": 1762,
+      "mention": "baclofen",
+      "label": "CHEM"
+    },
+    {
+      "start": 859,
+      "end": 864,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1483,
+      "end": 1491,
+      "mention": "baclofen",
+      "label": "CHEM"
+    },
+    {
+      "start": 1675,
+      "end": 1680,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1277,
+      "end": 1285,
+      "mention": "Baclofen",
+      "label": "CHEM"
+    },
+    {
+      "start": 1814,
+      "end": 1822,
+      "mention": "baclofen",
+      "label": "CHEM"
+    },
+    {
+      "start": 374,
+      "end": 382,
+      "mention": "baclofen",
+      "label": "CHEM"
+    },
+    {
+      "start": 818,
+      "end": 846,
+      "mention": "gamma-glutamiltranspeptidase",
+      "label": "CHEM"
+    },
+    {
+      "start": 467,
+      "end": 474,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 176,
+      "end": 194,
+      "mention": "alcohol dependence",
+      "label": "DISO"
+    },
+    {
+      "start": 1675,
+      "end": 1688,
+      "mention": "liver enzymes",
+      "label": "CHEM"
+    },
+    {
+      "start": 14,
+      "end": 21,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 726,
+      "end": 733,
+      "mention": "anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 1510,
+      "end": 1517,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 1319,
+      "end": 1326,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 1016,
+      "end": 1035,
+      "mention": "carving for alcohol",
+      "label": "DISO"
+    },
+    {
+      "start": 235,
+      "end": 253,
+      "mention": "alcohol dependence",
+      "label": "DISO"
+    },
+    {
+      "start": 1766,
+      "end": 1783,
+      "mention": "alcohol dependent",
+      "label": "DISO"
+    },
+    {
+      "start": 150,
+      "end": 158,
+      "mention": "baclofen",
+      "label": "CHEM"
+    },
+    {
+      "start": 668,
+      "end": 691,
+      "mention": "psychiatric evaluations",
+      "label": "DISO"
+    },
+    {
+      "start": 705,
+      "end": 724,
+      "mention": "craving for alcohol",
+      "label": "DISO"
+    },
+    {
+      "start": 78,
+      "end": 86,
+      "mention": "Baclosan",
+      "label": "CHEM"
+    },
+    {
+      "start": 949,
+      "end": 959,
+      "mention": "Depression",
+      "label": "DISO"
+    },
+    {
+      "start": 738,
+      "end": 748,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 646,
+      "end": 651,
+      "mention": "urine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1827,
+      "end": 1845,
+      "mention": "alcohol dependence",
+      "label": "DISO"
+    },
+    {
+      "start": 93,
+      "end": 111,
+      "mention": "alcohol dependence",
+      "label": "DISO"
+    },
+    {
+      "start": 1681,
+      "end": 1688,
+      "mention": "enzymes",
+      "label": "CHEM"
+    },
+    {
+      "start": 625,
+      "end": 635,
+      "mention": "riboflavin",
+      "label": "CHEM"
+    }
+  ]
+}

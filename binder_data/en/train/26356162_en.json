@@ -1,0 +1,233 @@
+{
+  "text": "[An assessment of cerebrolysin effect on BDNF level in patients with post stroke aphasia depending on carbohydrate metabolism disorders].  AIM We carried out an open randomized controlled study to explore the changes in the rate of speech recovery and BDNF concentrations in patients with left-hemisphere stroke and carbohydrate metabolism disorders (diabetes mellitus type2 or prediabetes) who received cerebrolysin.  MATERIAL AND METHODS A study included 60 inpatients of the Center of Speech Pathology and Neurorehabilitation. Neuropsychological examination was performed at baseline and after the treatment was completed.  We determined aphasia type and quantitatively assessed speech in scores which reflected the severity of speech impairment. BDNF serum concentrations were measured.  RESULTS Clinical efficacy of cerebrolysin (intravenously in dose 20 ml in 100 ml of physiological solution, 5 days a week, during 4 weeks) used in addition to standard neurorehabilitation measures in patients with post stroke aphasia of different severity was demonstrated.  This treatment was most effective in patients with very marked and marked speech impairment that was confirmed by the maximal possible improvement of speech during the first course of neurorehabilitation measures, in particular in a subgroup of patients without carbohydrate metabolism disorders. A significant increase in BDNF concentrations was an additional evidence of this improvement. CONCLUSION The use of cerebrolysin in the complex treatment of patients with post stroke aphasia of different severity improves the prognosis of their rehabilitation. ",
+  "entities": [
+    {
+      "start": 404,
+      "end": 416,
+      "mention": "cerebrolysin",
+      "label": "CHEM"
+    },
+    {
+      "start": 488,
+      "end": 504,
+      "mention": "Speech Pathology",
+      "label": "DISO"
+    },
+    {
+      "start": 18,
+      "end": 30,
+      "mention": "cerebrolysin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1540,
+      "end": 1546,
+      "mention": "stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 1011,
+      "end": 1017,
+      "mention": "stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 289,
+      "end": 304,
+      "mention": "left-hemisphere",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 821,
+      "end": 833,
+      "mention": "cerebrolysin",
+      "label": "CHEM"
+    },
+    {
+      "start": 305,
+      "end": 311,
+      "mention": "stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 1535,
+      "end": 1554,
+      "mention": "post stroke aphasia",
+      "label": "DISO"
+    },
+    {
+      "start": 74,
+      "end": 80,
+      "mention": "stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 1329,
+      "end": 1362,
+      "mention": "carbohydrate metabolism disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 102,
+      "end": 135,
+      "mention": "carbohydrate metabolism disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 316,
+      "end": 349,
+      "mention": "carbohydrate metabolism disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 731,
+      "end": 748,
+      "mention": "speech impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 1141,
+      "end": 1158,
+      "mention": "speech impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 41,
+      "end": 45,
+      "mention": "BDNF",
+      "label": "CHEM"
+    },
+    {
+      "start": 750,
+      "end": 754,
+      "mention": "BDNF",
+      "label": "CHEM"
+    },
+    {
+      "start": 755,
+      "end": 760,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 252,
+      "end": 256,
+      "mention": "BDNF",
+      "label": "CHEM"
+    },
+    {
+      "start": 351,
+      "end": 359,
+      "mention": "diabetes",
+      "label": "DISO"
+    },
+    {
+      "start": 1006,
+      "end": 1025,
+      "mention": "post stroke aphasia",
+      "label": "DISO"
+    },
+    {
+      "start": 378,
+      "end": 389,
+      "mention": "prediabetes",
+      "label": "DISO"
+    },
+    {
+      "start": 69,
+      "end": 88,
+      "mention": "post stroke aphasia",
+      "label": "DISO"
+    },
+    {
+      "start": 316,
+      "end": 328,
+      "mention": "carbohydrate",
+      "label": "CHEM"
+    },
+    {
+      "start": 1329,
+      "end": 1341,
+      "mention": "carbohydrate",
+      "label": "CHEM"
+    },
+    {
+      "start": 102,
+      "end": 114,
+      "mention": "carbohydrate",
+      "label": "CHEM"
+    },
+    {
+      "start": 1390,
+      "end": 1394,
+      "mention": "BDNF",
+      "label": "CHEM"
+    },
+    {
+      "start": 351,
+      "end": 374,
+      "mention": "diabetes mellitus type2",
+      "label": "DISO"
+    },
+    {
+      "start": 876,
+      "end": 898,
+      "mention": "physiological solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 1480,
+      "end": 1492,
+      "mention": "cerebrolysin",
+      "label": "CHEM"
+    },
+    {
+      "start": 294,
+      "end": 304,
+      "mention": "hemisphere",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 890,
+      "end": 898,
+      "mention": "solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 289,
+      "end": 311,
+      "mention": "left-hemisphere stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 351,
+      "end": 368,
+      "mention": "diabetes mellitus",
+      "label": "DISO"
+    },
+    {
+      "start": 81,
+      "end": 88,
+      "mention": "aphasia",
+      "label": "DISO"
+    },
+    {
+      "start": 641,
+      "end": 648,
+      "mention": "aphasia",
+      "label": "DISO"
+    },
+    {
+      "start": 1547,
+      "end": 1554,
+      "mention": "aphasia",
+      "label": "DISO"
+    },
+    {
+      "start": 1018,
+      "end": 1025,
+      "mention": "aphasia",
+      "label": "DISO"
+    }
+  ]
+}

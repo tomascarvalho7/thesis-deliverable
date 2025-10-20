@@ -1,0 +1,293 @@
+{
+  "text": "[Age-related morphological changes in the aortic wall in dissecting aneurysm]. OBJECTIVE To reveal the morphological features of the aorta in its dissection in persons of different age groups. MATERIAL AND METHODS  The operative material obtained after resection of the aorta for its dissection was examined. The fragments of the wall of the ascending aorta were fixed in 10% formalin solution immediately following its resection.  The material was treated by processing and fixing methods; paraffin sections were stained with hemotoxyllin-eosin, orsein by the Van-Gieson, MSB, and Leigh methods. RESULTS By analyzing 77 dissecting aortic aneurysm biopsy specimens, the authors presented the structural features of the aortic wall in terms of age-related changes. Examinations were made by light and electron microscopy using special stains. The signs of physiological or premature aging were assessed by elastic skeleton changes. There was a deficiency of collagen and its impaired maturation in all the study cases of vascular aging in the presence of aortic dissection. CONCLUSION Quantitative and qualitative changes in the smooth muscle cells were due to both patient age and concomitant hypertension. In young patients, aortic dissection was more frequently caused by a genetically determined disorder in the elastic skeleton in obvious substitutive sclerosis. ",
+  "entities": [
+    {
+      "start": 719,
+      "end": 725,
+      "mention": "aortic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1142,
+      "end": 1147,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1135,
+      "end": 1141,
+      "mention": "muscle",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 632,
+      "end": 647,
+      "mention": "aortic aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 376,
+      "end": 393,
+      "mention": "formalin solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 491,
+      "end": 499,
+      "mention": "paraffin",
+      "label": "CHEM"
+    },
+    {
+      "start": 376,
+      "end": 384,
+      "mention": "formalin",
+      "label": "CHEM"
+    },
+    {
+      "start": 330,
+      "end": 334,
+      "mention": "wall",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 42,
+      "end": 48,
+      "mention": "aortic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 342,
+      "end": 357,
+      "mention": "ascending aorta",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1128,
+      "end": 1147,
+      "mention": "smooth muscle cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 133,
+      "end": 138,
+      "mention": "aorta",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 68,
+      "end": 77,
+      "mention": "aneurysm]",
+      "label": "DISO"
+    },
+    {
+      "start": 1054,
+      "end": 1060,
+      "mention": "aortic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 621,
+      "end": 647,
+      "mention": "dissecting aortic aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 1315,
+      "end": 1331,
+      "mention": "elastic skeleton",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 313,
+      "end": 334,
+      "mention": "fragments of the wall",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 540,
+      "end": 545,
+      "mention": "eosin",
+      "label": "CHEM"
+    },
+    {
+      "start": 905,
+      "end": 921,
+      "mention": "elastic skeleton",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1343,
+      "end": 1365,
+      "mention": "substitutive sclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 284,
+      "end": 294,
+      "mention": "dissection",
+      "label": "DISO"
+    },
+    {
+      "start": 1061,
+      "end": 1071,
+      "mention": "dissection",
+      "label": "DISO"
+    },
+    {
+      "start": 57,
+      "end": 76,
+      "mention": "dissecting aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 1276,
+      "end": 1307,
+      "mention": "genetically determined disorder",
+      "label": "DISO"
+    },
+    {
+      "start": 957,
+      "end": 965,
+      "mention": "collagen",
+      "label": "CHEM"
+    },
+    {
+      "start": 500,
+      "end": 508,
+      "mention": "sections",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 527,
+      "end": 539,
+      "mention": "hemotoxyllin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1356,
+      "end": 1365,
+      "mention": "sclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1193,
+      "end": 1205,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 639,
+      "end": 647,
+      "mention": "aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 655,
+      "end": 664,
+      "mention": "specimens",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1128,
+      "end": 1141,
+      "mention": "smooth muscle",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1226,
+      "end": 1232,
+      "mention": "aortic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 632,
+      "end": 638,
+      "mention": "aortic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 270,
+      "end": 275,
+      "mention": "aorta",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 352,
+      "end": 357,
+      "mention": "aorta",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 385,
+      "end": 393,
+      "mention": "solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 648,
+      "end": 664,
+      "mention": "biopsy specimens",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 219,
+      "end": 237,
+      "mention": "operative material",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 943,
+      "end": 965,
+      "mention": "deficiency of collagen",
+      "label": "DISO"
+    },
+    {
+      "start": 1020,
+      "end": 1028,
+      "mention": "vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 719,
+      "end": 730,
+      "mention": "aortic wall",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 42,
+      "end": 53,
+      "mention": "aortic wall",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 146,
+      "end": 156,
+      "mention": "dissection",
+      "label": "DISO"
+    },
+    {
+      "start": 547,
+      "end": 553,
+      "mention": "orsein",
+      "label": "CHEM"
+    },
+    {
+      "start": 974,
+      "end": 993,
+      "mention": "impaired maturation",
+      "label": "DISO"
+    },
+    {
+      "start": 1054,
+      "end": 1071,
+      "mention": "aortic dissection",
+      "label": "DISO"
+    },
+    {
+      "start": 1226,
+      "end": 1243,
+      "mention": "aortic dissection",
+      "label": "DISO"
+    }
+  ]
+}

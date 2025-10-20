@@ -1,0 +1,503 @@
+{
+  "text": "[Cognitive impairment in predialysis stages of chronic kidney disease].  OBJECTIVE  To study the development and progression of cognitive impairment (CI), its risk factors and relationship with vascular-wall remodeling in patients with chronic kidney disease (CKD), stages I-IV. MATERIAL AND METHODS Fifty-one patients, aged 53±10 years, including 20 with CKD, stages I-II, 20 with CKD, stage III, and 11 with CKD, stage IV, were enrolled. Frequency, severity and character of CI were studied using neuropsychological tests for assessment of global mental status, short-term and delayed memory, frontal lobe functions.  Standard laboratory examinations, echocardiographic study, 24h arterial blood pressure monitoring, measurement of the thickness of carotid intima-media complex, pulse-wave velocity and augmentation index, brain MRI study were carried out. RESULTS CI was found in 68% of patients, including 35% with CKD, stages I-II, and 90.3% with CKD, stage IV. The severity of CI was higher in patients with CKD, stages III-IV, compared to those with stages I-II (p<0.001). CKD predicted the development of CI (OR 27.32, 95% CI 4.3-72.9, р<0.001). MRI revealed the focal lesions of the white matter in 30% of patients, leukoaraiosis in 23.3%, lateral ventricular dilatation in 50%, expressed dilatation in the sulci of brain hemispheres in 10%. There was a relationship between CI and male sex, hyperhomocysteinemia, anemia, abdominal obesity, left ventricular myocardial hypertrophy and age. The frequency and severity of CI was associated with the signs of atherosclerotic lesions of common carotid arteries and indices of arterial rigidity. CONCLUSION The more increased the CKD severity, the higher the severity of CI.  The dysfunction of frontal lobes plays a key role in the development of CI in patients with CKD, stages III-IV. CKD, stages III-IV, is an independent predictor of CI in people in predialysis stages. ",
+  "entities": [
+    {
+      "start": 595,
+      "end": 607,
+      "mention": "frontal lobe",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1749,
+      "end": 1762,
+      "mention": "frontal lobes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1450,
+      "end": 1489,
+      "mention": "left ventricular myocardial hypertrophy",
+      "label": "DISO"
+    },
+    {
+      "start": 1450,
+      "end": 1466,
+      "mention": "left ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 692,
+      "end": 697,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1298,
+      "end": 1342,
+      "mention": "dilatation in the sulci of brain hemispheres",
+      "label": "DISO"
+    },
+    {
+      "start": 867,
+      "end": 869,
+      "mention": "CI",
+      "label": "DISO"
+    },
+    {
+      "start": 1441,
+      "end": 1448,
+      "mention": "obesity",
+      "label": "DISO"
+    },
+    {
+      "start": 194,
+      "end": 202,
+      "mention": "vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 194,
+      "end": 218,
+      "mention": "vascular-wall remodeling",
+      "label": "DISO"
+    },
+    {
+      "start": 1478,
+      "end": 1489,
+      "mention": "hypertrophy",
+      "label": "DISO"
+    },
+    {
+      "start": 1734,
+      "end": 1745,
+      "mention": "dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 194,
+      "end": 207,
+      "mention": "vascular-wall",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 150,
+      "end": 152,
+      "mention": "CI",
+      "label": "DISO"
+    },
+    {
+      "start": 1225,
+      "end": 1238,
+      "mention": "leukoaraiosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1325,
+      "end": 1330,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1565,
+      "end": 1588,
+      "mention": "atherosclerotic lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 919,
+      "end": 922,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 1431,
+      "end": 1440,
+      "mention": "abdominal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 25,
+      "end": 69,
+      "mention": "predialysis stages of chronic kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1599,
+      "end": 1615,
+      "mention": "carotid arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 244,
+      "end": 258,
+      "mention": "kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 55,
+      "end": 69,
+      "mention": "kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1565,
+      "end": 1580,
+      "mention": "atherosclerotic",
+      "label": "DISO"
+    },
+    {
+      "start": 825,
+      "end": 830,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1631,
+      "end": 1639,
+      "mention": "arterial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 410,
+      "end": 413,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 1,
+      "end": 21,
+      "mention": "Cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 1316,
+      "end": 1321,
+      "mention": "sulci",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 683,
+      "end": 691,
+      "mention": "arterial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 128,
+      "end": 148,
+      "mention": "cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 1842,
+      "end": 1845,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 382,
+      "end": 385,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 1734,
+      "end": 1762,
+      "mention": "dysfunction of frontal lobes",
+      "label": "DISO"
+    },
+    {
+      "start": 356,
+      "end": 359,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 1401,
+      "end": 1421,
+      "mention": "hyperhomocysteinemia",
+      "label": "DISO"
+    },
+    {
+      "start": 260,
+      "end": 263,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 952,
+      "end": 955,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 1423,
+      "end": 1429,
+      "mention": "anemia",
+      "label": "DISO"
+    },
+    {
+      "start": 1257,
+      "end": 1268,
+      "mention": "ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1467,
+      "end": 1477,
+      "mention": "myocardial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 244,
+      "end": 250,
+      "mention": "kidney",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 55,
+      "end": 61,
+      "mention": "kidney",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1249,
+      "end": 1279,
+      "mention": "lateral ventricular dilatation",
+      "label": "DISO"
+    },
+    {
+      "start": 603,
+      "end": 607,
+      "mention": "lobe",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 236,
+      "end": 258,
+      "mention": "chronic kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1080,
+      "end": 1083,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 1684,
+      "end": 1687,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 1822,
+      "end": 1825,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 47,
+      "end": 69,
+      "mention": "chronic kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1192,
+      "end": 1204,
+      "mention": "white matter",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1131,
+      "end": 1133,
+      "mention": "CI",
+      "label": "DISO"
+    },
+    {
+      "start": 1014,
+      "end": 1017,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 1802,
+      "end": 1804,
+      "mention": "CI",
+      "label": "DISO"
+    },
+    {
+      "start": 1529,
+      "end": 1531,
+      "mention": "CI",
+      "label": "DISO"
+    },
+    {
+      "start": 1384,
+      "end": 1386,
+      "mention": "CI",
+      "label": "DISO"
+    },
+    {
+      "start": 983,
+      "end": 985,
+      "mention": "CI",
+      "label": "DISO"
+    },
+    {
+      "start": 477,
+      "end": 479,
+      "mention": "CI",
+      "label": "DISO"
+    },
+    {
+      "start": 1893,
+      "end": 1895,
+      "mention": "CI",
+      "label": "DISO"
+    },
+    {
+      "start": 1725,
+      "end": 1727,
+      "mention": "CI",
+      "label": "DISO"
+    },
+    {
+      "start": 1113,
+      "end": 1115,
+      "mention": "CI",
+      "label": "DISO"
+    },
+    {
+      "start": 1249,
+      "end": 1268,
+      "mention": "lateral ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1171,
+      "end": 1184,
+      "mention": "focal lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 356,
+      "end": 372,
+      "mention": "CKD, stages I-II",
+      "label": "DISO"
+    },
+    {
+      "start": 1014,
+      "end": 1032,
+      "mention": "CKD, stages III-IV",
+      "label": "DISO"
+    },
+    {
+      "start": 1592,
+      "end": 1615,
+      "mention": "common carotid arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1581,
+      "end": 1588,
+      "mention": "lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 1316,
+      "end": 1342,
+      "mention": "sulci of brain hemispheres",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 382,
+      "end": 396,
+      "mention": "CKD, stage III",
+      "label": "DISO"
+    },
+    {
+      "start": 1455,
+      "end": 1466,
+      "mention": "ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1909,
+      "end": 1927,
+      "mention": "predialysis stages",
+      "label": "DISO"
+    },
+    {
+      "start": 919,
+      "end": 935,
+      "mention": "CKD, stages I-II",
+      "label": "DISO"
+    },
+    {
+      "start": 1325,
+      "end": 1342,
+      "mention": "brain hemispheres",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 236,
+      "end": 277,
+      "mention": "chronic kidney disease (CKD), stages I-IV",
+      "label": "DISO"
+    },
+    {
+      "start": 952,
+      "end": 965,
+      "mention": "CKD, stage IV",
+      "label": "DISO"
+    },
+    {
+      "start": 751,
+      "end": 758,
+      "mention": "carotid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1014,
+      "end": 1017,
+      "mention": "CKD stages I-II",
+      "label": "DISO"
+    },
+    {
+      "start": 1057,
+      "end": 1068,
+      "mention": "CKD stages I-II",
+      "label": "DISO"
+    },
+    {
+      "start": 410,
+      "end": 423,
+      "mention": "CKD, stage IV",
+      "label": "DISO"
+    },
+    {
+      "start": 1842,
+      "end": 1860,
+      "mention": "CKD, stages III-IV",
+      "label": "DISO"
+    },
+    {
+      "start": 1822,
+      "end": 1840,
+      "mention": "CKD, stages III-IV",
+      "label": "DISO"
+    },
+    {
+      "start": 1607,
+      "end": 1615,
+      "mention": "arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1431,
+      "end": 1448,
+      "mention": "abdominal obesity",
+      "label": "DISO"
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "text": "UNLABELLED  The authors present the material of their study of the morphological and molecular biological features of damage to the stem cell niches (SCN) in the respiratory acini of the lung and the significance of their occurring changes in the pathogenesis of chronic idiopathic interstitial pneumonias (IIP), including idiopathic pulmonary fibrosis (IPF), desquamative interstitial pneumonia (DIP), cryptogenic organizing pneumonia (COP) with bronchiolitis obliterans (BO), and nonspecific interstitial pneumonia (NSIP). SUBJECTS AND METHODS The study was performed using open transthoracic (n=181) and transbronchial (n=71) lung biopsies from 194 patients (118 cases (61%) with IPF, 35 (18%) with NSIP, 23 (12%) with DIP, 18 (9%) with COP + BO). The serial paraffin sections were stained with hematoxylin and eosin and van Gieson's picrofuchsin and immunohistochemical reactions were carried out to detect MMP-1, MMP-2, MMP-7, Apo-Cas (\"Novocastra\", 1:100), vimentin (Vimentin) (\"LabVision\" 1:100), SMA (\"LabVision\", 1:100), TGF-β, TNF-α, CD34, Ost-4, and CD117 (\"Dako\", 1:50), CD68, and EMA (\"Dako\", 1:100). Biotinylated anti-mouse and anti-rabbit immunoglobulin antibodies (\"Dako\" LSAB + KIT, PEROXIDASE) were used as secondary antibodies. All the quantitative and semi-quantitative data obtained were processed by variation statistics. RESULTS The compared IIPs were shown to differ in the site and degree of initial and secondary respiratory acinus damages caused by the aggressiveness of an inflammatory infiltrate and the spread of a lesion to different SCN areas involved in the regeneration of lung tissue. The mesenchymal cell with myofibroblast differentiation, which is probably associated with a mesenchymal stem cell, as evidenced by Oct-4, Vimentin, SMA, CD117, and CD34 expression by these cells, may be considered to be a marker cell of deep SCN damage. CONCLUSION The author state that the clinical course and degree of morphological changes in IPP directly depend on the severity and depth of damage to the SCN areas of the respiratory acinus. ",
+  "entities": [
+    {
+      "start": 295,
+      "end": 305,
+      "mention": "pneumonias",
+      "label": "DISO"
+    },
+    {
+      "start": 911,
+      "end": 914,
+      "mention": "MMP",
+      "label": "CHEM"
+    },
+    {
+      "start": 386,
+      "end": 395,
+      "mention": "pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 1044,
+      "end": 1048,
+      "mention": "CD34",
+      "label": "CHEM"
+    },
+    {
+      "start": 740,
+      "end": 743,
+      "mention": "COP",
+      "label": "DISO"
+    },
+    {
+      "start": 925,
+      "end": 928,
+      "mention": "MMP",
+      "label": "CHEM"
+    },
+    {
+      "start": 1037,
+      "end": 1042,
+      "mention": "TNF-α",
+      "label": "CHEM"
+    },
+    {
+      "start": 1200,
+      "end": 1210,
+      "mention": "PEROXIDASE",
+      "label": "CHEM"
+    },
+    {
+      "start": 1607,
+      "end": 1618,
+      "mention": "lung tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 918,
+      "end": 921,
+      "mention": "MMP",
+      "label": "CHEM"
+    },
+    {
+      "start": 437,
+      "end": 440,
+      "mention": "COP",
+      "label": "DISO"
+    },
+    {
+      "start": 1154,
+      "end": 1179,
+      "mention": "immunoglobulin antibodies",
+      "label": "CHEM"
+    },
+    {
+      "start": 1188,
+      "end": 1192,
+      "mention": "LSAB",
+      "label": "CHEM"
+    },
+    {
+      "start": 762,
+      "end": 770,
+      "mention": "paraffin",
+      "label": "CHEM"
+    },
+    {
+      "start": 415,
+      "end": 435,
+      "mention": "organizing pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 1863,
+      "end": 1873,
+      "mention": "SCN damage",
+      "label": "DISO"
+    },
+    {
+      "start": 918,
+      "end": 923,
+      "mention": "MMP-2",
+      "label": "CHEM"
+    },
+    {
+      "start": 722,
+      "end": 725,
+      "mention": "DIP",
+      "label": "DISO"
+    },
+    {
+      "start": 397,
+      "end": 400,
+      "mention": "DIP",
+      "label": "DISO"
+    },
+    {
+      "start": 1713,
+      "end": 1734,
+      "mention": "mesenchymal stem cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 507,
+      "end": 516,
+      "mention": "pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 740,
+      "end": 748,
+      "mention": "COP + BO",
+      "label": "DISO"
+    },
+    {
+      "start": 925,
+      "end": 930,
+      "mention": "MMP-7",
+      "label": "CHEM"
+    },
+    {
+      "start": 1624,
+      "end": 1635,
+      "mention": "mesenchymal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1713,
+      "end": 1724,
+      "mention": "mesenchymal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1451,
+      "end": 1457,
+      "mention": "acinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 174,
+      "end": 179,
+      "mention": "acini",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2059,
+      "end": 2065,
+      "mention": "acinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1850,
+      "end": 1854,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1810,
+      "end": 1815,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1730,
+      "end": 1734,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1636,
+      "end": 1640,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 137,
+      "end": 141,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1967,
+      "end": 1970,
+      "mention": "IPP",
+      "label": "DISO"
+    },
+    {
+      "start": 1083,
+      "end": 1087,
+      "mention": "CD68",
+      "label": "CHEM"
+    },
+    {
+      "start": 1752,
+      "end": 1757,
+      "mention": "Oct-4",
+      "label": "CHEM"
+    },
+    {
+      "start": 1501,
+      "end": 1513,
+      "mention": "inflammatory",
+      "label": "DISO"
+    },
+    {
+      "start": 1624,
+      "end": 1640,
+      "mention": "mesenchymal cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 518,
+      "end": 522,
+      "mention": "NSIP",
+      "label": "DISO"
+    },
+    {
+      "start": 426,
+      "end": 435,
+      "mention": "pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 702,
+      "end": 706,
+      "mention": "NSIP",
+      "label": "DISO"
+    },
+    {
+      "start": 814,
+      "end": 819,
+      "mention": "eosin",
+      "label": "CHEM"
+    },
+    {
+      "start": 2047,
+      "end": 2065,
+      "mention": "respiratory acinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1785,
+      "end": 1789,
+      "mention": "CD34",
+      "label": "CHEM"
+    },
+    {
+      "start": 1439,
+      "end": 1457,
+      "mention": "respiratory acinus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 162,
+      "end": 179,
+      "mention": "respiratory acini",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 334,
+      "end": 352,
+      "mention": "pulmonary fibrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1646,
+      "end": 1659,
+      "mention": "myofibroblast",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 263,
+      "end": 305,
+      "mention": "chronic idiopathic interstitial pneumonias",
+      "label": "DISO"
+    },
+    {
+      "start": 634,
+      "end": 642,
+      "mention": "biopsies",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 373,
+      "end": 395,
+      "mention": "interstitial pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 132,
+      "end": 141,
+      "mention": "stem cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 360,
+      "end": 395,
+      "mention": "desquamative interstitial pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 1725,
+      "end": 1734,
+      "mention": "stem cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1759,
+      "end": 1767,
+      "mention": "Vimentin",
+      "label": "CHEM"
+    },
+    {
+      "start": 973,
+      "end": 981,
+      "mention": "Vimentin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1030,
+      "end": 1035,
+      "mention": "TGF-β",
+      "label": "CHEM"
+    },
+    {
+      "start": 963,
+      "end": 971,
+      "mention": "vimentin",
+      "label": "CHEM"
+    },
+    {
+      "start": 494,
+      "end": 516,
+      "mention": "interstitial pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 1050,
+      "end": 1055,
+      "mention": "Ost-4",
+      "label": "CHEM"
+    },
+    {
+      "start": 282,
+      "end": 305,
+      "mention": "interstitial pneumonias",
+      "label": "DISO"
+    },
+    {
+      "start": 403,
+      "end": 471,
+      "mention": "cryptogenic organizing pneumonia (COP) with bronchiolitis obliterans",
+      "label": "DISO"
+    },
+    {
+      "start": 1607,
+      "end": 1611,
+      "mention": "lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1154,
+      "end": 1168,
+      "mention": "immunoglobulin",
+      "label": "CHEM"
+    },
+    {
+      "start": 629,
+      "end": 633,
+      "mention": "lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 447,
+      "end": 471,
+      "mention": "bronchiolitis obliterans",
+      "label": "DISO"
+    },
+    {
+      "start": 187,
+      "end": 191,
+      "mention": "lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 746,
+      "end": 748,
+      "mention": "BO",
+      "label": "DISO"
+    },
+    {
+      "start": 473,
+      "end": 475,
+      "mention": "BO",
+      "label": "DISO"
+    },
+    {
+      "start": 2016,
+      "end": 2039,
+      "mention": "damage to the SCN areas",
+      "label": "DISO"
+    },
+    {
+      "start": 323,
+      "end": 352,
+      "mention": "idiopathic pulmonary fibrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1365,
+      "end": 1369,
+      "mention": "IIPs",
+      "label": "DISO"
+    },
+    {
+      "start": 683,
+      "end": 686,
+      "mention": "IPF",
+      "label": "DISO"
+    },
+    {
+      "start": 354,
+      "end": 357,
+      "mention": "IPF",
+      "label": "DISO"
+    },
+    {
+      "start": 629,
+      "end": 642,
+      "mention": "lung biopsies",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 118,
+      "end": 148,
+      "mention": "damage to the stem cell niches",
+      "label": "DISO"
+    },
+    {
+      "start": 271,
+      "end": 305,
+      "mention": "idiopathic interstitial pneumonias",
+      "label": "DISO"
+    },
+    {
+      "start": 307,
+      "end": 310,
+      "mention": "IIP",
+      "label": "DISO"
+    },
+    {
+      "start": 771,
+      "end": 779,
+      "mention": "sections",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 798,
+      "end": 809,
+      "mention": "hematoxylin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1612,
+      "end": 1618,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1545,
+      "end": 1551,
+      "mention": "lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 932,
+      "end": 939,
+      "mention": "Apo-Cas",
+      "label": "CHEM"
+    },
+    {
+      "start": 334,
+      "end": 343,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1439,
+      "end": 1465,
+      "mention": "respiratory acinus damages",
+      "label": "DISO"
+    },
+    {
+      "start": 2030,
+      "end": 2039,
+      "mention": "SCN areas",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 911,
+      "end": 916,
+      "mention": "MMP-1",
+      "label": "CHEM"
+    },
+    {
+      "start": 132,
+      "end": 148,
+      "mention": "stem cell niches",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 482,
+      "end": 516,
+      "mention": "nonspecific interstitial pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 447,
+      "end": 460,
+      "mention": "bronchiolitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1061,
+      "end": 1066,
+      "mention": "CD117",
+      "label": "CHEM"
+    },
+    {
+      "start": 1863,
+      "end": 1866,
+      "mention": "SCN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2030,
+      "end": 2033,
+      "mention": "SCN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 150,
+      "end": 153,
+      "mention": "SCN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1565,
+      "end": 1568,
+      "mention": "SCN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1169,
+      "end": 1179,
+      "mention": "antibodies",
+      "label": "CHEM"
+    },
+    {
+      "start": 1235,
+      "end": 1245,
+      "mention": "antibodies",
+      "label": "CHEM"
+    },
+    {
+      "start": 344,
+      "end": 352,
+      "mention": "fibrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1093,
+      "end": 1096,
+      "mention": "EMA",
+      "label": "CHEM"
+    },
+    {
+      "start": 403,
+      "end": 435,
+      "mention": "cryptogenic organizing pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 1514,
+      "end": 1524,
+      "mention": "infiltrate",
+      "label": "DISO"
+    },
+    {
+      "start": 1004,
+      "end": 1007,
+      "mention": "SMA",
+      "label": "CHEM"
+    },
+    {
+      "start": 1769,
+      "end": 1772,
+      "mention": "SMA",
+      "label": "CHEM"
+    },
+    {
+      "start": 1501,
+      "end": 1524,
+      "mention": "inflammatory infiltrate",
+      "label": "DISO"
+    },
+    {
+      "start": 1774,
+      "end": 1779,
+      "mention": "CD117",
+      "label": "CHEM"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "text": "[Comparison of different doses of escitalopram in the prevention of dementia in patients with depression and moderate cognitive dysfunction associated with chronic brain ischemia].  OBJECTIVE to compare different doses of escitalopram (cipralex) in the prevention of dementia in patients with depression and moderate cognitive dysfunction associated with chronic brain ischemia.  MATERIAL AND METHODS Two groups of patients, aged 65-78 years, with chronic brain ischemia and mild or moderate depression with moderate cognitive dysfunction were treated with different doses of escitalopram: 30 patients received 5 mg daily during all treatment period; 42 patients - 5 mg daily during the first week and 10 mg from the second week of treatment. The treatment lasted for 6 months; the period of observation was 8 months. RESULTS AND CONCLUSION The efficacy of escitalopram is demonstrated not only for the treatment of depression associated with cognitive dysfunction in patients with chronic brain ischemia but for decrease of the risk of dementia in long-term period. ",
+  "entities": [
+    {
+      "start": 164,
+      "end": 169,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 156,
+      "end": 178,
+      "mention": "chronic brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 982,
+      "end": 1004,
+      "mention": "chronic brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 128,
+      "end": 139,
+      "mention": "dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 448,
+      "end": 470,
+      "mention": "chronic brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 355,
+      "end": 377,
+      "mention": "chronic brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 327,
+      "end": 338,
+      "mention": "dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 1037,
+      "end": 1045,
+      "mention": "dementia",
+      "label": "DISO"
+    },
+    {
+      "start": 857,
+      "end": 869,
+      "mention": "escitalopram",
+      "label": "CHEM"
+    },
+    {
+      "start": 996,
+      "end": 1004,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 462,
+      "end": 470,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 308,
+      "end": 338,
+      "mention": "moderate cognitive dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 293,
+      "end": 303,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 916,
+      "end": 926,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 492,
+      "end": 502,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 109,
+      "end": 139,
+      "mention": "moderate cognitive dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 363,
+      "end": 368,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 94,
+      "end": 104,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 456,
+      "end": 461,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 990,
+      "end": 995,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 34,
+      "end": 46,
+      "mention": "escitalopram",
+      "label": "CHEM"
+    },
+    {
+      "start": 943,
+      "end": 964,
+      "mention": "cognitive dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 456,
+      "end": 470,
+      "mention": "brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 363,
+      "end": 377,
+      "mention": "brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 990,
+      "end": 1004,
+      "mention": "brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 164,
+      "end": 178,
+      "mention": "brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 222,
+      "end": 234,
+      "mention": "escitalopram",
+      "label": "CHEM"
+    },
+    {
+      "start": 576,
+      "end": 589,
+      "mention": "escitalopram:",
+      "label": "CHEM"
+    },
+    {
+      "start": 236,
+      "end": 244,
+      "mention": "cipralex",
+      "label": "CHEM"
+    },
+    {
+      "start": 118,
+      "end": 139,
+      "mention": "cognitive dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 317,
+      "end": 338,
+      "mention": "cognitive dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 267,
+      "end": 275,
+      "mention": "dementia",
+      "label": "DISO"
+    },
+    {
+      "start": 527,
+      "end": 538,
+      "mention": "dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 517,
+      "end": 538,
+      "mention": "cognitive dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 170,
+      "end": 178,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 68,
+      "end": 76,
+      "mention": "dementia",
+      "label": "DISO"
+    },
+    {
+      "start": 475,
+      "end": 502,
+      "mention": "mild or moderate depression",
+      "label": "DISO"
+    },
+    {
+      "start": 953,
+      "end": 964,
+      "mention": "dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 369,
+      "end": 377,
+      "mention": "ischemia",
+      "label": "DISO"
+    }
+  ]
+}

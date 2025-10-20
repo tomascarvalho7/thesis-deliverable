@@ -1,0 +1,209 @@
+{
+  "text": "[Surgical treatment of trigeminal neuralgia in patients with multiple sclerosis].  OBJECTIVE Trigeminal neuralgia occurs in 1-7% patients with multiple sclerosis (MS).  We assessed the efficacy of microvascular decompression of the trigeminal nerve in MS patients. MATERIAL AND METHODS We studied MS patients with trigeminal neuralgia who underwent microvascular decompression of the trigeminal nerve. Results and сonclusion. The superior cerebellar artery was compressed in 5 patients, the vein in 1. At the follow up of 3-5 years, no relapses of trigeminal pain syndrome were observed after the successful surgery. There were no complications of surgical treatment. Indications to this treatment should be made on the basis of MRI. ",
+  "entities": [
+    {
+      "start": 395,
+      "end": 400,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 61,
+      "end": 79,
+      "mention": "multiple sclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 297,
+      "end": 299,
+      "mention": "MS",
+      "label": "DISO"
+    },
+    {
+      "start": 439,
+      "end": 449,
+      "mention": "cerebellar",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 349,
+      "end": 362,
+      "mention": "microvascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 152,
+      "end": 161,
+      "mention": "sclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 548,
+      "end": 572,
+      "mention": "trigeminal pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 536,
+      "end": 544,
+      "mention": "relapses",
+      "label": "DISO"
+    },
+    {
+      "start": 491,
+      "end": 495,
+      "mention": "vein",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 631,
+      "end": 644,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 450,
+      "end": 456,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 252,
+      "end": 254,
+      "mention": "MS",
+      "label": "DISO"
+    },
+    {
+      "start": 559,
+      "end": 563,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 314,
+      "end": 334,
+      "mention": "trigeminal neuralgia",
+      "label": "DISO"
+    },
+    {
+      "start": 430,
+      "end": 456,
+      "mention": "superior cerebellar artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 197,
+      "end": 210,
+      "mention": "microvascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 439,
+      "end": 456,
+      "mention": "cerebellar artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 232,
+      "end": 248,
+      "mention": "trigeminal nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 325,
+      "end": 334,
+      "mention": "neuralgia",
+      "label": "DISO"
+    },
+    {
+      "start": 243,
+      "end": 248,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 104,
+      "end": 113,
+      "mention": "neuralgia",
+      "label": "DISO"
+    },
+    {
+      "start": 34,
+      "end": 43,
+      "mention": "neuralgia",
+      "label": "DISO"
+    },
+    {
+      "start": 23,
+      "end": 33,
+      "mention": "trigeminal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 548,
+      "end": 558,
+      "mention": "trigeminal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 384,
+      "end": 400,
+      "mention": "trigeminal nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 314,
+      "end": 324,
+      "mention": "trigeminal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 23,
+      "end": 43,
+      "mention": "trigeminal neuralgia",
+      "label": "DISO"
+    },
+    {
+      "start": 559,
+      "end": 572,
+      "mention": "pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 163,
+      "end": 165,
+      "mention": "MS",
+      "label": "DISO"
+    },
+    {
+      "start": 70,
+      "end": 79,
+      "mention": "sclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 143,
+      "end": 161,
+      "mention": "multiple sclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 461,
+      "end": 471,
+      "mention": "compressed",
+      "label": "DISO"
+    },
+    {
+      "start": 93,
+      "end": 113,
+      "mention": "Trigeminal neuralgia",
+      "label": "DISO"
+    },
+    {
+      "start": 93,
+      "end": 103,
+      "mention": "Trigeminal",
+      "label": "ANATOMY"
+    }
+  ]
+}

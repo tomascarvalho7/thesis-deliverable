@@ -1,0 +1,299 @@
+{
+  "text": "[The use of the sequential mathematical analysis for the determination of the driver's seat position inside the car passenger compartment from the injuries to the extremities in the case of a traffic accident].  The objective of the present study was to determine the diagnostic coefficients (DC) for the injuries to the upper and lower extremities of the vehicle drivers inflicted inside the passenger compartment in the case of a traffic accident. We have analysed the archival expert documents collected from 45 regional bureaus of forensic medical expertise during the period from 1995 to 2014 that contained the results of examination of 200 corpses and 300 survivors who had suffered injuries in the traffic accidents. The statistical and mathematical treatment of these materials with the use of sequential mathematical analysis based on the Bayes and Wald formulas yielded diagnostic coefficients that make it possible to elucidate the most informative features characterizing the driver of a vehicle.  In case of a lethal outcome, the most significant injuries include bleeding from the posterior left elbow region (DC +7.6), skin scratches on the palm surface of the right wrist (DC +7.6), bleeding from the postrerior region of the left lower leg (DC +7.6), wounds on the dorsal surface of the left wrist (DC +6.3), bruises at the anterior surface of the left knee (DC +6.3), etc. The most informative features in the survivals of the traffic accidents are bone fractures (DC +7.0), tension of ligaments and dislocation of the right talocrural joint (DC +6.5), fractures of the left kneecap and left tibial epiphysis (DC +5.4), hemorrhage and bruises in the anterior right knee region (DC + 5.4 each), skin scratches in the right posterior carpal region (DC +5.1).  It is concluded that the use of the diagnostic coefficients makes it possible to draw the attention of the experts to the above features and to objectively determine the driver's seat position inside the car passenger compartment in the case of a traffic accident. Moreover such an approach contributes to the improvement of the quality of expert conclusions and the results of forensic medical expertise of the circumstance of traffic accidents. ",
+  "entities": [
+    {
+      "start": 1135,
+      "end": 1139,
+      "mention": "skin",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1538,
+      "end": 1560,
+      "mention": "right talocrural joint",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1735,
+      "end": 1764,
+      "mention": "right posterior carpal region",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1606,
+      "end": 1627,
+      "mention": "left tibial epiphysis",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1669,
+      "end": 1695,
+      "mention": "anterior right knee region",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 321,
+      "end": 326,
+      "mention": "upper extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 337,
+      "end": 348,
+      "mention": "upper extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1713,
+      "end": 1717,
+      "mention": "skin",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1111,
+      "end": 1116,
+      "mention": "elbow",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 647,
+      "end": 654,
+      "mention": "corpses",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1218,
+      "end": 1257,
+      "mention": "postrerior region of the left lower leg",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1283,
+      "end": 1315,
+      "mention": "dorsal surface of the left wrist",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1248,
+      "end": 1257,
+      "mention": "lower leg",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1366,
+      "end": 1375,
+      "mention": "left knee",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 331,
+      "end": 348,
+      "mention": "lower extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1741,
+      "end": 1757,
+      "mention": "posterior carpal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1589,
+      "end": 1601,
+      "mention": "left kneecap",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1106,
+      "end": 1116,
+      "mention": "left elbow",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1342,
+      "end": 1358,
+      "mention": "anterior surface",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1177,
+      "end": 1188,
+      "mention": "right wrist",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1305,
+      "end": 1315,
+      "mention": "left wrist",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1183,
+      "end": 1188,
+      "mention": "wrist",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1735,
+      "end": 1757,
+      "mention": "right posterior carpal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1157,
+      "end": 1161,
+      "mention": "palm",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1544,
+      "end": 1560,
+      "mention": "talocrural joint",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1283,
+      "end": 1297,
+      "mention": "dorsal surface",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1606,
+      "end": 1617,
+      "mention": "left tibial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1157,
+      "end": 1188,
+      "mention": "palm surface of the right wrist",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1342,
+      "end": 1375,
+      "mention": "anterior surface of the left knee",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1243,
+      "end": 1257,
+      "mention": "left lower leg",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1678,
+      "end": 1688,
+      "mention": "right knee",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1254,
+      "end": 1257,
+      "mention": "leg",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1310,
+      "end": 1315,
+      "mention": "wrist",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1751,
+      "end": 1757,
+      "mention": "carpal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1096,
+      "end": 1123,
+      "mention": "posterior left elbow region",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1096,
+      "end": 1116,
+      "mention": "posterior left elbow",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1157,
+      "end": 1169,
+      "mention": "palm surface",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1594,
+      "end": 1601,
+      "mention": "kneecap",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1218,
+      "end": 1235,
+      "mention": "postrerior region",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1618,
+      "end": 1627,
+      "mention": "epiphysis",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 321,
+      "end": 348,
+      "mention": "upper and lower extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1684,
+      "end": 1688,
+      "mention": "knee",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1468,
+      "end": 1472,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1371,
+      "end": 1375,
+      "mention": "knee",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1611,
+      "end": 1617,
+      "mention": "tibial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 163,
+      "end": 174,
+      "mention": "extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 337,
+      "end": 348,
+      "mention": "extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1283,
+      "end": 1289,
+      "mention": "dorsal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1505,
+      "end": 1514,
+      "mention": "ligaments",
+      "label": "ANATOMY"
+    }
+  ]
+}

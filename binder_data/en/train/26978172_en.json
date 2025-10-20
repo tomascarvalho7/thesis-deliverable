@@ -1,0 +1,437 @@
+{
+  "text": "[Leptin, resistin, and hormonal and metabolic parameters in women with type 2 diabetes and in those with its concurrence with asthma]. AIM  To investigate the relationship between resistin, adiponectin, leptin, and hormonal and metabolic parameters in patients with type 2 diabetes mellitus (T2DM) and in those with its concurrence with asthma. MATERIAL AND METHODS Twenty-seven patients with T2DM and 26 patients with T2DM concurrent with asthma were examined. The examination data of 23 apparently healthy women served as a control. Anthropometric measurements, carbohydrate and lipid metabolic parameters, and leptin, resistin, adiponectin, interleukin (IL)-6 and IL-10 levels were studied. RESULTS Hyperleptinemia, hyperresistinemia, and lower adiponectin concentrations were found in the patients with T2DM and in those with its concurrence with asthma. These changes in the patients from these groups occurred in the presence of subclinical inflammation. Obvious insulin resistance (IR) accompanied by compensatory hyperinsulinemia was identified in the examined women. The detected atherogenic dyslipidemia appeared as increases in the levels of total cholesterol (C), triglycerides, low-density lipoprotein C, and atherogenic index and as a decrease in those of high-density lipoprotein C. The women with the concurrence of the diseases showed a positive correlation of the level of resistin with insulin and the HOMA index. CONCLUSION The patients with T2DM and those with its concurrence with asthma exhibited obvious IR accompanied by compensatory hyperinsulinemia. Hyperresistinemia plays a role in the development of IR in the concurrence of these diseases. The patients with T2DM and those with its concurrence with asthma were found to have hyperleptinemia, hyperresistinemia, and a trend for decreasing adiponectin values in the presence of subclinical inflammation. ",
+  "entities": [
+    {
+      "start": 621,
+      "end": 629,
+      "mention": "resistin",
+      "label": "CHEM"
+    },
+    {
+      "start": 203,
+      "end": 209,
+      "mention": "leptin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1503,
+      "end": 1509,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 1869,
+      "end": 1881,
+      "mention": "inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 126,
+      "end": 132,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 644,
+      "end": 662,
+      "mention": "interleukin (IL)-6",
+      "label": "CHEM"
+    },
+    {
+      "start": 667,
+      "end": 672,
+      "mention": "IL-10",
+      "label": "CHEM"
+    },
+    {
+      "start": 1462,
+      "end": 1466,
+      "mention": "T2DM",
+      "label": "DISO"
+    },
+    {
+      "start": 807,
+      "end": 811,
+      "mention": "T2DM",
+      "label": "DISO"
+    },
+    {
+      "start": 292,
+      "end": 296,
+      "mention": "T2DM",
+      "label": "DISO"
+    },
+    {
+      "start": 9,
+      "end": 17,
+      "mention": "resistin",
+      "label": "CHEM"
+    },
+    {
+      "start": 419,
+      "end": 423,
+      "mention": "T2DM",
+      "label": "DISO"
+    },
+    {
+      "start": 1295,
+      "end": 1296,
+      "mention": "C",
+      "label": "CHEM"
+    },
+    {
+      "start": 180,
+      "end": 188,
+      "mention": "resistin",
+      "label": "CHEM"
+    },
+    {
+      "start": 78,
+      "end": 86,
+      "mention": "diabetes",
+      "label": "DISO"
+    },
+    {
+      "start": 1391,
+      "end": 1399,
+      "mention": "resistin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1756,
+      "end": 1771,
+      "mention": "hyperleptinemia",
+      "label": "DISO"
+    },
+    {
+      "start": 702,
+      "end": 717,
+      "mention": "Hyperleptinemia",
+      "label": "DISO"
+    },
+    {
+      "start": 742,
+      "end": 774,
+      "mention": "lower adiponectin concentrations",
+      "label": "DISO"
+    },
+    {
+      "start": 1172,
+      "end": 1173,
+      "mention": "C",
+      "label": "CHEM"
+    },
+    {
+      "start": 947,
+      "end": 959,
+      "mention": "inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 1689,
+      "end": 1693,
+      "mention": "T2DM",
+      "label": "DISO"
+    },
+    {
+      "start": 215,
+      "end": 223,
+      "mention": "hormonal",
+      "label": "CHEM"
+    },
+    {
+      "start": 613,
+      "end": 619,
+      "mention": "leptin",
+      "label": "CHEM"
+    },
+    {
+      "start": 337,
+      "end": 343,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 1101,
+      "end": 1113,
+      "mention": "dyslipidemia",
+      "label": "DISO"
+    },
+    {
+      "start": 989,
+      "end": 991,
+      "mention": "IR",
+      "label": "DISO"
+    },
+    {
+      "start": 1630,
+      "end": 1632,
+      "mention": "IR",
+      "label": "DISO"
+    },
+    {
+      "start": 1528,
+      "end": 1530,
+      "mention": "IR",
+      "label": "DISO"
+    },
+    {
+      "start": 273,
+      "end": 281,
+      "mention": "diabetes",
+      "label": "DISO"
+    },
+    {
+      "start": 266,
+      "end": 290,
+      "mention": "type 2 diabetes mellitus",
+      "label": "DISO"
+    },
+    {
+      "start": 1159,
+      "end": 1170,
+      "mention": "cholesterol",
+      "label": "CHEM"
+    },
+    {
+      "start": 71,
+      "end": 86,
+      "mention": "type 2 diabetes",
+      "label": "DISO"
+    },
+    {
+      "start": 1283,
+      "end": 1294,
+      "mention": "lipoprotein",
+      "label": "CHEM"
+    },
+    {
+      "start": 1203,
+      "end": 1214,
+      "mention": "lipoprotein",
+      "label": "CHEM"
+    },
+    {
+      "start": 1,
+      "end": 7,
+      "mention": "Leptin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1559,
+      "end": 1575,
+      "mention": "hyperinsulinemia",
+      "label": "DISO"
+    },
+    {
+      "start": 581,
+      "end": 586,
+      "mention": "lipid",
+      "label": "CHEM"
+    },
+    {
+      "start": 440,
+      "end": 446,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 1021,
+      "end": 1037,
+      "mention": "hyperinsulinemia",
+      "label": "DISO"
+    },
+    {
+      "start": 1270,
+      "end": 1296,
+      "mention": "high-density lipoprotein C",
+      "label": "CHEM"
+    },
+    {
+      "start": 851,
+      "end": 857,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 1730,
+      "end": 1736,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 1270,
+      "end": 1294,
+      "mention": "high-density lipoprotein",
+      "label": "CHEM"
+    },
+    {
+      "start": 1191,
+      "end": 1214,
+      "mention": "low-density lipoprotein",
+      "label": "CHEM"
+    },
+    {
+      "start": 1191,
+      "end": 1216,
+      "mention": "low-density lipoprotein C",
+      "label": "CHEM"
+    },
+    {
+      "start": 1215,
+      "end": 1216,
+      "mention": "C",
+      "label": "CHEM"
+    },
+    {
+      "start": 273,
+      "end": 290,
+      "mention": "diabetes mellitus",
+      "label": "DISO"
+    },
+    {
+      "start": 1008,
+      "end": 1037,
+      "mention": "compensatory hyperinsulinemia",
+      "label": "DISO"
+    },
+    {
+      "start": 393,
+      "end": 397,
+      "mention": "T2DM",
+      "label": "DISO"
+    },
+    {
+      "start": 657,
+      "end": 659,
+      "mention": "IL",
+      "label": "CHEM"
+    },
+    {
+      "start": 1819,
+      "end": 1830,
+      "mention": "adiponectin",
+      "label": "CHEM"
+    },
+    {
+      "start": 631,
+      "end": 642,
+      "mention": "adiponectin",
+      "label": "CHEM"
+    },
+    {
+      "start": 748,
+      "end": 759,
+      "mention": "adiponectin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1176,
+      "end": 1189,
+      "mention": "triglycerides",
+      "label": "CHEM"
+    },
+    {
+      "start": 969,
+      "end": 987,
+      "mention": "insulin resistance",
+      "label": "DISO"
+    },
+    {
+      "start": 1222,
+      "end": 1233,
+      "mention": "atherogenic",
+      "label": "DISO"
+    },
+    {
+      "start": 1773,
+      "end": 1790,
+      "mention": "hyperresistinemia",
+      "label": "DISO"
+    },
+    {
+      "start": 1857,
+      "end": 1881,
+      "mention": "subclinical inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 935,
+      "end": 959,
+      "mention": "subclinical inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 564,
+      "end": 576,
+      "mention": "carbohydrate",
+      "label": "CHEM"
+    },
+    {
+      "start": 719,
+      "end": 736,
+      "mention": "hyperresistinemia",
+      "label": "DISO"
+    },
+    {
+      "start": 1405,
+      "end": 1412,
+      "mention": "insulin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1577,
+      "end": 1594,
+      "mention": "Hyperresistinemia",
+      "label": "DISO"
+    },
+    {
+      "start": 969,
+      "end": 976,
+      "mention": "insulin",
+      "label": "CHEM"
+    },
+    {
+      "start": 23,
+      "end": 31,
+      "mention": "hormonal",
+      "label": "CHEM"
+    },
+    {
+      "start": 1153,
+      "end": 1170,
+      "mention": "total cholesterol",
+      "label": "CHEM"
+    },
+    {
+      "start": 1546,
+      "end": 1575,
+      "mention": "compensatory hyperinsulinemia",
+      "label": "DISO"
+    },
+    {
+      "start": 1089,
+      "end": 1113,
+      "mention": "atherogenic dyslipidemia",
+      "label": "DISO"
+    },
+    {
+      "start": 190,
+      "end": 201,
+      "mention": "adiponectin",
+      "label": "CHEM"
+    },
+    {
+      "start": 644,
+      "end": 655,
+      "mention": "interleukin",
+      "label": "CHEM"
+    },
+    {
+      "start": 667,
+      "end": 669,
+      "mention": "IL",
+      "label": "CHEM"
+    }
+  ]
+}

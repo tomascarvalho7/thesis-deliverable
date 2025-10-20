@@ -1,0 +1,269 @@
+{
+  "text": "[A role of melatonin in the treatment of low back pain].  OBJECTIVE To study an analgesic role of melatonin in the treatment of low back pain.  MATERIAL AND METHODS A study included 178 patients, aged from 40 to 65 years, with low back pain during at least 12 weeks and the VAS score > 3. Patients were stratified into 6 groups (3 pairs of comparison). In the first pair, patients of the main group (n = 31) received APTPA (a combination of 500 mg of glucosamine hydrochloride and 500 mg of chondroitin sulfate) in dosage 1 tablet twice a day during 1 month and then 1 tablet during 2 months plus melaxen (3 mg of melatonin 30-40 min before sleep), patients of the control group (n = 29) received only APTPA. In the second pair, patients of the comparison group (n = 30) received APTPA in dosage 1 tablet twice a day and diclofenac in dosage 25 mg 2-3 times a day, patients of the main group (n = 30) received additionally melaxen (3 mg of melatonin 30-40 min before sleep). In the third pair, patients of the main group (n = 29) received APTPA in dosage 1 tablet twice a day, diclofenac in dosage 25 mg 2-3 times a day and melaxen (3 mg of melatonin 30-40 min before sleep), patients of the comparison group (n = 29) did not receive melaxen. Treatment results were assessed after 3 months for the first pair and after 1 month for the second and third pairs. RESULTS A significant reduction in pain intensity at movement and resting state was noted in the main groups compared to controls.  CONCLUSION Possible mechanisms of analgesic properties of melatonin and world experience in chronic low back pain treatment are discussed. ",
+  "entities": [
+    {
+      "start": 128,
+      "end": 136,
+      "mention": "low back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1394,
+      "end": 1398,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 41,
+      "end": 49,
+      "mention": "low back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 227,
+      "end": 235,
+      "mention": "low back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1234,
+      "end": 1241,
+      "mention": "melaxen",
+      "label": "CHEM"
+    },
+    {
+      "start": 231,
+      "end": 240,
+      "mention": "back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 451,
+      "end": 462,
+      "mention": "glucosamine",
+      "label": "CHEM"
+    },
+    {
+      "start": 702,
+      "end": 707,
+      "mention": "APTPA",
+      "label": "CHEM"
+    },
+    {
+      "start": 1039,
+      "end": 1044,
+      "mention": "APTPA",
+      "label": "CHEM"
+    },
+    {
+      "start": 417,
+      "end": 422,
+      "mention": "APTPA",
+      "label": "CHEM"
+    },
+    {
+      "start": 1583,
+      "end": 1604,
+      "mention": "chronic low back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 821,
+      "end": 831,
+      "mention": "diclofenac",
+      "label": "CHEM"
+    },
+    {
+      "start": 1600,
+      "end": 1604,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1077,
+      "end": 1087,
+      "mention": "diclofenac",
+      "label": "CHEM"
+    },
+    {
+      "start": 463,
+      "end": 476,
+      "mention": "hydrochloride",
+      "label": "CHEM"
+    },
+    {
+      "start": 137,
+      "end": 141,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1124,
+      "end": 1131,
+      "mention": "melaxen",
+      "label": "CHEM"
+    },
+    {
+      "start": 491,
+      "end": 510,
+      "mention": "chondroitin sulfate",
+      "label": "CHEM"
+    },
+    {
+      "start": 597,
+      "end": 604,
+      "mention": "melaxen",
+      "label": "CHEM"
+    },
+    {
+      "start": 1591,
+      "end": 1599,
+      "mention": "low back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 780,
+      "end": 785,
+      "mention": "APTPA",
+      "label": "CHEM"
+    },
+    {
+      "start": 923,
+      "end": 930,
+      "mention": "melaxen",
+      "label": "CHEM"
+    },
+    {
+      "start": 236,
+      "end": 240,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1141,
+      "end": 1150,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 231,
+      "end": 235,
+      "mention": "back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 132,
+      "end": 136,
+      "mention": "back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1595,
+      "end": 1604,
+      "mention": "back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1591,
+      "end": 1604,
+      "mention": "low back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 227,
+      "end": 240,
+      "mention": "low back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 41,
+      "end": 54,
+      "mention": "low back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 940,
+      "end": 949,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 614,
+      "end": 623,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 503,
+      "end": 510,
+      "mention": "sulfate",
+      "label": "CHEM"
+    },
+    {
+      "start": 491,
+      "end": 502,
+      "mention": "chondroitin",
+      "label": "CHEM"
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1549,
+      "end": 1558,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 132,
+      "end": 141,
+      "mention": "back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 98,
+      "end": 107,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 50,
+      "end": 54,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 45,
+      "end": 54,
+      "mention": "back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 451,
+      "end": 476,
+      "mention": "glucosamine hydrochloride",
+      "label": "CHEM"
+    },
+    {
+      "start": 1595,
+      "end": 1599,
+      "mention": "back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 45,
+      "end": 49,
+      "mention": "back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 128,
+      "end": 141,
+      "mention": "low back pain",
+      "label": "DISO"
+    }
+  ]
+}

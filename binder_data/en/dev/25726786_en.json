@@ -1,0 +1,263 @@
+{
+  "text": "[Mild cognitive impairment in patients with coronary artery disease: clinical-demographyc and EEG-correlates]. \nOBJECTIVE  The clinical and demographic factors associated with mild cognitive impairment (MCI) and the topographical features of electroencephalogram (EEG) spectral power in patients with coronary artery disease (CAD) depending on the presence or absence of MCI were studied. \nMATERIAL AND METHODS Seventy-five male patients with CAD were assigned to the groups with (n=31) and without MCI (n=44).  \nThe control group included 15 healthy people (the mean age 60.0 ± 4.39 years). \nThe MMSE, the Frontal Assessment battery, the Trail-Making Test, Khanin-Speilberger and Beck depression scales were used.  \nRESULTS A lower level of education, more severe coronary lesions and lower cardiac contractility, as well as higher spectral power (Θ-rhythm) of parietooccipital theta activity have been found in CAD patients with MCI compared to patients without MCI.  \nThe latter parameter in MCI patients also differed from controls. CONCLUSION Education is an important factor to preserve cognitive abilities in patients with CAD. \nIn addition, the severity of coronary artery lesions and low cardiac contractility affect the degree of cerebral ischemia and neuronal dysfunction detected by spectral EEG power. \nThe efficacy of quantitative EEG analysis methods for early detection and prevention of cognitive disorders in CAD patients was confirmed. \n",
+  "entities": [
+    {
+      "start": 686,
+      "end": 696,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 371,
+      "end": 374,
+      "mention": "MCI",
+      "label": "DISO"
+    },
+    {
+      "start": 1,
+      "end": 26,
+      "mention": "Mild cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 1249,
+      "end": 1257,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 1130,
+      "end": 1133,
+      "mention": "CAD",
+      "label": "DISO"
+    },
+    {
+      "start": 443,
+      "end": 446,
+      "mention": "CAD",
+      "label": "DISO"
+    },
+    {
+      "start": 326,
+      "end": 329,
+      "mention": "CAD",
+      "label": "DISO"
+    },
+    {
+      "start": 203,
+      "end": 206,
+      "mention": "MCI",
+      "label": "DISO"
+    },
+    {
+      "start": 1427,
+      "end": 1430,
+      "mention": "CAD",
+      "label": "DISO"
+    },
+    {
+      "start": 301,
+      "end": 324,
+      "mention": "coronary artery disease",
+      "label": "DISO"
+    },
+    {
+      "start": 44,
+      "end": 67,
+      "mention": "coronary artery disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1165,
+      "end": 1188,
+      "mention": "coronary artery lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 774,
+      "end": 781,
+      "mention": "lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 1404,
+      "end": 1423,
+      "mention": "cognitive disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 1181,
+      "end": 1188,
+      "mention": "lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 913,
+      "end": 916,
+      "mention": "CAD",
+      "label": "DISO"
+    },
+    {
+      "start": 765,
+      "end": 781,
+      "mention": "coronary lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 995,
+      "end": 998,
+      "mention": "MCI",
+      "label": "DISO"
+    },
+    {
+      "start": 931,
+      "end": 934,
+      "mention": "MCI",
+      "label": "DISO"
+    },
+    {
+      "start": 1271,
+      "end": 1282,
+      "mention": "dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 6,
+      "end": 26,
+      "mention": "cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 181,
+      "end": 201,
+      "mention": "cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 1165,
+      "end": 1180,
+      "mention": "coronary artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 301,
+      "end": 316,
+      "mention": "coronary artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 44,
+      "end": 59,
+      "mention": "coronary artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 964,
+      "end": 967,
+      "mention": "MCI",
+      "label": "DISO"
+    },
+    {
+      "start": 1240,
+      "end": 1248,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1240,
+      "end": 1257,
+      "mention": "cerebral ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 310,
+      "end": 316,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1174,
+      "end": 1180,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1262,
+      "end": 1270,
+      "mention": "neuronal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 499,
+      "end": 502,
+      "mention": "MCI",
+      "label": "DISO"
+    },
+    {
+      "start": 176,
+      "end": 201,
+      "mention": "mild cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 53,
+      "end": 59,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1197,
+      "end": 1204,
+      "mention": "cardiac",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 301,
+      "end": 309,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 792,
+      "end": 799,
+      "mention": "cardiac",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 862,
+      "end": 878,
+      "mention": "parietooccipital",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1165,
+      "end": 1173,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1262,
+      "end": 1282,
+      "mention": "neuronal dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 765,
+      "end": 773,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 44,
+      "end": 52,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 607,
+      "end": 614,
+      "mention": "Frontal",
+      "label": "ANATOMY"
+    }
+  ]
+}

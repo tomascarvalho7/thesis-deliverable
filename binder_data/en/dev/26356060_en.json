@@ -1,0 +1,233 @@
+{
+  "text": "UNLABELLED  The problem of distal occlusion of the lower limbs cannot be currently considered solved due to too large number (40%) of postoperative amputations. Only surgical way of disease management seems impossible.  Thus multidisciplinary approach is necessary. AIM  To determine the effectiveness of actovegin in treatment of critical ischemia of lower extremities. MATERIAL AND METHODS The study included 60 patients (34 men, 26 women, mean age - 69.5 ± 7.2 years) with confirmed atherosclerosis obliterans (critical limb ischemia stage III-IV with necrotic processes within the toes). Patients in the control group (n=30) received standard medical therapy including pentoxifylline (15 ml), rheopolyglukin (400.0 ml), antiplatelet agents (in some cases with dual antiplatelet therapy), low molecular weight heparins in prophylactic doses, statins. In the main group (n=30) actovegin in a daily dose of 1200 mg intravenously for 15 days, followed by 1200 mg in tablet form (2 tablets 3 times per day) for 15 days was added. Primary, 15-, 30- and 60-day pain-free walking distance and microcirculation using polarography and laser Doppler imaging were assessed in all patients. Cytological and histological studies were applied for double control of therapy's effectiveness. The reliability of the results of microcirculation investigation was achieved using an index of regional tissue perfusion. RESULTS AND DISCUSSION Statistically significant improvement of transcutaneous oxygen tension has not been received in the control group. In the main group therapy with actovegin improved skin perfusion 35% by the 15th day and activated microcirculation 12.8% followed by increased tissue oxygenation. CONCLUSIONS Positive effect of actovegin on the development of collateral blood flow in patients with distal occlusion of the lower limbs is convincingly proven. ",
+  "entities": [
+    {
+      "start": 1571,
+      "end": 1580,
+      "mention": "actovegin",
+      "label": "CHEM"
+    },
+    {
+      "start": 34,
+      "end": 43,
+      "mention": "occlusion",
+      "label": "DISO"
+    },
+    {
+      "start": 1813,
+      "end": 1822,
+      "mention": "occlusion",
+      "label": "DISO"
+    },
+    {
+      "start": 813,
+      "end": 821,
+      "mention": "heparins",
+      "label": "CHEM"
+    },
+    {
+      "start": 27,
+      "end": 43,
+      "mention": "distal occlusion",
+      "label": "DISO"
+    },
+    {
+      "start": 1806,
+      "end": 1822,
+      "mention": "distal occlusion",
+      "label": "DISO"
+    },
+    {
+      "start": 340,
+      "end": 348,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 1684,
+      "end": 1690,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 51,
+      "end": 62,
+      "mention": "lower limbs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1778,
+      "end": 1783,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 523,
+      "end": 536,
+      "mention": "limb ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 585,
+      "end": 589,
+      "mention": "toes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 340,
+      "end": 369,
+      "mention": "ischemia of lower extremities",
+      "label": "DISO"
+    },
+    {
+      "start": 1384,
+      "end": 1390,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 514,
+      "end": 549,
+      "mention": "critical limb ischemia stage III-IV",
+      "label": "DISO"
+    },
+    {
+      "start": 724,
+      "end": 743,
+      "mention": "antiplatelet agents",
+      "label": "CHEM"
+    },
+    {
+      "start": 845,
+      "end": 852,
+      "mention": "statins",
+      "label": "CHEM"
+    },
+    {
+      "start": 1481,
+      "end": 1487,
+      "mention": "oxygen",
+      "label": "CHEM"
+    },
+    {
+      "start": 1590,
+      "end": 1594,
+      "mention": "skin",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 514,
+      "end": 536,
+      "mention": "critical limb ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 879,
+      "end": 888,
+      "mention": "actovegin",
+      "label": "CHEM"
+    },
+    {
+      "start": 792,
+      "end": 821,
+      "mention": "low molecular weight heparins",
+      "label": "CHEM"
+    },
+    {
+      "start": 352,
+      "end": 369,
+      "mention": "lower extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 528,
+      "end": 536,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 673,
+      "end": 687,
+      "mention": "pentoxifylline",
+      "label": "CHEM"
+    },
+    {
+      "start": 1836,
+      "end": 1841,
+      "mention": "limbs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 555,
+      "end": 573,
+      "mention": "necrotic processes",
+      "label": "DISO"
+    },
+    {
+      "start": 486,
+      "end": 501,
+      "mention": "atherosclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 305,
+      "end": 314,
+      "mention": "actovegin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1735,
+      "end": 1744,
+      "mention": "actovegin",
+      "label": "CHEM"
+    },
+    {
+      "start": 57,
+      "end": 62,
+      "mention": "limbs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1058,
+      "end": 1062,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1830,
+      "end": 1841,
+      "mention": "lower limbs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 486,
+      "end": 512,
+      "mention": "atherosclerosis obliterans",
+      "label": "DISO"
+    },
+    {
+      "start": 523,
+      "end": 527,
+      "mention": "limb",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 358,
+      "end": 369,
+      "mention": "extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 331,
+      "end": 369,
+      "mention": "critical ischemia of lower extremities",
+      "label": "DISO"
+    },
+    {
+      "start": 697,
+      "end": 711,
+      "mention": "rheopolyglukin",
+      "label": "CHEM"
+    }
+  ]
+}

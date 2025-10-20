@@ -1,0 +1,359 @@
+{
+  "text": "Metastasis of colorectal cancer (CRC) in an adrenal gland develops in 1.8% of cases (in synchrony or in metachrony) for patients with liver metastatic lesion and aggravates for certain prognosis for long-term survival.  There are no data concerning colorectal metastasis in an adrenal gland with tumor thrombosis of inferior vena cava (IVC) in world-wide literature. A patient, 57 years old, on 04.29.11 underwent palliative distal sigmoid colectomy in respect of CRC pT3N2M1 (metastatic lesion of liver right lobe).  Process stabilization was noticed after 4 courses of polychemotherapy. She underwent further 4 courses in accordance with the same scheme.  On 12.06.13 case-control USI and multi-layer spiral CT of abdominal cavity detected mass lesion in the right adrenal gland, it was estimated as metastatic lesion with compression of inferior vena cava and thrombosis in its lumen at retroliver segment level. Right-sided adrenalectomy. Thrombectomy of IVC was carried out in the condition of total vascular isolation. Taking into account metastasis respectability in an adrenal gland and small extent of a tumor thrombus we suppose the described surgical practice to be justified.  The problem of neoadjuvant chemotherapy prescription is still controversial. ",
+  "entities": [
+    {
+      "start": 498,
+      "end": 514,
+      "mention": "liver right lobe",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1119,
+      "end": 1127,
+      "mention": "thrombus",
+      "label": "DISO"
+    },
+    {
+      "start": 761,
+      "end": 780,
+      "mention": "right adrenal gland",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 716,
+      "end": 732,
+      "mention": "abdominal cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 464,
+      "end": 475,
+      "mention": "CRC pT3N2M1",
+      "label": "DISO"
+    },
+    {
+      "start": 742,
+      "end": 753,
+      "mention": "mass lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 477,
+      "end": 514,
+      "mention": "metastatic lesion of liver right lobe",
+      "label": "DISO"
+    },
+    {
+      "start": 1113,
+      "end": 1127,
+      "mention": "tumor thrombus",
+      "label": "DISO"
+    },
+    {
+      "start": 1085,
+      "end": 1090,
+      "mention": "gland",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 134,
+      "end": 157,
+      "mention": "liver metastatic lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 742,
+      "end": 780,
+      "mention": "mass lesion in the right adrenal gland",
+      "label": "DISO"
+    },
+    {
+      "start": 285,
+      "end": 290,
+      "mention": "gland",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 716,
+      "end": 725,
+      "mention": "abdominal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 747,
+      "end": 753,
+      "mention": "lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 1005,
+      "end": 1013,
+      "mention": "vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 302,
+      "end": 334,
+      "mention": "thrombosis of inferior vena cava",
+      "label": "DISO"
+    },
+    {
+      "start": 881,
+      "end": 886,
+      "mention": "lumen",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 151,
+      "end": 157,
+      "mention": "lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 488,
+      "end": 494,
+      "mention": "lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 813,
+      "end": 819,
+      "mention": "lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 498,
+      "end": 503,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 134,
+      "end": 139,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 52,
+      "end": 57,
+      "mention": "gland",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 775,
+      "end": 780,
+      "mention": "gland",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 14,
+      "end": 31,
+      "mention": "colorectal cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 325,
+      "end": 334,
+      "mention": "vena cava",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 33,
+      "end": 36,
+      "mention": "CRC",
+      "label": "DISO"
+    },
+    {
+      "start": 849,
+      "end": 858,
+      "mention": "vena cava",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 0,
+      "end": 31,
+      "mention": "Metastasis of colorectal cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 44,
+      "end": 57,
+      "mention": "adrenal gland",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 140,
+      "end": 150,
+      "mention": "metastatic",
+      "label": "DISO"
+    },
+    {
+      "start": 802,
+      "end": 812,
+      "mention": "metastatic",
+      "label": "DISO"
+    },
+    {
+      "start": 277,
+      "end": 290,
+      "mention": "adrenal gland",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1077,
+      "end": 1090,
+      "mention": "adrenal gland",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 14,
+      "end": 24,
+      "mention": "colorectal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 477,
+      "end": 487,
+      "mention": "metastatic",
+      "label": "DISO"
+    },
+    {
+      "start": 260,
+      "end": 270,
+      "mention": "metastasis",
+      "label": "DISO"
+    },
+    {
+      "start": 1045,
+      "end": 1055,
+      "mention": "metastasis",
+      "label": "DISO"
+    },
+    {
+      "start": 1113,
+      "end": 1118,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 890,
+      "end": 914,
+      "mention": "retroliver segment level",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 25,
+      "end": 31,
+      "mention": "cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 296,
+      "end": 301,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 767,
+      "end": 780,
+      "mention": "adrenal gland",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 296,
+      "end": 312,
+      "mention": "tumor thrombosis",
+      "label": "DISO"
+    },
+    {
+      "start": 0,
+      "end": 10,
+      "mention": "Metastasis",
+      "label": "DISO"
+    },
+    {
+      "start": 249,
+      "end": 259,
+      "mention": "colorectal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 959,
+      "end": 962,
+      "mention": "IVC",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 464,
+      "end": 467,
+      "mention": "CRC",
+      "label": "DISO"
+    },
+    {
+      "start": 840,
+      "end": 858,
+      "mention": "inferior vena cava",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 325,
+      "end": 329,
+      "mention": "vena",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 849,
+      "end": 853,
+      "mention": "vena",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 802,
+      "end": 819,
+      "mention": "metastatic lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 863,
+      "end": 873,
+      "mention": "thrombosis",
+      "label": "DISO"
+    },
+    {
+      "start": 249,
+      "end": 270,
+      "mention": "colorectal metastasis",
+      "label": "DISO"
+    },
+    {
+      "start": 140,
+      "end": 157,
+      "mention": "metastatic lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 477,
+      "end": 494,
+      "mention": "metastatic lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 336,
+      "end": 339,
+      "mention": "IVC",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 302,
+      "end": 312,
+      "mention": "thrombosis",
+      "label": "DISO"
+    },
+    {
+      "start": 316,
+      "end": 334,
+      "mention": "inferior vena cava",
+      "label": "ANATOMY"
+    }
+  ]
+}

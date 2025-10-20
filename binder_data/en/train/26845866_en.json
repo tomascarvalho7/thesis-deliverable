@@ -1,0 +1,377 @@
+{
+  "text": "AIM  to determine optical coherence tomography (OCT) angiography signs of classic and occult choroidal neovascularization (CNV) in patients with age-related macular degeneration (AMD) and evaluate their information value in monitoring the effect of anti-VEGF therapy. MATERIAL AND METHODS The study enrolled 76 patients (87 eyes), including 68 patients (72 eyes) with wet AMD and 8 patients (15 eyes) with no signs of neovascularization. All patients underwent spectral-domain OCT, OCT angiography, and fluorescein angiography (FA). OCT angiography was used to evaluate neovascular networks in terms of their location, shape, size, and extent of visualization. Sensitivity and specificity of the method were assessed separately in a group of 37 CNV eyes and 15 unsuspicious eyes, specific findings at FA being the main diagnostic criteria. To determine the information value of OCT angiography in monitoring the effect of intravitreal ranibizumab therapy, 9 patients (9 eyes) were selected, in whom the exam was performed the day before the injection and then at days 3, 10, 17, 24, and 31. RESULTS The patients were divided into two groups.  Group 1 consisted of 43 eyes with occult CNV, group 2--of 29 eyes with classic CNV. Neovascular loops underneath the retinal pigment epithelium were found in 76.74% of occult CNV cases.  In patients with classic CNV, the neovasculature was clearly visible in 82.76% of eyes, loop-like and tree-like networks occurring with similar frequency (51.72% and 42.28% respectively). OCT angiography results obtained prior to and following ranibizumab injection revealed a change in not only the size of neovascularization, but also the density, thickness, and branching pattern of newly formed blood vessels. Sensitivity and specificity of OCT angiography has been shown to be 89.2% and 93.3% respectively. CONCLUSION OCT angiography enables diagnosis of both classic and occult choroidal neovascularization in patients with AMD as well as dynamic assessment of the size of the neovascular complex during anti-VEGF treatment. The method has high sensitivity and specificity. ",
+  "entities": [
+    {
+      "start": 2013,
+      "end": 2032,
+      "mention": "neovascular complex",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 157,
+      "end": 164,
+      "mention": "macular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1638,
+      "end": 1656,
+      "mention": "neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 1227,
+      "end": 1238,
+      "mention": "Neovascular",
+      "label": "DISO"
+    },
+    {
+      "start": 2013,
+      "end": 2024,
+      "mention": "neovascular",
+      "label": "DISO"
+    },
+    {
+      "start": 1268,
+      "end": 1275,
+      "mention": "pigment",
+      "label": "CHEM"
+    },
+    {
+      "start": 103,
+      "end": 121,
+      "mention": "neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 570,
+      "end": 581,
+      "mention": "neovascular",
+      "label": "DISO"
+    },
+    {
+      "start": 418,
+      "end": 436,
+      "mention": "neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 1227,
+      "end": 1244,
+      "mention": "Neovascular loops",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1914,
+      "end": 1923,
+      "mention": "choroidal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 93,
+      "end": 102,
+      "mention": "choroidal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1924,
+      "end": 1942,
+      "mention": "neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 93,
+      "end": 121,
+      "mention": "choroidal neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 1729,
+      "end": 1742,
+      "mention": "blood vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1260,
+      "end": 1286,
+      "mention": "retinal pigment epithelium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1355,
+      "end": 1358,
+      "mention": "CNV",
+      "label": "DISO"
+    },
+    {
+      "start": 368,
+      "end": 375,
+      "mention": "wet AMD",
+      "label": "DISO"
+    },
+    {
+      "start": 1184,
+      "end": 1187,
+      "mention": "CNV",
+      "label": "DISO"
+    },
+    {
+      "start": 86,
+      "end": 121,
+      "mention": "occult choroidal neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 1177,
+      "end": 1187,
+      "mention": "occult CNV",
+      "label": "DISO"
+    },
+    {
+      "start": 1907,
+      "end": 1942,
+      "mention": "occult choroidal neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 1311,
+      "end": 1321,
+      "mention": "occult CNV",
+      "label": "DISO"
+    },
+    {
+      "start": 1574,
+      "end": 1585,
+      "mention": "ranibizumab",
+      "label": "CHEM"
+    },
+    {
+      "start": 935,
+      "end": 946,
+      "mention": "ranibizumab",
+      "label": "CHEM"
+    },
+    {
+      "start": 1432,
+      "end": 1450,
+      "mention": "tree-like networks",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 745,
+      "end": 748,
+      "mention": "CNV",
+      "label": "DISO"
+    },
+    {
+      "start": 1318,
+      "end": 1321,
+      "mention": "CNV",
+      "label": "DISO"
+    },
+    {
+      "start": 1895,
+      "end": 1902,
+      "mention": "classic choroidal neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 1914,
+      "end": 1942,
+      "mention": "classic choroidal neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 123,
+      "end": 126,
+      "mention": "CNV",
+      "label": "DISO"
+    },
+    {
+      "start": 157,
+      "end": 177,
+      "mention": "macular degeneration",
+      "label": "DISO"
+    },
+    {
+      "start": 74,
+      "end": 81,
+      "mention": "classic choroidal neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 93,
+      "end": 121,
+      "mention": "classic choroidal neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 1222,
+      "end": 1225,
+      "mention": "CNV",
+      "label": "DISO"
+    },
+    {
+      "start": 1214,
+      "end": 1225,
+      "mention": "classic CNV",
+      "label": "DISO"
+    },
+    {
+      "start": 1260,
+      "end": 1267,
+      "mention": "retinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1735,
+      "end": 1742,
+      "mention": "vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1716,
+      "end": 1742,
+      "mention": "newly formed blood vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1347,
+      "end": 1358,
+      "mention": "classic CNV",
+      "label": "DISO"
+    },
+    {
+      "start": 570,
+      "end": 590,
+      "mention": "neovascular networks",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 179,
+      "end": 182,
+      "mention": "AMD",
+      "label": "DISO"
+    },
+    {
+      "start": 324,
+      "end": 328,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 749,
+      "end": 753,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 774,
+      "end": 778,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 970,
+      "end": 974,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1167,
+      "end": 1171,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1204,
+      "end": 1208,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1412,
+      "end": 1416,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1960,
+      "end": 1963,
+      "mention": "AMD",
+      "label": "DISO"
+    },
+    {
+      "start": 372,
+      "end": 375,
+      "mention": "AMD",
+      "label": "DISO"
+    },
+    {
+      "start": 1729,
+      "end": 1734,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1268,
+      "end": 1286,
+      "mention": "pigment epithelium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 254,
+      "end": 258,
+      "mention": "VEGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 2045,
+      "end": 2049,
+      "mention": "VEGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 1418,
+      "end": 1427,
+      "mention": "loop-like",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1276,
+      "end": 1286,
+      "mention": "epithelium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 395,
+      "end": 399,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 357,
+      "end": 361,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1914,
+      "end": 1942,
+      "mention": "choroidal neovascularization",
+      "label": "DISO"
+    },
+    {
+      "start": 145,
+      "end": 177,
+      "mention": "age-related macular degeneration",
+      "label": "DISO"
+    },
+    {
+      "start": 1364,
+      "end": 1378,
+      "mention": "neovasculature",
+      "label": "ANATOMY"
+    }
+  ]
+}

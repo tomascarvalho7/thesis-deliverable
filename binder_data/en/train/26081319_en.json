@@ -1,0 +1,359 @@
+{
+  "text": "[The effect of pain on quality of life before and after the surgical treatment of lumbar vertebral canal stenosis]. OBJECTIVE To evaluate the efficacy of surgical treatment of lumbar vertebral canal stenosis based on the study of patient's pain and emotional status, quality of life and level of disability before and after surgical treatment.  MATERIAL AND METHODS A complex examination of 163 patients with lumbar vertebral canal stenosis was carried out.  The visual analogous scale, Paindetect (PD) and Douleur neuropathique 4 (DN4), the Chronic Pain Coping Inventory, the Oswestry low back pain disability questionnaire were used. Affective disorders were measured using Beck depression scale.  Blood serum and thrombocytic serotonin were determined with ELISA. Patients were examined at admission before the surgery, at discharge from the hospital after surgical treatment and one year after the surgery. RESULTS AND CONCLUSION Before surgery, the patients had chronic pain syndrome of mixed etiology (nociceptive and neurotic type) and neurological disorders that significantly affected quality of life and work capacity.  Neuropathic pain and depression, reduced quality of life and daily activities were more pronounced in patients with central canal stenosis compared to patients with lateral stenosis. The timely surgical treatment of lumbar vertebral canal stenosis promoted the decompression of nervous structures. A significant reduction of pain syndrome and the level of depression as well as the improvement of quality of life were observed. ",
+  "entities": [
+    {
+      "start": 176,
+      "end": 198,
+      "mention": "lumbar vertebral canal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 409,
+      "end": 431,
+      "mention": "lumbar vertebral canal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 82,
+      "end": 104,
+      "mention": "lumbar vertebral canal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1346,
+      "end": 1368,
+      "mention": "lumbar vertebral canal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 586,
+      "end": 594,
+      "mention": "low back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1043,
+      "end": 1065,
+      "mention": "neurological disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 975,
+      "end": 979,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1142,
+      "end": 1146,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 716,
+      "end": 738,
+      "mention": "thrombocytic serotonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 700,
+      "end": 711,
+      "mention": "Blood serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1024,
+      "end": 1037,
+      "mention": "neurotic type",
+      "label": "DISO"
+    },
+    {
+      "start": 1408,
+      "end": 1415,
+      "mention": "nervous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1130,
+      "end": 1146,
+      "mention": "Neuropathic pain",
+      "label": "DISO"
+    },
+    {
+      "start": 967,
+      "end": 988,
+      "mention": "chronic pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 432,
+      "end": 440,
+      "mention": "stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 975,
+      "end": 988,
+      "mention": "pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 1303,
+      "end": 1311,
+      "mention": "stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 681,
+      "end": 691,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 1369,
+      "end": 1377,
+      "mention": "stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1346,
+      "end": 1362,
+      "mention": "lumbar vertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1486,
+      "end": 1496,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 706,
+      "end": 711,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 590,
+      "end": 599,
+      "mention": "back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1455,
+      "end": 1468,
+      "mention": "pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 1151,
+      "end": 1161,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 1260,
+      "end": 1268,
+      "mention": "stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1246,
+      "end": 1268,
+      "mention": "central canal stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 176,
+      "end": 192,
+      "mention": "lumbar vertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 82,
+      "end": 98,
+      "mention": "lumbar vertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 409,
+      "end": 425,
+      "mention": "lumbar vertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 729,
+      "end": 738,
+      "mention": "serotonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1353,
+      "end": 1362,
+      "mention": "vertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 183,
+      "end": 192,
+      "mention": "vertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 409,
+      "end": 440,
+      "mention": "lumbar vertebral canal stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 176,
+      "end": 207,
+      "mention": "lumbar vertebral canal stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 82,
+      "end": 113,
+      "mention": "lumbar vertebral canal stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1346,
+      "end": 1377,
+      "mention": "lumbar vertebral canal stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1008,
+      "end": 1019,
+      "mention": "nociceptive",
+      "label": "DISO"
+    },
+    {
+      "start": 1455,
+      "end": 1459,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1246,
+      "end": 1259,
+      "mention": "central canal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1295,
+      "end": 1311,
+      "mention": "lateral stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 967,
+      "end": 1006,
+      "mention": "chronic pain syndrome of mixed etiology",
+      "label": "DISO"
+    },
+    {
+      "start": 416,
+      "end": 425,
+      "mention": "vertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 595,
+      "end": 599,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 15,
+      "end": 19,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 636,
+      "end": 655,
+      "mention": "Affective disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 240,
+      "end": 244,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 199,
+      "end": 207,
+      "mention": "stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 716,
+      "end": 728,
+      "mention": "thrombocytic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1408,
+      "end": 1426,
+      "mention": "nervous structures",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 89,
+      "end": 98,
+      "mention": "vertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 590,
+      "end": 594,
+      "mention": "back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 700,
+      "end": 705,
+      "mention": "Blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 105,
+      "end": 113,
+      "mention": "stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 586,
+      "end": 610,
+      "mention": "low back pain disability",
+      "label": "DISO"
+    },
+    {
+      "start": 296,
+      "end": 306,
+      "mention": "disability",
+      "label": "DISO"
+    },
+    {
+      "start": 600,
+      "end": 610,
+      "mention": "disability",
+      "label": "DISO"
+    },
+    {
+      "start": 550,
+      "end": 554,
+      "mention": "Pain",
+      "label": "DISO"
+    },
+    {
+      "start": 586,
+      "end": 599,
+      "mention": "low back pain",
+      "label": "DISO"
+    }
+  ]
+}

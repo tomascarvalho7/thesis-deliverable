@@ -1,0 +1,161 @@
+{
+  "text": "OBJECTIVE  To substantiate the reasonability and duration of angiographic follow-up of patients operated on for cerebral aneurysms to rule out de novo aneurysm formation. MATERIAL AND METHODS The results of angiographic examination (cerebral angiography and SCT angiography) of 43 patients with cerebral aneurysms operated on at the Burdenko Neurosurgical Institute in 1995-2012 are analyzed. The follow-up duration varied from 1 to 14 years after surgery (mean duration, 5 years).  Patients' age ranged from 14 to 56 years. RESULTS Control angiographic examination showed that de novo aneurysms were formed in 7 (16.2%) patients. A total of 8 de novo aneurysms were detected (in one case there were two aneurysms formed). All aneurysms, both the previously operated and the de novo ones, were located in the anterior part of the circle of Willis. De novo aneurysms were clipped in 5 cases; the cavity of the de novo aneurysm was occluded with spirals in one case. One patient with a small aneurysm of the middle cerebral artery refused surgery. Neither lethal nor unfavorable outcomes were recorded. CONCLUSIONS The patient groups with the high risk of de novo aneurysm formation are as follows: 1) young smokers with hypertension; 2) patients who developed clinical signs of the disease when being young; 3) patients subjected to proximal exclusion of the main artery; and 4) patients with multiple and familial forms of the pathology. Dynamic angiographic follow-up (SCT angiography or magnetic resonance angiography) for 1-3 years is recommended for these patients. ",
+  "entities": [
+    {
+      "start": 1006,
+      "end": 1028,
+      "mention": "middle cerebral artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1219,
+      "end": 1231,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 990,
+      "end": 998,
+      "mention": "aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 295,
+      "end": 303,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 295,
+      "end": 313,
+      "mention": "cerebral aneurysms",
+      "label": "DISO"
+    },
+    {
+      "start": 112,
+      "end": 130,
+      "mention": "cerebral aneurysms",
+      "label": "DISO"
+    },
+    {
+      "start": 727,
+      "end": 736,
+      "mention": "aneurysms",
+      "label": "DISO"
+    },
+    {
+      "start": 809,
+      "end": 846,
+      "mention": "anterior part of the circle of Willis",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 830,
+      "end": 846,
+      "mention": "circle of Willis",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1363,
+      "end": 1369,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1358,
+      "end": 1369,
+      "mention": "main artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1022,
+      "end": 1028,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 143,
+      "end": 159,
+      "mention": "de novo aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 704,
+      "end": 713,
+      "mention": "aneurysms",
+      "label": "DISO"
+    },
+    {
+      "start": 1013,
+      "end": 1028,
+      "mention": "cerebral artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1162,
+      "end": 1170,
+      "mention": "aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 233,
+      "end": 241,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 652,
+      "end": 661,
+      "mention": "aneurysms",
+      "label": "DISO"
+    },
+    {
+      "start": 112,
+      "end": 120,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1013,
+      "end": 1021,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 151,
+      "end": 159,
+      "mention": "aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 856,
+      "end": 865,
+      "mention": "aneurysms",
+      "label": "DISO"
+    },
+    {
+      "start": 121,
+      "end": 130,
+      "mention": "aneurysms",
+      "label": "DISO"
+    },
+    {
+      "start": 304,
+      "end": 313,
+      "mention": "aneurysms",
+      "label": "DISO"
+    },
+    {
+      "start": 586,
+      "end": 595,
+      "mention": "aneurysms",
+      "label": "DISO"
+    },
+    {
+      "start": 917,
+      "end": 925,
+      "mention": "aneurysm",
+      "label": "DISO"
+    }
+  ]
+}

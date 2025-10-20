@@ -1,0 +1,239 @@
+{
+  "text": "[Alexithymia in patients with left-hemispheric cerebral infarction in the late recovery period]. AIM  To study emotional status, including alexithymia, anxiety and depression, in patients with cerebral infarction in the area of the middle cerebral artery (on the left side) in the late recovery period and to develop a method for correction of the damage. MATERIAL AND METHODS The study included 30 patients with cerebral infarction in the area of the middle cerebral artery (on the left side).  A comparison group consisted of 10 patients with chronic brain ischemia. RESULTS AND CONCLUSION  The results have demonstrated the correlation between the level of alexithymia and the severity of neurological deficit, sex-related level of anxiety and depression. The cerebral infarction impacts on the level of alexithymia.  Alexithymia in patients with cerebral infarction affects the adequate self-esteem of physical and mental condition that may complicate the rehabilitation of these patients and demands correction as a combination of pharmacotherapy and psychotherapeutic intervention. ",
+  "entities": [
+    {
+      "start": 553,
+      "end": 567,
+      "mention": "brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 422,
+      "end": 432,
+      "mention": "infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 1,
+      "end": 12,
+      "mention": "Alexithymia",
+      "label": "DISO"
+    },
+    {
+      "start": 164,
+      "end": 174,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 553,
+      "end": 558,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 139,
+      "end": 150,
+      "mention": "alexithymia",
+      "label": "DISO"
+    },
+    {
+      "start": 56,
+      "end": 66,
+      "mention": "infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 763,
+      "end": 782,
+      "mention": "cerebral infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 413,
+      "end": 432,
+      "mention": "cerebral infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 193,
+      "end": 212,
+      "mention": "cerebral infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 850,
+      "end": 869,
+      "mention": "cerebral infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 47,
+      "end": 66,
+      "mention": "cerebral infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 772,
+      "end": 782,
+      "mention": "infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 30,
+      "end": 66,
+      "mention": "left-hemispheric cerebral infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 248,
+      "end": 254,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 747,
+      "end": 757,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 193,
+      "end": 201,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 459,
+      "end": 467,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 47,
+      "end": 55,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 413,
+      "end": 421,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 807,
+      "end": 818,
+      "mention": "alexithymia",
+      "label": "DISO"
+    },
+    {
+      "start": 202,
+      "end": 212,
+      "mention": "infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 735,
+      "end": 742,
+      "mention": "anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 559,
+      "end": 567,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 459,
+      "end": 474,
+      "mention": "cerebral artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 660,
+      "end": 671,
+      "mention": "alexithymia",
+      "label": "DISO"
+    },
+    {
+      "start": 692,
+      "end": 712,
+      "mention": "neurological deficit",
+      "label": "DISO"
+    },
+    {
+      "start": 239,
+      "end": 247,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 232,
+      "end": 254,
+      "mention": "middle cerebral artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 152,
+      "end": 159,
+      "mention": "anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 452,
+      "end": 474,
+      "mention": "middle cerebral artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 821,
+      "end": 832,
+      "mention": "Alexithymia",
+      "label": "DISO"
+    },
+    {
+      "start": 763,
+      "end": 771,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 239,
+      "end": 254,
+      "mention": "cerebral artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 30,
+      "end": 46,
+      "mention": "left-hemispheric",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 545,
+      "end": 567,
+      "mention": "chronic brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 468,
+      "end": 474,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 859,
+      "end": 869,
+      "mention": "infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 850,
+      "end": 858,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    }
+  ]
+}

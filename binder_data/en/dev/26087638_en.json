@@ -1,0 +1,329 @@
+{
+  "text": "[Evolution of ideas on microscopic colitis].  The literature review gives the present-day views of the definition, etiology, pathogenesis, diagnosis, and treatment of microscopic colitis (MC). In the present view, MC is an inflammatory bowel disease of unknown etiology, which is characterized by chronic watery diarrhea, no macroscopic signs of large bowel involvement in the presence of specific pathomorphological changes. There are two major forms of MC, which are similar in its clinical picture, yet, heterogeneous in histological criteria: collagenous colitis (CC) and lymphocytic colitis (LC).  As of now, the prevalence of MC is about 100 cases per 100,000 population, which is similar with that in other inflammatory bowel diseases, such as ulcerative colitis and Crohn's disease. MC generally prevails in women aged over 50 years.  The etiology and pathogenesis of MC have not fully investigated. Watery diarrhea is as a predominant pathognomonic symptom in all the patients with MC. The major histological criterion for the diagnosis of CC is subepithelial collagen lining thickening (more than 10 pm) and that for LC is higher intraepithelial lymphocyte counts (more than 20 intraepithelial lymphocytes/100 epitheliocytes). The topical glucocorticosteroid budesonide is currently the only agent, the efficacy of which has been proven in both inducing and maintaining remission in patients with MC in many clinical trials. ",
+  "entities": [
+    {
+      "start": 236,
+      "end": 249,
+      "mention": "bowel disease",
+      "label": "DISO"
+    },
+    {
+      "start": 455,
+      "end": 457,
+      "mention": "MC",
+      "label": "DISO"
+    },
+    {
+      "start": 991,
+      "end": 993,
+      "mention": "MC",
+      "label": "DISO"
+    },
+    {
+      "start": 214,
+      "end": 216,
+      "mention": "MC",
+      "label": "DISO"
+    },
+    {
+      "start": 167,
+      "end": 186,
+      "mention": "microscopic colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1407,
+      "end": 1409,
+      "mention": "MC",
+      "label": "DISO"
+    },
+    {
+      "start": 1249,
+      "end": 1268,
+      "mention": "glucocorticosteroid",
+      "label": "CHEM"
+    },
+    {
+      "start": 876,
+      "end": 878,
+      "mention": "MC",
+      "label": "DISO"
+    },
+    {
+      "start": 188,
+      "end": 190,
+      "mention": "MC",
+      "label": "DISO"
+    },
+    {
+      "start": 223,
+      "end": 249,
+      "mention": "inflammatory bowel disease",
+      "label": "DISO"
+    },
+    {
+      "start": 727,
+      "end": 741,
+      "mention": "bowel diseases",
+      "label": "DISO"
+    },
+    {
+      "start": 23,
+      "end": 42,
+      "mention": "microscopic colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 791,
+      "end": 793,
+      "mention": "MC",
+      "label": "DISO"
+    },
+    {
+      "start": 236,
+      "end": 241,
+      "mention": "bowel",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 727,
+      "end": 732,
+      "mention": "bowel",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 597,
+      "end": 599,
+      "mention": "LC",
+      "label": "DISO"
+    },
+    {
+      "start": 35,
+      "end": 42,
+      "mention": "colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 179,
+      "end": 186,
+      "mention": "colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 352,
+      "end": 357,
+      "mention": "bowel",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 576,
+      "end": 595,
+      "mention": "lymphocytic colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 751,
+      "end": 769,
+      "mention": "ulcerative colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 346,
+      "end": 357,
+      "mention": "large bowel",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 559,
+      "end": 566,
+      "mention": "colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 714,
+      "end": 741,
+      "mention": "inflammatory bowel diseases",
+      "label": "DISO"
+    },
+    {
+      "start": 1069,
+      "end": 1077,
+      "mention": "collagen",
+      "label": "CHEM"
+    },
+    {
+      "start": 1188,
+      "end": 1203,
+      "mention": "intraepithelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 588,
+      "end": 595,
+      "mention": "colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1204,
+      "end": 1215,
+      "mention": "lymphocytes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 576,
+      "end": 587,
+      "mention": "lymphocytic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 915,
+      "end": 923,
+      "mention": "diarrhea",
+      "label": "DISO"
+    },
+    {
+      "start": 312,
+      "end": 320,
+      "mention": "diarrhea",
+      "label": "DISO"
+    },
+    {
+      "start": 1269,
+      "end": 1279,
+      "mention": "budesonide",
+      "label": "CHEM"
+    },
+    {
+      "start": 860,
+      "end": 872,
+      "mention": "pathogenesis",
+      "label": "DISO"
+    },
+    {
+      "start": 1055,
+      "end": 1084,
+      "mention": "subepithelial collagen lining",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1220,
+      "end": 1234,
+      "mention": "epitheliocytes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 125,
+      "end": 137,
+      "mention": "pathogenesis",
+      "label": "DISO"
+    },
+    {
+      "start": 1140,
+      "end": 1155,
+      "mention": "intraepithelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 751,
+      "end": 761,
+      "mention": "ulcerative",
+      "label": "DISO"
+    },
+    {
+      "start": 398,
+      "end": 424,
+      "mention": "pathomorphological changes",
+      "label": "DISO"
+    },
+    {
+      "start": 1156,
+      "end": 1166,
+      "mention": "lymphocyte",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1241,
+      "end": 1268,
+      "mention": "topical glucocorticosteroid",
+      "label": "CHEM"
+    },
+    {
+      "start": 1127,
+      "end": 1129,
+      "mention": "LC",
+      "label": "DISO"
+    },
+    {
+      "start": 908,
+      "end": 923,
+      "mention": "Watery diarrhea",
+      "label": "DISO"
+    },
+    {
+      "start": 1055,
+      "end": 1068,
+      "mention": "subepithelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 774,
+      "end": 789,
+      "mention": "Crohn's disease",
+      "label": "DISO"
+    },
+    {
+      "start": 762,
+      "end": 769,
+      "mention": "colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1049,
+      "end": 1051,
+      "mention": "CC",
+      "label": "DISO"
+    },
+    {
+      "start": 547,
+      "end": 566,
+      "mention": "collagenous colitis",
+      "label": "DISO"
+    },
+    {
+      "start": 568,
+      "end": 570,
+      "mention": "CC",
+      "label": "DISO"
+    },
+    {
+      "start": 297,
+      "end": 320,
+      "mention": "chronic watery diarrhea",
+      "label": "DISO"
+    },
+    {
+      "start": 305,
+      "end": 320,
+      "mention": "watery diarrhea",
+      "label": "DISO"
+    },
+    {
+      "start": 632,
+      "end": 634,
+      "mention": "MC",
+      "label": "DISO"
+    },
+    {
+      "start": 1188,
+      "end": 1215,
+      "mention": "intraepithelial lymphocytes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1140,
+      "end": 1166,
+      "mention": "intraepithelial lymphocyte",
+      "label": "ANATOMY"
+    }
+  ]
+}

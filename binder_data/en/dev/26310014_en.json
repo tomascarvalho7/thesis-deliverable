@@ -1,0 +1,251 @@
+{
+  "text": "[Vogt-Koyanagi-Harada syndrome (clinical cases)].  OBJECTIVE to analyze two female cases of Vogt-Koyanagi-Harada (VKH) syndrome. MATERIAL AND METHODS The first patient presented with bilateral panuveitis and unilateral keratomalacia (left eye).  For the latter, blepharorrhaphy was performed. Methylprednisolone (Metypred) and azathioprine pulses, subsequently switched to oral therapy, caused regression of uveitis.  In 1 month the patient was operated for retinal detachment and associated cataract in her right eye. The second patient presented with bilateral detachment of neuroepithelium.  Complete reattachment in both eyes was achieved with Metypred pulses followed by oral prednisolone and azathioprine. Bilateral panuveitis with pupil occlusion developed 6 months after the cessation of prednisolone, however, began to resolve as soon as the treatment was resumed. RESULTS Timely diagnosis and combination pulse therapy (methylprednisolone and azathioprine) enabled rapid resolution of acute condition. CONCLUSIONS Pulse Metypred is the mainstay of the treatment of VKH syndrome. Supplementing the treatment of autoimmune uveitis with low doses of azathioprine slows progression of the disease and minimizes prednisolone-induced side effects.  It is important that VKH patients are treated with pathogenetic therapy in close cooperation with an immunologist. Long-term monitoring (not less than 2-3 years) is also necessary. ",
+  "entities": [
+    {
+      "start": 1238,
+      "end": 1250,
+      "mention": "side effects",
+      "label": "DISO"
+    },
+    {
+      "start": 796,
+      "end": 808,
+      "mention": "prednisolone",
+      "label": "CHEM"
+    },
+    {
+      "start": 514,
+      "end": 517,
+      "mention": "eye",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 234,
+      "end": 242,
+      "mention": "left eye",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 508,
+      "end": 517,
+      "mention": "right eye",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 738,
+      "end": 753,
+      "mention": "pupil occlusion",
+      "label": "DISO"
+    },
+    {
+      "start": 722,
+      "end": 732,
+      "mention": "panuveitis",
+      "label": "DISO"
+    },
+    {
+      "start": 114,
+      "end": 117,
+      "mention": "VKH",
+      "label": "DISO"
+    },
+    {
+      "start": 193,
+      "end": 203,
+      "mention": "panuveitis",
+      "label": "DISO"
+    },
+    {
+      "start": 698,
+      "end": 710,
+      "mention": "azathioprine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1120,
+      "end": 1138,
+      "mention": "autoimmune uveitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1274,
+      "end": 1277,
+      "mention": "VKH",
+      "label": "DISO"
+    },
+    {
+      "start": 577,
+      "end": 592,
+      "mention": "neuroepithelium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1,
+      "end": 30,
+      "mention": "Vogt-Koyanagi-Harada syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 625,
+      "end": 629,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1075,
+      "end": 1087,
+      "mention": "VKH syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 293,
+      "end": 311,
+      "mention": "Methylprednisolone",
+      "label": "CHEM"
+    },
+    {
+      "start": 930,
+      "end": 948,
+      "mention": "methylprednisolone",
+      "label": "CHEM"
+    },
+    {
+      "start": 458,
+      "end": 476,
+      "mention": "retinal detachment",
+      "label": "DISO"
+    },
+    {
+      "start": 563,
+      "end": 592,
+      "mention": "detachment of neuroepithelium",
+      "label": "DISO"
+    },
+    {
+      "start": 712,
+      "end": 732,
+      "mention": "Bilateral panuveitis",
+      "label": "DISO"
+    },
+    {
+      "start": 183,
+      "end": 203,
+      "mention": "bilateral panuveitis",
+      "label": "DISO"
+    },
+    {
+      "start": 744,
+      "end": 753,
+      "mention": "occlusion",
+      "label": "DISO"
+    },
+    {
+      "start": 553,
+      "end": 592,
+      "mention": "bilateral detachment of neuroepithelium",
+      "label": "DISO"
+    },
+    {
+      "start": 219,
+      "end": 232,
+      "mention": "keratomalacia",
+      "label": "DISO"
+    },
+    {
+      "start": 458,
+      "end": 465,
+      "mention": "retinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 92,
+      "end": 127,
+      "mention": "Vogt-Koyanagi-Harada (VKH) syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 1030,
+      "end": 1038,
+      "mention": "Metypred",
+      "label": "CHEM"
+    },
+    {
+      "start": 648,
+      "end": 656,
+      "mention": "Metypred",
+      "label": "CHEM"
+    },
+    {
+      "start": 738,
+      "end": 743,
+      "mention": "pupil",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 313,
+      "end": 321,
+      "mention": "Metypred",
+      "label": "CHEM"
+    },
+    {
+      "start": 208,
+      "end": 232,
+      "mention": "unilateral keratomalacia",
+      "label": "DISO"
+    },
+    {
+      "start": 1131,
+      "end": 1138,
+      "mention": "uveitis",
+      "label": "DISO"
+    },
+    {
+      "start": 408,
+      "end": 415,
+      "mention": "uveitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1217,
+      "end": 1229,
+      "mention": "prednisolone",
+      "label": "CHEM"
+    },
+    {
+      "start": 953,
+      "end": 965,
+      "mention": "azathioprine",
+      "label": "CHEM"
+    },
+    {
+      "start": 327,
+      "end": 339,
+      "mention": "azathioprine",
+      "label": "CHEM"
+    },
+    {
+      "start": 239,
+      "end": 242,
+      "mention": "eye",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1157,
+      "end": 1169,
+      "mention": "azathioprine",
+      "label": "CHEM"
+    },
+    {
+      "start": 681,
+      "end": 693,
+      "mention": "prednisolone",
+      "label": "CHEM"
+    },
+    {
+      "start": 492,
+      "end": 500,
+      "mention": "cataract",
+      "label": "DISO"
+    }
+  ]
+}

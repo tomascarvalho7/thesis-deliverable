@@ -1,0 +1,341 @@
+{
+  "text": "AIM  to compare tear, saliva, and plasma levels of acute phase proteins (APPs) of inflammation in patients with herpes keratitis and to use the RESULTS in treatment evaluation. MATERIAL AND METHODS APPs were measured in tears, oral fluid, and blood plasma from 22 adults and 34 children with ophthalmic herpes as well as 68 healthy controls using immunoturbidimetric and spectrophotometric methods of detection. RESULTS High levels of C-reactive protein and orosomucoid, low levels of ceruloplasmin, α1-antitrypsin, and transferrin in tears from patients with herpes keratitis as well as abnormal tear, saliva, and plasma APPs levels at discharge are poor prognostic signs. They all indicate that corneal inflammation is still intense and that the treatment should not be ceased yet.  Severity of APPs concentration changes in tear from patients with herpes keratitis correlates with the depth of corneal lesions, recurrence rate, and disease dynamics. Quantitative determination of acute phase proteins in tear and oral fluid is an early and sensitive inflammation test and may be also used for non-invasive monitoring and antiviral treatment evaluation.  Oral fluid allows to extend the capabilities of non-invasive diagnostics of ophthalmic herpes. ",
+  "entities": [
+    {
+      "start": 1157,
+      "end": 1167,
+      "mention": "Oral fluid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1016,
+      "end": 1026,
+      "mention": "oral fluid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1157,
+      "end": 1161,
+      "mention": "Oral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1016,
+      "end": 1020,
+      "mention": "oral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 243,
+      "end": 248,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 227,
+      "end": 231,
+      "mention": "oral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 458,
+      "end": 469,
+      "mention": "orosomucoid",
+      "label": "CHEM"
+    },
+    {
+      "start": 560,
+      "end": 576,
+      "mention": "herpes keratitis",
+      "label": "DISO"
+    },
+    {
+      "start": 983,
+      "end": 1003,
+      "mention": "acute phase proteins",
+      "label": "CHEM"
+    },
+    {
+      "start": 227,
+      "end": 237,
+      "mention": "oral fluid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 112,
+      "end": 128,
+      "mention": "herpes keratitis",
+      "label": "DISO"
+    },
+    {
+      "start": 597,
+      "end": 601,
+      "mention": "tear",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 622,
+      "end": 626,
+      "mention": "APPs",
+      "label": "CHEM"
+    },
+    {
+      "start": 51,
+      "end": 71,
+      "mention": "acute phase proteins",
+      "label": "CHEM"
+    },
+    {
+      "start": 198,
+      "end": 202,
+      "mention": "APPs",
+      "label": "CHEM"
+    },
+    {
+      "start": 520,
+      "end": 531,
+      "mention": "transferrin",
+      "label": "CHEM"
+    },
+    {
+      "start": 797,
+      "end": 801,
+      "mention": "APPs",
+      "label": "CHEM"
+    },
+    {
+      "start": 292,
+      "end": 309,
+      "mention": "ophthalmic herpes",
+      "label": "DISO"
+    },
+    {
+      "start": 73,
+      "end": 77,
+      "mention": "APPs",
+      "label": "CHEM"
+    },
+    {
+      "start": 705,
+      "end": 717,
+      "mention": "inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 1053,
+      "end": 1065,
+      "mention": "inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 82,
+      "end": 94,
+      "mention": "inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 1233,
+      "end": 1250,
+      "mention": "ophthalmic herpes",
+      "label": "DISO"
+    },
+    {
+      "start": 897,
+      "end": 912,
+      "mention": "corneal lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 851,
+      "end": 867,
+      "mention": "herpes keratitis",
+      "label": "DISO"
+    },
+    {
+      "start": 535,
+      "end": 540,
+      "mention": "tears",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 63,
+      "end": 71,
+      "mention": "proteins",
+      "label": "CHEM"
+    },
+    {
+      "start": 995,
+      "end": 1003,
+      "mention": "proteins",
+      "label": "CHEM"
+    },
+    {
+      "start": 1007,
+      "end": 1011,
+      "mention": "tear",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 16,
+      "end": 20,
+      "mention": "tear",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 827,
+      "end": 831,
+      "mention": "tear",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 119,
+      "end": 128,
+      "mention": "keratitis",
+      "label": "DISO"
+    },
+    {
+      "start": 500,
+      "end": 514,
+      "mention": "α1-antitrypsin",
+      "label": "CHEM"
+    },
+    {
+      "start": 567,
+      "end": 576,
+      "mention": "keratitis",
+      "label": "DISO"
+    },
+    {
+      "start": 858,
+      "end": 867,
+      "mention": "keratitis",
+      "label": "DISO"
+    },
+    {
+      "start": 485,
+      "end": 498,
+      "mention": "ceruloplasmin",
+      "label": "CHEM"
+    },
+    {
+      "start": 112,
+      "end": 118,
+      "mention": "herpes",
+      "label": "DISO"
+    },
+    {
+      "start": 851,
+      "end": 857,
+      "mention": "herpes",
+      "label": "DISO"
+    },
+    {
+      "start": 615,
+      "end": 621,
+      "mention": "plasma",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 34,
+      "end": 40,
+      "mention": "plasma",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 220,
+      "end": 225,
+      "mention": "tears",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 603,
+      "end": 609,
+      "mention": "saliva",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 897,
+      "end": 904,
+      "mention": "corneal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1244,
+      "end": 1250,
+      "mention": "herpes",
+      "label": "DISO"
+    },
+    {
+      "start": 560,
+      "end": 566,
+      "mention": "herpes",
+      "label": "DISO"
+    },
+    {
+      "start": 303,
+      "end": 309,
+      "mention": "herpes",
+      "label": "DISO"
+    },
+    {
+      "start": 697,
+      "end": 704,
+      "mention": "corneal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 914,
+      "end": 924,
+      "mention": "recurrence",
+      "label": "DISO"
+    },
+    {
+      "start": 697,
+      "end": 717,
+      "mention": "corneal inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 292,
+      "end": 302,
+      "mention": "ophthalmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 243,
+      "end": 255,
+      "mention": "blood plasma",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 435,
+      "end": 453,
+      "mention": "C-reactive protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 446,
+      "end": 453,
+      "mention": "protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 1233,
+      "end": 1243,
+      "mention": "ophthalmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 22,
+      "end": 28,
+      "mention": "saliva",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 249,
+      "end": 255,
+      "mention": "plasma",
+      "label": "ANATOMY"
+    }
+  ]
+}

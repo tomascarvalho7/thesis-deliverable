@@ -1,0 +1,347 @@
+{
+  "text": "[An effect of valdoxan on the hemostasis in patients with acute coronary syndrome in the combination with anxiety and depressive disorders].  OBJECTIVE To explore the dynamics of hemostasis in patients with acute coronary syndrome (ACS) in the combination with anxiety and depressive disorders (ADD) during therapy with valdoxan (agomelatine).  MATERIAL AND METHODS We examined 196 male and female patients (mean age 64.2 ± 0.8 years) in the first 24 hours of ACS.  The patients were divided into three groups: patients with ACS without ADD (n=88), patients with ACS and ADD without valdoxan therapy (n=58) and patients with ACS and ADD treated with valdoxan (n=50). Coagulation and vascular-platelet hemostasis were studied in the first 24 hours of hospitalization and in the 10th day of hospitalization.  RESULTS Patients with ACS revealed high levels of fibrinogen, soluble fibrin-monomer complexes, D-dimer at all stages of the study.  In patients with ADD, these parameters were significantly higher compared to patients without ADD. The levels of D-dimer in the 10th day were similar in patients with ADD treated with valdoxan and in patients with ACS without ADD. In both groups of patients with ADD, the levels of spontaneous aggregation in the first and 10th days of hospitalization were not significantly higher than in the control group and in patients with ACS without ADD. All patients with ACS had high values of platelet aggregation stimulated by adenosine diphosphate in dose 0.1 uM.  In patients with ACS and ADD treated with valdoxan, a significant reduction of these parameters was noted in the 10th day of treatment compared to the first day of hospitalization. CONCLUSION  The high procoagulant activity of the hemostatic system was observed during all stages of the study in the patients with ACS and ADD who received a combined antithrombotic therapy without valdoxan. ",
+  "entities": [
+    {
+      "start": 64,
+      "end": 72,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1462,
+      "end": 1471,
+      "mention": "adenosine",
+      "label": "CHEM"
+    },
+    {
+      "start": 683,
+      "end": 691,
+      "mention": "vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1053,
+      "end": 1060,
+      "mention": "D-dimer",
+      "label": "CHEM"
+    },
+    {
+      "start": 1462,
+      "end": 1483,
+      "mention": "adenosine diphosphate",
+      "label": "CHEM"
+    },
+    {
+      "start": 1427,
+      "end": 1435,
+      "mention": "platelet",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 692,
+      "end": 700,
+      "mention": "platelet",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 261,
+      "end": 268,
+      "mention": "anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 320,
+      "end": 328,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 213,
+      "end": 221,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1472,
+      "end": 1483,
+      "mention": "diphosphate",
+      "label": "CHEM"
+    },
+    {
+      "start": 330,
+      "end": 341,
+      "mention": "agomelatine",
+      "label": "CHEM"
+    },
+    {
+      "start": 625,
+      "end": 628,
+      "mention": "ACS",
+      "label": "DISO"
+    },
+    {
+      "start": 583,
+      "end": 591,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 14,
+      "end": 22,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 877,
+      "end": 883,
+      "mention": "fibrin",
+      "label": "CHEM"
+    },
+    {
+      "start": 857,
+      "end": 867,
+      "mention": "fibrinogen",
+      "label": "CHEM"
+    },
+    {
+      "start": 650,
+      "end": 658,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 106,
+      "end": 113,
+      "mention": "anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 1381,
+      "end": 1384,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 903,
+      "end": 910,
+      "mention": "D-dimer",
+      "label": "CHEM"
+    },
+    {
+      "start": 1203,
+      "end": 1206,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 1369,
+      "end": 1372,
+      "mention": "ACS",
+      "label": "DISO"
+    },
+    {
+      "start": 1823,
+      "end": 1826,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 273,
+      "end": 293,
+      "mention": "depressive disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 118,
+      "end": 138,
+      "mention": "depressive disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 571,
+      "end": 574,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 1882,
+      "end": 1890,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 106,
+      "end": 138,
+      "mention": "anxiety and depressive disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 869,
+      "end": 901,
+      "mention": "soluble fibrin-monomer complexes",
+      "label": "CHEM"
+    },
+    {
+      "start": 295,
+      "end": 298,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 261,
+      "end": 293,
+      "mention": "anxiety and depressive disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 563,
+      "end": 566,
+      "mention": "ACS",
+      "label": "DISO"
+    },
+    {
+      "start": 884,
+      "end": 891,
+      "mention": "monomer",
+      "label": "CHEM"
+    },
+    {
+      "start": 877,
+      "end": 901,
+      "mention": "fibrin-monomer complexes",
+      "label": "CHEM"
+    },
+    {
+      "start": 829,
+      "end": 832,
+      "mention": "ACS",
+      "label": "DISO"
+    },
+    {
+      "start": 232,
+      "end": 235,
+      "mention": "ACS",
+      "label": "DISO"
+    },
+    {
+      "start": 525,
+      "end": 528,
+      "mention": "ACS",
+      "label": "DISO"
+    },
+    {
+      "start": 460,
+      "end": 463,
+      "mention": "ACS",
+      "label": "DISO"
+    },
+    {
+      "start": 1154,
+      "end": 1157,
+      "mention": "ACS",
+      "label": "DISO"
+    },
+    {
+      "start": 1543,
+      "end": 1551,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 207,
+      "end": 230,
+      "mention": "acute coronary syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 1815,
+      "end": 1818,
+      "mention": "ACS",
+      "label": "DISO"
+    },
+    {
+      "start": 633,
+      "end": 636,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 1124,
+      "end": 1132,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 1404,
+      "end": 1407,
+      "mention": "ACS",
+      "label": "DISO"
+    },
+    {
+      "start": 957,
+      "end": 960,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 1732,
+      "end": 1749,
+      "mention": "hemostatic system",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1526,
+      "end": 1529,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 213,
+      "end": 230,
+      "mention": "coronary syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 64,
+      "end": 81,
+      "mention": "coronary syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 1166,
+      "end": 1169,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 1107,
+      "end": 1110,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 1034,
+      "end": 1037,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 537,
+      "end": 540,
+      "mention": "ADD",
+      "label": "DISO"
+    },
+    {
+      "start": 1518,
+      "end": 1521,
+      "mention": "ACS",
+      "label": "DISO"
+    },
+    {
+      "start": 58,
+      "end": 81,
+      "mention": "acute coronary syndrome",
+      "label": "DISO"
+    }
+  ]
+}

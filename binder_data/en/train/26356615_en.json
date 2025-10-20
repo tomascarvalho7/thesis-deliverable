@@ -1,0 +1,197 @@
+{
+  "text": "[Clinical and morphologic efficacy of a complex antioxidant and energy correction therapy of different duration in brain infarction: results of a multicenter randomized trial].  AIM To compare clinical and morphological results of treatment of ischemic stroke in three groups of patients which differed by the forms and duration of an antioxidant therapy. MATERIAL AND METHODS  A randomized clinical trial was performed in 8 vascular centers of the Russian Federation in 2010-2014. It included 373 patients with ischemic stroke in the carotid territory.  Patients were randomized into 3 groups to receive different regimens of antioxidant therapy as an adjunct to standard therapy: control group (ascorbic acid; 132 patients); cytoflavin (20 ml per day for 10 days; 133 patients); cytoflavin (the dose was decreased to 10 ml per day from 11th to 20th day) (108 patients). Patient's condition was assessed in 1, 10 and 21 day by a complex of clinical, laboratory and instrumental methods. RESULTS AND CONCLUSION  The analysis of CT in 1th and 21th day revealed a significant 1,5-1,7- fold decrease in the cerebral ischemic lesion in both groups treated with cytoflavin with no significant morphologic changes in the ascorbic acid group. The percentage of patients with ischemic lesion, increased during days 1-21, was 2-fold higher in the ascorbic acid group compared to cytoflavin groups.  Morphologic changes were correlated with clinical variables and outcome. In patients with ≥14 points on NIH scale on admission, prolonged 20 day cytoflavin therapy was associated with a more prominent improvement of neurologic, functional and cognitive status compared to 10-day cytoflavin infusion.  No differences in clinical variables were observed in patients with mild symptoms (<14 points on NIH scale on admission) receiving cytoflavin for 10 and 20 days. ",
+  "entities": [
+    {
+      "start": 115,
+      "end": 131,
+      "mention": "brain infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 1370,
+      "end": 1380,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1822,
+      "end": 1832,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1669,
+      "end": 1679,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1268,
+      "end": 1276,
+      "mention": "ischemic",
+      "label": "DISO"
+    },
+    {
+      "start": 1113,
+      "end": 1128,
+      "mention": "ischemic lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 512,
+      "end": 520,
+      "mention": "ischemic",
+      "label": "DISO"
+    },
+    {
+      "start": 1535,
+      "end": 1545,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1347,
+      "end": 1351,
+      "mention": "acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 727,
+      "end": 737,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 781,
+      "end": 791,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1104,
+      "end": 1112,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1157,
+      "end": 1167,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 115,
+      "end": 120,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 512,
+      "end": 527,
+      "mention": "ischemic stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 244,
+      "end": 259,
+      "mention": "ischemic stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 425,
+      "end": 433,
+      "mention": "vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1104,
+      "end": 1128,
+      "mention": "cerebral ischemic lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 1268,
+      "end": 1283,
+      "mention": "ischemic lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 1215,
+      "end": 1228,
+      "mention": "ascorbic acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 697,
+      "end": 710,
+      "mention": "ascorbic acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 1338,
+      "end": 1351,
+      "mention": "ascorbic acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 1113,
+      "end": 1121,
+      "mention": "ischemic",
+      "label": "DISO"
+    },
+    {
+      "start": 244,
+      "end": 252,
+      "mention": "ischemic",
+      "label": "DISO"
+    },
+    {
+      "start": 706,
+      "end": 710,
+      "mention": "acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 1224,
+      "end": 1228,
+      "mention": "acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 521,
+      "end": 527,
+      "mention": "stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 253,
+      "end": 259,
+      "mention": "stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 121,
+      "end": 131,
+      "mention": "infarction",
+      "label": "DISO"
+    },
+    {
+      "start": 1122,
+      "end": 1128,
+      "mention": "lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 535,
+      "end": 552,
+      "mention": "carotid territory",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1277,
+      "end": 1283,
+      "mention": "lesion",
+      "label": "DISO"
+    }
+  ]
+}

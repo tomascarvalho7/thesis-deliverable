@@ -1,0 +1,275 @@
+{
+  "text": "[Clinical experience of the use of agomelatine in the treatment of patients with depression and chronic brain ischemia].  OBJECTIVE To study the efficacy and tolerability of agomelatine (valdoxan) in treatment of mild depressive states in patients with chronic brain ischemia (CBI).  MATERIAL AND METHODS The study comprised 33 patients (23 women, 10 men, average age 54.5 years), including 12 people (36.4%) with CBI, stage I, and 21 (63.6%) with CBI, stage II. All patients had a single depressive episode of mild severity.  Diagnosis of affective and cognitive impairment was carried out using clinical and neuropsychological methods (the Hamilton Depression Rating Scale (HDRS-17), the Hospital Anxiety and Depression Scale (HADS), the night sleep questionnaire developed by A.M. Vein, the Mini-mental state examination (MMSE), the modified Mini-Cog method, the Montreal Cognitive Assessment Scale (MoCA), the Clinical Global Impression scale (CGI-S, CGI-I) to assess the degree and dynamics of the disease, the Patient Global Impression (PGI) scale. The survey had been performed after 2,4 and 8 weeks of treatment. Agomelatine (valdoxan) was used 1 time per day in the evening in a dose of 25 mg (1 tablet). RESULTS AND CONCLUSION Agomelatine improved sleep from the second week of treatment, reduced anxiety symptoms after six weeks and depressive symptoms after eight weeks. The improvement of cognitive functions was noted as well. No side-effects was observed. The results revealed the high antidepressive activity of the drug in treatment of mild depressive states in patients with chronic brain ischemia, the balanced spectrum of effects on anxiety, depression, insomnia, the positive effect on cognitive functions that allows to recommend agomelatine in treatment of patients with CBI. ",
+  "entities": [
+    {
+      "start": 1134,
+      "end": 1142,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 1752,
+      "end": 1763,
+      "mention": "agomelatine",
+      "label": "CHEM"
+    },
+    {
+      "start": 187,
+      "end": 195,
+      "mention": "valdoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 489,
+      "end": 524,
+      "mention": "depressive episode of mild severity",
+      "label": "DISO"
+    },
+    {
+      "start": 1601,
+      "end": 1606,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 213,
+      "end": 235,
+      "mention": "mild depressive states",
+      "label": "DISO"
+    },
+    {
+      "start": 1607,
+      "end": 1615,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 261,
+      "end": 266,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 267,
+      "end": 275,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 261,
+      "end": 275,
+      "mention": "brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 1601,
+      "end": 1615,
+      "mention": "brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 104,
+      "end": 118,
+      "mention": "brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 554,
+      "end": 574,
+      "mention": "cognitive impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 1553,
+      "end": 1575,
+      "mention": "mild depressive states",
+      "label": "DISO"
+    },
+    {
+      "start": 1344,
+      "end": 1363,
+      "mention": "depressive symptoms",
+      "label": "DISO"
+    },
+    {
+      "start": 489,
+      "end": 499,
+      "mention": "depressive",
+      "label": "DISO"
+    },
+    {
+      "start": 104,
+      "end": 109,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 81,
+      "end": 91,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 1662,
+      "end": 1672,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 711,
+      "end": 721,
+      "mention": "Depression",
+      "label": "DISO"
+    },
+    {
+      "start": 699,
+      "end": 706,
+      "mention": "Anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 1307,
+      "end": 1314,
+      "mention": "anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 1653,
+      "end": 1660,
+      "mention": "anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 1237,
+      "end": 1248,
+      "mention": "Agomelatine",
+      "label": "CHEM"
+    },
+    {
+      "start": 218,
+      "end": 235,
+      "mention": "depressive states",
+      "label": "DISO"
+    },
+    {
+      "start": 1558,
+      "end": 1575,
+      "mention": "depressive states",
+      "label": "DISO"
+    },
+    {
+      "start": 651,
+      "end": 661,
+      "mention": "Depression",
+      "label": "DISO"
+    },
+    {
+      "start": 1444,
+      "end": 1456,
+      "mention": "side-effects",
+      "label": "DISO"
+    },
+    {
+      "start": 1344,
+      "end": 1354,
+      "mention": "depressive",
+      "label": "DISO"
+    },
+    {
+      "start": 174,
+      "end": 185,
+      "mention": "agomelatine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1121,
+      "end": 1132,
+      "mention": "Agomelatine",
+      "label": "CHEM"
+    },
+    {
+      "start": 35,
+      "end": 46,
+      "mention": "agomelatine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1307,
+      "end": 1323,
+      "mention": "anxiety symptoms",
+      "label": "DISO"
+    },
+    {
+      "start": 110,
+      "end": 118,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 489,
+      "end": 507,
+      "mention": "depressive episode",
+      "label": "DISO"
+    },
+    {
+      "start": 448,
+      "end": 451,
+      "mention": "CBI",
+      "label": "DISO"
+    },
+    {
+      "start": 540,
+      "end": 549,
+      "mention": "affective impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 564,
+      "end": 574,
+      "mention": "affective impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 414,
+      "end": 417,
+      "mention": "CBI",
+      "label": "DISO"
+    },
+    {
+      "start": 1794,
+      "end": 1797,
+      "mention": "CBI",
+      "label": "DISO"
+    },
+    {
+      "start": 1593,
+      "end": 1615,
+      "mention": "chronic brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 253,
+      "end": 275,
+      "mention": "chronic brain ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 277,
+      "end": 280,
+      "mention": "CBI",
+      "label": "DISO"
+    },
+    {
+      "start": 1674,
+      "end": 1682,
+      "mention": "insomnia",
+      "label": "DISO"
+    },
+    {
+      "start": 96,
+      "end": 118,
+      "mention": "chronic brain ischemia",
+      "label": "DISO"
+    }
+  ]
+}

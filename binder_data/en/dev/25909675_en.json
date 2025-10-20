@@ -1,0 +1,251 @@
+{
+  "text": "[Variations of clinical and functional characteristics of nasal cavity mucosa in the patients of different age groups presenting with acute rhinosinusitis]. The objective of the present study was to evaluate changes in the functional properties of nasal cavity mucosa during the treatment of the patients of different age groups presenting with acute rhinosinusitis.  The following methods were used for the purpose: daily measurement of pH, body temperature, pain sensitivity threshold in the intranasal mucous membrane, mucociliary transport (MCT) time; in addition, joulemetry was performed to examine the patients suffering from acute rhinosinusitis. The study has demonstrated marked differences in the functional conditions of nasal cavity mucosa associated with the treatment.  The aged and elderly patients were characterized by lowered mucosal temperature at all stages of therapy, elevated pain sensitivity threshold, and long duration of the recovery of ciliary epithelium activity that reflected non-responsiveness inherent in the patients of this age group. The direct joulemetry technique made possible the most detailed evaluation of dynamics of these pathological changes in nasal cavity mucosa and its age-specific features. It is concluded that the clinical manifestations of acute rhinosinusitis are characterized by well apparent age-specific features that should be taken into consideration in diagnostics and treatment of this condition. The comprehensive evaluation of the parameters of the functional state of nasal cavity mucosa associated with this pathology allows the severity of inflammation and the effectiveness of its treatment to be estimated; moreover, it permits to correcte in due time the scope of the prescribed therapy. ",
+  "entities": [
+    {
+      "start": 1167,
+      "end": 1187,
+      "mention": "pathological changes",
+      "label": "DISO"
+    },
+    {
+      "start": 248,
+      "end": 253,
+      "mention": "nasal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 900,
+      "end": 904,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 58,
+      "end": 63,
+      "mention": "nasal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 494,
+      "end": 504,
+      "mention": "intranasal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1191,
+      "end": 1196,
+      "mention": "nasal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 512,
+      "end": 520,
+      "mention": "membrane",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1547,
+      "end": 1553,
+      "mention": "mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 845,
+      "end": 852,
+      "mention": "mucosal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 261,
+      "end": 267,
+      "mention": "mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 71,
+      "end": 77,
+      "mention": "mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1267,
+      "end": 1290,
+      "mention": "clinical manifestations",
+      "label": "DISO"
+    },
+    {
+      "start": 1191,
+      "end": 1203,
+      "mention": "nasal cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1534,
+      "end": 1546,
+      "mention": "nasal cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 248,
+      "end": 260,
+      "mention": "nasal cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 58,
+      "end": 70,
+      "mention": "nasal cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 733,
+      "end": 745,
+      "mention": "nasal cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 248,
+      "end": 267,
+      "mention": "nasal cavity mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 494,
+      "end": 520,
+      "mention": "intranasal mucous membrane",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 733,
+      "end": 752,
+      "mention": "nasal cavity mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1534,
+      "end": 1553,
+      "mention": "nasal cavity mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1191,
+      "end": 1210,
+      "mention": "nasal cavity mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 733,
+      "end": 738,
+      "mention": "nasal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 505,
+      "end": 520,
+      "mention": "mucous membrane",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1608,
+      "end": 1620,
+      "mention": "inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 965,
+      "end": 983,
+      "mention": "ciliary epithelium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 460,
+      "end": 464,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1204,
+      "end": 1210,
+      "mention": "mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 505,
+      "end": 511,
+      "mention": "mucous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 746,
+      "end": 752,
+      "mention": "mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 973,
+      "end": 983,
+      "mention": "epithelium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 58,
+      "end": 77,
+      "mention": "nasal cavity mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1534,
+      "end": 1539,
+      "mention": "nasal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 140,
+      "end": 154,
+      "mention": "rhinosinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 345,
+      "end": 365,
+      "mention": "acute rhinosinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1294,
+      "end": 1314,
+      "mention": "acute rhinosinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 633,
+      "end": 653,
+      "mention": "acute rhinosinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 351,
+      "end": 365,
+      "mention": "rhinosinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 639,
+      "end": 653,
+      "mention": "rhinosinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 134,
+      "end": 154,
+      "mention": "acute rhinosinusitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1300,
+      "end": 1314,
+      "mention": "rhinosinusitis",
+      "label": "DISO"
+    }
+  ]
+}

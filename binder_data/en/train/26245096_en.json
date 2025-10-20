@@ -1,0 +1,305 @@
+{
+  "text": "[Pathology of the vagus nerve system as a morphological marker of sympathetic imbalance in the case of sudden cardiac death].  The present study was designed to examine the vagus nerve system, atrioventricular ganglion, and changes in cardiomyocytes in 45 cases of the fatal outcome of the disease among 20 patients who suffered a craniovertebral injury and 25 ones presenting with acute coronary insufficiency. Special attention was given to the central and peripheral parts of the vagus nerve system. The study revealed lesions in the jugular ganglia and their association with the previous craniovertebral injuries accompanied by hemorrhage in these ganglia, nerve trunks, and soft tissues of the jugular foramina. The well apparent atrophic changes were found in the ganglia of the vagus nerve system in the patients who died from acute coronary insufficiency. In all the examined cases, hemosiderosis of the pial soft tissues of the medulla oblongata was observed. ",
+  "entities": [
+    {
+      "start": 483,
+      "end": 494,
+      "mention": "vagus nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 680,
+      "end": 692,
+      "mention": "soft tissues",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 938,
+      "end": 955,
+      "mention": "medulla oblongata",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 18,
+      "end": 29,
+      "mention": "vagus nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 210,
+      "end": 218,
+      "mention": "ganglion",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 537,
+      "end": 552,
+      "mention": "jugular ganglia",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 193,
+      "end": 218,
+      "mention": "atrioventricular ganglion",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 786,
+      "end": 797,
+      "mention": "vagus nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 918,
+      "end": 930,
+      "mention": "soft tissues",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 786,
+      "end": 804,
+      "mention": "vagus nerve system",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 173,
+      "end": 191,
+      "mention": "vagus nerve system",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 18,
+      "end": 36,
+      "mention": "vagus nerve system",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 685,
+      "end": 692,
+      "mention": "tissues",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 850,
+      "end": 863,
+      "mention": "insufficiency",
+      "label": "DISO"
+    },
+    {
+      "start": 841,
+      "end": 863,
+      "mention": "coronary insufficiency",
+      "label": "DISO"
+    },
+    {
+      "start": 913,
+      "end": 917,
+      "mention": "pial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 923,
+      "end": 930,
+      "mention": "tissues",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 700,
+      "end": 716,
+      "mention": "jugular foramina",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 835,
+      "end": 863,
+      "mention": "acute coronary insufficiency",
+      "label": "DISO"
+    },
+    {
+      "start": 545,
+      "end": 552,
+      "mention": "ganglia",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 388,
+      "end": 410,
+      "mention": "coronary insufficiency",
+      "label": "DISO"
+    },
+    {
+      "start": 892,
+      "end": 905,
+      "mention": "hemosiderosis",
+      "label": "DISO"
+    },
+    {
+      "start": 522,
+      "end": 529,
+      "mention": "lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 483,
+      "end": 501,
+      "mention": "vagus nerve system",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 382,
+      "end": 410,
+      "mention": "acute coronary insufficiency",
+      "label": "DISO"
+    },
+    {
+      "start": 397,
+      "end": 410,
+      "mention": "insufficiency",
+      "label": "DISO"
+    },
+    {
+      "start": 66,
+      "end": 87,
+      "mention": "sympathetic imbalance",
+      "label": "DISO"
+    },
+    {
+      "start": 235,
+      "end": 249,
+      "mention": "cardiomyocytes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 662,
+      "end": 674,
+      "mention": "nerve trunks",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 771,
+      "end": 778,
+      "mention": "ganglia",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 708,
+      "end": 716,
+      "mention": "foramina",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 662,
+      "end": 667,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 792,
+      "end": 797,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 489,
+      "end": 494,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 179,
+      "end": 184,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 24,
+      "end": 29,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 633,
+      "end": 643,
+      "mention": "hemorrhage",
+      "label": "DISO"
+    },
+    {
+      "start": 173,
+      "end": 184,
+      "mention": "vagus nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 653,
+      "end": 660,
+      "mention": "ganglia",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 110,
+      "end": 117,
+      "mention": "cardiac",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 736,
+      "end": 752,
+      "mention": "atrophic changes",
+      "label": "DISO"
+    },
+    {
+      "start": 841,
+      "end": 849,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 331,
+      "end": 346,
+      "mention": "craniovertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 388,
+      "end": 396,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 593,
+      "end": 608,
+      "mention": "craniovertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1,
+      "end": 36,
+      "mention": "Pathology of the vagus nerve system",
+      "label": "DISO"
+    },
+    {
+      "start": 700,
+      "end": 707,
+      "mention": "jugular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 193,
+      "end": 209,
+      "mention": "atrioventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 537,
+      "end": 544,
+      "mention": "jugular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 913,
+      "end": 930,
+      "mention": "pial soft tissues",
+      "label": "ANATOMY"
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "text": "[The morphology of vocal fold polyps and mucosa in Reinke's edema]. OBJECTIVE To investigate the morphogenesis of vocal fold polyps and Reinke's edema on the basis of clinical and morphological analyses of the histological and immunohistochemical data characterizing the state of the local microcirculatory bed and the mechanisms of its permeability impairment.  SUBJECTS AND METHODS Polyps of the vocal folds and their mucosal tissue samples in Reinke's edema mucosa, which had been obtained after microsurgical treatment of 31 patients (13 men and 18 women) aged 23 to 75 years, were studied using a wide panel of peroxidase-labeled monoclonal and polyclonal antibodies (DAB chromogen), including T and B cell differentiation markers, Toll-like receptors (TLR2, TLR4, and TLR9), the costimulatory molecule CD80 (B7- 1), and markers for angiogenesis (CD34), vascular and tissue permeability (matrix metalloproteinases (MMP-1 and MMP-9)), and vascular cell adhesion molecule-1 (VCAM-1). Results. All types of the examined polypoid hyperplasia were ascertained to realize through the impaired permeability of the wall of microcirculatory vessels in the membranous vocal fold portion called Reinke's space. The expression of molecules, such as CD34, VCAM-1, MMP-1 and MMP-9, as well as TLR4 and TLR9 was revealed on the endothelial cells of microcirculatory vessels. The epithelial lining cells simultaneously expressed the above-mentioned Toll-like receptors and the costimulatory molecule CD80 (B7-1) that modulated T cell lymphocyte activity (through CD28) or attenuation (through CTLA-4), ensuring the interaction of structures of innate and adaptive immunity. CONCLUSION The morphogenesis of polypoid hyperplasia of the vocal folds is a result of an epithelial stromal interaction under poor etiological factors, such as high vocal loads, exogenic intoxications, and viral infections. The integumentary lining cells carrying Toll-like receptors initiate reactive alterations in Reinke's space. ",
+  "entities": [
+    {
+      "start": 1120,
+      "end": 1144,
+      "mention": "microcirculatory vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 51,
+      "end": 65,
+      "mention": "Reinke's edema",
+      "label": "DISO"
+    },
+    {
+      "start": 1339,
+      "end": 1363,
+      "mention": "microcirculatory vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 136,
+      "end": 150,
+      "mention": "Reinke's edema",
+      "label": "DISO"
+    },
+    {
+      "start": 41,
+      "end": 47,
+      "mention": "mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1256,
+      "end": 1261,
+      "mention": "MMP-1",
+      "label": "CHEM"
+    },
+    {
+      "start": 1256,
+      "end": 1259,
+      "mention": "MMP",
+      "label": "CHEM"
+    },
+    {
+      "start": 920,
+      "end": 925,
+      "mention": "MMP-1",
+      "label": "CHEM"
+    },
+    {
+      "start": 1892,
+      "end": 1918,
+      "mention": "integumentary lining cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1582,
+      "end": 1588,
+      "mention": "CTLA-4",
+      "label": "CHEM"
+    },
+    {
+      "start": 814,
+      "end": 819,
+      "mention": "B7- 1",
+      "label": "CHEM"
+    },
+    {
+      "start": 785,
+      "end": 807,
+      "mention": "costimulatory molecule",
+      "label": "CHEM"
+    },
+    {
+      "start": 1466,
+      "end": 1488,
+      "mention": "costimulatory molecule",
+      "label": "CHEM"
+    },
+    {
+      "start": 1495,
+      "end": 1499,
+      "mention": "B7-1",
+      "label": "CHEM"
+    },
+    {
+      "start": 290,
+      "end": 310,
+      "mention": "microcirculatory bed",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1284,
+      "end": 1288,
+      "mention": "TLR4",
+      "label": "CHEM"
+    },
+    {
+      "start": 764,
+      "end": 768,
+      "mention": "TLR4",
+      "label": "CHEM"
+    },
+    {
+      "start": 1489,
+      "end": 1493,
+      "mention": "CD80",
+      "label": "CHEM"
+    },
+    {
+      "start": 1031,
+      "end": 1042,
+      "mention": "hyperplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 1704,
+      "end": 1715,
+      "mention": "hyperplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 930,
+      "end": 935,
+      "mention": "MMP-9",
+      "label": "CHEM"
+    },
+    {
+      "start": 893,
+      "end": 899,
+      "mention": "matrix",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 650,
+      "end": 671,
+      "mention": "polyclonal antibodies",
+      "label": "CHEM"
+    },
+    {
+      "start": 145,
+      "end": 150,
+      "mention": "edema",
+      "label": "DISO"
+    },
+    {
+      "start": 455,
+      "end": 460,
+      "mention": "edema",
+      "label": "DISO"
+    },
+    {
+      "start": 1695,
+      "end": 1715,
+      "mention": "polypoid hyperplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 60,
+      "end": 65,
+      "mention": "edema",
+      "label": "DISO"
+    },
+    {
+      "start": 1152,
+      "end": 1181,
+      "mention": "membranous vocal fold portion",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1318,
+      "end": 1329,
+      "mention": "endothelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1189,
+      "end": 1203,
+      "mention": "Reinke's space",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1022,
+      "end": 1042,
+      "mention": "polypoid hyperplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 1369,
+      "end": 1392,
+      "mention": "epithelial lining cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1369,
+      "end": 1379,
+      "mention": "epithelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1753,
+      "end": 1763,
+      "mention": "epithelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 337,
+      "end": 360,
+      "mention": "permeability impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 943,
+      "end": 956,
+      "mention": "vascular cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1083,
+      "end": 1104,
+      "mention": "impaired permeability",
+      "label": "DISO"
+    },
+    {
+      "start": 284,
+      "end": 310,
+      "mention": "local microcirculatory bed",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1981,
+      "end": 1995,
+      "mention": "Reinke's space",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1112,
+      "end": 1144,
+      "mention": "wall of microcirculatory vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1318,
+      "end": 1335,
+      "mention": "endothelial cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1266,
+      "end": 1271,
+      "mention": "MMP-9",
+      "label": "CHEM"
+    },
+    {
+      "start": 446,
+      "end": 460,
+      "mention": "Reinke's edema",
+      "label": "DISO"
+    },
+    {
+      "start": 1876,
+      "end": 1886,
+      "mention": "infections",
+      "label": "DISO"
+    },
+    {
+      "start": 943,
+      "end": 976,
+      "mention": "vascular cell adhesion molecule-1",
+      "label": "CHEM"
+    },
+    {
+      "start": 428,
+      "end": 442,
+      "mention": "tissue samples",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 920,
+      "end": 923,
+      "mention": "MMP",
+      "label": "CHEM"
+    },
+    {
+      "start": 114,
+      "end": 131,
+      "mention": "vocal fold polyps",
+      "label": "DISO"
+    },
+    {
+      "start": 19,
+      "end": 36,
+      "mention": "vocal fold polyps",
+      "label": "DISO"
+    },
+    {
+      "start": 1870,
+      "end": 1886,
+      "mention": "viral infections",
+      "label": "DISO"
+    },
+    {
+      "start": 1448,
+      "end": 1457,
+      "mention": "receptors",
+      "label": "CHEM"
+    },
+    {
+      "start": 747,
+      "end": 756,
+      "mention": "receptors",
+      "label": "CHEM"
+    },
+    {
+      "start": 1938,
+      "end": 1947,
+      "mention": "receptors",
+      "label": "CHEM"
+    },
+    {
+      "start": 872,
+      "end": 878,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 737,
+      "end": 756,
+      "mention": "Toll-like receptors",
+      "label": "CHEM"
+    },
+    {
+      "start": 1438,
+      "end": 1457,
+      "mention": "Toll-like receptors",
+      "label": "CHEM"
+    },
+    {
+      "start": 1928,
+      "end": 1947,
+      "mention": "Toll-like receptors",
+      "label": "CHEM"
+    },
+    {
+      "start": 384,
+      "end": 409,
+      "mention": "Polyps of the vocal folds",
+      "label": "DISO"
+    },
+    {
+      "start": 428,
+      "end": 434,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1516,
+      "end": 1522,
+      "mention": "T cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 699,
+      "end": 700,
+      "mention": "T cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 707,
+      "end": 711,
+      "mention": "T cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 384,
+      "end": 390,
+      "mention": "Polyps",
+      "label": "DISO"
+    },
+    {
+      "start": 30,
+      "end": 36,
+      "mention": "polyps",
+      "label": "DISO"
+    },
+    {
+      "start": 125,
+      "end": 131,
+      "mention": "polyps",
+      "label": "DISO"
+    },
+    {
+      "start": 1022,
+      "end": 1030,
+      "mention": "polypoid",
+      "label": "DISO"
+    },
+    {
+      "start": 1516,
+      "end": 1533,
+      "mention": "T cell lymphocyte",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1266,
+      "end": 1269,
+      "mention": "MMP",
+      "label": "CHEM"
+    },
+    {
+      "start": 893,
+      "end": 918,
+      "mention": "matrix metalloproteinases",
+      "label": "CHEM"
+    },
+    {
+      "start": 930,
+      "end": 933,
+      "mention": "MMP",
+      "label": "CHEM"
+    },
+    {
+      "start": 1695,
+      "end": 1703,
+      "mention": "polypoid",
+      "label": "DISO"
+    },
+    {
+      "start": 758,
+      "end": 762,
+      "mention": "TLR2",
+      "label": "CHEM"
+    },
+    {
+      "start": 1764,
+      "end": 1771,
+      "mention": "stromal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1695,
+      "end": 1734,
+      "mention": "polypoid hyperplasia of the vocal folds",
+      "label": "DISO"
+    },
+    {
+      "start": 1248,
+      "end": 1254,
+      "mention": "VCAM-1",
+      "label": "CHEM"
+    },
+    {
+      "start": 1318,
+      "end": 1363,
+      "mention": "endothelial cells of microcirculatory vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 943,
+      "end": 974,
+      "mention": "vascular cell adhesion molecule",
+      "label": "CHEM"
+    },
+    {
+      "start": 978,
+      "end": 982,
+      "mention": "VCAM",
+      "label": "CHEM"
+    },
+    {
+      "start": 978,
+      "end": 984,
+      "mention": "VCAM-1",
+      "label": "CHEM"
+    },
+    {
+      "start": 1248,
+      "end": 1252,
+      "mention": "VCAM",
+      "label": "CHEM"
+    },
+    {
+      "start": 1552,
+      "end": 1556,
+      "mention": "CD28",
+      "label": "CHEM"
+    },
+    {
+      "start": 852,
+      "end": 856,
+      "mention": "CD34",
+      "label": "CHEM"
+    },
+    {
+      "start": 1523,
+      "end": 1533,
+      "mention": "lymphocyte",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1242,
+      "end": 1246,
+      "mention": "CD34",
+      "label": "CHEM"
+    },
+    {
+      "start": 677,
+      "end": 686,
+      "mention": "chromogen",
+      "label": "CHEM"
+    },
+    {
+      "start": 1152,
+      "end": 1162,
+      "mention": "membranous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 900,
+      "end": 918,
+      "mention": "metalloproteinases",
+      "label": "CHEM"
+    },
+    {
+      "start": 461,
+      "end": 467,
+      "mention": "mucosa",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 420,
+      "end": 434,
+      "mention": "mucosal tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 114,
+      "end": 124,
+      "mention": "vocal fold",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1723,
+      "end": 1734,
+      "mention": "vocal folds",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1293,
+      "end": 1297,
+      "mention": "TLR9",
+      "label": "CHEM"
+    },
+    {
+      "start": 774,
+      "end": 778,
+      "mention": "TLR9",
+      "label": "CHEM"
+    },
+    {
+      "start": 1163,
+      "end": 1173,
+      "mention": "vocal fold",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 398,
+      "end": 409,
+      "mention": "vocal folds",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 616,
+      "end": 626,
+      "mention": "peroxidase",
+      "label": "CHEM"
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "mention": "vocal fold",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1892,
+      "end": 1905,
+      "mention": "integumentary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 673,
+      "end": 676,
+      "mention": "DAB",
+      "label": "CHEM"
+    },
+    {
+      "start": 808,
+      "end": 812,
+      "mention": "CD80",
+      "label": "CHEM"
+    },
+    {
+      "start": 814,
+      "end": 816,
+      "mention": "B7",
+      "label": "CHEM"
+    },
+    {
+      "start": 1330,
+      "end": 1335,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 705,
+      "end": 711,
+      "mention": "B cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1518,
+      "end": 1522,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1356,
+      "end": 1363,
+      "mention": "vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1137,
+      "end": 1144,
+      "mention": "vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1387,
+      "end": 1392,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 943,
+      "end": 951,
+      "mention": "vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 661,
+      "end": 671,
+      "mention": "antibodies",
+      "label": "CHEM"
+    },
+    {
+      "start": 707,
+      "end": 711,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 952,
+      "end": 956,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 859,
+      "end": 867,
+      "mention": "vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1913,
+      "end": 1918,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1495,
+      "end": 1497,
+      "mention": "B7",
+      "label": "CHEM"
+    },
+    {
+      "start": 635,
+      "end": 645,
+      "mention": "monoclonal antibodies",
+      "label": "CHEM"
+    },
+    {
+      "start": 661,
+      "end": 671,
+      "mention": "monoclonal antibodies",
+      "label": "CHEM"
+    }
+  ]
+}

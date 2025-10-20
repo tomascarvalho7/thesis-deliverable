@@ -1,0 +1,143 @@
+{
+  "text": "The feasibility of eliminating podoconiosis.  Podoconiosis is an inflammatory disease caused by prolonged contact with irritant minerals in soil. Major symptoms include swelling of the lower limb (lymphoedema) and acute pain. The disease has major social and economic consequences through stigma and loss of productivity.  In the last five years there has been good progress in podoconiosis research and control. Addressing poverty at household level and infrastructure development such as roads, water and urbanization can all help to reduce podoconiosis incidence. Specific control methods include the use of footwear, regular foot hygiene and floor coverings. Secondary and tertiary prevention are based on the management of the lymphoedema-related morbidity and include foot hygiene, foot care, wound care, compression, exercises, elevation of the legs and treatment of acute infections.  Certain endemic countries are taking the initiative to include podoconiosis in their national plans for the control of neglected tropical diseases and to scale up interventions against the disease. Advocacy is needed for provision of shoes as a health intervention. We suggest case definitions and elimination targets as a starting point for elimination of the disease. ",
+  "entities": [
+    {
+      "start": 732,
+      "end": 743,
+      "mention": "lymphoedema",
+      "label": "DISO"
+    },
+    {
+      "start": 214,
+      "end": 224,
+      "mention": "acute pain",
+      "label": "DISO"
+    },
+    {
+      "start": 197,
+      "end": 208,
+      "mention": "lymphoedema",
+      "label": "DISO"
+    },
+    {
+      "start": 65,
+      "end": 85,
+      "mention": "inflammatory disease",
+      "label": "DISO"
+    },
+    {
+      "start": 852,
+      "end": 856,
+      "mention": "legs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 629,
+      "end": 633,
+      "mention": "foot",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 185,
+      "end": 195,
+      "mention": "lower limb",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1022,
+      "end": 1039,
+      "mention": "tropical diseases",
+      "label": "DISO"
+    },
+    {
+      "start": 128,
+      "end": 136,
+      "mention": "minerals",
+      "label": "CHEM"
+    },
+    {
+      "start": 169,
+      "end": 177,
+      "mention": "swelling",
+      "label": "DISO"
+    },
+    {
+      "start": 220,
+      "end": 224,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 880,
+      "end": 890,
+      "mention": "infections",
+      "label": "DISO"
+    },
+    {
+      "start": 774,
+      "end": 778,
+      "mention": "foot",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 874,
+      "end": 890,
+      "mention": "acute infections",
+      "label": "DISO"
+    },
+    {
+      "start": 378,
+      "end": 390,
+      "mention": "podoconiosis",
+      "label": "DISO"
+    },
+    {
+      "start": 788,
+      "end": 792,
+      "mention": "foot",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 119,
+      "end": 144,
+      "mention": "irritant minerals in soil",
+      "label": "CHEM"
+    },
+    {
+      "start": 31,
+      "end": 43,
+      "mention": "podoconiosis",
+      "label": "DISO"
+    },
+    {
+      "start": 191,
+      "end": 195,
+      "mention": "limb",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 956,
+      "end": 968,
+      "mention": "podoconiosis",
+      "label": "DISO"
+    },
+    {
+      "start": 46,
+      "end": 58,
+      "mention": "Podoconiosis",
+      "label": "DISO"
+    },
+    {
+      "start": 543,
+      "end": 555,
+      "mention": "podoconiosis",
+      "label": "DISO"
+    },
+    {
+      "start": 169,
+      "end": 195,
+      "mention": "swelling of the lower limb",
+      "label": "DISO"
+    }
+  ]
+}

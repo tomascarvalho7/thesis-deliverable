@@ -1,0 +1,6 @@
+datasets
+evaluate
+transformers
+torch
+accelerate
+seqeval

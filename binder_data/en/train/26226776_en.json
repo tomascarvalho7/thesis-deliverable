@@ -1,0 +1,479 @@
+{
+  "text": "[Impact of preoperative drug therapy on adhesion molecule expression in colorectal cancer liver metastases]. OBJECTIVE To study E-cadherin and β-catenin expression in colorectal cancer (CRC) liver metastases in order to assess the impact of different drug therapy regimens on the adhesive properties of tumor cells. MATERIAL AND METHODS Intraoperative metastatic CRC samples from patients who had received preoperative cytotoxic chemotherapy or combined cytotoxic and targeted anti-VEGF (vascular endothelial growth factor) therapy were immunohistochemically examined using antibodies to E-cadherin and β-catenin.  A comparison group consisted of patients who had not received drug therapy. RESULTS  Combined therapy with cytotoxic and anti-VEGF agents was shown to result in a significant increase in the number of cases of normal membrane localization of E-cadherin as compared with control (p = 0.00043) and cytotoxic therapy-alone (p = 0.01) groups. A comparison of β-catenin levels in three patient groups revealed no significant differences, but addition of an anti-VEGF agent caused some decrease in the number of cases of abnormal nuclear localization of the protein as compared to both the control group and the cytotoxic therapy groups.  The comparison of E-cadherin and β-catenin localization in tumor cells showed that a combination of normal E-cadherin membrane localization and β-catenin membrane-cytoplasmic expression prevailed in the combined therapy group compared to the control (p = 0.009) and cytotoxic therapy (p = 0.04) groups. CONCLUSION The addition of a targeted anti-VEGF agent to the drug therapy of metastatic CRC has a positive impact on the cadherin-catenin complex, leading to increased intercellular contacts and suppressed β-catenin functioning as a transcription factor that enhances tumor cell proliferation. ",
+  "entities": [
+    {
+      "start": 1681,
+      "end": 1688,
+      "mention": "catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 367,
+      "end": 374,
+      "mention": "samples",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 191,
+      "end": 196,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 167,
+      "end": 177,
+      "mention": "colorectal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 90,
+      "end": 95,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 309,
+      "end": 314,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1313,
+      "end": 1318,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1825,
+      "end": 1829,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 167,
+      "end": 184,
+      "mention": "colorectal cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 40,
+      "end": 57,
+      "mention": "adhesion molecule",
+      "label": "CHEM"
+    },
+    {
+      "start": 1067,
+      "end": 1082,
+      "mention": "anti-VEGF agent",
+      "label": "CHEM"
+    },
+    {
+      "start": 72,
+      "end": 82,
+      "mention": "colorectal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 741,
+      "end": 745,
+      "mention": "VEGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 303,
+      "end": 308,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 1589,
+      "end": 1604,
+      "mention": "anti-VEGF agent",
+      "label": "CHEM"
+    },
+    {
+      "start": 1672,
+      "end": 1696,
+      "mention": "cadherin-catenin complex",
+      "label": "CHEM"
+    },
+    {
+      "start": 1819,
+      "end": 1824,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 1307,
+      "end": 1312,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 574,
+      "end": 584,
+      "mention": "antibodies",
+      "label": "CHEM"
+    },
+    {
+      "start": 72,
+      "end": 89,
+      "mention": "colorectal cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 1283,
+      "end": 1290,
+      "mention": "catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 363,
+      "end": 366,
+      "mention": "CRC",
+      "label": "DISO"
+    },
+    {
+      "start": 145,
+      "end": 152,
+      "mention": "catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 130,
+      "end": 138,
+      "mention": "cadherin",
+      "label": "CHEM"
+    },
+    {
+      "start": 590,
+      "end": 598,
+      "mention": "cadherin",
+      "label": "CHEM"
+    },
+    {
+      "start": 859,
+      "end": 867,
+      "mention": "cadherin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1268,
+      "end": 1276,
+      "mention": "cadherin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1628,
+      "end": 1642,
+      "mention": "metastatic CRC",
+      "label": "DISO"
+    },
+    {
+      "start": 352,
+      "end": 366,
+      "mention": "metastatic CRC",
+      "label": "DISO"
+    },
+    {
+      "start": 83,
+      "end": 89,
+      "mention": "cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 1139,
+      "end": 1146,
+      "mention": "nuclear",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1672,
+      "end": 1680,
+      "mention": "cadherin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1402,
+      "end": 1410,
+      "mention": "membrane",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1366,
+      "end": 1374,
+      "mention": "membrane",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1628,
+      "end": 1638,
+      "mention": "metastatic",
+      "label": "DISO"
+    },
+    {
+      "start": 352,
+      "end": 362,
+      "mention": "metastatic",
+      "label": "DISO"
+    },
+    {
+      "start": 832,
+      "end": 840,
+      "mention": "membrane",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1357,
+      "end": 1365,
+      "mention": "cadherin",
+      "label": "CHEM"
+    },
+    {
+      "start": 186,
+      "end": 189,
+      "mention": "CRC",
+      "label": "DISO"
+    },
+    {
+      "start": 178,
+      "end": 184,
+      "mention": "cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 1594,
+      "end": 1598,
+      "mention": "VEGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 1639,
+      "end": 1642,
+      "mention": "CRC",
+      "label": "DISO"
+    },
+    {
+      "start": 1759,
+      "end": 1766,
+      "mention": "catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 605,
+      "end": 612,
+      "mention": "catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1394,
+      "end": 1401,
+      "mention": "catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 191,
+      "end": 207,
+      "mention": "liver metastases",
+      "label": "DISO"
+    },
+    {
+      "start": 90,
+      "end": 106,
+      "mention": "liver metastases",
+      "label": "DISO"
+    },
+    {
+      "start": 1167,
+      "end": 1174,
+      "mention": "protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 477,
+      "end": 486,
+      "mention": "anti-VEGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 1067,
+      "end": 1076,
+      "mention": "anti-VEGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 96,
+      "end": 106,
+      "mention": "metastases",
+      "label": "DISO"
+    },
+    {
+      "start": 197,
+      "end": 207,
+      "mention": "metastases",
+      "label": "DISO"
+    },
+    {
+      "start": 1411,
+      "end": 1422,
+      "mention": "cytoplasmic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1782,
+      "end": 1803,
+      "mention": "a transcription facto",
+      "label": "CHEM"
+    },
+    {
+      "start": 352,
+      "end": 374,
+      "mention": "metastatic CRC samples",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 972,
+      "end": 979,
+      "mention": "catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 482,
+      "end": 486,
+      "mention": "VEGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 509,
+      "end": 522,
+      "mention": "growth factor",
+      "label": "CHEM"
+    },
+    {
+      "start": 1514,
+      "end": 1523,
+      "mention": "cytotoxic",
+      "label": "CHEM"
+    },
+    {
+      "start": 1392,
+      "end": 1401,
+      "mention": "β-catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 603,
+      "end": 612,
+      "mention": "β-catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 488,
+      "end": 496,
+      "mention": "vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 970,
+      "end": 979,
+      "mention": "β-catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 488,
+      "end": 522,
+      "mention": "vascular endothelial growth factor",
+      "label": "CHEM"
+    },
+    {
+      "start": 911,
+      "end": 920,
+      "mention": "cytotoxic",
+      "label": "CHEM"
+    },
+    {
+      "start": 588,
+      "end": 598,
+      "mention": "E-cadherin",
+      "label": "CHEM"
+    },
+    {
+      "start": 143,
+      "end": 152,
+      "mention": "β-catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1757,
+      "end": 1766,
+      "mention": "β-catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 454,
+      "end": 463,
+      "mention": "cytotoxic",
+      "label": "CHEM"
+    },
+    {
+      "start": 419,
+      "end": 428,
+      "mention": "cytotoxic",
+      "label": "CHEM"
+    },
+    {
+      "start": 1281,
+      "end": 1290,
+      "mention": "β-catenin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1355,
+      "end": 1365,
+      "mention": "E-cadherin",
+      "label": "CHEM"
+    },
+    {
+      "start": 128,
+      "end": 138,
+      "mention": "E-cadherin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1266,
+      "end": 1276,
+      "mention": "E-cadherin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1221,
+      "end": 1230,
+      "mention": "cytotoxic",
+      "label": "CHEM"
+    },
+    {
+      "start": 736,
+      "end": 752,
+      "mention": "anti-VEGF agents",
+      "label": "CHEM"
+    },
+    {
+      "start": 857,
+      "end": 867,
+      "mention": "E-cadherin",
+      "label": "CHEM"
+    },
+    {
+      "start": 497,
+      "end": 508,
+      "mention": "endothelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 722,
+      "end": 731,
+      "mention": "cytotoxic",
+      "label": "CHEM"
+    }
+  ]
+}

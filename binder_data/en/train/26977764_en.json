@@ -1,0 +1,371 @@
+{
+  "text": "[Surgical interventions with tracheal bifurcation circular resection in bronchial cancer treatment].  AIM To evaluate results of circular resection and carina reconstruction in patients with bronchial cancer. MATERIAL AND METHODS  Study included 82 patients with bronchial malignant tumors operated for the period from 1998 to 2014. Mean age was 56±1.1 years (range 24-75). There were 75 men and 7 women.  Squamous cell carcinoma, adenocarcinoma, dimorphic cancer, carcinoid, adenocystic cancer, small cell cancer and clear cell renal cancer were observed in 66, 9, 1, 3, 1, 1 and 1 patients respectively. Stages IIB, IIIA, IIIB and IV were determined in 5 (6.2%), 45 (56.3%), 28 (35%) and 2 (2.5%) patients respectively. Tracheal carina resection was combined with right-sided pneumonectomy in 62 (75.6%) patients, left-sided pneumonectomy - in 5 (6.1%) cases, right upper lobectomy - in 10 (12.2%) cases. 3 patients underwent carina resection alone.  Plasty with bronchopulmonary segment of right upper lobe was applied in 2 cases. Since 2002 primary bronhomyoplasty using m.latiss.dorsi, m.intercostalis and m.serr.anterior flaps has been used in 64 patients. RESULTS Postoperative complications occurred in 31.7% (26) of patients.  In-hospital mortality was 10.1%. Use of primary bronhomyoplasty and head adduction reduced broncho-pleural fistula incidence and mortality (p<0.05). Long-term results in T3-T4N0 tumors were significantly better compared with T3-4N1-2 tumors (5-year survival 41.2 vs. 16.8%, p<0,05). CONCLUSION Results of resection with carina reconstruction may be improved using primary bronhomyoplasty and is associated with satisfactory long-term results in patients with N0-tumors. ",
+  "entities": [
+    {
+      "start": 273,
+      "end": 289,
+      "mention": "malignant tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 465,
+      "end": 474,
+      "mention": "carcinoid",
+      "label": "DISO"
+    },
+    {
+      "start": 1327,
+      "end": 1350,
+      "mention": "broncho-pleural fistula",
+      "label": "DISO"
+    },
+    {
+      "start": 447,
+      "end": 463,
+      "mention": "dimorphic cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 431,
+      "end": 445,
+      "mention": "adenocarcinoma",
+      "label": "DISO"
+    },
+    {
+      "start": 965,
+      "end": 989,
+      "mention": "bronchopulmonary segment",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1111,
+      "end": 1132,
+      "mention": "m.serr.anterior flaps",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1091,
+      "end": 1106,
+      "mention": "m.intercostalis",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1695,
+      "end": 1704,
+      "mention": "N0-tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 1461,
+      "end": 1469,
+      "mention": "T3-4N1-2",
+      "label": "DISO"
+    },
+    {
+      "start": 420,
+      "end": 429,
+      "mention": "carcinoma",
+      "label": "DISO"
+    },
+    {
+      "start": 529,
+      "end": 541,
+      "mention": "renal cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 406,
+      "end": 429,
+      "mention": "Squamous cell carcinoma",
+      "label": "DISO"
+    },
+    {
+      "start": 263,
+      "end": 289,
+      "mention": "bronchial malignant tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 1406,
+      "end": 1413,
+      "mention": "T3-T4N0",
+      "label": "DISO"
+    },
+    {
+      "start": 1171,
+      "end": 1198,
+      "mention": "Postoperative complications",
+      "label": "DISO"
+    },
+    {
+      "start": 1327,
+      "end": 1342,
+      "mention": "broncho-pleural",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 406,
+      "end": 419,
+      "mention": "Squamous cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1406,
+      "end": 1420,
+      "mention": "T3-T4N0 tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 1470,
+      "end": 1476,
+      "mention": "tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 1698,
+      "end": 1704,
+      "mention": "tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 1461,
+      "end": 1476,
+      "mention": "T3-4N1-2 tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 1185,
+      "end": 1198,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 518,
+      "end": 528,
+      "mention": "clear cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 496,
+      "end": 506,
+      "mention": "small cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 496,
+      "end": 513,
+      "mention": "small cell cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 263,
+      "end": 272,
+      "mention": "bronchial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 201,
+      "end": 207,
+      "mention": "cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 1343,
+      "end": 1350,
+      "mention": "fistula",
+      "label": "DISO"
+    },
+    {
+      "start": 535,
+      "end": 541,
+      "mention": "cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 529,
+      "end": 534,
+      "mention": "renal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 457,
+      "end": 463,
+      "mention": "cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 191,
+      "end": 200,
+      "mention": "bronchial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 507,
+      "end": 513,
+      "mention": "cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 82,
+      "end": 88,
+      "mention": "cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 502,
+      "end": 506,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 488,
+      "end": 494,
+      "mention": "cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 524,
+      "end": 528,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 283,
+      "end": 289,
+      "mention": "tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 1414,
+      "end": 1420,
+      "mention": "tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 72,
+      "end": 88,
+      "mention": "bronchial cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 1327,
+      "end": 1334,
+      "mention": "broncho",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 965,
+      "end": 981,
+      "mention": "bronchopulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 999,
+      "end": 1009,
+      "mention": "upper lobe",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1335,
+      "end": 1342,
+      "mention": "pleural",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 722,
+      "end": 730,
+      "mention": "Tracheal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 476,
+      "end": 494,
+      "mention": "adenocystic cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 29,
+      "end": 37,
+      "mention": "tracheal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 993,
+      "end": 1009,
+      "mention": "right upper lobe",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 731,
+      "end": 737,
+      "mention": "carina",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1075,
+      "end": 1089,
+      "mention": "m.latiss.dorsi",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 722,
+      "end": 737,
+      "mention": "Tracheal carina",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 29,
+      "end": 49,
+      "mention": "tracheal bifurcation",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 415,
+      "end": 419,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 928,
+      "end": 934,
+      "mention": "carina",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 152,
+      "end": 158,
+      "mention": "carina",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1556,
+      "end": 1562,
+      "mention": "carina",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1304,
+      "end": 1308,
+      "mention": "head",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 191,
+      "end": 207,
+      "mention": "bronchial cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 518,
+      "end": 541,
+      "mention": "clear cell renal cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 72,
+      "end": 81,
+      "mention": "bronchial",
+      "label": "ANATOMY"
+    }
+  ]
+}

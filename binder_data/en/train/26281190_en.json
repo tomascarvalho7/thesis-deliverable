@@ -1,0 +1,311 @@
+{
+  "text": "[Cystatin C is a new marker for left ventricular hypertrophy in patients with chronic kidney disease]. AIM  To estimate the diagnostic value of serum cystatin C in the development of left ventricular hypertrophy (LVH) in patients with chronic kidney disease (CKD). SUBJECTS AND METHODS The investigation enrolled 86 patients (53% men, 47% women; mean age, 45 ± 13 years) with nondiabetic CKD. According to the magnitude of glomerular filtration rate (GFR) decrease, the patents were divided into 3 groups: 1) 33 patients with a GFR of 89-45 ml/min; 2) 33 with a GFR of 15 ml/min; 3) 20 hemodialysis patients with a GFR of < 15 ml/min. A control group included 20 individuals with a GFR of > 90 ml/min. In all the patients, physical examination and transthoracic echocardiography were performed and serum cystatin C levels were measured. RESULTS In Groups 1, 2, and 3, LVH was detected in 42.4, 63.6, and 80% of cases, respectively. It was not found in the control group.  In these groups, serum cystatin C levels were 1489.49 ± 520.76, 2533.13 ± 621.66, 5166.02 ± 1586.61, and 820.08 ± 224.54 ng/ml, respectively. An association was found between cystatin C and LVH (p = 0.5; p < 0.001). The level of cystatin C was shown to predict the development of LVH with a sensitivity of 78% and a specificity of 62% for predialysis CKD patients. Multivariate analysis of left ventricular mass index (LVMI), E-velocity/A-velocity, (E/A) ratio, and hypertension showed that the cystatin C levels were independently correlated with LVMI only (p < 0.05; p = 0.3) in all the groups. CONCLUSION Serum cystatin C levels may be regarded as an early LVH marker detectable in patients with the earliest stages of CKD. ",
+  "entities": [
+    {
+      "start": 1367,
+      "end": 1378,
+      "mention": "ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 188,
+      "end": 199,
+      "mention": "ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 150,
+      "end": 158,
+      "mention": "cystatin",
+      "label": "CHEM"
+    },
+    {
+      "start": 259,
+      "end": 262,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 213,
+      "end": 216,
+      "mention": "LVH",
+      "label": "DISO"
+    },
+    {
+      "start": 1323,
+      "end": 1326,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 376,
+      "end": 391,
+      "mention": "nondiabetic CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 243,
+      "end": 257,
+      "mention": "kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1632,
+      "end": 1635,
+      "mention": "LVH",
+      "label": "DISO"
+    },
+    {
+      "start": 1580,
+      "end": 1585,
+      "mention": "Serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 798,
+      "end": 803,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 37,
+      "end": 60,
+      "mention": "ventricular hypertrophy",
+      "label": "DISO"
+    },
+    {
+      "start": 200,
+      "end": 211,
+      "mention": "hypertrophy",
+      "label": "DISO"
+    },
+    {
+      "start": 32,
+      "end": 48,
+      "mention": "left ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 868,
+      "end": 871,
+      "mention": "LVH",
+      "label": "DISO"
+    },
+    {
+      "start": 188,
+      "end": 211,
+      "mention": "ventricular hypertrophy",
+      "label": "DISO"
+    },
+    {
+      "start": 49,
+      "end": 60,
+      "mention": "hypertrophy",
+      "label": "DISO"
+    },
+    {
+      "start": 989,
+      "end": 994,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 804,
+      "end": 812,
+      "mention": "cystatin",
+      "label": "CHEM"
+    },
+    {
+      "start": 243,
+      "end": 249,
+      "mention": "kidney",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1,
+      "end": 9,
+      "mention": "Cystatin",
+      "label": "CHEM"
+    },
+    {
+      "start": 86,
+      "end": 92,
+      "mention": "kidney",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1362,
+      "end": 1378,
+      "mention": "left ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1586,
+      "end": 1594,
+      "mention": "cystatin",
+      "label": "CHEM"
+    },
+    {
+      "start": 388,
+      "end": 391,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 183,
+      "end": 199,
+      "mention": "left ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1201,
+      "end": 1211,
+      "mention": "cystatin C",
+      "label": "CHEM"
+    },
+    {
+      "start": 1694,
+      "end": 1697,
+      "mention": "CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 78,
+      "end": 100,
+      "mention": "chronic kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 150,
+      "end": 160,
+      "mention": "cystatin C",
+      "label": "CHEM"
+    },
+    {
+      "start": 995,
+      "end": 1005,
+      "mention": "cystatin C",
+      "label": "CHEM"
+    },
+    {
+      "start": 1252,
+      "end": 1255,
+      "mention": "LVH",
+      "label": "DISO"
+    },
+    {
+      "start": 1467,
+      "end": 1475,
+      "mention": "cystatin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1,
+      "end": 11,
+      "mention": "Cystatin C",
+      "label": "CHEM"
+    },
+    {
+      "start": 1147,
+      "end": 1155,
+      "mention": "cystatin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1586,
+      "end": 1596,
+      "mention": "cystatin C",
+      "label": "CHEM"
+    },
+    {
+      "start": 1467,
+      "end": 1477,
+      "mention": "cystatin C",
+      "label": "CHEM"
+    },
+    {
+      "start": 1147,
+      "end": 1157,
+      "mention": "cystatin C",
+      "label": "CHEM"
+    },
+    {
+      "start": 235,
+      "end": 257,
+      "mention": "chronic kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 86,
+      "end": 100,
+      "mention": "kidney disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1162,
+      "end": 1165,
+      "mention": "LVH",
+      "label": "DISO"
+    },
+    {
+      "start": 37,
+      "end": 48,
+      "mention": "ventricular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 183,
+      "end": 211,
+      "mention": "left ventricular hypertrophy",
+      "label": "DISO"
+    },
+    {
+      "start": 32,
+      "end": 60,
+      "mention": "left ventricular hypertrophy",
+      "label": "DISO"
+    },
+    {
+      "start": 423,
+      "end": 433,
+      "mention": "glomerular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 144,
+      "end": 149,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 995,
+      "end": 1003,
+      "mention": "cystatin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1438,
+      "end": 1450,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 804,
+      "end": 814,
+      "mention": "cystatin C",
+      "label": "CHEM"
+    },
+    {
+      "start": 1311,
+      "end": 1326,
+      "mention": "predialysis CKD",
+      "label": "DISO"
+    },
+    {
+      "start": 1201,
+      "end": 1209,
+      "mention": "cystatin",
+      "label": "CHEM"
+    }
+  ]
+}

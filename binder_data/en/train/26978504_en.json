@@ -1,0 +1,263 @@
+{
+  "text": "[A clinical efficacy of electrode pharmaphoresis in treatment of railway workers with low-back pain]. OBJECTIVE To evaluate clinical efficacy and tolerability of electrode pharmaphoresis using preparations xefocam and mydocalm-richter in railway workers with low-back pain.  MATERIAL AND METHODS Authors carried out an open prospective noncomparative study of 16 patients, aged 21-82 years, with spinal osteochondrosis with root syndrome and radiculopathia of the lumbar/sacral spine with pain syndrome regardless of its duration. Treatment efficacy was assessed by the dynamics of pain syndrome severity based on the scores of a self-rated scale completed by the patient and the McGill Pain Questionnaire. Quality-of-life was assessed with the Oswestry Disability Index before and in the end of treatment. Clinical outcome was evaluated with the modified Nurick scale.  Electrode pharmaphoresis (the \"Farma T.E.B. Trans Epidermal Barrier Physio\" apparatus) was administered to all patients using xefocam (solution for injections 8 mg, 2 ml per procedure) and mydocalm-richter (solution for injections 100 mg, 2 ml per injection) in the lumbar/sacral spine. RESULTS AND CONCLUSION The high clinical efficacy of electrode pharmaphoresis using xefocam and mydocalm-richter was shown. The complex restoration study resulted in the reduction of pain syndrome in all patients. Pain severity was reduced to mild grade in 68.8% to the middle of treatment and in 93.8% patients in the end of treatment. As a consequence of pain reduction, the functional activity (quality of self-service, daily activities) increased significantly in 68.8% of patients. Positive treatment effect was noted in 100% of patients, good tolerability of this medication in 87.5%. ",
+  "entities": [
+    {
+      "start": 687,
+      "end": 691,
+      "mention": "Pain",
+      "label": "DISO"
+    },
+    {
+      "start": 464,
+      "end": 483,
+      "mention": "lumbar/sacral spine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 86,
+      "end": 99,
+      "mention": "low-back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 442,
+      "end": 456,
+      "mention": "radiculopathia",
+      "label": "DISO"
+    },
+    {
+      "start": 396,
+      "end": 418,
+      "mention": "spinal osteochondrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 489,
+      "end": 493,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 259,
+      "end": 272,
+      "mention": "low-back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 403,
+      "end": 418,
+      "mention": "osteochondrosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1137,
+      "end": 1156,
+      "mention": "lumbar/sacral spine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1341,
+      "end": 1354,
+      "mention": "pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 268,
+      "end": 272,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1060,
+      "end": 1076,
+      "mention": "mydocalm-richter",
+      "label": "CHEM"
+    },
+    {
+      "start": 1254,
+      "end": 1270,
+      "mention": "mydocalm-richter",
+      "label": "CHEM"
+    },
+    {
+      "start": 1060,
+      "end": 1068,
+      "mention": "mydocalm",
+      "label": "CHEM"
+    },
+    {
+      "start": 218,
+      "end": 234,
+      "mention": "mydocalm-richter",
+      "label": "CHEM"
+    },
+    {
+      "start": 489,
+      "end": 502,
+      "mention": "pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 478,
+      "end": 483,
+      "mention": "spine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1151,
+      "end": 1156,
+      "mention": "spine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 263,
+      "end": 267,
+      "mention": "back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 90,
+      "end": 94,
+      "mention": "back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 396,
+      "end": 402,
+      "mention": "spinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 424,
+      "end": 428,
+      "mention": "root",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 582,
+      "end": 595,
+      "mention": "pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 582,
+      "end": 586,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1254,
+      "end": 1262,
+      "mention": "mydocalm",
+      "label": "CHEM"
+    },
+    {
+      "start": 1242,
+      "end": 1249,
+      "mention": "xefocam",
+      "label": "CHEM"
+    },
+    {
+      "start": 471,
+      "end": 477,
+      "mention": "sacral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1144,
+      "end": 1150,
+      "mention": "sacral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 86,
+      "end": 94,
+      "mention": "low-back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 259,
+      "end": 267,
+      "mention": "low-back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1006,
+      "end": 1014,
+      "mention": "solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 1078,
+      "end": 1086,
+      "mention": "solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 464,
+      "end": 470,
+      "mention": "lumbar",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1372,
+      "end": 1376,
+      "mention": "Pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1078,
+      "end": 1101,
+      "mention": "solution for injections",
+      "label": "CHEM"
+    },
+    {
+      "start": 1006,
+      "end": 1029,
+      "mention": "solution for injections",
+      "label": "CHEM"
+    },
+    {
+      "start": 997,
+      "end": 1004,
+      "mention": "xefocam",
+      "label": "CHEM"
+    },
+    {
+      "start": 1515,
+      "end": 1519,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 95,
+      "end": 99,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 424,
+      "end": 437,
+      "mention": "root syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 206,
+      "end": 213,
+      "mention": "xefocam",
+      "label": "CHEM"
+    },
+    {
+      "start": 1341,
+      "end": 1345,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 1137,
+      "end": 1143,
+      "mention": "lumbar",
+      "label": "ANATOMY"
+    }
+  ]
+}

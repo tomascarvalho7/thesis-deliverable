@@ -1,0 +1,149 @@
+{
+  "text": "[Cardiovascular diseases in the population of industrial towns and environmental factors]. \nAIM  To study the influence of environmental factors (EFs) on the development of cardiovascular diseases in the population of industrial towns of the Republic of Kazakhstan. \nSUBJECTS AND METHODS The investigation covered an 18-59-year-old adult population who had been living in the urbanized areas of the Republic of Kazakhstan for at least 10 years, who worked in harmless conditions and were unregistered as having chronic diseases. \nAt Stage 1, screening (a therapist's examination, blood general and immunological tests, and electrocardiography) was carried out for risk group persons who underwent in-depth clinical examination (blood biochemical test) at Stage 2.  \nRESULTS Multivariate statistical analysis has revealed that the development of hypertension is associated with the high concentration of sulfur dioxide in atmospheric air, copper in dust sediments, and zinc in soil and that of coronary heart disease (CHD) is related to the high levels of nitrogen dioxide in atmospheric air and zinc in dust sediments. \nCONCLUSION Based on pathogenetic and statistical data and information available in the literature, hypertension and CHD are referred to as the diseases that may result from the influence of EFs. \n",
+  "entities": [
+    {
+      "start": 968,
+      "end": 972,
+      "mention": "zinc",
+      "label": "CHEM"
+    },
+    {
+      "start": 910,
+      "end": 917,
+      "mention": "dioxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 173,
+      "end": 196,
+      "mention": "cardiovascular diseases",
+      "label": "DISO"
+    },
+    {
+      "start": 511,
+      "end": 527,
+      "mention": "chronic diseases",
+      "label": "DISO"
+    },
+    {
+      "start": 993,
+      "end": 1015,
+      "mention": "coronary heart disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1055,
+      "end": 1071,
+      "mention": "nitrogen dioxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 1017,
+      "end": 1020,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 903,
+      "end": 909,
+      "mention": "sulfur",
+      "label": "CHEM"
+    },
+    {
+      "start": 903,
+      "end": 917,
+      "mention": "sulfur dioxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 993,
+      "end": 1001,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1095,
+      "end": 1099,
+      "mention": "zinc",
+      "label": "CHEM"
+    },
+    {
+      "start": 1064,
+      "end": 1071,
+      "mention": "dioxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 1236,
+      "end": 1239,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 1002,
+      "end": 1007,
+      "mention": "heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1,
+      "end": 24,
+      "mention": "Cardiovascular diseases",
+      "label": "DISO"
+    },
+    {
+      "start": 845,
+      "end": 857,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 580,
+      "end": 585,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 728,
+      "end": 733,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1002,
+      "end": 1015,
+      "mention": "heart disease",
+      "label": "DISO"
+    },
+    {
+      "start": 173,
+      "end": 187,
+      "mention": "cardiovascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1,
+      "end": 15,
+      "mention": "Cardiovascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 938,
+      "end": 944,
+      "mention": "copper",
+      "label": "CHEM"
+    },
+    {
+      "start": 1219,
+      "end": 1231,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 1055,
+      "end": 1063,
+      "mention": "nitrogen",
+      "label": "CHEM"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "text": "OBJECTIVE  To compare the changes in brain functional state in combined antidepressive treatment (venlafaxine plus cerebrolysin) vs. monotherapy with the same antidepressant in elderly depressive patients using quantitative EEG methods. MATERIAL AND METHODS Forty patients, aged 60-79 years, mean 67.1±5.7) were randomized to two groups. Patients of group 1 were treated with venlafaxine (4 weeks, in dose of 75-150 mg/day). Patients of group 2 were additionally treated with cerebrolysin (totally 20 i/v infusions during 4 weeks, 20.0 ml in 100 ml isotonic NaCl solution). RESULTS AND CONCLUSION The significant improvement of clinical conditions was shown by the end of the treatment course using both clinical assessments and HAMD-17, CGI-S, CGI-I and MMSE scores in both groups. The combined treatment with venlafaxine and cerebrolysin in patients of group 2 led to more pronounced improvement of their brain functional state (seen as an increase of spectral power and normalization of frequency alpha band of parietal-occipital EEG) in comparison with patients of group 2 treated by the same antidepressant alone. ",
+  "entities": [
+    {
+      "start": 1014,
+      "end": 1032,
+      "mention": "parietal-occipital",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 185,
+      "end": 195,
+      "mention": "depressive",
+      "label": "DISO"
+    },
+    {
+      "start": 549,
+      "end": 571,
+      "mention": "isotonic NaCl solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 907,
+      "end": 912,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 37,
+      "end": 42,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 563,
+      "end": 571,
+      "mention": "solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 1014,
+      "end": 1022,
+      "mention": "parietal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 115,
+      "end": 127,
+      "mention": "cerebrolysin",
+      "label": "CHEM"
+    },
+    {
+      "start": 476,
+      "end": 488,
+      "mention": "cerebrolysin",
+      "label": "CHEM"
+    },
+    {
+      "start": 376,
+      "end": 387,
+      "mention": "venlafaxine",
+      "label": "CHEM"
+    },
+    {
+      "start": 827,
+      "end": 839,
+      "mention": "cerebrolysin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1023,
+      "end": 1032,
+      "mention": "occipital",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 558,
+      "end": 562,
+      "mention": "NaCl",
+      "label": "CHEM"
+    },
+    {
+      "start": 98,
+      "end": 109,
+      "mention": "venlafaxine",
+      "label": "CHEM"
+    },
+    {
+      "start": 811,
+      "end": 822,
+      "mention": "venlafaxine",
+      "label": "CHEM"
+    }
+  ]
+}

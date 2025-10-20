@@ -1,0 +1,215 @@
+{
+  "text": "[Resistance to protease inhibitors and efficiency of antiviral therapy in patients with chronic hepatitis C]. AIM  To clarify the role of virus resistance in the efficiency of antiviral therapy with protease inhibitors (PIs) chronic hepatitis C (CHC) patients, with moderate sensitivity to interferon-α. MATERIALS AND METHODS Eight Caucasian patients (4 men and 4 women) aged 21 to 65 years (median 52.5 years) with genotype 1b hepatitis C virus (HCV) infection were included in the study. Two patients were diagnosed with liver cirrhosis; 4 had been ineffectively treated with peginterferon in combination with ribavirin. None of the patients had obesity and/or insulin resistance. All the 8 patients received triple therapy with PIs (boceprevir (n=3), telaprevir (n=4), and simeprevir (n=1)) and as a result failed to achieve a sustained virologic response. All the participants were studied to identify mutations in HCV NS3/4A region. RESULTS Five of the 8 patients were found to have mutations in HCV NS3/4A region (substantially reducing drug susceptibility in 3 cases). CONCLUSION In CHC patients who are moderately sensitive to interferon-α and receive therapy with PIs, resistance to the latter is critically important for the efficiency of therapy and the timely identification of resistance mutations can contribute to the choice of an optimal treatment policy. ",
+  "entities": [
+    {
+      "start": 24,
+      "end": 34,
+      "mention": "inhibitors",
+      "label": "CHEM"
+    },
+    {
+      "start": 88,
+      "end": 107,
+      "mention": "chronic hepatitis C",
+      "label": "DISO"
+    },
+    {
+      "start": 233,
+      "end": 244,
+      "mention": "hepatitis C",
+      "label": "DISO"
+    },
+    {
+      "start": 208,
+      "end": 218,
+      "mention": "inhibitors",
+      "label": "CHEM"
+    },
+    {
+      "start": 225,
+      "end": 244,
+      "mention": "chronic hepatitis C",
+      "label": "DISO"
+    },
+    {
+      "start": 220,
+      "end": 223,
+      "mention": "PIs",
+      "label": "CHEM"
+    },
+    {
+      "start": 428,
+      "end": 439,
+      "mention": "hepatitis C",
+      "label": "DISO"
+    },
+    {
+      "start": 1173,
+      "end": 1176,
+      "mention": "PIs",
+      "label": "CHEM"
+    },
+    {
+      "start": 731,
+      "end": 734,
+      "mention": "PIs",
+      "label": "CHEM"
+    },
+    {
+      "start": 15,
+      "end": 23,
+      "mention": "protease",
+      "label": "CHEM"
+    },
+    {
+      "start": 290,
+      "end": 302,
+      "mention": "interferon-α",
+      "label": "CHEM"
+    },
+    {
+      "start": 736,
+      "end": 746,
+      "mention": "boceprevir",
+      "label": "CHEM"
+    },
+    {
+      "start": 428,
+      "end": 461,
+      "mention": "hepatitis C virus (HCV) infection",
+      "label": "DISO"
+    },
+    {
+      "start": 776,
+      "end": 786,
+      "mention": "simeprevir",
+      "label": "CHEM"
+    },
+    {
+      "start": 233,
+      "end": 242,
+      "mention": "hepatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 428,
+      "end": 437,
+      "mention": "hepatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 663,
+      "end": 670,
+      "mention": "insulin",
+      "label": "CHEM"
+    },
+    {
+      "start": 663,
+      "end": 681,
+      "mention": "insulin resistance",
+      "label": "DISO"
+    },
+    {
+      "start": 648,
+      "end": 655,
+      "mention": "obesity",
+      "label": "DISO"
+    },
+    {
+      "start": 96,
+      "end": 105,
+      "mention": "hepatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1135,
+      "end": 1145,
+      "mention": "interferon",
+      "label": "CHEM"
+    },
+    {
+      "start": 199,
+      "end": 207,
+      "mention": "protease",
+      "label": "CHEM"
+    },
+    {
+      "start": 96,
+      "end": 107,
+      "mention": "hepatitis C",
+      "label": "DISO"
+    },
+    {
+      "start": 1135,
+      "end": 1147,
+      "mention": "interferon-α",
+      "label": "CHEM"
+    },
+    {
+      "start": 199,
+      "end": 218,
+      "mention": "protease inhibitors",
+      "label": "CHEM"
+    },
+    {
+      "start": 523,
+      "end": 538,
+      "mention": "liver cirrhosis",
+      "label": "DISO"
+    },
+    {
+      "start": 612,
+      "end": 621,
+      "mention": "ribavirin",
+      "label": "CHEM"
+    },
+    {
+      "start": 15,
+      "end": 34,
+      "mention": "protease inhibitors",
+      "label": "CHEM"
+    },
+    {
+      "start": 529,
+      "end": 538,
+      "mention": "cirrhosis",
+      "label": "DISO"
+    },
+    {
+      "start": 523,
+      "end": 528,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 452,
+      "end": 461,
+      "mention": "infection",
+      "label": "DISO"
+    },
+    {
+      "start": 1090,
+      "end": 1093,
+      "mention": "CHC",
+      "label": "DISO"
+    },
+    {
+      "start": 578,
+      "end": 591,
+      "mention": "peginterferon",
+      "label": "CHEM"
+    },
+    {
+      "start": 754,
+      "end": 764,
+      "mention": "telaprevir",
+      "label": "CHEM"
+    },
+    {
+      "start": 246,
+      "end": 249,
+      "mention": "CHC",
+      "label": "DISO"
+    }
+  ]
+}

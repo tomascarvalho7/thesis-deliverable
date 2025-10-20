@@ -1,0 +1,275 @@
+{
+  "text": "[Treatment tactics for patients with combined atherosclerotic lesions of brachiocephalic and coronary arteries]. OBJECTIVE To evaluate the tactics of surgical treatment of patients with coronary heart disease and atherosclerotic lesions of cerebral vessels in dependence of risk stratification of heart and brain complications.  MATERIAL AND METHODS Cerebral and coronary blood flow and functional state of the brain and heart were studied.  According to treatment characteristics, 3 groups were singled out: patients of the 1(st) group underwent simultaneous surgery of coronary and brachiocephalic arteries, patients of the 2(nd) group were first operated for brachiocephalic arteries, in the 3(rd) group, bypass graft was performed in the first stage. RESULTS AND CONCLUSION A role of coronary and brachiocephalic arteries, functional state of the myocardium and brain in the postoperative risk was established. The authors suggest the algorithm for choosing the order of priority of surgical interventions on coronary and brachiocephalic arteries. ",
+  "entities": [
+    {
+      "start": 297,
+      "end": 302,
+      "mention": "heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 186,
+      "end": 208,
+      "mention": "coronary heart disease",
+      "label": "DISO"
+    },
+    {
+      "start": 313,
+      "end": 326,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 788,
+      "end": 796,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 93,
+      "end": 101,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 195,
+      "end": 208,
+      "mention": "heart disease",
+      "label": "DISO"
+    },
+    {
+      "start": 363,
+      "end": 371,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 421,
+      "end": 426,
+      "mention": "heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 195,
+      "end": 200,
+      "mention": "heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1013,
+      "end": 1021,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 571,
+      "end": 579,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 186,
+      "end": 194,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 851,
+      "end": 861,
+      "mention": "myocardium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 102,
+      "end": 110,
+      "mention": "arteries brachiocephalic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 73,
+      "end": 88,
+      "mention": "arteries brachiocephalic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 102,
+      "end": 110,
+      "mention": "arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1042,
+      "end": 1050,
+      "mention": "arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 240,
+      "end": 256,
+      "mention": "cerebral vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 62,
+      "end": 69,
+      "mention": "lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 817,
+      "end": 825,
+      "mention": "arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 46,
+      "end": 69,
+      "mention": "atherosclerotic lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 372,
+      "end": 377,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 229,
+      "end": 236,
+      "mention": "lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 662,
+      "end": 686,
+      "mention": "brachiocephalic arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 73,
+      "end": 88,
+      "mention": "brachiocephalic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 93,
+      "end": 110,
+      "mention": "coronary arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 584,
+      "end": 608,
+      "mention": "brachiocephalic arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 801,
+      "end": 825,
+      "mention": "brachiocephalic arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 715,
+      "end": 720,
+      "mention": "graft",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1013,
+      "end": 1021,
+      "mention": "coronary arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1042,
+      "end": 1050,
+      "mention": "coronary arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 249,
+      "end": 256,
+      "mention": "vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 788,
+      "end": 796,
+      "mention": "coronary arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 817,
+      "end": 825,
+      "mention": "coronary arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 600,
+      "end": 608,
+      "mention": "arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 571,
+      "end": 579,
+      "mention": "coronary arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 600,
+      "end": 608,
+      "mention": "coronary arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 411,
+      "end": 416,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1026,
+      "end": 1050,
+      "mention": "brachiocephalic arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 678,
+      "end": 686,
+      "mention": "arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 350,
+      "end": 358,
+      "mention": "Cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 213,
+      "end": 236,
+      "mention": "atherosclerotic lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 307,
+      "end": 312,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 240,
+      "end": 248,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 866,
+      "end": 871,
+      "mention": "brain",
+      "label": "ANATOMY"
+    }
+  ]
+}

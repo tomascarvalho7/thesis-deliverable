@@ -1,0 +1,155 @@
+{
+  "text": "[Experience with cryopreserved homografts used in aortofemoral position in infection of vascular prostheses].  The authors share herein their experience in reconstructive interventions on the aortofemoral segment in infection of the implant in three 59-to-69-year-old male patients. Infection of the prosthesis was diagnosed by the clinical data, findings of MSCT angiography and duplex scanning of the infrarenal portion of the aorta and arteries of lower limbs. Pseudoaneurysms of distal anastomoses were revealed in two cases. All secondary reconstructions were performed with the use of a cryopreserved aortic bifurcation homograft in the in situ position with simultaneous removal of the infected implant. The results of inoculation from the removed implants yielded Staphylococcus aureus in two cases and Staphylococcus epidermidis in one case. One patient died 6 months later due to causes not related to the operative intervention, in the remaining two cases during one year no findings suggesting reinfection or steno-occlusive lesion of the aortofemoral segment have been revealed. ",
+  "entities": [
+    {
+      "start": 693,
+      "end": 701,
+      "mention": "infected",
+      "label": "DISO"
+    },
+    {
+      "start": 693,
+      "end": 709,
+      "mention": "infected implant",
+      "label": "DISO"
+    },
+    {
+      "start": 216,
+      "end": 240,
+      "mention": "infection of the implant",
+      "label": "DISO"
+    },
+    {
+      "start": 457,
+      "end": 462,
+      "mention": "limbs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 490,
+      "end": 501,
+      "mention": "anastomoses",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 75,
+      "end": 107,
+      "mention": "infection of vascular prostheses",
+      "label": "DISO"
+    },
+    {
+      "start": 451,
+      "end": 462,
+      "mention": "lower limbs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 429,
+      "end": 434,
+      "mention": "aorta",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 607,
+      "end": 613,
+      "mention": "aortic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 614,
+      "end": 625,
+      "mention": "bifurcation",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 283,
+      "end": 310,
+      "mention": "Infection of the prosthesis",
+      "label": "DISO"
+    },
+    {
+      "start": 192,
+      "end": 212,
+      "mention": "aortofemoral segment",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1051,
+      "end": 1071,
+      "mention": "aortofemoral segment",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 50,
+      "end": 62,
+      "mention": "aortofemoral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 88,
+      "end": 96,
+      "mention": "vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 75,
+      "end": 84,
+      "mention": "infection",
+      "label": "DISO"
+    },
+    {
+      "start": 483,
+      "end": 501,
+      "mention": "distal anastomoses",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1021,
+      "end": 1043,
+      "mention": "steno-occlusive lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 216,
+      "end": 225,
+      "mention": "infection",
+      "label": "DISO"
+    },
+    {
+      "start": 403,
+      "end": 421,
+      "mention": "infrarenal portion",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1006,
+      "end": 1017,
+      "mention": "reinfection",
+      "label": "DISO"
+    },
+    {
+      "start": 439,
+      "end": 447,
+      "mention": "arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 283,
+      "end": 292,
+      "mention": "Infection",
+      "label": "DISO"
+    },
+    {
+      "start": 439,
+      "end": 462,
+      "mention": "arteries of lower limbs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 464,
+      "end": 479,
+      "mention": "Pseudoaneurysms",
+      "label": "DISO"
+    }
+  ]
+}

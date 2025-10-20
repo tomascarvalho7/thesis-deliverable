@@ -1,0 +1,131 @@
+{
+  "text": "[Awake craniotomy: analysis of complicated cases].  UNLABELLED Awake craniotomy is recognized as method that can decrease the frequency of neurological complications after surgery for gliomas located near eloquent brain regions.  Unfortunately good neurological outcome canot be ensured even by using of this technique. This paper discusses reasons and possible ways of prevention of such complications.  MATERIAL AND METHODS 162 awake craniotomies were performed in our clinic.  RESULTS 152 of patients were discharged from the clinic with good outcome.  In 10 (6%) cases sustained severe neurological deficit was noted. These complications were associated with anatomic or ischemic injury of subcortical pathways and internal capsule. CONCLUSION Awake craniotomy is effective instrument of brain language mapping and prevention of neurological deterioration.  Severe neurological complications of awake craniotomy are associated with underestimate neurosurgical risks, especially in terms of blood vessel injury and depth of resection. The main way of prevention of such complications is meticulous planning of operation and adequate using of mapping facilities. ",
+  "entities": [
+    {
+      "start": 583,
+      "end": 610,
+      "mention": "severe neurological deficit",
+      "label": "DISO"
+    },
+    {
+      "start": 205,
+      "end": 227,
+      "mention": "eloquent brain regions",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 694,
+      "end": 705,
+      "mention": "subcortical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 694,
+      "end": 714,
+      "mention": "subcortical pathways",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 792,
+      "end": 797,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 214,
+      "end": 219,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 869,
+      "end": 895,
+      "mention": "neurological complications",
+      "label": "DISO"
+    },
+    {
+      "start": 675,
+      "end": 683,
+      "mention": "ischemic",
+      "label": "DISO"
+    },
+    {
+      "start": 590,
+      "end": 610,
+      "mention": "neurological deficit",
+      "label": "DISO"
+    },
+    {
+      "start": 139,
+      "end": 165,
+      "mention": "neurological complications",
+      "label": "DISO"
+    },
+    {
+      "start": 882,
+      "end": 895,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 994,
+      "end": 1006,
+      "mention": "blood vessel",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 184,
+      "end": 191,
+      "mention": "gliomas",
+      "label": "DISO"
+    },
+    {
+      "start": 994,
+      "end": 999,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 214,
+      "end": 227,
+      "mention": "brain regions",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 152,
+      "end": 165,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 675,
+      "end": 690,
+      "mention": "ischemic injury",
+      "label": "DISO"
+    },
+    {
+      "start": 833,
+      "end": 859,
+      "mention": "neurological deterioration",
+      "label": "DISO"
+    },
+    {
+      "start": 719,
+      "end": 735,
+      "mention": "internal capsule",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 389,
+      "end": 402,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 1073,
+      "end": 1086,
+      "mention": "complications",
+      "label": "DISO"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+datasets
+evaluate
+transformers
+torch
+accelerate
+seqeval
+setuptools
+wheel
+tensorboardX
+pytorch-crf
+pytorch-transformers

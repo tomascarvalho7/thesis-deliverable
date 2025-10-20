@@ -1,0 +1,173 @@
+{
+  "text": "[Surgical treatment of an aneurysm of the upper mesenteric artery].  Presented herein is a clinical case report concerning successful surgical treatment of an aneurysm of the upper superior mesenteric artery. Diagnosis included contrast-enhanced multispiral computed tomography. Thought the middle laparotomy we exposed an aneurysm of the superior mesenteric artery measuring 3 mm in diameter. A peculiarity of the aneurysm was that it was tightly adhered to the body of the pancreas and had a \"neck\" with pronounced signs of infiltration, with the latter extending to the right lateral and upper wall of the aneurysm. The aneurysm was resected along its \"neck\" which made it possible to suture the defect without residual stenosis and with no use of a synthetic patch. The woman was discharged on day 8 postoperatively in a satisfactory condition. Based on the morphological examination of the micropreparation the following diagnosis was made: fibromuscular dysplasia, aneurysm of the superior mesenteric artery. ",
+  "entities": [
+    {
+      "start": 526,
+      "end": 538,
+      "mention": "infiltration",
+      "label": "DISO"
+    },
+    {
+      "start": 181,
+      "end": 207,
+      "mention": "superior mesenteric artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 987,
+      "end": 1013,
+      "mention": "superior mesenteric artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 714,
+      "end": 731,
+      "mention": "residual stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 42,
+      "end": 65,
+      "mention": "upper mesenteric artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 175,
+      "end": 207,
+      "mention": "upper superior mesenteric artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 609,
+      "end": 617,
+      "mention": "aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 415,
+      "end": 423,
+      "mention": "aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 339,
+      "end": 365,
+      "mention": "superior mesenteric artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 323,
+      "end": 331,
+      "mention": "aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 895,
+      "end": 911,
+      "mention": "micropreparation",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 723,
+      "end": 731,
+      "mention": "stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 463,
+      "end": 483,
+      "mention": "body of the pancreas",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 623,
+      "end": 631,
+      "mention": "aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 59,
+      "end": 65,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 971,
+      "end": 979,
+      "mention": "aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 159,
+      "end": 167,
+      "mention": "aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 475,
+      "end": 483,
+      "mention": "pancreas",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 201,
+      "end": 207,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 26,
+      "end": 34,
+      "mention": "aneurysm",
+      "label": "DISO"
+    },
+    {
+      "start": 48,
+      "end": 65,
+      "mention": "mesenteric artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1007,
+      "end": 1013,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 190,
+      "end": 207,
+      "mention": "mesenteric artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 960,
+      "end": 969,
+      "mention": "dysplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 996,
+      "end": 1013,
+      "mention": "mesenteric artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 359,
+      "end": 365,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 946,
+      "end": 969,
+      "mention": "fibromuscular dysplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 348,
+      "end": 365,
+      "mention": "mesenteric artery",
+      "label": "ANATOMY"
+    }
+  ]
+}

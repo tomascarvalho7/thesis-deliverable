@@ -1,0 +1,581 @@
+{
+  "text": "[Contribution of hemodynamic disturbances in magistral vessels to optic neuropathy progression and ocular tension changes in endocrine ophthalmopathy].  AIM to investigate the contribution of various hemodynamic disturbances in magistral vessels to optic neuropathy (ON) progression and ocular tension changes in endocrine ophthalmopathy (EOP).  MATERIAL AND METHODS A total of 39 patients (78 eyes) with subclinical EOP (clinical activity score, CAS ≤ 2) associated with Graves' disease (n = 32, 64 eyes) or autoimmune thyroiditis (n = 7, 14 eyes) were examined. Orbit echography was performed in all patients. Blood flow was assessed with a Voluson 730 PRO ultrasound diagnostic system (\"Kretz\", Austria) in triplex mode (B-scan, color Doppler flow mapping in combination with pulse-wave Doppler). Thus obtained hemodynamic parameters in ophthalmic artery, central retinal artery (CRA), central retinal vein (CRV), short posterior ciliary arteries (SPCA), and long posterior ciliary arteries (LPCA) were analyzed. To reveal the role of hemodynamic disturbances in the above mentioned vessels in ON progression and eye pressure maintenance, the patients were divided into 7 groups. Only those eyes, whose peripheral indices were increased by more than 25% of normal values and diastolic blood flow decreased by not less than 25%, were selected for further study. Intraocular pressure changes were evaluated by group mean (Mmean = M ± m mmHg), optic neuropathy progression--by the difference in group mean depth (dB) and number of scotomas between the first and the last visit (6 months of observation). RESULTS In almost all types of perfusion disturbances, the resultant chronic ocular ischemia causes a decrease in IOP. The only exception, as shown, is simultaneous involvement of CRA, SPCA, and LPCA. The level of blood flow disturbance determines the severity of qualitative and quantitative changes in eyes with EOP-associated ON. The rate of ON progression directly correlates with baseline IOP values on day zero. CONCLUSION Long-lasting chronic impairment of blood supply of the eyeball leads to reduction in ocular tension and progression of optic neuropathy. Combined perfusion disturbances in CRA and LPCA as well as in CRA, LPCA, and SPCA can be considered a high-risk factor, while SPCA and/or LPCA involvement--a moderate-risk factor. ",
+  "entities": [
+    {
+      "start": 1933,
+      "end": 1935,
+      "mention": "ON",
+      "label": "DISO"
+    },
+    {
+      "start": 1635,
+      "end": 1657,
+      "mention": "perfusion disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 1949,
+      "end": 1951,
+      "mention": "ON",
+      "label": "DISO"
+    },
+    {
+      "start": 875,
+      "end": 881,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 840,
+      "end": 857,
+      "mention": "ophthalmic artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 135,
+      "end": 149,
+      "mention": "ophthalmopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 2046,
+      "end": 2080,
+      "mention": "chronic impairment of blood supply",
+      "label": "DISO"
+    },
+    {
+      "start": 2170,
+      "end": 2201,
+      "mention": "Combined perfusion disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 339,
+      "end": 342,
+      "mention": "EOP",
+      "label": "DISO"
+    },
+    {
+      "start": 125,
+      "end": 149,
+      "mention": "endocrine ophthalmopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 1681,
+      "end": 1696,
+      "mention": "ocular ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 897,
+      "end": 904,
+      "mention": "retinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 905,
+      "end": 909,
+      "mention": "vein",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1918,
+      "end": 1921,
+      "mention": "EOP",
+      "label": "DISO"
+    },
+    {
+      "start": 417,
+      "end": 420,
+      "mention": "EOP",
+      "label": "DISO"
+    },
+    {
+      "start": 313,
+      "end": 337,
+      "mention": "endocrine ophthalmopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 2152,
+      "end": 2168,
+      "mention": "optic neuropathy",
+      "label": "DISO"
+    },
+    {
+      "start": 287,
+      "end": 293,
+      "mention": "ocular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2179,
+      "end": 2201,
+      "mention": "perfusion disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 1097,
+      "end": 1099,
+      "mention": "ON",
+      "label": "DISO"
+    },
+    {
+      "start": 917,
+      "end": 949,
+      "mention": "short posterior ciliary arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 867,
+      "end": 874,
+      "mention": "retinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 267,
+      "end": 269,
+      "mention": "ON",
+      "label": "DISO"
+    },
+    {
+      "start": 313,
+      "end": 322,
+      "mention": "endocrine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1918,
+      "end": 1935,
+      "mention": "EOP-associated ON",
+      "label": "DISO"
+    },
+    {
+      "start": 1531,
+      "end": 1539,
+      "mention": "scotomas",
+      "label": "DISO"
+    },
+    {
+      "start": 911,
+      "end": 914,
+      "mention": "CRV",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 889,
+      "end": 909,
+      "mention": "central retinal vein",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2232,
+      "end": 2235,
+      "mention": "CRA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 859,
+      "end": 881,
+      "mention": "central retinal artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 933,
+      "end": 940,
+      "mention": "ciliary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1784,
+      "end": 1787,
+      "mention": "CRA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 883,
+      "end": 886,
+      "mention": "CRA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1288,
+      "end": 1293,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2205,
+      "end": 2208,
+      "mention": "CRA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1038,
+      "end": 1062,
+      "mention": "hemodynamic disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 520,
+      "end": 531,
+      "mention": "thyroiditis",
+      "label": "DISO"
+    },
+    {
+      "start": 17,
+      "end": 41,
+      "mention": "hemodynamic disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 200,
+      "end": 224,
+      "mention": "hemodynamic disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 612,
+      "end": 617,
+      "mention": "Blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1818,
+      "end": 1823,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 472,
+      "end": 487,
+      "mention": "Graves' disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1818,
+      "end": 1840,
+      "mention": "blood flow disturbance",
+      "label": "DISO"
+    },
+    {
+      "start": 851,
+      "end": 857,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1688,
+      "end": 1696,
+      "mention": "ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 977,
+      "end": 984,
+      "mention": "ciliary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 249,
+      "end": 254,
+      "mention": "optic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1444,
+      "end": 1449,
+      "mention": "optic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 125,
+      "end": 134,
+      "mention": "endocrine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1799,
+      "end": 1803,
+      "mention": "LPCA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 985,
+      "end": 993,
+      "mention": "arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 967,
+      "end": 976,
+      "mention": "posterior",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2054,
+      "end": 2080,
+      "mention": "impairment of blood supply",
+      "label": "DISO"
+    },
+    {
+      "start": 323,
+      "end": 337,
+      "mention": "ophthalmopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 962,
+      "end": 993,
+      "mention": "long posterior ciliary arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2213,
+      "end": 2217,
+      "mention": "LPCA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2308,
+      "end": 2312,
+      "mention": "LPCA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2158,
+      "end": 2168,
+      "mention": "neuropathy",
+      "label": "DISO"
+    },
+    {
+      "start": 1450,
+      "end": 1460,
+      "mention": "neuropathy",
+      "label": "DISO"
+    },
+    {
+      "start": 255,
+      "end": 265,
+      "mention": "neuropathy",
+      "label": "DISO"
+    },
+    {
+      "start": 995,
+      "end": 999,
+      "mention": "LPCA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2237,
+      "end": 2241,
+      "mention": "LPCA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 55,
+      "end": 62,
+      "mention": "vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 933,
+      "end": 949,
+      "mention": "ciliary arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1673,
+      "end": 1696,
+      "mention": "chronic ocular ischemia",
+      "label": "DISO"
+    },
+    {
+      "start": 977,
+      "end": 993,
+      "mention": "ciliary arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2296,
+      "end": 2300,
+      "mention": "SPCA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1789,
+      "end": 1793,
+      "mention": "SPCA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2247,
+      "end": 2251,
+      "mention": "SPCA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 951,
+      "end": 955,
+      "mention": "SPCA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 941,
+      "end": 949,
+      "mention": "arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 228,
+      "end": 245,
+      "mention": "magistral vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1364,
+      "end": 1375,
+      "mention": "Intraocular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 897,
+      "end": 909,
+      "mention": "retinal vein",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1444,
+      "end": 1460,
+      "mention": "optic neuropathy",
+      "label": "DISO"
+    },
+    {
+      "start": 249,
+      "end": 265,
+      "mention": "optic neuropathy",
+      "label": "DISO"
+    },
+    {
+      "start": 45,
+      "end": 62,
+      "mention": "magistral vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 66,
+      "end": 71,
+      "mention": "optic",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1908,
+      "end": 1912,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1194,
+      "end": 1198,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2088,
+      "end": 2095,
+      "mention": "eyeball",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 394,
+      "end": 398,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1116,
+      "end": 1119,
+      "mention": "eye",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 500,
+      "end": 504,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1681,
+      "end": 1687,
+      "mention": "ocular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2068,
+      "end": 2073,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 867,
+      "end": 881,
+      "mention": "retinal artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 543,
+      "end": 547,
+      "mention": "eyes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 99,
+      "end": 105,
+      "mention": "ocular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 72,
+      "end": 82,
+      "mention": "neuropathy",
+      "label": "DISO"
+    },
+    {
+      "start": 2118,
+      "end": 2124,
+      "mention": "ocular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1086,
+      "end": 1093,
+      "mention": "vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 564,
+      "end": 569,
+      "mention": "Orbit",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 238,
+      "end": 245,
+      "mention": "vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 66,
+      "end": 82,
+      "mention": "optic neuropathy",
+      "label": "DISO"
+    },
+    {
+      "start": 509,
+      "end": 531,
+      "mention": "autoimmune thyroiditis",
+      "label": "DISO"
+    }
+  ]
+}

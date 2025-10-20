@@ -1,0 +1,479 @@
+{
+  "text": "[Urinary excretion of markers for podocyte injury in patients with diabetes mellitus]. AIM  To estimate the urinary excretion of markers for podocyte injury, to specify their value for the early diagnosis of diabetic nephropathy (DN), and to access the risk of its progression in patients with diabetes mellitus (DM) with varying degrees of albuminuria/proteinuria. SUBJECT AND METHODS Seventy-four diabetic patients (30 with type 1 DM and 44 with type 2 DM) were examined and divided into 3 groups according to the urinary concentration in one urinary portion: 1) 41 patients with normal albuminuria (NAU) (<20 mg/l); 2) 13 patients with microalbuminuria (MAU) (20-200 mg/l); 3) 20 patients with proteinuria (PU) (>200 mg/l). A control group included 10 healthy individuals. The urinary levels of the podocyte structural proteins nephrin and podocin were determined by enzyme immunoassay. RESULTS Nephrinuria (NU) was detected in 63, 77, and 80% of the patients with NAU, MAU, and PU, respectively. Podocinuria (PDU) was found in 78, 54, and 83% of those with NAU, MAU, and PU, respectively. NU in DN with PU was significantly higher than that in DM with NAU. In the NAU, MAU, and PU subgroups, podocin excretion was equally higher and did not differ between the types of DM. There was a direct correlation of NU with albuminuria, which was stronger in the MAU subgroup. In the patients with DM with varying degrees of albuminuria, the values of NU and PDU correlated directly to serum creatinine levels and inversely with glomerular filtration rate. NU directly correlated with glycated hemoglobin levels in the patients with types 1 and 2 DM of less than 5 years' duration and a direct significant correlation of systolic blood pressure with NU was found in those with type 2 DM. CONCLUSION Determination of urinary nephrin and podocin levels may be used for the early preclinical diagnosis of DN and the monitoring of the glomerular apparatus in DM. ",
+  "entities": [
+    {
+      "start": 982,
+      "end": 984,
+      "mention": "PU",
+      "label": "DISO"
+    },
+    {
+      "start": 1926,
+      "end": 1946,
+      "mention": "glomerular apparatus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 639,
+      "end": 655,
+      "mention": "microalbuminuria",
+      "label": "DISO"
+    },
+    {
+      "start": 898,
+      "end": 909,
+      "mention": "Nephrinuria",
+      "label": "DISO"
+    },
+    {
+      "start": 1950,
+      "end": 1952,
+      "mention": "DM",
+      "label": "DISO"
+    },
+    {
+      "start": 1075,
+      "end": 1077,
+      "mention": "PU",
+      "label": "DISO"
+    },
+    {
+      "start": 1819,
+      "end": 1826,
+      "mention": "nephrin",
+      "label": "CHEM"
+    },
+    {
+      "start": 831,
+      "end": 838,
+      "mention": "nephrin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1779,
+      "end": 1781,
+      "mention": "DM",
+      "label": "DISO"
+    },
+    {
+      "start": 208,
+      "end": 228,
+      "mention": "diabetic nephropathy",
+      "label": "DISO"
+    },
+    {
+      "start": 455,
+      "end": 457,
+      "mention": "DM",
+      "label": "DISO"
+    },
+    {
+      "start": 1524,
+      "end": 1534,
+      "mention": "glomerular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1107,
+      "end": 1109,
+      "mention": "PU",
+      "label": "DISO"
+    },
+    {
+      "start": 710,
+      "end": 712,
+      "mention": "PU",
+      "label": "DISO"
+    },
+    {
+      "start": 1182,
+      "end": 1184,
+      "mention": "PU",
+      "label": "DISO"
+    },
+    {
+      "start": 433,
+      "end": 435,
+      "mention": "DM",
+      "label": "DISO"
+    },
+    {
+      "start": 1628,
+      "end": 1633,
+      "mention": "types 2 DM",
+      "label": "DISO"
+    },
+    {
+      "start": 1640,
+      "end": 1644,
+      "mention": "types 2 DM",
+      "label": "DISO"
+    },
+    {
+      "start": 399,
+      "end": 407,
+      "mention": "diabetic",
+      "label": "DISO"
+    },
+    {
+      "start": 208,
+      "end": 216,
+      "mention": "diabetic",
+      "label": "DISO"
+    },
+    {
+      "start": 822,
+      "end": 830,
+      "mention": "proteins",
+      "label": "CHEM"
+    },
+    {
+      "start": 426,
+      "end": 435,
+      "mention": "type 1 DM",
+      "label": "DISO"
+    },
+    {
+      "start": 1897,
+      "end": 1899,
+      "mention": "DN",
+      "label": "DISO"
+    },
+    {
+      "start": 67,
+      "end": 75,
+      "mention": "diabetes",
+      "label": "DISO"
+    },
+    {
+      "start": 1099,
+      "end": 1101,
+      "mention": "DN",
+      "label": "DISO"
+    },
+    {
+      "start": 811,
+      "end": 830,
+      "mention": "structural proteins",
+      "label": "CHEM"
+    },
+    {
+      "start": 230,
+      "end": 232,
+      "mention": "DN",
+      "label": "DISO"
+    },
+    {
+      "start": 67,
+      "end": 84,
+      "mention": "diabetes mellitus",
+      "label": "DISO"
+    },
+    {
+      "start": 294,
+      "end": 311,
+      "mention": "diabetes mellitus",
+      "label": "DISO"
+    },
+    {
+      "start": 1589,
+      "end": 1599,
+      "mention": "hemoglobin",
+      "label": "CHEM"
+    },
+    {
+      "start": 353,
+      "end": 364,
+      "mention": "proteinuria",
+      "label": "DISO"
+    },
+    {
+      "start": 1319,
+      "end": 1330,
+      "mention": "albuminuria",
+      "label": "DISO"
+    },
+    {
+      "start": 1481,
+      "end": 1486,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 217,
+      "end": 228,
+      "mention": "nephropathy",
+      "label": "DISO"
+    },
+    {
+      "start": 448,
+      "end": 457,
+      "mention": "type 2 DM",
+      "label": "DISO"
+    },
+    {
+      "start": 1772,
+      "end": 1781,
+      "mention": "type 2 DM",
+      "label": "DISO"
+    },
+    {
+      "start": 973,
+      "end": 976,
+      "mention": "MAU",
+      "label": "DISO"
+    },
+    {
+      "start": 697,
+      "end": 708,
+      "mention": "proteinuria",
+      "label": "DISO"
+    },
+    {
+      "start": 1642,
+      "end": 1644,
+      "mention": "DM",
+      "label": "DISO"
+    },
+    {
+      "start": 870,
+      "end": 876,
+      "mention": "enzyme",
+      "label": "CHEM"
+    },
+    {
+      "start": 1447,
+      "end": 1449,
+      "mention": "NU",
+      "label": "DISO"
+    },
+    {
+      "start": 313,
+      "end": 315,
+      "mention": "DM",
+      "label": "DISO"
+    },
+    {
+      "start": 34,
+      "end": 49,
+      "mention": "podocyte injury",
+      "label": "DISO"
+    },
+    {
+      "start": 1148,
+      "end": 1150,
+      "mention": "DM",
+      "label": "DISO"
+    },
+    {
+      "start": 780,
+      "end": 787,
+      "mention": "urinary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 141,
+      "end": 156,
+      "mention": "podocyte injury",
+      "label": "DISO"
+    },
+    {
+      "start": 294,
+      "end": 302,
+      "mention": "diabetes",
+      "label": "DISO"
+    },
+    {
+      "start": 1013,
+      "end": 1016,
+      "mention": "PDU",
+      "label": "DISO"
+    },
+    {
+      "start": 341,
+      "end": 352,
+      "mention": "albuminuria",
+      "label": "DISO"
+    },
+    {
+      "start": 1,
+      "end": 8,
+      "mention": "Urinary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 516,
+      "end": 523,
+      "mention": "urinary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 545,
+      "end": 552,
+      "mention": "urinary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1811,
+      "end": 1818,
+      "mention": "urinary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 108,
+      "end": 115,
+      "mention": "urinary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 911,
+      "end": 913,
+      "mention": "NU",
+      "label": "DISO"
+    },
+    {
+      "start": 1487,
+      "end": 1497,
+      "mention": "creatinine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1725,
+      "end": 1730,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1628,
+      "end": 1635,
+      "mention": "types 1 DM",
+      "label": "DISO"
+    },
+    {
+      "start": 1642,
+      "end": 1644,
+      "mention": "types 1 DM",
+      "label": "DISO"
+    },
+    {
+      "start": 1093,
+      "end": 1095,
+      "mention": "NU",
+      "label": "DISO"
+    },
+    {
+      "start": 1311,
+      "end": 1313,
+      "mention": "NU",
+      "label": "DISO"
+    },
+    {
+      "start": 1173,
+      "end": 1176,
+      "mention": "MAU",
+      "label": "DISO"
+    },
+    {
+      "start": 1358,
+      "end": 1361,
+      "mention": "MAU",
+      "label": "DISO"
+    },
+    {
+      "start": 1066,
+      "end": 1069,
+      "mention": "MAU",
+      "label": "DISO"
+    },
+    {
+      "start": 657,
+      "end": 660,
+      "mention": "MAU",
+      "label": "DISO"
+    },
+    {
+      "start": 1420,
+      "end": 1431,
+      "mention": "albuminuria",
+      "label": "DISO"
+    },
+    {
+      "start": 1745,
+      "end": 1747,
+      "mention": "NU",
+      "label": "DISO"
+    },
+    {
+      "start": 1454,
+      "end": 1457,
+      "mention": "PDU",
+      "label": "DISO"
+    },
+    {
+      "start": 802,
+      "end": 810,
+      "mention": "podocyte",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1552,
+      "end": 1554,
+      "mention": "NU",
+      "label": "DISO"
+    },
+    {
+      "start": 1196,
+      "end": 1203,
+      "mention": "podocin",
+      "label": "CHEM"
+    },
+    {
+      "start": 843,
+      "end": 850,
+      "mention": "podocin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1393,
+      "end": 1395,
+      "mention": "DM",
+      "label": "DISO"
+    },
+    {
+      "start": 802,
+      "end": 830,
+      "mention": "podocyte structural proteins",
+      "label": "CHEM"
+    },
+    {
+      "start": 34,
+      "end": 42,
+      "mention": "podocyte",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 141,
+      "end": 149,
+      "mention": "podocyte",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1273,
+      "end": 1275,
+      "mention": "DM",
+      "label": "DISO"
+    },
+    {
+      "start": 1000,
+      "end": 1011,
+      "mention": "Podocinuria",
+      "label": "DISO"
+    },
+    {
+      "start": 1831,
+      "end": 1838,
+      "mention": "podocin",
+      "label": "CHEM"
+    }
+  ]
+}

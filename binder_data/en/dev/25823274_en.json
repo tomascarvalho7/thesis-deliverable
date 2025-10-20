@@ -1,0 +1,395 @@
+{
+  "text": "[Lung ultrasonography for the diagnosis of pneumonia in pregnant women with blood system tumors]. \nAIM  To estimate the informative value of ultrasonography (USG) in the diagnosis of lung injuries in pregnant women with blood system tumors. \nSUBJECTS AND METHODS Lung ultrasound was performed in 5 pregnant patients with blood cancers. \nThe women's age was 29-38 years; gestational age was 14-33 weeks. \nFour women had different types of acute leukemia; one had primary mediastinal large B-cell lymphoma. \nAll the women received chemotherapy for blood cancer. \nWhen there were signs of lung injury, USG was conducted, the results of which necessitated therapy or bronchoalveolar lavage (BAL). \nRESULTS Three patients developed acute respiratory failure; 2 of them required noninvasive ventilation. \nBased on the detection of consolidation with a dynamic air bronchogram and pleural effusion, the authors diagnosed bilateral pneumonia and alveolar-interstitial syndrome in 1 patient, right-sided pneumonia in 1, left-sided one in 1, and transfusion-related pulmonary edema in 1. \nLung ultrasound did not verify the diagnosis of pneumonia in 1 patient. \nAccording to USG data, BAL procedures were performed in 2 patients; one of them was diagnosed as having Pneumocystis pneumonia; the other was found to have no pathogens in lavage fluid. \nTreatment resulted in clinical improvements and normalization of the lung ultrasound pattern in all the pregnant women. \nLater on, 4 women delivered via cesarean section done at 32-34 weeks' gestation and gave birth to healthy babies. \nOne patient died from infectious complications after chemotherapy. \nCONCLUSION Lung sound may be used to diagnose lung injury in pregnant women with blood cancers. \n",
+  "entities": [
+    {
+      "start": 874,
+      "end": 890,
+      "mention": "pleural effusion",
+      "label": "DISO"
+    },
+    {
+      "start": 874,
+      "end": 881,
+      "mention": "pleural",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1011,
+      "end": 1021,
+      "mention": "left-sided pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 995,
+      "end": 1004,
+      "mention": "left-sided pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 983,
+      "end": 1004,
+      "mention": "right-sided pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 546,
+      "end": 558,
+      "mention": "blood cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 1724,
+      "end": 1737,
+      "mention": "blood cancers",
+      "label": "DISO"
+    },
+    {
+      "start": 321,
+      "end": 334,
+      "mention": "blood cancers",
+      "label": "DISO"
+    },
+    {
+      "start": 1036,
+      "end": 1071,
+      "mention": "transfusion-related pulmonary edema",
+      "label": "DISO"
+    },
+    {
+      "start": 1597,
+      "end": 1621,
+      "mention": "infectious complications",
+      "label": "DISO"
+    },
+    {
+      "start": 76,
+      "end": 95,
+      "mention": "blood system tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 1324,
+      "end": 1336,
+      "mention": "lavage fluid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 727,
+      "end": 752,
+      "mention": "acute respiratory failure",
+      "label": "DISO"
+    },
+    {
+      "start": 183,
+      "end": 196,
+      "mention": "lung injuries",
+      "label": "DISO"
+    },
+    {
+      "start": 924,
+      "end": 933,
+      "mention": "pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 43,
+      "end": 52,
+      "mention": "pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 586,
+      "end": 597,
+      "mention": "lung injury",
+      "label": "DISO"
+    },
+    {
+      "start": 882,
+      "end": 890,
+      "mention": "effusion",
+      "label": "DISO"
+    },
+    {
+      "start": 76,
+      "end": 81,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 546,
+      "end": 551,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 321,
+      "end": 326,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 938,
+      "end": 968,
+      "mention": "alveolar-interstitial syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 1689,
+      "end": 1700,
+      "mention": "lung injury",
+      "label": "DISO"
+    },
+    {
+      "start": 1724,
+      "end": 1729,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1066,
+      "end": 1071,
+      "mention": "edema",
+      "label": "DISO"
+    },
+    {
+      "start": 438,
+      "end": 452,
+      "mention": "acute leukemia",
+      "label": "DISO"
+    },
+    {
+      "start": 733,
+      "end": 752,
+      "mention": "respiratory failure",
+      "label": "DISO"
+    },
+    {
+      "start": 552,
+      "end": 558,
+      "mention": "cancer",
+      "label": "DISO"
+    },
+    {
+      "start": 327,
+      "end": 334,
+      "mention": "cancers",
+      "label": "DISO"
+    },
+    {
+      "start": 1730,
+      "end": 1737,
+      "mention": "cancers",
+      "label": "DISO"
+    },
+    {
+      "start": 220,
+      "end": 225,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1127,
+      "end": 1136,
+      "mention": "pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 1269,
+      "end": 1278,
+      "mention": "pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 995,
+      "end": 1004,
+      "mention": "pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 947,
+      "end": 959,
+      "mention": "interstitial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1056,
+      "end": 1071,
+      "mention": "pulmonary edema",
+      "label": "DISO"
+    },
+    {
+      "start": 220,
+      "end": 239,
+      "mention": "blood system tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 89,
+      "end": 95,
+      "mention": "tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 488,
+      "end": 503,
+      "mention": "B-cell lymphoma",
+      "label": "DISO"
+    },
+    {
+      "start": 76,
+      "end": 88,
+      "mention": "blood system",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 470,
+      "end": 503,
+      "mention": "mediastinal large B-cell lymphoma",
+      "label": "DISO"
+    },
+    {
+      "start": 220,
+      "end": 232,
+      "mention": "blood system",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1597,
+      "end": 1607,
+      "mention": "infectious",
+      "label": "DISO"
+    },
+    {
+      "start": 1608,
+      "end": 1621,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 1256,
+      "end": 1268,
+      "mention": "Pneumocystis",
+      "label": "DISO"
+    },
+    {
+      "start": 1256,
+      "end": 1278,
+      "mention": "Pneumocystis pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 482,
+      "end": 494,
+      "mention": "large B-cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 938,
+      "end": 946,
+      "mention": "alveolar",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 444,
+      "end": 452,
+      "mention": "leukemia",
+      "label": "DISO"
+    },
+    {
+      "start": 482,
+      "end": 503,
+      "mention": "large B-cell lymphoma",
+      "label": "DISO"
+    },
+    {
+      "start": 462,
+      "end": 503,
+      "mention": "primary mediastinal large B-cell lymphoma",
+      "label": "DISO"
+    },
+    {
+      "start": 1079,
+      "end": 1083,
+      "mention": "Lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 663,
+      "end": 678,
+      "mention": "bronchoalveolar",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 586,
+      "end": 590,
+      "mention": "lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 183,
+      "end": 187,
+      "mention": "lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1689,
+      "end": 1693,
+      "mention": "lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1408,
+      "end": 1412,
+      "mention": "lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 914,
+      "end": 933,
+      "mention": "bilateral pneumonia",
+      "label": "DISO"
+    },
+    {
+      "start": 1056,
+      "end": 1065,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 495,
+      "end": 503,
+      "mention": "lymphoma",
+      "label": "DISO"
+    },
+    {
+      "start": 470,
+      "end": 481,
+      "mention": "mediastinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1,
+      "end": 5,
+      "mention": "Lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 263,
+      "end": 267,
+      "mention": "Lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1654,
+      "end": 1658,
+      "mention": "Lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 233,
+      "end": 239,
+      "mention": "tumors",
+      "label": "DISO"
+    }
+  ]
+}

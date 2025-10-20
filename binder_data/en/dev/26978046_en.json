@@ -1,0 +1,545 @@
+{
+  "text": "[Topochemistry of internuclear interneurons in the human brain stem in arterial hypertension]. OBJECTIVE To study the internuclear interneurons (IN) involved in the metabolism of nitric oxide, hydrogen sulfide and carbon monoxide in the caudal brainstem in healthy people and those with lifetime hypertension.  MATERIAL AND METHODS The study was performed on postmortem material of 8 healthy men and 19 men, aged 18-44 years, with lifetime arterial hypertension.  Immunohistochemistry methods for nNOS, HO-2, CBS and histochemical method for NADPH-diaphorase were used to study IN groups located between the giant and small cell reticular nuclei (IN1), small cell reticular nucleus and the nucleus of the solitary tract (IN2) surrounded by the lateral reticular nucleus (IN3). RESULTS IN differ in size, shape, length and structure of sprouts as well as the nature of relationships formed and intensity of immunohistochemical reaction.  The intensity of MN response to the high blood pressure depends on the cell size: qualitative and quantitative changes among the most small MN are mild. In contrast, in many major MN, structural changes, a significant reduction in the proportion of these cells, concentration and reaction rate are noted. More significant changes in quantitative indicators are found among nNOS-positive neurons. The reduction in the quantitative indicators depends on the localization of cells. In IN1, where there are many large IN, changes are more pronounced than in IN3 and IN2, which do not contain so many such cells.  CONCLUSION Central mechanisms of hemodynamic control include, at least, two groups of interneurons: intranuclear and internuclear.  However, among the latter, only large IN are responsive to increases in blood pressure that confirms their participation in the regulation of hemodynamics, Small IN maintain a relatively small organization and perform a stable, obviously, integrating function. ",
+  "entities": [
+    {
+      "start": 1419,
+      "end": 1422,
+      "mention": "IN1",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1499,
+      "end": 1502,
+      "mention": "IN2",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1491,
+      "end": 1494,
+      "mention": "IN3",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1663,
+      "end": 1675,
+      "mention": "internuclear",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 629,
+      "end": 645,
+      "mention": "reticular nuclei",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1071,
+      "end": 1079,
+      "mention": "small MN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1077,
+      "end": 1079,
+      "mention": "MN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 664,
+      "end": 681,
+      "mention": "reticular nucleus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 785,
+      "end": 787,
+      "mention": "IN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 674,
+      "end": 681,
+      "mention": "nucleus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 618,
+      "end": 645,
+      "mention": "small cell reticular nuclei",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1840,
+      "end": 1842,
+      "mention": "IN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 145,
+      "end": 147,
+      "mention": "IN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 835,
+      "end": 842,
+      "mention": "sprouts",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 608,
+      "end": 613,
+      "mention": "giant cell reticular nuclei",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 624,
+      "end": 645,
+      "mention": "giant cell reticular nuclei",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 221,
+      "end": 229,
+      "mention": "monoxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 1451,
+      "end": 1453,
+      "mention": "IN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1710,
+      "end": 1718,
+      "mention": "large IN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 771,
+      "end": 774,
+      "mention": "IN3",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 744,
+      "end": 769,
+      "mention": "lateral reticular nucleus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1446,
+      "end": 1453,
+      "mention": "arge IN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1834,
+      "end": 1842,
+      "mention": "Small IN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 578,
+      "end": 580,
+      "mention": "IN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 18,
+      "end": 30,
+      "mention": "internuclear",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 752,
+      "end": 769,
+      "mention": "reticular nucleus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1111,
+      "end": 1119,
+      "mention": "major MN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1117,
+      "end": 1119,
+      "mention": "MN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 118,
+      "end": 143,
+      "mention": "internuclear interneurons",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1716,
+      "end": 1718,
+      "mention": "IN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 653,
+      "end": 681,
+      "mention": "small cell reticular nucleus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 647,
+      "end": 650,
+      "mention": "IN1",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 954,
+      "end": 956,
+      "mention": "MN",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1310,
+      "end": 1323,
+      "mention": "nNOS-positive",
+      "label": "CHEM"
+    },
+    {
+      "start": 71,
+      "end": 79,
+      "mention": "arterial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 608,
+      "end": 613,
+      "mention": "giant",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 193,
+      "end": 201,
+      "mention": "hydrogen",
+      "label": "CHEM"
+    },
+    {
+      "start": 57,
+      "end": 62,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 762,
+      "end": 769,
+      "mention": "nucleus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 548,
+      "end": 558,
+      "mention": "diaphorase",
+      "label": "CHEM"
+    },
+    {
+      "start": 542,
+      "end": 547,
+      "mention": "NADPH",
+      "label": "CHEM"
+    },
+    {
+      "start": 440,
+      "end": 448,
+      "mention": "arterial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1310,
+      "end": 1331,
+      "mention": "nNOS-positive neurons",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 639,
+      "end": 645,
+      "mention": "nuclei",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 721,
+      "end": 724,
+      "mention": "IN2",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 690,
+      "end": 719,
+      "mention": "nucleus of the solitary tract",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 705,
+      "end": 719,
+      "mention": "solitary tract",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 509,
+      "end": 512,
+      "mention": "CBS",
+      "label": "CHEM"
+    },
+    {
+      "start": 1632,
+      "end": 1644,
+      "mention": "interneurons",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 31,
+      "end": 43,
+      "mention": "interneurons",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 237,
+      "end": 253,
+      "mention": "caudal brainstem",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 131,
+      "end": 143,
+      "mention": "interneurons",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 497,
+      "end": 501,
+      "mention": "nNOS",
+      "label": "CHEM"
+    },
+    {
+      "start": 1310,
+      "end": 1314,
+      "mention": "nNOS",
+      "label": "CHEM"
+    },
+    {
+      "start": 978,
+      "end": 983,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 973,
+      "end": 992,
+      "mention": "high blood pressure",
+      "label": "DISO"
+    },
+    {
+      "start": 80,
+      "end": 92,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 71,
+      "end": 92,
+      "mention": "arterial hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 296,
+      "end": 308,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 449,
+      "end": 461,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 440,
+      "end": 461,
+      "mention": "arterial hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 193,
+      "end": 209,
+      "mention": "hydrogen sulfide",
+      "label": "CHEM"
+    },
+    {
+      "start": 1646,
+      "end": 1658,
+      "mention": "intranuclear",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 118,
+      "end": 130,
+      "mention": "internuclear",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1538,
+      "end": 1543,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 542,
+      "end": 558,
+      "mention": "NADPH-diaphorase",
+      "label": "CHEM"
+    },
+    {
+      "start": 1192,
+      "end": 1197,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 244,
+      "end": 253,
+      "mention": "brainstem",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1324,
+      "end": 1331,
+      "mention": "neurons",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 179,
+      "end": 185,
+      "mention": "nitric",
+      "label": "CHEM"
+    },
+    {
+      "start": 1409,
+      "end": 1414,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 179,
+      "end": 191,
+      "mention": "nitric oxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 186,
+      "end": 191,
+      "mention": "oxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 214,
+      "end": 229,
+      "mention": "carbon monoxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 214,
+      "end": 220,
+      "mention": "carbon",
+      "label": "CHEM"
+    },
+    {
+      "start": 618,
+      "end": 628,
+      "mention": "small cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 653,
+      "end": 663,
+      "mention": "small cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 503,
+      "end": 507,
+      "mention": "HO-2",
+      "label": "CHEM"
+    },
+    {
+      "start": 359,
+      "end": 378,
+      "mention": "postmortem material",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1008,
+      "end": 1012,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 18,
+      "end": 43,
+      "mention": "internuclear interneurons",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1750,
+      "end": 1755,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 57,
+      "end": 67,
+      "mention": "brain stem",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 202,
+      "end": 209,
+      "mention": "sulfide",
+      "label": "CHEM"
+    },
+    {
+      "start": 664,
+      "end": 673,
+      "mention": "reticular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 624,
+      "end": 628,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 659,
+      "end": 663,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 752,
+      "end": 761,
+      "mention": "reticular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 629,
+      "end": 638,
+      "mention": "reticular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 690,
+      "end": 697,
+      "mention": "nucleus",
+      "label": "ANATOMY"
+    }
+  ]
+}

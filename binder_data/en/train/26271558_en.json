@@ -1,0 +1,155 @@
+{
+  "text": "[Treatment of upper esophageal sphincter achalasia as a little-known chapter of surgery]. It is presented the results of survey and treatment of 32 patients with upper esophageal sphincter achalasia.  In 29 of them achalasia was consequence of stroke in brain stem (Zakharchenko-Wallenberg syndrome). 28 patients were operated using P. Chodoch method in 7 cases and author's technique of myotomy with pharyngoesophageal junction plasty in 21 patients. Plastic myotomy gives excellent and good results in 81% of observations due to preservation of innervation of muscles providing function of epiglottis and pharyngeal constrictors. Severe condition of patients and elderly age are indication for P. Chodoch myotomy. ",
+  "entities": [
+    {
+      "start": 14,
+      "end": 40,
+      "mention": "upper esophageal sphincter",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 592,
+      "end": 602,
+      "mention": "epiglottis",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 41,
+      "end": 50,
+      "mention": "achalasia",
+      "label": "DISO"
+    },
+    {
+      "start": 162,
+      "end": 188,
+      "mention": "upper esophageal sphincter",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 189,
+      "end": 198,
+      "mention": "achalasia",
+      "label": "DISO"
+    },
+    {
+      "start": 607,
+      "end": 630,
+      "mention": "pharyngeal constrictors",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 254,
+      "end": 264,
+      "mention": "brain stem",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 168,
+      "end": 188,
+      "mention": "esophageal sphincter",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 401,
+      "end": 428,
+      "mention": "pharyngoesophageal junction",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 401,
+      "end": 419,
+      "mention": "pharyngoesophageal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 31,
+      "end": 40,
+      "mention": "sphincter",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 562,
+      "end": 569,
+      "mention": "muscles",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 254,
+      "end": 259,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "mention": "esophageal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 179,
+      "end": 188,
+      "mention": "sphincter",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 215,
+      "end": 224,
+      "mention": "achalasia",
+      "label": "DISO"
+    },
+    {
+      "start": 244,
+      "end": 264,
+      "mention": "stroke in brain stem",
+      "label": "DISO"
+    },
+    {
+      "start": 244,
+      "end": 250,
+      "mention": "stroke",
+      "label": "DISO"
+    },
+    {
+      "start": 14,
+      "end": 50,
+      "mention": "upper esophageal sphincter achalasia",
+      "label": "DISO"
+    },
+    {
+      "start": 162,
+      "end": 198,
+      "mention": "upper esophageal sphincter achalasia",
+      "label": "DISO"
+    },
+    {
+      "start": 20,
+      "end": 40,
+      "mention": "esophageal sphincter",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 607,
+      "end": 617,
+      "mention": "pharyngeal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 168,
+      "end": 178,
+      "mention": "esophageal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 618,
+      "end": 630,
+      "mention": "constrictors",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 266,
+      "end": 298,
+      "mention": "Zakharchenko-Wallenberg syndrome",
+      "label": "DISO"
+    }
+  ]
+}

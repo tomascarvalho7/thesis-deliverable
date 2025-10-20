@@ -1,0 +1,419 @@
+{
+  "text": "[Clinical effectiveness of pioglitazone in the combination treatment of patients with asthma concurrent with coronary heart disease].  AIM To investigate the clinical effectiveness of pioglitazone in the combination treatment of patients with asthma concurrent with coronary heart disease (CHD).  SUBJECTS AND METHODS Fifty patients aged 40-75 years with asthma concurrent with CHD were examined.  External respiratory function (ERF), electrocardiograms, blood pressure (BP), and anthropometric measurements were assessed in all the patients. Blood and urine laboratory values and high-sensitivity C-reactive protein (hs-CRP) concentrations were estimated; endothelial function was determined measuring endothelium-dependent and endothelium-independent vasodilation (EDVD and EIVD). The patients were randomized into a comparison group receiving only standard therapy and a study group taking pioglitazone as part of combination therapy for 3 months. RESULTS At the randomization stage prior to pioglitazone combination therapy, the patient groups did not statistically significantly differ in basic clinical and anamnestic data.  Three-month standard therapy resulted in stabilization of ERF and endothelial function. During the treatment, there were increases in the frequency of asthma symptoms and the duration of angina attacks, however, there was a decline in hs-CRP levels (p<0.001). Incorporation of pioglitazone into the standard treatment regimen of patients with asthma concurrent with CHD improved clinical disease control, decreased the degree of bronchial obstruction and the frequency of angina pain and asthma attacks using nitroglycerin and salbutamol, lowered systolic and diastolic blood pressure, improved EDVD (increases in the maximum linear velocity of blood flow after a test for reactive hyperemia (RH), index of reactivity (IR), and A% brachial artery (BA) diameter) and EIVD (increases in IR and A% BA diameter), and reduced systemic inflammation from hs-CRP values (p<0.001) and hypercholesterolemia from total cholesterol levels (p<0.02). CONCLUSION The incorporation of pioglitazone in the combination therapy of patients with asthma concurrent with CHD improves the clinical course of the diseases and increases their control, reduces systemic inflammation, and improves endothelial functional activity. ",
+  "entities": [
+    {
+      "start": 118,
+      "end": 131,
+      "mention": "heart disease",
+      "label": "DISO"
+    },
+    {
+      "start": 275,
+      "end": 288,
+      "mention": "heart disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1560,
+      "end": 1569,
+      "mention": "bronchial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 609,
+      "end": 616,
+      "mention": "protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 109,
+      "end": 117,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 109,
+      "end": 131,
+      "mention": "coronary heart disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1366,
+      "end": 1372,
+      "mention": "hs-CRP",
+      "label": "CHEM"
+    },
+    {
+      "start": 1979,
+      "end": 1985,
+      "mention": "hs-CRP",
+      "label": "CHEM"
+    },
+    {
+      "start": 618,
+      "end": 624,
+      "mention": "hs-CRP",
+      "label": "CHEM"
+    },
+    {
+      "start": 598,
+      "end": 616,
+      "mention": "C-reactive protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 581,
+      "end": 616,
+      "mention": "high-sensitivity C-reactive protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 1640,
+      "end": 1653,
+      "mention": "nitroglycerin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1879,
+      "end": 1881,
+      "mention": "BA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1926,
+      "end": 1928,
+      "mention": "BA",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 266,
+      "end": 288,
+      "mention": "coronary heart disease",
+      "label": "DISO"
+    },
+    {
+      "start": 2033,
+      "end": 2050,
+      "mention": "total cholesterol",
+      "label": "CHEM"
+    },
+    {
+      "start": 1603,
+      "end": 1609,
+      "mention": "angina",
+      "label": "DISO"
+    },
+    {
+      "start": 1318,
+      "end": 1324,
+      "mention": "angina",
+      "label": "DISO"
+    },
+    {
+      "start": 1862,
+      "end": 1870,
+      "mention": "brachial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1603,
+      "end": 1614,
+      "mention": "angina pain",
+      "label": "DISO"
+    },
+    {
+      "start": 2157,
+      "end": 2163,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 1474,
+      "end": 1480,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 2266,
+      "end": 2287,
+      "mention": "systemic inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 1619,
+      "end": 1625,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 1560,
+      "end": 1581,
+      "mention": "bronchial obstruction",
+      "label": "DISO"
+    },
+    {
+      "start": 995,
+      "end": 1007,
+      "mention": "pioglitazone",
+      "label": "CHEM"
+    },
+    {
+      "start": 118,
+      "end": 123,
+      "mention": "heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 86,
+      "end": 92,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 2039,
+      "end": 2050,
+      "mention": "cholesterol",
+      "label": "CHEM"
+    },
+    {
+      "start": 1318,
+      "end": 1332,
+      "mention": "angina attacks",
+      "label": "DISO"
+    },
+    {
+      "start": 1282,
+      "end": 1288,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 1282,
+      "end": 1297,
+      "mention": "asthma symptoms",
+      "label": "DISO"
+    },
+    {
+      "start": 243,
+      "end": 249,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 1952,
+      "end": 1973,
+      "mention": "systemic inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 2100,
+      "end": 2112,
+      "mention": "pioglitazone",
+      "label": "CHEM"
+    },
+    {
+      "start": 893,
+      "end": 905,
+      "mention": "pioglitazone",
+      "label": "CHEM"
+    },
+    {
+      "start": 1982,
+      "end": 1985,
+      "mention": "CRP",
+      "label": "CHEM"
+    },
+    {
+      "start": 184,
+      "end": 196,
+      "mention": "pioglitazone",
+      "label": "CHEM"
+    },
+    {
+      "start": 1408,
+      "end": 1420,
+      "mention": "pioglitazone",
+      "label": "CHEM"
+    },
+    {
+      "start": 1369,
+      "end": 1372,
+      "mention": "CRP",
+      "label": "CHEM"
+    },
+    {
+      "start": 27,
+      "end": 39,
+      "mention": "pioglitazone",
+      "label": "CHEM"
+    },
+    {
+      "start": 621,
+      "end": 624,
+      "mention": "CRP",
+      "label": "CHEM"
+    },
+    {
+      "start": 266,
+      "end": 274,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2275,
+      "end": 2287,
+      "mention": "inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 1961,
+      "end": 1973,
+      "mention": "inflammation",
+      "label": "DISO"
+    },
+    {
+      "start": 1862,
+      "end": 1877,
+      "mention": "brachial artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 553,
+      "end": 558,
+      "mention": "urine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1610,
+      "end": 1614,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 355,
+      "end": 361,
+      "mention": "asthma",
+      "label": "DISO"
+    },
+    {
+      "start": 378,
+      "end": 381,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 1497,
+      "end": 1500,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 275,
+      "end": 280,
+      "mention": "heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1658,
+      "end": 1668,
+      "mention": "salbutamol",
+      "label": "CHEM"
+    },
+    {
+      "start": 2180,
+      "end": 2183,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 2007,
+      "end": 2027,
+      "mention": "hypercholesterolemia",
+      "label": "DISO"
+    },
+    {
+      "start": 1619,
+      "end": 1633,
+      "mention": "asthma attacks",
+      "label": "DISO"
+    },
+    {
+      "start": 1197,
+      "end": 1208,
+      "mention": "endothelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1776,
+      "end": 1781,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1701,
+      "end": 1706,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 455,
+      "end": 460,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 543,
+      "end": 548,
+      "mention": "Blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1325,
+      "end": 1332,
+      "mention": "attacks",
+      "label": "DISO"
+    },
+    {
+      "start": 1626,
+      "end": 1633,
+      "mention": "attacks",
+      "label": "DISO"
+    },
+    {
+      "start": 2302,
+      "end": 2313,
+      "mention": "endothelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 657,
+      "end": 668,
+      "mention": "endothelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 729,
+      "end": 740,
+      "mention": "endothelium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 703,
+      "end": 714,
+      "mention": "endothelium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 290,
+      "end": 293,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 1871,
+      "end": 1877,
+      "mention": "artery",
+      "label": "ANATOMY"
+    }
+  ]
+}

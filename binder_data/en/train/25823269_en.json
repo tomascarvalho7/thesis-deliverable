@@ -1,0 +1,461 @@
+{
+  "text": "[Impact of bosentan therapy on stress-induced pulmonary hypertension in patients with systemic sclerosis]. \nAIM To describe hemodynamic and clinical changes in patients with elevated mean pulmonary artery pressure (MPAP) > 30 mm Hg during exercise and the impact of bosentan therapy on stress-induced pulmonary hypertension (SIPH).  \nSUBJECTS AND METHODS The study included 19 patients with systemic sclerosis (SDS) in whom possible causes of pulmonary hypertension (PH) (lung and left heart injuries and thromboembolism) were excluded. \nAll the patients underwent pulmonary artery catheterization at rest and during exercise.  \nThe hemodynamic (right atrial pressure (RAP), systolic and diastolic pressure, MPAP, pulmonary artery wedge pressure (PAWP), cardiac output (CO) by a thermodilution technique), clinical (demographic, immunological, and instrumental) parameters were analyzed and the risk of pulmonary arterial hypertension (PAH) was also calculated; 5 patients with SIPH received 16-week bosentan therapy according to the conventional regimen. \nRESULTS Ten of the 19 patients were at increased risk for PAH in accordance with the DETECT scale, but no signs of PH at resting catheterization were found in anybody. \nIn 5 patients, MPAP, was in the range from 21 to 24 mm Hg; in 9 (47%) patients were found to have SIPH, a median MPAP of 35 (32; 41) mm Hg.  \nSeven patients had no diagnostic changes during exercise; 3 patients could not perform an exercise test. \nThere were correlations between MPAP and DETECT risk scores (p < 0.05). \nThe patients with SIPH had significantly higher levels of resting MPAP and exercise pulmonary vascular resistance (PVR) and PAWP. \nThe calculated DETECT risk was significantly higher in the SIPH group. \nThe level of uric acid was also higher in the SIPH group (p < 0.05). \nThere were no changes in NT-proBNP levels, telangiectasias and anti-centromere antibodies, and EchoCG and lung test results. \nDuring 16-week bosentan therapy, there was a significant decrease in MPAP and transpulmonary gradient during exercise, but PVR, MPAP/CO ratio and NT-proBNP levels tended to decrease. \nCONCLUSION In the patients with SDS, SIPH may be a stage of pulmonary vasculopathy that precedes the development of clinical PAH. \nThe use of current PAH-specific drugs used at the preclinical stage of the disease may substantially improve lifetime prognosis in patients with SDS-associated PAH. \n",
+  "entities": [
+    {
+      "start": 56,
+      "end": 68,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 453,
+      "end": 465,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 2190,
+      "end": 2199,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1631,
+      "end": 1640,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 481,
+      "end": 500,
+      "mention": "left heart injuries",
+      "label": "DISO"
+    },
+    {
+      "start": 391,
+      "end": 409,
+      "mention": "systemic sclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 486,
+      "end": 500,
+      "mention": "heart injuries",
+      "label": "DISO"
+    },
+    {
+      "start": 86,
+      "end": 104,
+      "mention": "systemic sclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 486,
+      "end": 491,
+      "mention": "heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 978,
+      "end": 982,
+      "mention": "SIPH",
+      "label": "DISO"
+    },
+    {
+      "start": 913,
+      "end": 921,
+      "mention": "arterial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 400,
+      "end": 409,
+      "mention": "sclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 2200,
+      "end": 2212,
+      "mention": "vasculopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 754,
+      "end": 761,
+      "mention": "cardiac",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 922,
+      "end": 934,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 95,
+      "end": 104,
+      "mention": "sclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1000,
+      "end": 1008,
+      "mention": "bosentan",
+      "label": "CHEM"
+    },
+    {
+      "start": 266,
+      "end": 274,
+      "mention": "bosentan",
+      "label": "CHEM"
+    },
+    {
+      "start": 11,
+      "end": 19,
+      "mention": "bosentan",
+      "label": "CHEM"
+    },
+    {
+      "start": 2255,
+      "end": 2258,
+      "mention": "PAH",
+      "label": "DISO"
+    },
+    {
+      "start": 2406,
+      "end": 2424,
+      "mention": "SDS-associated PAH",
+      "label": "DISO"
+    },
+    {
+      "start": 2167,
+      "end": 2171,
+      "mention": "SIPH",
+      "label": "DISO"
+    },
+    {
+      "start": 1324,
+      "end": 1328,
+      "mention": "SIPH",
+      "label": "DISO"
+    },
+    {
+      "start": 1763,
+      "end": 1772,
+      "mention": "uric acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 1737,
+      "end": 1741,
+      "mention": "SIPH",
+      "label": "DISO"
+    },
+    {
+      "start": 1899,
+      "end": 1909,
+      "mention": "antibodies",
+      "label": "CHEM"
+    },
+    {
+      "start": 2406,
+      "end": 2409,
+      "mention": "SDS",
+      "label": "DISO"
+    },
+    {
+      "start": 2162,
+      "end": 2165,
+      "mention": "SDS",
+      "label": "DISO"
+    },
+    {
+      "start": 411,
+      "end": 414,
+      "mention": "SDS",
+      "label": "DISO"
+    },
+    {
+      "start": 724,
+      "end": 730,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 903,
+      "end": 934,
+      "mention": "pulmonary arterial hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 325,
+      "end": 329,
+      "mention": "SIPH",
+      "label": "DISO"
+    },
+    {
+      "start": 198,
+      "end": 204,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 575,
+      "end": 581,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 936,
+      "end": 939,
+      "mention": "PAH",
+      "label": "DISO"
+    },
+    {
+      "start": 652,
+      "end": 658,
+      "mention": "atrial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1115,
+      "end": 1118,
+      "mention": "PAH",
+      "label": "DISO"
+    },
+    {
+      "start": 1631,
+      "end": 1649,
+      "mention": "pulmonary vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2421,
+      "end": 2424,
+      "mention": "PAH",
+      "label": "DISO"
+    },
+    {
+      "start": 1768,
+      "end": 1772,
+      "mention": "acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 472,
+      "end": 476,
+      "mention": "lung injuries",
+      "label": "DISO"
+    },
+    {
+      "start": 492,
+      "end": 500,
+      "mention": "lung injuries",
+      "label": "DISO"
+    },
+    {
+      "start": 2280,
+      "end": 2283,
+      "mention": "PAH",
+      "label": "DISO"
+    },
+    {
+      "start": 1565,
+      "end": 1569,
+      "mention": "SIPH",
+      "label": "DISO"
+    },
+    {
+      "start": 714,
+      "end": 723,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1641,
+      "end": 1649,
+      "mention": "vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2280,
+      "end": 2298,
+      "mention": "PAH-specific drugs",
+      "label": "CHEM"
+    },
+    {
+      "start": 286,
+      "end": 323,
+      "mention": "stress-induced pulmonary hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 2092,
+      "end": 2101,
+      "mention": "NT-proBNP",
+      "label": "CHEM"
+    },
+    {
+      "start": 1961,
+      "end": 1969,
+      "mention": "bosentan",
+      "label": "CHEM"
+    },
+    {
+      "start": 1845,
+      "end": 1854,
+      "mention": "NT-proBNP",
+      "label": "CHEM"
+    },
+    {
+      "start": 31,
+      "end": 68,
+      "mention": "stress-induced pulmonary hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 1883,
+      "end": 1909,
+      "mention": "anti-centromere antibodies",
+      "label": "CHEM"
+    },
+    {
+      "start": 301,
+      "end": 323,
+      "mention": "pulmonary hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 903,
+      "end": 912,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2190,
+      "end": 2212,
+      "mention": "pulmonary vasculopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 188,
+      "end": 204,
+      "mention": "pulmonary artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 481,
+      "end": 491,
+      "mention": "left heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 903,
+      "end": 921,
+      "mention": "pulmonary arterial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 311,
+      "end": 323,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 467,
+      "end": 469,
+      "mention": "PH",
+      "label": "DISO"
+    },
+    {
+      "start": 1172,
+      "end": 1174,
+      "mention": "PH",
+      "label": "DISO"
+    },
+    {
+      "start": 646,
+      "end": 658,
+      "mention": "right atrial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1796,
+      "end": 1800,
+      "mention": "SIPH",
+      "label": "DISO"
+    },
+    {
+      "start": 714,
+      "end": 730,
+      "mention": "pulmonary artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 565,
+      "end": 581,
+      "mention": "pulmonary artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 46,
+      "end": 68,
+      "mention": "pulmonary hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 443,
+      "end": 465,
+      "mention": "pulmonary hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 301,
+      "end": 310,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1926,
+      "end": 1930,
+      "mention": "lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 505,
+      "end": 520,
+      "mention": "thromboembolism",
+      "label": "DISO"
+    },
+    {
+      "start": 443,
+      "end": 452,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 472,
+      "end": 476,
+      "mention": "lung",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 188,
+      "end": 197,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 46,
+      "end": 55,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 565,
+      "end": 574,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    }
+  ]
+}

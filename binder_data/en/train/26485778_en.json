@@ -1,0 +1,485 @@
+{
+  "text": "[Role of the skin expression of neuropeptides, neurotrophins and their receptors in the pathogenesis of dermatoses]. OBJECTIVE to define the role of neurotransmitters and their receptors in the development of itch and in the maintenance of a skin inflammatory response in patients with psoriasis and atopic dermatitis.  MATERIAL AND METHODS Skin biopsy specimens from 30 patients with psoriasis and 30 patients with atopic dermatitis were investigated by histological, immunoperoxidase, and indirect immunofluorescence assays.  The investigators determined the expression of protein gene product 9.5 (PGP9.5), amphiregulin, semaphorin 3A, calcitonin gene-related peptide (CGRP) and its receptor (CGRP-R), nerve growth factor (NGF) and its receptor TrkA, and substance P (SP) and its receptor SP-R. The indirect immunofluorescence assay was used for quantitative analysis.  The findings were statistically analyzed using a Statistica 10 program. RESULTS Immunoperoxidase examination of the skin biopsy specimens from patients with atopic dermatitis and psoriasis revealed enhanced expression of amphiregulin, NGF, and PGP9.5, appearance of positively stained epidermal nerve fibers, and decreased expression of the nerve reduction factor semaphorin 3A in all cases. Some patients with atopic dermatitis and psoriasis showed increased expression of CGRP and CGRP-R, SP, SP-R, and TrkA. A pronounced inflammatory response was generally observed in these cases. CONCLUSION  The investigation performed suggests that atopic dermatitis and psoriasis are characterized by a larger number of epidermal nerve fibers and by a direct correlation between this indicator, disease severity, and itch intensity. The production of neuropeptides and neurotrophins is closely related to the development of a skin inflammatory response irrespective of its cause and dysregulation of these processes is likely to favor the body's sensitization and the chronic pattern the course of diseases. ",
+  "entities": [
+    {
+      "start": 748,
+      "end": 752,
+      "mention": "TrkA",
+      "label": "CHEM"
+    },
+    {
+      "start": 32,
+      "end": 45,
+      "mention": "neuropeptides",
+      "label": "CHEM"
+    },
+    {
+      "start": 1512,
+      "end": 1529,
+      "mention": "atopic dermatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1284,
+      "end": 1301,
+      "mention": "atopic dermatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1030,
+      "end": 1047,
+      "mention": "atopic dermatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 416,
+      "end": 433,
+      "mention": "atopic dermatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 300,
+      "end": 317,
+      "mention": "atopic dermatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1356,
+      "end": 1360,
+      "mention": "CGRP",
+      "label": "CHEM"
+    },
+    {
+      "start": 1715,
+      "end": 1728,
+      "mention": "neuropeptides",
+      "label": "CHEM"
+    },
+    {
+      "start": 575,
+      "end": 582,
+      "mention": "protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 1733,
+      "end": 1746,
+      "mention": "neurotrophins",
+      "label": "CHEM"
+    },
+    {
+      "start": 88,
+      "end": 100,
+      "mention": "pathogenesis",
+      "label": "DISO"
+    },
+    {
+      "start": 47,
+      "end": 60,
+      "mention": "neurotrophins",
+      "label": "CHEM"
+    },
+    {
+      "start": 726,
+      "end": 729,
+      "mention": "NGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 1158,
+      "end": 1180,
+      "mention": "epidermal nerve fibers",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 639,
+      "end": 670,
+      "mention": "calcitonin gene-related peptide",
+      "label": "CHEM"
+    },
+    {
+      "start": 1795,
+      "end": 1816,
+      "mention": "inflammatory response",
+      "label": "DISO"
+    },
+    {
+      "start": 624,
+      "end": 637,
+      "mention": "semaphorin 3A",
+      "label": "CHEM"
+    },
+    {
+      "start": 1584,
+      "end": 1606,
+      "mention": "epidermal nerve fibers",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1094,
+      "end": 1106,
+      "mention": "amphiregulin",
+      "label": "CHEM"
+    },
+    {
+      "start": 792,
+      "end": 794,
+      "mention": "SP",
+      "label": "CHEM"
+    },
+    {
+      "start": 610,
+      "end": 622,
+      "mention": "amphiregulin",
+      "label": "CHEM"
+    },
+    {
+      "start": 758,
+      "end": 769,
+      "mention": "substance P",
+      "label": "CHEM"
+    },
+    {
+      "start": 1364,
+      "end": 1366,
+      "mention": "SP",
+      "label": "CHEM"
+    },
+    {
+      "start": 771,
+      "end": 773,
+      "mention": "SP",
+      "label": "CHEM"
+    },
+    {
+      "start": 1220,
+      "end": 1236,
+      "mention": "reduction factor",
+      "label": "CHEM"
+    },
+    {
+      "start": 705,
+      "end": 710,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1214,
+      "end": 1219,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1168,
+      "end": 1173,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 104,
+      "end": 114,
+      "mention": "dermatoses",
+      "label": "DISO"
+    },
+    {
+      "start": 1368,
+      "end": 1372,
+      "mention": "SP-R",
+      "label": "CHEM"
+    },
+    {
+      "start": 209,
+      "end": 213,
+      "mention": "itch",
+      "label": "DISO"
+    },
+    {
+      "start": 1368,
+      "end": 1370,
+      "mention": "SP",
+      "label": "CHEM"
+    },
+    {
+      "start": 1584,
+      "end": 1593,
+      "mention": "epidermal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 792,
+      "end": 796,
+      "mention": "SP-R",
+      "label": "CHEM"
+    },
+    {
+      "start": 1397,
+      "end": 1418,
+      "mention": "inflammatory response",
+      "label": "DISO"
+    },
+    {
+      "start": 1594,
+      "end": 1599,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1117,
+      "end": 1123,
+      "mention": "PGP9.5",
+      "label": "CHEM"
+    },
+    {
+      "start": 242,
+      "end": 246,
+      "mention": "skin",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 601,
+      "end": 607,
+      "mention": "PGP9.5",
+      "label": "CHEM"
+    },
+    {
+      "start": 247,
+      "end": 268,
+      "mention": "inflammatory response",
+      "label": "DISO"
+    },
+    {
+      "start": 1158,
+      "end": 1167,
+      "mention": "epidermal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1378,
+      "end": 1382,
+      "mention": "TrkA",
+      "label": "CHEM"
+    },
+    {
+      "start": 177,
+      "end": 186,
+      "mention": "receptors",
+      "label": "CHEM"
+    },
+    {
+      "start": 1108,
+      "end": 1111,
+      "mention": "NGF",
+      "label": "CHEM"
+    },
+    {
+      "start": 341,
+      "end": 345,
+      "mention": "Skin",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 705,
+      "end": 724,
+      "mention": "nerve growth factor",
+      "label": "CHEM"
+    },
+    {
+      "start": 1214,
+      "end": 1236,
+      "mention": "nerve reduction factor",
+      "label": "CHEM"
+    },
+    {
+      "start": 1356,
+      "end": 1362,
+      "mention": "CGRP-R",
+      "label": "CHEM"
+    },
+    {
+      "start": 989,
+      "end": 993,
+      "mention": "skin",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1037,
+      "end": 1047,
+      "mention": "dermatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 989,
+      "end": 1010,
+      "mention": "skin biopsy specimens",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1594,
+      "end": 1606,
+      "mention": "nerve fibers",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1237,
+      "end": 1250,
+      "mention": "semaphorin 3A",
+      "label": "CHEM"
+    },
+    {
+      "start": 71,
+      "end": 80,
+      "mention": "receptors",
+      "label": "CHEM"
+    },
+    {
+      "start": 423,
+      "end": 433,
+      "mention": "dermatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 575,
+      "end": 599,
+      "mention": "protein gene product 9.5",
+      "label": "CHEM"
+    },
+    {
+      "start": 307,
+      "end": 317,
+      "mention": "dermatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1168,
+      "end": 1180,
+      "mention": "nerve fibers",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1519,
+      "end": 1529,
+      "mention": "dermatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 1681,
+      "end": 1685,
+      "mention": "itch",
+      "label": "DISO"
+    },
+    {
+      "start": 341,
+      "end": 362,
+      "mention": "Skin biopsy specimens",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 639,
+      "end": 649,
+      "mention": "calcitonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1291,
+      "end": 1301,
+      "mention": "dermatitis",
+      "label": "DISO"
+    },
+    {
+      "start": 696,
+      "end": 702,
+      "mention": "CGRP-R",
+      "label": "CHEM"
+    },
+    {
+      "start": 994,
+      "end": 1010,
+      "mention": "biopsy specimens",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 385,
+      "end": 394,
+      "mention": "psoriasis",
+      "label": "DISO"
+    },
+    {
+      "start": 1237,
+      "end": 1247,
+      "mention": "semaphorin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1306,
+      "end": 1315,
+      "mention": "psoriasis",
+      "label": "DISO"
+    },
+    {
+      "start": 1534,
+      "end": 1543,
+      "mention": "psoriasis",
+      "label": "DISO"
+    },
+    {
+      "start": 13,
+      "end": 17,
+      "mention": "skin",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1052,
+      "end": 1061,
+      "mention": "psoriasis",
+      "label": "DISO"
+    },
+    {
+      "start": 286,
+      "end": 295,
+      "mention": "psoriasis",
+      "label": "DISO"
+    },
+    {
+      "start": 624,
+      "end": 634,
+      "mention": "semaphorin",
+      "label": "CHEM"
+    },
+    {
+      "start": 672,
+      "end": 676,
+      "mention": "CGRP",
+      "label": "CHEM"
+    },
+    {
+      "start": 346,
+      "end": 362,
+      "mention": "biopsy specimens",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1903,
+      "end": 1909,
+      "mention": "body's",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1790,
+      "end": 1794,
+      "mention": "skin",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1347,
+      "end": 1351,
+      "mention": "CGRP",
+      "label": "CHEM"
+    },
+    {
+      "start": 149,
+      "end": 166,
+      "mention": "neurotransmitters",
+      "label": "CHEM"
+    }
+  ]
+}

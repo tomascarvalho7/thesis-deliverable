@@ -1,0 +1,383 @@
+{
+  "text": "[The effects of taurine on oxidative processes in brain edema].  AIM To investigate the free radical oxidation of lipids, oxidative modification of protein activity of glutathione peroxidase and glutathione reductase as well as the end product of nitric oxide - nitrite in the brain mitochondrial fraction of animals with experimentally induced cerebral edema and in treatment with taurine.  MATERIAL AND METHODS Toxic brain edema was induced in rats with intraperitoneal injection of tetra-ethyl lead (10 mg per kg of animal weight).  The intensity of peroxidation was evaluated by hydroperoxide and malonic aldehyde contents. RESULTS An analysis of the levels of oxidative modification of proteins revealed that brain edema was characterized by increased levels of oxidative modification of proteins and lipids, nitrogen oxide, reduced glutathione content and decrease in the activity of enzymes containing glutathione (glutathione peroxidase and glutathione reductase).  CONCLUSION On this basis, we suggested that drugs increasing glutathione content and activating enzymes containing glutathione, for example taurine, could be used as medications.  The introduction of taurine in dose of 50 mg/kg during 5 days led to the reduction of lipid peroxidation products, normalization of oxidative modification of proteins in the mitochondrial fraction of the rats with experimental cerebral edema. ",
+  "entities": [
+    {
+      "start": 16,
+      "end": 23,
+      "mention": "taurine",
+      "label": "CHEM"
+    },
+    {
+      "start": 497,
+      "end": 501,
+      "mention": "lead",
+      "label": "CHEM"
+    },
+    {
+      "start": 1089,
+      "end": 1100,
+      "mention": "glutathione",
+      "label": "CHEM"
+    },
+    {
+      "start": 254,
+      "end": 259,
+      "mention": "oxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 345,
+      "end": 359,
+      "mention": "cerebral edema",
+      "label": "DISO"
+    },
+    {
+      "start": 419,
+      "end": 430,
+      "mention": "brain edema",
+      "label": "DISO"
+    },
+    {
+      "start": 714,
+      "end": 725,
+      "mention": "brain edema",
+      "label": "DISO"
+    },
+    {
+      "start": 277,
+      "end": 282,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1174,
+      "end": 1181,
+      "mention": "taurine",
+      "label": "CHEM"
+    },
+    {
+      "start": 419,
+      "end": 424,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 814,
+      "end": 822,
+      "mention": "nitrogen",
+      "label": "CHEM"
+    },
+    {
+      "start": 247,
+      "end": 253,
+      "mention": "nitric",
+      "label": "CHEM"
+    },
+    {
+      "start": 1328,
+      "end": 1350,
+      "mention": "mitochondrial fraction",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1114,
+      "end": 1121,
+      "mention": "taurine",
+      "label": "CHEM"
+    },
+    {
+      "start": 485,
+      "end": 501,
+      "mention": "tetra-ethyl lead",
+      "label": "CHEM"
+    },
+    {
+      "start": 247,
+      "end": 259,
+      "mention": "nitric oxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 922,
+      "end": 933,
+      "mention": "glutathione",
+      "label": "CHEM"
+    },
+    {
+      "start": 50,
+      "end": 61,
+      "mention": "brain edema",
+      "label": "DISO"
+    },
+    {
+      "start": 814,
+      "end": 828,
+      "mention": "nitrogen oxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 262,
+      "end": 269,
+      "mention": "nitrite",
+      "label": "CHEM"
+    },
+    {
+      "start": 583,
+      "end": 596,
+      "mention": "hydroperoxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 382,
+      "end": 389,
+      "mention": "taurine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1328,
+      "end": 1341,
+      "mention": "mitochondrial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1381,
+      "end": 1395,
+      "mention": "cerebral edema",
+      "label": "DISO"
+    },
+    {
+      "start": 949,
+      "end": 960,
+      "mention": "glutathione",
+      "label": "CHEM"
+    },
+    {
+      "start": 823,
+      "end": 828,
+      "mention": "oxide",
+      "label": "CHEM"
+    },
+    {
+      "start": 413,
+      "end": 430,
+      "mention": "Toxic brain edema",
+      "label": "DISO"
+    },
+    {
+      "start": 922,
+      "end": 944,
+      "mention": "glutathione peroxidase",
+      "label": "CHEM"
+    },
+    {
+      "start": 890,
+      "end": 897,
+      "mention": "enzymes",
+      "label": "CHEM"
+    },
+    {
+      "start": 56,
+      "end": 61,
+      "mention": "edema",
+      "label": "DISO"
+    },
+    {
+      "start": 1070,
+      "end": 1077,
+      "mention": "enzymes",
+      "label": "CHEM"
+    },
+    {
+      "start": 1240,
+      "end": 1245,
+      "mention": "lipid",
+      "label": "CHEM"
+    },
+    {
+      "start": 50,
+      "end": 55,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 354,
+      "end": 359,
+      "mention": "edema",
+      "label": "DISO"
+    },
+    {
+      "start": 425,
+      "end": 430,
+      "mention": "edema",
+      "label": "DISO"
+    },
+    {
+      "start": 114,
+      "end": 120,
+      "mention": "lipids",
+      "label": "CHEM"
+    },
+    {
+      "start": 949,
+      "end": 970,
+      "mention": "glutathione reductase",
+      "label": "CHEM"
+    },
+    {
+      "start": 195,
+      "end": 216,
+      "mention": "glutathione reductase",
+      "label": "CHEM"
+    },
+    {
+      "start": 168,
+      "end": 190,
+      "mention": "glutathione peroxidase",
+      "label": "CHEM"
+    },
+    {
+      "start": 601,
+      "end": 617,
+      "mention": "malonic aldehyde",
+      "label": "CHEM"
+    },
+    {
+      "start": 714,
+      "end": 719,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 180,
+      "end": 190,
+      "mention": "peroxidase",
+      "label": "CHEM"
+    },
+    {
+      "start": 345,
+      "end": 353,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 934,
+      "end": 944,
+      "mention": "peroxidase",
+      "label": "CHEM"
+    },
+    {
+      "start": 601,
+      "end": 608,
+      "mention": "malonic",
+      "label": "CHEM"
+    },
+    {
+      "start": 720,
+      "end": 725,
+      "mention": "edema",
+      "label": "DISO"
+    },
+    {
+      "start": 1390,
+      "end": 1395,
+      "mention": "edema",
+      "label": "DISO"
+    },
+    {
+      "start": 148,
+      "end": 155,
+      "mention": "protein",
+      "label": "CHEM"
+    },
+    {
+      "start": 207,
+      "end": 216,
+      "mention": "reductase",
+      "label": "CHEM"
+    },
+    {
+      "start": 1035,
+      "end": 1046,
+      "mention": "glutathione",
+      "label": "CHEM"
+    },
+    {
+      "start": 168,
+      "end": 179,
+      "mention": "glutathione",
+      "label": "CHEM"
+    },
+    {
+      "start": 961,
+      "end": 970,
+      "mention": "reductase",
+      "label": "CHEM"
+    },
+    {
+      "start": 283,
+      "end": 296,
+      "mention": "mitochondrial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 283,
+      "end": 305,
+      "mention": "mitochondrial fraction",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1381,
+      "end": 1389,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 609,
+      "end": 617,
+      "mention": "aldehyde",
+      "label": "CHEM"
+    },
+    {
+      "start": 806,
+      "end": 812,
+      "mention": "lipids",
+      "label": "CHEM"
+    },
+    {
+      "start": 838,
+      "end": 849,
+      "mention": "glutathione",
+      "label": "CHEM"
+    },
+    {
+      "start": 793,
+      "end": 801,
+      "mention": "proteins",
+      "label": "CHEM"
+    },
+    {
+      "start": 1312,
+      "end": 1320,
+      "mention": "proteins",
+      "label": "CHEM"
+    },
+    {
+      "start": 691,
+      "end": 699,
+      "mention": "proteins",
+      "label": "CHEM"
+    },
+    {
+      "start": 909,
+      "end": 920,
+      "mention": "glutathione",
+      "label": "CHEM"
+    },
+    {
+      "start": 195,
+      "end": 206,
+      "mention": "glutathione",
+      "label": "CHEM"
+    }
+  ]
+}

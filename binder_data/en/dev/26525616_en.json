@@ -1,0 +1,293 @@
+{
+  "text": "[Myofascial pain syndrome]. OBJECTIVE To analyze clinical characteristics of pain syndrome in patients with dorsalgia.  MATERIAL AND METHODS Authors studied 43 patients (mean age 41.9±1.2 years), 34 women and 9 men, with acute and subacute chronic back pain.  The study included neurological examination, MRI and/or CT of the spine, measurement of anxiety and depression with the Hospital Anxiety and Depression Scale (HADS), The Brief Pain Inventory (BPI) and the McGill Pain Inventory. RESULTS AND CONCLUSION Chronic myofascial pain syndrome (MFPS) was frequently associated with anxiety-depressive disorders found in patients with cervical and cervical/pectoral pain, fibromyalgia with minimal neurological symptoms and no signs of neural structure compression according to MRI and CT. The results of the study of chronic MFPS should be taken into account in the choice of tactics of treatment of MFPS patients.  The use of amelotex in the combination with compligam B in patients with dorsopathy and MFPS is effective together with correction of emotional disorders and treatment with chondroprotectors. ",
+  "entities": [
+    {
+      "start": 671,
+      "end": 683,
+      "mention": "fibromyalgia",
+      "label": "DISO"
+    },
+    {
+      "start": 240,
+      "end": 257,
+      "mention": "chronic back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 656,
+      "end": 664,
+      "mention": "pectoral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 348,
+      "end": 355,
+      "mention": "anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 389,
+      "end": 396,
+      "mention": "Anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 1050,
+      "end": 1069,
+      "mention": "emotional disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 735,
+      "end": 751,
+      "mention": "neural structure",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 582,
+      "end": 589,
+      "mention": "anxiety",
+      "label": "DISO"
+    },
+    {
+      "start": 590,
+      "end": 600,
+      "mention": "depressive",
+      "label": "DISO"
+    },
+    {
+      "start": 1,
+      "end": 11,
+      "mention": "Myofascial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 231,
+      "end": 257,
+      "mention": "subacute chronic back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 511,
+      "end": 543,
+      "mention": "Chronic myofascial pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 360,
+      "end": 370,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 582,
+      "end": 610,
+      "mention": "anxiety-depressive disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 519,
+      "end": 529,
+      "mention": "myofascial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 401,
+      "end": 411,
+      "mention": "Depression",
+      "label": "DISO"
+    },
+    {
+      "start": 817,
+      "end": 829,
+      "mention": "chronic MFPS",
+      "label": "DISO"
+    },
+    {
+      "start": 108,
+      "end": 117,
+      "mention": "dorsalgia",
+      "label": "DISO"
+    },
+    {
+      "start": 472,
+      "end": 476,
+      "mention": "Pain",
+      "label": "DISO"
+    },
+    {
+      "start": 326,
+      "end": 331,
+      "mention": "spine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 960,
+      "end": 971,
+      "mention": "compligam B",
+      "label": "CHEM"
+    },
+    {
+      "start": 545,
+      "end": 549,
+      "mention": "MFPS",
+      "label": "DISO"
+    },
+    {
+      "start": 77,
+      "end": 81,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 12,
+      "end": 16,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 647,
+      "end": 664,
+      "mention": "cervical/pectoral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 253,
+      "end": 257,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 248,
+      "end": 252,
+      "mention": "back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 530,
+      "end": 534,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 634,
+      "end": 642,
+      "mention": "cervical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 436,
+      "end": 440,
+      "mention": "Pain",
+      "label": "DISO"
+    },
+    {
+      "start": 647,
+      "end": 655,
+      "mention": "cervical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 665,
+      "end": 669,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 697,
+      "end": 718,
+      "mention": "neurological symptoms",
+      "label": "DISO"
+    },
+    {
+      "start": 12,
+      "end": 25,
+      "mention": "pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 77,
+      "end": 90,
+      "mention": "pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 530,
+      "end": 543,
+      "mention": "pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 248,
+      "end": 257,
+      "mention": "back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 519,
+      "end": 543,
+      "mention": "myofascial pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 1,
+      "end": 25,
+      "mention": "Myofascial pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 825,
+      "end": 829,
+      "mention": "MFPS",
+      "label": "DISO"
+    },
+    {
+      "start": 900,
+      "end": 904,
+      "mention": "MFPS",
+      "label": "DISO"
+    },
+    {
+      "start": 735,
+      "end": 763,
+      "mention": "neural structure compression",
+      "label": "DISO"
+    },
+    {
+      "start": 1089,
+      "end": 1106,
+      "mention": "chondroprotectors",
+      "label": "CHEM"
+    },
+    {
+      "start": 927,
+      "end": 935,
+      "mention": "amelotex",
+      "label": "CHEM"
+    },
+    {
+      "start": 1004,
+      "end": 1008,
+      "mention": "MFPS",
+      "label": "DISO"
+    },
+    {
+      "start": 221,
+      "end": 226,
+      "mention": "acute back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 248,
+      "end": 257,
+      "mention": "acute back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 989,
+      "end": 999,
+      "mention": "dorsopathy",
+      "label": "DISO"
+    }
+  ]
+}

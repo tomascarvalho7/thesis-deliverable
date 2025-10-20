@@ -1,0 +1,203 @@
+{
+  "text": "[Clinical efficacy of arbidol (umifenovir) in the therapy of influenza in adults: preliminary results of the multicenter double-blind randomized placebo-controlled study ARBITR]. \nAIM To evaluate the efficacy and safety of Arbidol (umifenovir) in adult patients with influenza.  \nSUBJECTS AND METHODS The analysis of the preliminary results of the multicenter double-blind randomized placebo-controlled post-marketing study ARBITR was performed. \nA total of 293 adults aged 18 to 65 years with influenza or acute respiratory tract infection of no more than 36 hours' duration were enrolled in the study. \nIndividuals were randomized into 2 treatment groups: oral umifenovir 200 mg four times daily for 5 days or placebo four times daily for 5 days.  \nThe efficacy endpoints were time to resolution of all symptoms, severity of symptoms and illness, durations of virus shedding. \nRESULTS The efficacy of umifenovir was evaluated in the group of 119 (40.6%) patients with influenza: 45 patients with laboratory-confirmed influenza and 74 patients whom diagnosis of influenza was made based on clinical and epidemiological data. \nUmifenovir had influence on the time to resolution of all symptoms. \nAll symptoms were resolved within the first 60 hours after therapy initiation in 23.8% patients with laboratory-confirmed influenza in the umifenovir group and it was 5.7 times greater compared to placebo group (4.2%) (p < 0.05). \nSeverity of illness, catarrhal symptoms and intoxication was reduced with umifenovir compared to placebo, reducing of severity was most evidently observed within the first 2-3 days following the therapy initiation. \nUmifenovir had a significant effect on viral shedding.  \nThe proportion of patients still shedding influenza virus on day 4 was significantly reduced in the umifenovir group compared to placebo (25 vs 53%, respectively; p < 0.05). \nCONCLUSION It was found that the effect of umifenovir in the treatment of influenza in adults is most pronounced in the acute stage of the disease and appears in the reduction of time to resolution of all symptoms of the disease, reducing the severity of symptoms of the disease and durations of virus shedding. \n",
+  "entities": [
+    {
+      "start": 507,
+      "end": 540,
+      "mention": "acute respiratory tract infection",
+      "label": "DISO"
+    },
+    {
+      "start": 232,
+      "end": 242,
+      "mention": "umifenovir",
+      "label": "CHEM"
+    },
+    {
+      "start": 1335,
+      "end": 1345,
+      "mention": "umifenovir",
+      "label": "CHEM"
+    },
+    {
+      "start": 1501,
+      "end": 1511,
+      "mention": "umifenovir",
+      "label": "CHEM"
+    },
+    {
+      "start": 1019,
+      "end": 1028,
+      "mention": "influenza",
+      "label": "DISO"
+    },
+    {
+      "start": 1918,
+      "end": 1928,
+      "mention": "umifenovir",
+      "label": "CHEM"
+    },
+    {
+      "start": 903,
+      "end": 913,
+      "mention": "umifenovir",
+      "label": "CHEM"
+    },
+    {
+      "start": 61,
+      "end": 70,
+      "mention": "influenza",
+      "label": "DISO"
+    },
+    {
+      "start": 1643,
+      "end": 1653,
+      "mention": "Umifenovir",
+      "label": "CHEM"
+    },
+    {
+      "start": 31,
+      "end": 41,
+      "mention": "umifenovir",
+      "label": "CHEM"
+    },
+    {
+      "start": 1800,
+      "end": 1810,
+      "mention": "umifenovir",
+      "label": "CHEM"
+    },
+    {
+      "start": 1127,
+      "end": 1137,
+      "mention": "Umifenovir",
+      "label": "CHEM"
+    },
+    {
+      "start": 531,
+      "end": 540,
+      "mention": "infection",
+      "label": "DISO"
+    },
+    {
+      "start": 1524,
+      "end": 1531,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 145,
+      "end": 152,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 663,
+      "end": 673,
+      "mention": "umifenovir",
+      "label": "CHEM"
+    },
+    {
+      "start": 1318,
+      "end": 1327,
+      "mention": "influenza",
+      "label": "DISO"
+    },
+    {
+      "start": 1829,
+      "end": 1836,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 1949,
+      "end": 1958,
+      "mention": "influenza",
+      "label": "DISO"
+    },
+    {
+      "start": 1063,
+      "end": 1072,
+      "mention": "influenza",
+      "label": "DISO"
+    },
+    {
+      "start": 494,
+      "end": 503,
+      "mention": "influenza",
+      "label": "DISO"
+    },
+    {
+      "start": 1448,
+      "end": 1466,
+      "mention": "catarrhal symptoms",
+      "label": "DISO"
+    },
+    {
+      "start": 267,
+      "end": 276,
+      "mention": "influenza",
+      "label": "DISO"
+    },
+    {
+      "start": 1471,
+      "end": 1483,
+      "mention": "intoxication",
+      "label": "DISO"
+    },
+    {
+      "start": 223,
+      "end": 230,
+      "mention": "Arbidol",
+      "label": "CHEM"
+    },
+    {
+      "start": 1742,
+      "end": 1751,
+      "mention": "influenza",
+      "label": "DISO"
+    },
+    {
+      "start": 513,
+      "end": 540,
+      "mention": "respiratory tract infection",
+      "label": "DISO"
+    },
+    {
+      "start": 970,
+      "end": 979,
+      "mention": "influenza",
+      "label": "DISO"
+    },
+    {
+      "start": 513,
+      "end": 530,
+      "mention": "respiratory tract",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 712,
+      "end": 719,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 384,
+      "end": 391,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 22,
+      "end": 29,
+      "mention": "arbidol",
+      "label": "CHEM"
+    },
+    {
+      "start": 1393,
+      "end": 1400,
+      "mention": "placebo",
+      "label": "CHEM"
+    }
+  ]
+}

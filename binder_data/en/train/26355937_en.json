@@ -1,0 +1,251 @@
+{
+  "text": "Use of polymethylmethacrylate in treatment of arteriovenous angiodysplasia with bone lesions.  Arteriovenous dysplasia is rather uncommon disease, quite often leading to severe complications even in young age. Involvement of the osseous apparatus into the pathological process is frequently associated with the problem of amputation of the affected limb. Therefore, salvage of the extremity while removing arteriovenous shunt and trophic impairments is an extremely important clinical task. In the presented herein clinical case report, a female patient with arteriovenous angiodysplasia of the lower limb with the tibial bone involved into the pathological process underwent repeated stagewise embolisations, failing however to achieve complete liquidation of the arteriovenous reflux. In this connection, after removal of angiomatous tissues, requiring also excochleation of the damaged portions of the bone, in order to reinforce the axis of the tibial bone the intramedullary canal of the latter was filled with polymethylmethacrylate (PMMA). Expansion of the spectrum of auxiliary methods, besides the most frequently performed in such patients embolisations of afferent arteries and removal of angiomatous tissues would make it possible to increase radical nature of interventions with salvage of the supporting function of limbs. ",
+  "entities": [
+    {
+      "start": 1330,
+      "end": 1335,
+      "mention": "limbs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 95,
+      "end": 108,
+      "mention": "Arteriovenous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 905,
+      "end": 909,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 46,
+      "end": 74,
+      "mention": "arteriovenous angiodysplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 1016,
+      "end": 1038,
+      "mention": "polymethylmethacrylate",
+      "label": "CHEM"
+    },
+    {
+      "start": 229,
+      "end": 236,
+      "mention": "osseous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 559,
+      "end": 587,
+      "mention": "arteriovenous angiodysplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 60,
+      "end": 74,
+      "mention": "angiodysplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 595,
+      "end": 605,
+      "mention": "lower limb",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 573,
+      "end": 587,
+      "mention": "angiodysplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 95,
+      "end": 118,
+      "mention": "Arteriovenous dysplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 956,
+      "end": 960,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 80,
+      "end": 84,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 109,
+      "end": 118,
+      "mention": "dysplasia",
+      "label": "DISO"
+    },
+    {
+      "start": 622,
+      "end": 626,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 80,
+      "end": 92,
+      "mention": "bone lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 46,
+      "end": 59,
+      "mention": "arteriovenous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 836,
+      "end": 843,
+      "mention": "tissues",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1167,
+      "end": 1184,
+      "mention": "afferent arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 381,
+      "end": 390,
+      "mention": "extremity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 177,
+      "end": 190,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 430,
+      "end": 449,
+      "mention": "trophic impairments",
+      "label": "DISO"
+    },
+    {
+      "start": 340,
+      "end": 353,
+      "mention": "affected limb",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 601,
+      "end": 605,
+      "mention": "limb",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 406,
+      "end": 425,
+      "mention": "arteriovenous shunt",
+      "label": "DISO"
+    },
+    {
+      "start": 965,
+      "end": 985,
+      "mention": "intramedullary canal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1176,
+      "end": 1184,
+      "mention": "arteries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 349,
+      "end": 353,
+      "mention": "limb",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 7,
+      "end": 29,
+      "mention": "polymethylmethacrylate",
+      "label": "CHEM"
+    },
+    {
+      "start": 559,
+      "end": 572,
+      "mention": "arteriovenous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1040,
+      "end": 1044,
+      "mention": "PMMA",
+      "label": "CHEM"
+    },
+    {
+      "start": 937,
+      "end": 960,
+      "mention": "axis of the tibial bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1200,
+      "end": 1219,
+      "mention": "angiomatous tissues",
+      "label": "DISO"
+    },
+    {
+      "start": 765,
+      "end": 778,
+      "mention": "arteriovenous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 406,
+      "end": 419,
+      "mention": "arteriovenous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 615,
+      "end": 626,
+      "mention": "tibial bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 949,
+      "end": 960,
+      "mention": "tibial bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 765,
+      "end": 785,
+      "mention": "arteriovenous reflux",
+      "label": "DISO"
+    },
+    {
+      "start": 824,
+      "end": 843,
+      "mention": "angiomatous tissues",
+      "label": "DISO"
+    },
+    {
+      "start": 229,
+      "end": 246,
+      "mention": "osseous apparatus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1212,
+      "end": 1219,
+      "mention": "tissues",
+      "label": "ANATOMY"
+    }
+  ]
+}

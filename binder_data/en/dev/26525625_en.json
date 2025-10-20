@@ -1,0 +1,83 @@
+{
+  "text": "[The efficacy of cytoflavin in the treatment of burnout syndrome]. OBJECTIVE To evaluate the efficacy of cytoflavin in the treatment of patients with burnout syndrome.  MATERIAL AND METHODS Authors performed clinical, psychological and neurophysiological examinations of 60 patients, aged 34-43 years.  Results of pharmacological therapy with cytoflavin (30 patients) or ethylmethylhydroxypyridine succinate (30 patients) were compared. Control examination was conducted immediately after treatment and then after 30 days to assess the stability of the resulting effect. RESULTS AND CONCLUSION The higher efficacy of cytoflavin (improvement in 80% of cases) as compared to ethylmethylhydroxypyridine succinate (improvement in 70% of cases) was identified. After cytoflavin treatment, the improvement was more persistent. These clinical results are confirmed by the results of psychological and neurophysiological research. ",
+  "entities": [
+    {
+      "start": 762,
+      "end": 772,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 700,
+      "end": 709,
+      "mention": "succinate",
+      "label": "CHEM"
+    },
+    {
+      "start": 371,
+      "end": 397,
+      "mention": "ethylmethylhydroxypyridine",
+      "label": "CHEM"
+    },
+    {
+      "start": 105,
+      "end": 115,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 398,
+      "end": 407,
+      "mention": "succinate",
+      "label": "CHEM"
+    },
+    {
+      "start": 17,
+      "end": 27,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 673,
+      "end": 709,
+      "mention": "ethylmethylhydroxypyridine succinate",
+      "label": "CHEM"
+    },
+    {
+      "start": 673,
+      "end": 699,
+      "mention": "ethylmethylhydroxypyridine",
+      "label": "CHEM"
+    },
+    {
+      "start": 48,
+      "end": 64,
+      "mention": "burnout syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 617,
+      "end": 627,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 150,
+      "end": 166,
+      "mention": "burnout syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 371,
+      "end": 407,
+      "mention": "ethylmethylhydroxypyridine succinate",
+      "label": "CHEM"
+    },
+    {
+      "start": 343,
+      "end": 353,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    }
+  ]
+}

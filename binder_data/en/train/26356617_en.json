@@ -1,0 +1,191 @@
+{
+  "text": "[Clinical and instrumental diagnosis of concomitant venous dysfunction of the brain and extremities].  OBJECTIVE to compare the frequency, preferential localization, severity of disturbances of venous circulation in the brain and limbs. MATERIAL AND METHODS  Authors examined 140 people during 2009-2014: 20 apparently healthy people without clinical manifestations of extra-intracerebral venous insufficiency; 70 patients with clinical and instrumental signs of venous encephalopathy; 50 patients with varicose disease. History and clinical status were studied for all patients.  In addition to physical methods, dynamic teletermography and triplex study of head, neck and extremity vessels were used. RESULTS AND CONCLUSION -A higher, than previously estimated, frequency of concomitant venous dysfunction of the brain and other locations was identified.  It has been shown that venous insufficiency is a systemic pathology that affects venous circulation of the brain and extremities. ",
+  "entities": [
+    {
+      "start": 796,
+      "end": 807,
+      "mention": "dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 389,
+      "end": 395,
+      "mention": "venous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 88,
+      "end": 99,
+      "mention": "extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 369,
+      "end": 409,
+      "mention": "extra-intracerebral venous insufficiency",
+      "label": "DISO"
+    },
+    {
+      "start": 674,
+      "end": 683,
+      "mention": "extremity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 463,
+      "end": 484,
+      "mention": "venous encephalopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 975,
+      "end": 986,
+      "mention": "extremities",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 665,
+      "end": 669,
+      "mention": "neck",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 52,
+      "end": 70,
+      "mention": "venous dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 789,
+      "end": 807,
+      "mention": "venous dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 470,
+      "end": 484,
+      "mention": "encephalopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 369,
+      "end": 395,
+      "mention": "extra-intracerebral venous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 369,
+      "end": 388,
+      "mention": "extra-intracerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 220,
+      "end": 225,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 59,
+      "end": 70,
+      "mention": "dysfunction",
+      "label": "DISO"
+    },
+    {
+      "start": 463,
+      "end": 469,
+      "mention": "venous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 230,
+      "end": 235,
+      "mention": "limbs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 965,
+      "end": 970,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 939,
+      "end": 945,
+      "mention": "venous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 194,
+      "end": 200,
+      "mention": "venous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 52,
+      "end": 58,
+      "mention": "venous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 881,
+      "end": 901,
+      "mention": "venous insufficiency",
+      "label": "DISO"
+    },
+    {
+      "start": 789,
+      "end": 795,
+      "mention": "venous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 815,
+      "end": 820,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 907,
+      "end": 925,
+      "mention": "systemic pathology",
+      "label": "DISO"
+    },
+    {
+      "start": 503,
+      "end": 519,
+      "mention": "varicose disease",
+      "label": "DISO"
+    },
+    {
+      "start": 674,
+      "end": 691,
+      "mention": "extremity vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 684,
+      "end": 691,
+      "mention": "vessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 881,
+      "end": 887,
+      "mention": "venous",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 78,
+      "end": 83,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 659,
+      "end": 663,
+      "mention": "head",
+      "label": "ANATOMY"
+    }
+  ]
+}

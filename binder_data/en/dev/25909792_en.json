@@ -1,0 +1,275 @@
+{
+  "text": "[EEG frequency and regional properties in patients with paranoid schizophrenia: effects of positive and negative symptomatology prevalence].  OBJECTIVE EEG changes in schizophrenic patients are caused by a multitude of factors related to clinical heterogeneity of the disease, current state of patients, and conducted therapy. EEG spectral analysis remains an actual methodical approach for the investigation of the neurophysiological mechanisms of the disease.  The goal of the investigation was the study of frequency and regional EEG correlating with the intensity of productive and negative disorders. MATERIAL AND METHODS Models of summary prevalence of positive/negative disorders and evidence of concrete clinical indices of the PANSS scale were used. Spectral characteristics of background EEG in the frequency range of 1-60 Hz were studied in 35 patients with paranoid schizophrenia free from psychoactive medication and in 19 healthy volunteers. RESULTS It was established that the main index of negative symptomatology in summary assessment was diffuse increase of spectral power of gamma and delta ranges. Deficient states with the predominance of volitional disorders were characterized by a lateralized increase of spectral power of beta-gamma ranges in the left hemisphere, and of delta range - in frontal areas of this hemisphere. Positive symptomatology was noticeably less reflected in EEG changes than negative ones. CONCLUSION An analysis of psychopathological symptom complexes revealed the significance of spatially structured EEG patterns in the beta range: for the delusion disturbances with psychic automatism phenomena - in frontal areas of the left hemisphere, and for the paranoid syndrome with primary interpretative delusion - in cortical areas of the right hemisphere. ",
+  "entities": [
+    {
+      "start": 659,
+      "end": 667,
+      "mention": "positive disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 677,
+      "end": 686,
+      "mention": "positive disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 65,
+      "end": 78,
+      "mention": "schizophrenia",
+      "label": "DISO"
+    },
+    {
+      "start": 1700,
+      "end": 1754,
+      "mention": "paranoid syndrome with primary interpretative delusion",
+      "label": "DISO"
+    },
+    {
+      "start": 878,
+      "end": 891,
+      "mention": "schizophrenia",
+      "label": "DISO"
+    },
+    {
+      "start": 1160,
+      "end": 1180,
+      "mention": "volitional disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 1723,
+      "end": 1754,
+      "mention": "primary interpretative delusion",
+      "label": "DISO"
+    },
+    {
+      "start": 1650,
+      "end": 1686,
+      "mention": "frontal areas of the left hemisphere",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1746,
+      "end": 1754,
+      "mention": "delusion",
+      "label": "DISO"
+    },
+    {
+      "start": 104,
+      "end": 127,
+      "mention": "negative symptomatology",
+      "label": "DISO"
+    },
+    {
+      "start": 56,
+      "end": 78,
+      "mention": "paranoid schizophrenia",
+      "label": "DISO"
+    },
+    {
+      "start": 1272,
+      "end": 1287,
+      "mention": "left hemisphere",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 869,
+      "end": 891,
+      "mention": "paranoid schizophrenia",
+      "label": "DISO"
+    },
+    {
+      "start": 1782,
+      "end": 1798,
+      "mention": "right hemisphere",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1277,
+      "end": 1287,
+      "mention": "hemisphere",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 167,
+      "end": 180,
+      "mention": "schizophrenic",
+      "label": "DISO"
+    },
+    {
+      "start": 1335,
+      "end": 1345,
+      "mention": "hemisphere",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1700,
+      "end": 1717,
+      "mention": "paranoid syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 1671,
+      "end": 1686,
+      "mention": "left hemisphere",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1788,
+      "end": 1798,
+      "mention": "hemisphere",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1676,
+      "end": 1686,
+      "mention": "hemisphere",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 56,
+      "end": 64,
+      "mention": "paranoid",
+      "label": "DISO"
+    },
+    {
+      "start": 113,
+      "end": 127,
+      "mention": "symptomatology positive",
+      "label": "DISO"
+    },
+    {
+      "start": 91,
+      "end": 99,
+      "mention": "symptomatology positive",
+      "label": "DISO"
+    },
+    {
+      "start": 1760,
+      "end": 1768,
+      "mention": "cortical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1421,
+      "end": 1429,
+      "mention": "negative",
+      "label": "DISO"
+    },
+    {
+      "start": 1760,
+      "end": 1774,
+      "mention": "cortical areas",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1118,
+      "end": 1134,
+      "mention": "Deficient states",
+      "label": "DISO"
+    },
+    {
+      "start": 1589,
+      "end": 1610,
+      "mention": "delusion disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 1006,
+      "end": 1029,
+      "mention": "negative symptomatology",
+      "label": "DISO"
+    },
+    {
+      "start": 1589,
+      "end": 1597,
+      "mention": "delusion",
+      "label": "DISO"
+    },
+    {
+      "start": 571,
+      "end": 581,
+      "mention": "productive disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 595,
+      "end": 604,
+      "mention": "productive disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 1118,
+      "end": 1180,
+      "mention": "Deficient states with the predominance of volitional disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 1313,
+      "end": 1326,
+      "mention": "frontal areas",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 902,
+      "end": 925,
+      "mention": "psychoactive medication",
+      "label": "CHEM"
+    },
+    {
+      "start": 1462,
+      "end": 1498,
+      "mention": "psychopathological symptom complexes",
+      "label": "DISO"
+    },
+    {
+      "start": 586,
+      "end": 604,
+      "mention": "negative disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 1760,
+      "end": 1798,
+      "mention": "cortical areas of the right hemisphere",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1347,
+      "end": 1370,
+      "mention": "Positive symptomatology",
+      "label": "DISO"
+    },
+    {
+      "start": 668,
+      "end": 686,
+      "mention": "negative disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 1650,
+      "end": 1657,
+      "mention": "frontal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1313,
+      "end": 1320,
+      "mention": "frontal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 869,
+      "end": 877,
+      "mention": "paranoid",
+      "label": "DISO"
+    },
+    {
+      "start": 1650,
+      "end": 1663,
+      "mention": "frontal areas",
+      "label": "ANATOMY"
+    }
+  ]
+}

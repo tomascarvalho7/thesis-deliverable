@@ -1,0 +1,413 @@
+{
+  "text": "[Efficacy of the infusion hepatotropic drug remaxol in the pathogenetic therapy for cirrhotic stage chronic viral hepatitides].  AIM To investigate the impact of therapy with the infusion hepatoprotector remaxol on liver function in cirrhosis in the outcome of chronic viral hepatitides (CVH): HCV, HBV, HCV+HBV, and HBV+HDV. SUBJECTS AND METHODS Sixty-five patients aged 26 to 76 years, who had been diagnosed as having liver cirrhosis (LC) in the outcome of CVH: HCV, HBV, HCV+HBV, and HBV+HDV were examined. During infusion therapy, every day 32 cirrhotic patients in the outcome of CVH B or C received intravenous remaxol 400 ml in a jetwise manner once daily for 11 days. A comparison group comprised 33 patients with the similar condition who had intravenous ademetionine 400 mg in a jetwise fashion during infusion therapy with crystalloids (400 ml of isotonic sodium chloride solution, Ringer's solution) for 11 days. RESULTS After an infusion therapy cycle, the study group patients were recorded to have more significantly reduced cytolytic and cholestatic parameters. The pronounced hepatotropic effect of the drug was confirmed by the rate of a decline in the average concentrations of alanine aminotransferase, aspartate aminotransferase, and total bilirubin. In the study group patients, the relative values of a decrease in the levels of these biochemical parameters were 29, 29, and 40% versus 15, 20, and 9% in the control patients. CONCLUSION Infusion therapy with remaxol in the combination treatment of the patients with viral LC not only improves liver function (reduces the degree of cytolysis, cholestasis), but also exerts a cytoprotective effect on peripheral blood cells (leukocytes, lymphocytes, platelets). ",
+  "entities": [
+    {
+      "start": 1041,
+      "end": 1050,
+      "mention": "cytolytic",
+      "label": "DISO"
+    },
+    {
+      "start": 868,
+      "end": 874,
+      "mention": "sodium",
+      "label": "CHEM"
+    },
+    {
+      "start": 1606,
+      "end": 1615,
+      "mention": "cytolysis",
+      "label": "DISO"
+    },
+    {
+      "start": 868,
+      "end": 883,
+      "mention": "sodium chloride",
+      "label": "CHEM"
+    },
+    {
+      "start": 903,
+      "end": 911,
+      "mention": "solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 317,
+      "end": 324,
+      "mention": "HBV+HDV",
+      "label": "DISO"
+    },
+    {
+      "start": 470,
+      "end": 473,
+      "mention": "HBV",
+      "label": "DISO"
+    },
+    {
+      "start": 488,
+      "end": 495,
+      "mention": "HBV+HDV",
+      "label": "DISO"
+    },
+    {
+      "start": 1198,
+      "end": 1205,
+      "mention": "alanine",
+      "label": "CHEM"
+    },
+    {
+      "start": 84,
+      "end": 93,
+      "mention": "cirrhotic",
+      "label": "DISO"
+    },
+    {
+      "start": 549,
+      "end": 558,
+      "mention": "cirrhotic",
+      "label": "DISO"
+    },
+    {
+      "start": 233,
+      "end": 242,
+      "mention": "cirrhosis",
+      "label": "DISO"
+    },
+    {
+      "start": 269,
+      "end": 286,
+      "mention": "viral hepatitides",
+      "label": "DISO"
+    },
+    {
+      "start": 108,
+      "end": 125,
+      "mention": "viral hepatitides",
+      "label": "DISO"
+    },
+    {
+      "start": 26,
+      "end": 43,
+      "mention": "hepatotropic drug",
+      "label": "CHEM"
+    },
+    {
+      "start": 188,
+      "end": 203,
+      "mention": "hepatoprotector",
+      "label": "CHEM"
+    },
+    {
+      "start": 1206,
+      "end": 1222,
+      "mention": "aminotransferase",
+      "label": "CHEM"
+    },
+    {
+      "start": 1198,
+      "end": 1222,
+      "mention": "alanine aminotransferase",
+      "label": "CHEM"
+    },
+    {
+      "start": 427,
+      "end": 436,
+      "mention": "cirrhosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1691,
+      "end": 1696,
+      "mention": "cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 884,
+      "end": 892,
+      "mention": "solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 868,
+      "end": 892,
+      "mention": "sodium chloride solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 1483,
+      "end": 1490,
+      "mention": "remaxol",
+      "label": "CHEM"
+    },
+    {
+      "start": 1685,
+      "end": 1696,
+      "mention": "blood cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1541,
+      "end": 1549,
+      "mention": "viral LC",
+      "label": "DISO"
+    },
+    {
+      "start": 421,
+      "end": 426,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 261,
+      "end": 286,
+      "mention": "chronic viral hepatitides",
+      "label": "DISO"
+    },
+    {
+      "start": 288,
+      "end": 291,
+      "mention": "CVH",
+      "label": "DISO"
+    },
+    {
+      "start": 586,
+      "end": 589,
+      "mention": "CVH",
+      "label": "DISO"
+    },
+    {
+      "start": 460,
+      "end": 463,
+      "mention": "CVH",
+      "label": "DISO"
+    },
+    {
+      "start": 100,
+      "end": 125,
+      "mention": "chronic viral hepatitides",
+      "label": "DISO"
+    },
+    {
+      "start": 179,
+      "end": 203,
+      "mention": "infusion hepatoprotector",
+      "label": "CHEM"
+    },
+    {
+      "start": 1685,
+      "end": 1690,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1234,
+      "end": 1250,
+      "mention": "aminotransferase",
+      "label": "CHEM"
+    },
+    {
+      "start": 875,
+      "end": 883,
+      "mention": "chloride",
+      "label": "CHEM"
+    },
+    {
+      "start": 1055,
+      "end": 1066,
+      "mention": "cholestatic",
+      "label": "DISO"
+    },
+    {
+      "start": 1674,
+      "end": 1696,
+      "mention": "peripheral blood cells",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1723,
+      "end": 1732,
+      "mention": "platelets",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1617,
+      "end": 1628,
+      "mention": "cholestasis",
+      "label": "DISO"
+    },
+    {
+      "start": 1547,
+      "end": 1549,
+      "mention": "LC",
+      "label": "DISO"
+    },
+    {
+      "start": 1674,
+      "end": 1690,
+      "mention": "peripheral blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1698,
+      "end": 1708,
+      "mention": "leukocytes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 421,
+      "end": 436,
+      "mention": "liver cirrhosis",
+      "label": "DISO"
+    },
+    {
+      "start": 438,
+      "end": 440,
+      "mention": "LC",
+      "label": "DISO"
+    },
+    {
+      "start": 304,
+      "end": 312,
+      "mention": "HCV+HBV,",
+      "label": "DISO"
+    },
+    {
+      "start": 1568,
+      "end": 1573,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 475,
+      "end": 482,
+      "mention": "HCV+HBV",
+      "label": "DISO"
+    },
+    {
+      "start": 1262,
+      "end": 1271,
+      "mention": "bilirubin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1256,
+      "end": 1271,
+      "mention": "total bilirubin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1224,
+      "end": 1233,
+      "mention": "aspartate",
+      "label": "CHEM"
+    },
+    {
+      "start": 835,
+      "end": 847,
+      "mention": "crystalloids",
+      "label": "CHEM"
+    },
+    {
+      "start": 299,
+      "end": 302,
+      "mention": "HBV",
+      "label": "DISO"
+    },
+    {
+      "start": 586,
+      "end": 591,
+      "mention": "CVH B",
+      "label": "DISO"
+    },
+    {
+      "start": 44,
+      "end": 51,
+      "mention": "remaxol",
+      "label": "CHEM"
+    },
+    {
+      "start": 204,
+      "end": 211,
+      "mention": "remaxol",
+      "label": "CHEM"
+    },
+    {
+      "start": 618,
+      "end": 625,
+      "mention": "remaxol",
+      "label": "CHEM"
+    },
+    {
+      "start": 275,
+      "end": 286,
+      "mention": "hepatitides",
+      "label": "DISO"
+    },
+    {
+      "start": 114,
+      "end": 125,
+      "mention": "hepatitides",
+      "label": "DISO"
+    },
+    {
+      "start": 586,
+      "end": 589,
+      "mention": "CVH C",
+      "label": "DISO"
+    },
+    {
+      "start": 595,
+      "end": 596,
+      "mention": "CVH C",
+      "label": "DISO"
+    },
+    {
+      "start": 1224,
+      "end": 1250,
+      "mention": "aspartate aminotransferase",
+      "label": "CHEM"
+    },
+    {
+      "start": 465,
+      "end": 468,
+      "mention": "HCV",
+      "label": "DISO"
+    },
+    {
+      "start": 294,
+      "end": 297,
+      "mention": "HCV",
+      "label": "DISO"
+    },
+    {
+      "start": 215,
+      "end": 220,
+      "mention": "liver",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 859,
+      "end": 892,
+      "mention": "isotonic sodium chloride solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 894,
+      "end": 911,
+      "mention": "Ringer's solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 765,
+      "end": 777,
+      "mention": "ademetionine",
+      "label": "CHEM"
+    },
+    {
+      "start": 1710,
+      "end": 1721,
+      "mention": "lymphocytes",
+      "label": "ANATOMY"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "text": "[Endoprosthetic replacement with lifting of abdominal wall in treatment of umbilical and postoperative ventral hernias].  \nThe results of complex clinical and ultrasonic investigation of abdominal wall and following surgical treatment in 60 women with umbilical and postoperative large ventral hernias combined with abdomen ptosis were analyzed. \nPatients were divided into 2 groups with 30 people per group.  \nEndoprosthetic replacement of abdominal wall defect using standard polypropylene prosthesis was applied in the 1st group, endoprosthetic replacement with musculoaponeurotic tissues lifting in hypogastric area using original super lightweight polypropylenepolyvinylidenefluoride prosthesis--in the 2nd group. \nPolypropylene endoprosthesisconsist of main flap 15×15 cm with roundish edges and additional flap 5×40 cm in the form of wide stripe placed at the lower edge of main flap transversely to its direction. \nIt was revealed increased physical health component in 1.8 times, psychic--in 2.5 times in the 2nd group.  \nThus number of excellent results increased on 33.3% and amount of satisfactory outcomes reduced on 30%. \n",
+  "entities": [
+    {
+      "start": 316,
+      "end": 323,
+      "mention": "abdomen",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 286,
+      "end": 301,
+      "mention": "ventral hernias",
+      "label": "DISO"
+    },
+    {
+      "start": 286,
+      "end": 293,
+      "mention": "ventral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 316,
+      "end": 330,
+      "mention": "abdomen ptosis",
+      "label": "DISO"
+    },
+    {
+      "start": 584,
+      "end": 591,
+      "mention": "tissues",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 266,
+      "end": 301,
+      "mention": "postoperative large ventral hernias",
+      "label": "DISO"
+    },
+    {
+      "start": 720,
+      "end": 733,
+      "mention": "Polypropylene",
+      "label": "CHEM"
+    },
+    {
+      "start": 478,
+      "end": 491,
+      "mention": "polypropylene",
+      "label": "CHEM"
+    },
+    {
+      "start": 103,
+      "end": 110,
+      "mention": "ventral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 111,
+      "end": 118,
+      "mention": "hernias",
+      "label": "DISO"
+    },
+    {
+      "start": 294,
+      "end": 301,
+      "mention": "hernias",
+      "label": "DISO"
+    },
+    {
+      "start": 252,
+      "end": 261,
+      "mention": "umbilical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 111,
+      "end": 118,
+      "mention": "hernias umbilical",
+      "label": "DISO"
+    },
+    {
+      "start": 75,
+      "end": 84,
+      "mention": "hernias umbilical",
+      "label": "DISO"
+    },
+    {
+      "start": 324,
+      "end": 330,
+      "mention": "ptosis",
+      "label": "DISO"
+    },
+    {
+      "start": 280,
+      "end": 301,
+      "mention": "large ventral hernias",
+      "label": "DISO"
+    },
+    {
+      "start": 603,
+      "end": 619,
+      "mention": "hypogastric area",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 75,
+      "end": 84,
+      "mention": "umbilical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 252,
+      "end": 261,
+      "mention": "umbilical hernias",
+      "label": "DISO"
+    },
+    {
+      "start": 294,
+      "end": 301,
+      "mention": "umbilical hernias",
+      "label": "DISO"
+    },
+    {
+      "start": 565,
+      "end": 591,
+      "mention": "musculoaponeurotic tissues",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 187,
+      "end": 201,
+      "mention": "abdominal wall",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 441,
+      "end": 462,
+      "mention": "abdominal wall defect",
+      "label": "DISO"
+    },
+    {
+      "start": 44,
+      "end": 58,
+      "mention": "abdominal wall",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 441,
+      "end": 455,
+      "mention": "abdominal wall",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 44,
+      "end": 53,
+      "mention": "abdominal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 89,
+      "end": 118,
+      "mention": "postoperative ventral hernias",
+      "label": "DISO"
+    },
+    {
+      "start": 103,
+      "end": 118,
+      "mention": "ventral hernias",
+      "label": "DISO"
+    },
+    {
+      "start": 441,
+      "end": 450,
+      "mention": "abdominal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 653,
+      "end": 688,
+      "mention": "polypropylenepolyvinylidenefluoride",
+      "label": "CHEM"
+    },
+    {
+      "start": 187,
+      "end": 196,
+      "mention": "abdominal",
+      "label": "ANATOMY"
+    }
+  ]
+}

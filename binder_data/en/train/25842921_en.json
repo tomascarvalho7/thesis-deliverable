@@ -1,0 +1,557 @@
+{
+  "text": "[Functional morphology of ischemic cardiomyopathy]. OBJECTIVE To show that ischemic cardiomyopathy (ICM) that is generally believed to be a variant of chronic heart disease (CHD) and an analogue of chronic heart failure is an initial stage and the background of all further forms of CHD. SUBJECTS AND METHODS Sixty cardiac biopsies obtained from patients during aortocoronary bypass surgery for CHD and myocardia from 55 rabbits in which the investigators simulated atherosclerosis over time, as well as acute, transient, and recurrent coronary insufficiency after vasopressin administration were examined. A number of adequate histological, histochemical, and immunohistological procedures, electron microscopic and electron histochemical studies, and morphometry were employed.  The investigators made biochemical monitoring of blood cholesterol and triglyceride levels and ECG monitoring in the animals had received intravenous vasopressin. RESULTS  The authors have indicated that CHD begins with endothelial changes in the trophic component of the microhemocirculatory bed, which gives rise to its impaired blood flow and to hypoxia at the level of the myocardial structural and functional unit--fascicules. Over time, the disease develops a set of processes that cause damage to microvessels, cardiomyocytes, stroma, lymph capillaries, and nerve endings and changes in secretion.  Compensatory and adaptive responses that long mask the symptoms of damage to the vascular bed and myocardial tissue take place simultaneously. The occurring lesions result in irregular diffuse cardiosclerosis, micro- and lymphocirculatory, innervation, and conduction disturbances, and irregular cardiomyocyte damage. The authors consider this set of myocardial changes to be an initial phase of ICM that shows no clinical manifestation at all.  As coronary atherosclerosis progresses, the already damaged myocardium is superimposed by the morphological changes caused by higher hypoxia at the whole organ level. Depending upon a combination of these changes, one or another form of CHD and progression of chronic CHD may prevail at a later time. CONCLUSION ICM is a broader concept than chronic heart failure and it is a basis for the pathogenesis and morphogenesis of CHD. ",
+  "entities": [
+    {
+      "start": 1893,
+      "end": 1903,
+      "mention": "myocardium",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2093,
+      "end": 2104,
+      "mention": "chronic CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 1534,
+      "end": 1551,
+      "mention": "occurring lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 1053,
+      "end": 1077,
+      "mention": "microhemocirculatory bed",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 35,
+      "end": 49,
+      "mention": "cardiomyopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 84,
+      "end": 98,
+      "mention": "cardiomyopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 151,
+      "end": 172,
+      "mention": "chronic heart disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1158,
+      "end": 1168,
+      "mention": "myocardial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1738,
+      "end": 1748,
+      "mention": "myocardial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1130,
+      "end": 1137,
+      "mention": "hypoxia",
+      "label": "DISO"
+    },
+    {
+      "start": 1966,
+      "end": 1973,
+      "mention": "hypoxia",
+      "label": "DISO"
+    },
+    {
+      "start": 75,
+      "end": 98,
+      "mention": "ischemic cardiomyopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 1485,
+      "end": 1502,
+      "mention": "myocardial tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 159,
+      "end": 172,
+      "mention": "heart disease",
+      "label": "DISO"
+    },
+    {
+      "start": 1275,
+      "end": 1284,
+      "mention": "damage to lymph capillaries",
+      "label": "DISO"
+    },
+    {
+      "start": 1323,
+      "end": 1340,
+      "mention": "damage to lymph capillaries",
+      "label": "DISO"
+    },
+    {
+      "start": 159,
+      "end": 164,
+      "mention": "heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1454,
+      "end": 1480,
+      "mention": "damage to the vascular bed",
+      "label": "DISO"
+    },
+    {
+      "start": 1572,
+      "end": 1595,
+      "mention": "diffuse cardiosclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 206,
+      "end": 211,
+      "mention": "heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1562,
+      "end": 1595,
+      "mention": "irregular diffuse cardiosclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 26,
+      "end": 49,
+      "mention": "ischemic cardiomyopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 315,
+      "end": 322,
+      "mention": "cardiac",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 852,
+      "end": 864,
+      "mention": "triglyceride",
+      "label": "CHEM"
+    },
+    {
+      "start": 2183,
+      "end": 2188,
+      "mention": "heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1580,
+      "end": 1595,
+      "mention": "cardiosclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 362,
+      "end": 375,
+      "mention": "aortocoronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1544,
+      "end": 1551,
+      "mention": "lesions",
+      "label": "DISO"
+    },
+    {
+      "start": 1485,
+      "end": 1495,
+      "mention": "myocardial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1885,
+      "end": 1903,
+      "mention": "damaged myocardium",
+      "label": "DISO"
+    },
+    {
+      "start": 1285,
+      "end": 1297,
+      "mention": "microvessels",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1329,
+      "end": 1340,
+      "mention": "capillaries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1275,
+      "end": 1297,
+      "mention": "damage to microvessels",
+      "label": "DISO"
+    },
+    {
+      "start": 931,
+      "end": 942,
+      "mention": "vasopressin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1836,
+      "end": 1844,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 536,
+      "end": 558,
+      "mention": "coronary insufficiency",
+      "label": "DISO"
+    },
+    {
+      "start": 2145,
+      "end": 2148,
+      "mention": "ICM",
+      "label": "DISO"
+    },
+    {
+      "start": 1683,
+      "end": 1696,
+      "mention": "cardiomyocyte",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1836,
+      "end": 1860,
+      "mention": "coronary atherosclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 1845,
+      "end": 1860,
+      "mention": "atherosclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 466,
+      "end": 481,
+      "mention": "atherosclerosis",
+      "label": "DISO"
+    },
+    {
+      "start": 836,
+      "end": 847,
+      "mention": "cholesterol",
+      "label": "CHEM"
+    },
+    {
+      "start": 1275,
+      "end": 1284,
+      "mention": "damage to nerve endings",
+      "label": "DISO"
+    },
+    {
+      "start": 1346,
+      "end": 1359,
+      "mention": "damage to nerve endings",
+      "label": "DISO"
+    },
+    {
+      "start": 1028,
+      "end": 1045,
+      "mention": "trophic component",
+      "label": "CHEM"
+    },
+    {
+      "start": 1028,
+      "end": 1035,
+      "mention": "trophic",
+      "label": "CHEM"
+    },
+    {
+      "start": 1315,
+      "end": 1321,
+      "mention": "stroma",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 403,
+      "end": 412,
+      "mention": "myocardia",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 26,
+      "end": 34,
+      "mention": "ischemic",
+      "label": "DISO"
+    },
+    {
+      "start": 1468,
+      "end": 1480,
+      "mention": "vascular bed",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 75,
+      "end": 83,
+      "mention": "ischemic",
+      "label": "DISO"
+    },
+    {
+      "start": 1644,
+      "end": 1667,
+      "mention": "conduction disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 1597,
+      "end": 1602,
+      "mention": "micro disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 1655,
+      "end": 1667,
+      "mention": "micro disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 1496,
+      "end": 1502,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1454,
+      "end": 1467,
+      "mention": "damage to the myocardial tissue",
+      "label": "DISO"
+    },
+    {
+      "start": 1485,
+      "end": 1502,
+      "mention": "damage to the myocardial tissue",
+      "label": "DISO"
+    },
+    {
+      "start": 1275,
+      "end": 1284,
+      "mention": "damage to cardiomyocytes",
+      "label": "DISO"
+    },
+    {
+      "start": 1299,
+      "end": 1313,
+      "mention": "damage to cardiomyocytes",
+      "label": "DISO"
+    },
+    {
+      "start": 1683,
+      "end": 1703,
+      "mention": "cardiomyocyte damage",
+      "label": "DISO"
+    },
+    {
+      "start": 100,
+      "end": 103,
+      "mention": "ICM",
+      "label": "DISO"
+    },
+    {
+      "start": 1783,
+      "end": 1786,
+      "mention": "ICM",
+      "label": "DISO"
+    },
+    {
+      "start": 1608,
+      "end": 1625,
+      "mention": "lymphocirculatory disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 1655,
+      "end": 1667,
+      "mention": "lymphocirculatory disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 1627,
+      "end": 1638,
+      "mention": "innervation disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 1655,
+      "end": 1667,
+      "mention": "innervation disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 1103,
+      "end": 1122,
+      "mention": "impaired blood flow",
+      "label": "DISO"
+    },
+    {
+      "start": 1346,
+      "end": 1351,
+      "mention": "nerve",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1299,
+      "end": 1313,
+      "mention": "cardiomyocytes",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 545,
+      "end": 558,
+      "mention": "insufficiency",
+      "label": "DISO"
+    },
+    {
+      "start": 1112,
+      "end": 1117,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 174,
+      "end": 177,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 985,
+      "end": 988,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 2257,
+      "end": 2260,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 2101,
+      "end": 2104,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 1323,
+      "end": 1328,
+      "mention": "lymph",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1323,
+      "end": 1340,
+      "mention": "lymph capillaries",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2070,
+      "end": 2073,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 1201,
+      "end": 1211,
+      "mention": "fascicules",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2175,
+      "end": 2196,
+      "mention": "chronic heart failure",
+      "label": "DISO"
+    },
+    {
+      "start": 283,
+      "end": 286,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 1001,
+      "end": 1012,
+      "mention": "endothelial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 395,
+      "end": 398,
+      "mention": "CHD",
+      "label": "DISO"
+    },
+    {
+      "start": 1275,
+      "end": 1284,
+      "mention": "damage to stroma",
+      "label": "DISO"
+    },
+    {
+      "start": 1315,
+      "end": 1321,
+      "mention": "damage to stroma",
+      "label": "DISO"
+    },
+    {
+      "start": 1346,
+      "end": 1359,
+      "mention": "nerve endings",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 565,
+      "end": 576,
+      "mention": "vasopressin",
+      "label": "CHEM"
+    },
+    {
+      "start": 2183,
+      "end": 2196,
+      "mention": "heart failure",
+      "label": "DISO"
+    },
+    {
+      "start": 536,
+      "end": 544,
+      "mention": "coronary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 206,
+      "end": 219,
+      "mention": "heart failure",
+      "label": "DISO"
+    },
+    {
+      "start": 830,
+      "end": 835,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 198,
+      "end": 219,
+      "mention": "chronic heart failure",
+      "label": "DISO"
+    }
+  ]
+}

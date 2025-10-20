@@ -1,0 +1,347 @@
+{
+  "text": "[Growing teratoma syndrome in a patient with intracranial germ cell tumor].  A six-year-old patient with non-germinomatous germ cell tumor of the chiasmatic-sellar area developed polyuria and polydipsia as the first symptoms of the disease. Then there were signs of precocious puberty and vision impairment.  MRI examination revealed a shiasmatic sellar tumor and occlusive hydrocephalus. Tumor marker levels in blood serum were elevated.  The alpha-fetoprotein level was increased 5-fold; human chorionic gonadotropin 20-fold. These levels increased over time.  The patient received 2 cycles of PEI multiagent chemotherapy (Ifosfamide 1.5 g/m(2), Cisplatin 20 mg/m(2), Etoposide 100 mg/m(2)) during 5 days and 1 cycle of second-line multiagent chemotherapy (Cisplatin 100 mg/m(2) for 1 day and Endoxan 1500 mg/m(2) for 2 days). Despite the decrease in tumor marker levels to normal values, the patient's vision still deteriorated. MRI examination revealed that tumor size increased and its structure changed. Total tumor resection led to vision improvement and regression of intracranial hypertension. Histological analysis of tumor tissue only revealed a mature teratoma. This phenomenon, known as growing teratoma syndrome, is very rare among patients with intracranial non-germinomatous germ cell tumors. ",
+  "entities": [
+    {
+      "start": 1157,
+      "end": 1172,
+      "mention": "mature teratoma",
+      "label": "DISO"
+    },
+    {
+      "start": 1260,
+      "end": 1307,
+      "mention": "intracranial non-germinomatous germ cell tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 1076,
+      "end": 1101,
+      "mention": "intracranial hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 45,
+      "end": 73,
+      "mention": "intracranial germ cell tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 128,
+      "end": 132,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 648,
+      "end": 657,
+      "mention": "Cisplatin",
+      "label": "CHEM"
+    },
+    {
+      "start": 759,
+      "end": 768,
+      "mention": "Cisplatin",
+      "label": "CHEM"
+    },
+    {
+      "start": 9,
+      "end": 17,
+      "mention": "teratoma",
+      "label": "DISO"
+    },
+    {
+      "start": 1296,
+      "end": 1300,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 444,
+      "end": 461,
+      "mention": "alpha-fetoprotein",
+      "label": "CHEM"
+    },
+    {
+      "start": 45,
+      "end": 57,
+      "mention": "intracranial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1164,
+      "end": 1172,
+      "mention": "teratoma",
+      "label": "DISO"
+    },
+    {
+      "start": 1208,
+      "end": 1216,
+      "mention": "teratoma",
+      "label": "DISO"
+    },
+    {
+      "start": 266,
+      "end": 284,
+      "mention": "precocious puberty",
+      "label": "DISO"
+    },
+    {
+      "start": 1134,
+      "end": 1140,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 496,
+      "end": 518,
+      "mention": "chorionic gonadotropin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1076,
+      "end": 1088,
+      "mention": "intracranial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 192,
+      "end": 202,
+      "mention": "polydipsia",
+      "label": "DISO"
+    },
+    {
+      "start": 63,
+      "end": 67,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1260,
+      "end": 1272,
+      "mention": "intracranial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 389,
+      "end": 394,
+      "mention": "Tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 1273,
+      "end": 1307,
+      "mention": "non-germinomatous germ cell tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 853,
+      "end": 858,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 179,
+      "end": 187,
+      "mention": "polyuria",
+      "label": "DISO"
+    },
+    {
+      "start": 336,
+      "end": 359,
+      "mention": "shiasmatic sellar tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 58,
+      "end": 73,
+      "mention": "germ cell tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 123,
+      "end": 138,
+      "mention": "germ cell tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 364,
+      "end": 387,
+      "mention": "occlusive hydrocephalus",
+      "label": "DISO"
+    },
+    {
+      "start": 105,
+      "end": 138,
+      "mention": "non-germinomatous germ cell tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 418,
+      "end": 423,
+      "mention": "serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1,
+      "end": 26,
+      "mention": "Growing teratoma syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 412,
+      "end": 423,
+      "mention": "blood serum",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1128,
+      "end": 1133,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 354,
+      "end": 359,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 1016,
+      "end": 1021,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 670,
+      "end": 679,
+      "mention": "Etoposide",
+      "label": "CHEM"
+    },
+    {
+      "start": 962,
+      "end": 967,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 795,
+      "end": 802,
+      "mention": "Endoxan",
+      "label": "CHEM"
+    },
+    {
+      "start": 133,
+      "end": 138,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 68,
+      "end": 73,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 1301,
+      "end": 1307,
+      "mention": "tumors",
+      "label": "DISO"
+    },
+    {
+      "start": 506,
+      "end": 518,
+      "mention": "gonadotropin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1128,
+      "end": 1140,
+      "mention": "tumor tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 146,
+      "end": 168,
+      "mention": "chiasmatic-sellar area",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1200,
+      "end": 1225,
+      "mention": "growing teratoma syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 412,
+      "end": 417,
+      "mention": "blood",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1089,
+      "end": 1101,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 490,
+      "end": 518,
+      "mention": "human chorionic gonadotropin",
+      "label": "CHEM"
+    },
+    {
+      "start": 853,
+      "end": 865,
+      "mention": "tumor marker",
+      "label": "CHEM"
+    },
+    {
+      "start": 289,
+      "end": 306,
+      "mention": "vision impairment",
+      "label": "DISO"
+    },
+    {
+      "start": 389,
+      "end": 401,
+      "mention": "Tumor marker",
+      "label": "CHEM"
+    },
+    {
+      "start": 374,
+      "end": 387,
+      "mention": "hydrocephalus",
+      "label": "DISO"
+    },
+    {
+      "start": 58,
+      "end": 67,
+      "mention": "germ cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1291,
+      "end": 1300,
+      "mention": "germ cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 625,
+      "end": 635,
+      "mention": "Ifosfamide",
+      "label": "CHEM"
+    },
+    {
+      "start": 336,
+      "end": 353,
+      "mention": "shiasmatic sellar",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 123,
+      "end": 132,
+      "mention": "germ cell",
+      "label": "ANATOMY"
+    }
+  ]
+}

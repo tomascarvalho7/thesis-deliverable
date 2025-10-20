@@ -1,0 +1,107 @@
+{
+  "text": "[Placebo controlled study of analgesic activity of analgin, paracetamol and dexalgin by electric pulp sensitivity testing]. The aim of the study was to evaluate the analgesic activity of paracetamol, analgin, dexalgin and placebo using electrical pulp sensitivity testing. Blind randomized study was performed on 112 volunteers, 52 men and 70 women aged 19-28 years.  Pain threshold was measured before and 15, 30, 45 and 60 minutes after oral intake of medications using EOM-3 device. Paired t- and χ²-test was used for statistical analysis. Height effect was observed at 30 min: 9.4 mkA for analgin, 8.7 mkA for dexalgin, 6.5 mkA for paracetamol and 5.2 mkA for placebo.  Paracetamol showed analgesic efficiency close to placebo effect. ",
+  "entities": [
+    {
+      "start": 593,
+      "end": 600,
+      "mention": "analgin",
+      "label": "CHEM"
+    },
+    {
+      "start": 368,
+      "end": 372,
+      "mention": "Pain",
+      "label": "DISO"
+    },
+    {
+      "start": 200,
+      "end": 207,
+      "mention": "analgin",
+      "label": "CHEM"
+    },
+    {
+      "start": 51,
+      "end": 58,
+      "mention": "analgin",
+      "label": "CHEM"
+    },
+    {
+      "start": 674,
+      "end": 685,
+      "mention": "Paracetamol",
+      "label": "CHEM"
+    },
+    {
+      "start": 636,
+      "end": 647,
+      "mention": "paracetamol",
+      "label": "CHEM"
+    },
+    {
+      "start": 247,
+      "end": 251,
+      "mention": "pulp",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 97,
+      "end": 101,
+      "mention": "pulp",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 209,
+      "end": 217,
+      "mention": "dexalgin",
+      "label": "CHEM"
+    },
+    {
+      "start": 76,
+      "end": 84,
+      "mention": "dexalgin",
+      "label": "CHEM"
+    },
+    {
+      "start": 222,
+      "end": 229,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 60,
+      "end": 71,
+      "mention": "paracetamol",
+      "label": "CHEM"
+    },
+    {
+      "start": 1,
+      "end": 8,
+      "mention": "Placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 187,
+      "end": 198,
+      "mention": "paracetamol",
+      "label": "CHEM"
+    },
+    {
+      "start": 664,
+      "end": 671,
+      "mention": "placebo",
+      "label": "CHEM"
+    },
+    {
+      "start": 614,
+      "end": 622,
+      "mention": "dexalgin",
+      "label": "CHEM"
+    },
+    {
+      "start": 723,
+      "end": 730,
+      "mention": "placebo",
+      "label": "CHEM"
+    }
+  ]
+}

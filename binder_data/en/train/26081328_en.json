@@ -1,0 +1,161 @@
+{
+  "text": "[A role of treatment of autonomic syndrome in patients with tension-type headache]. UNLABELLED The study aims to evaluate the effect of correction of psycho-vegetative violations anxiolitikami on the frequency and intensity of headache.  MATERIAL AND METHODS the study included 50 women (average age - 37,4 years) with confirmed diagnosis: frequent episodic headache and chronic headache no factor abuses.  Patients of the main group received ibuprofen to 200-400 mg/day for headaches in combination with tizanidine (2-4 mg/day) and anvifen 750 mg a day for 8 weeks. Patients in the comparison group received ibuprofen and tizanidine in the same mode, but did not take anvifen. RESULTS AND CONCLUSION Evaluated the severity of headaches by visual analogue scale, the level of anxiety on the Hamilton depression rating scale, vegetative disorders on questionnaire ( Wayne), the quality of sleep before treatment and 60 days. In addition, 60 day therapy was conducted subjective assessment of the General state on a scale GGI. The conclusion about expediency of inclusion of, anvifen in the complex treatment of the condition. ",
+  "entities": [
+    {
+      "start": 443,
+      "end": 452,
+      "mention": "ibuprofen",
+      "label": "CHEM"
+    },
+    {
+      "start": 727,
+      "end": 736,
+      "mention": "headaches",
+      "label": "DISO"
+    },
+    {
+      "start": 800,
+      "end": 810,
+      "mention": "depression",
+      "label": "DISO"
+    },
+    {
+      "start": 179,
+      "end": 192,
+      "mention": "anxiolitikami",
+      "label": "CHEM"
+    },
+    {
+      "start": 73,
+      "end": 81,
+      "mention": "headache",
+      "label": "DISO"
+    },
+    {
+      "start": 358,
+      "end": 366,
+      "mention": "headache",
+      "label": "DISO"
+    },
+    {
+      "start": 825,
+      "end": 845,
+      "mention": "vegetative disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 60,
+      "end": 81,
+      "mention": "tension-type headache",
+      "label": "DISO"
+    },
+    {
+      "start": 227,
+      "end": 235,
+      "mention": "headache",
+      "label": "DISO"
+    },
+    {
+      "start": 609,
+      "end": 618,
+      "mention": "ibuprofen",
+      "label": "CHEM"
+    },
+    {
+      "start": 379,
+      "end": 387,
+      "mention": "headache",
+      "label": "DISO"
+    },
+    {
+      "start": 475,
+      "end": 484,
+      "mention": "headaches",
+      "label": "DISO"
+    },
+    {
+      "start": 398,
+      "end": 404,
+      "mention": "abuses",
+      "label": "DISO"
+    },
+    {
+      "start": 340,
+      "end": 366,
+      "mention": "frequent episodic headache",
+      "label": "DISO"
+    },
+    {
+      "start": 150,
+      "end": 178,
+      "mention": "psycho-vegetative violations",
+      "label": "DISO"
+    },
+    {
+      "start": 24,
+      "end": 42,
+      "mention": "autonomic syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 1074,
+      "end": 1081,
+      "mention": "anvifen",
+      "label": "CHEM"
+    },
+    {
+      "start": 533,
+      "end": 540,
+      "mention": "anvifen",
+      "label": "CHEM"
+    },
+    {
+      "start": 371,
+      "end": 387,
+      "mention": "chronic headache",
+      "label": "DISO"
+    },
+    {
+      "start": 669,
+      "end": 676,
+      "mention": "anvifen",
+      "label": "CHEM"
+    },
+    {
+      "start": 349,
+      "end": 366,
+      "mention": "episodic headache",
+      "label": "DISO"
+    },
+    {
+      "start": 825,
+      "end": 835,
+      "mention": "vegetative",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 505,
+      "end": 515,
+      "mention": "tizanidine",
+      "label": "CHEM"
+    },
+    {
+      "start": 157,
+      "end": 167,
+      "mention": "vegetative",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 623,
+      "end": 633,
+      "mention": "tizanidine",
+      "label": "CHEM"
+    },
+    {
+      "start": 776,
+      "end": 783,
+      "mention": "anxiety",
+      "label": "DISO"
+    }
+  ]
+}

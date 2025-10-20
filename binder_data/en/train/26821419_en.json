@@ -1,0 +1,251 @@
+{
+  "text": "[Survival in pulmonary arterial hypertension, associated with connective tissue diseases, treated by sildenafil: results of the prospective study]. AIM  To investigate the effect of sildenafil on the survival of patients with pulmonary arterial hypertension (PAH) associated with connective tissue diseases (CTD), who have been followed up at the Rheumatology Expert Center. SUBJECTS AND METHODS A total of 16 patients (all women) with PAH associated with CTD, who had been admitted to the V. A. Nasonova Research Institute of Rheumatology in 2013-2015, were examined. PAH corresponded to Functional Class II in the majority of the patients.  After the diagnosis was verified by catheterization of the right heart and pulmonary artery, all the patients received original sildenafil (a phosphodiesterase type 5 inhibitor, a potent vasodilator, the efficiency of which was proven in patients with PAH) at a dose of 20 mg thrice daily. Survival rates and time to clinical deterioration were estimated during a prospective follow-up). RESULTS Three-year survival rates were 94% in the study group and 25% in the group of historical control (p < 0.05). The time to clinical deterioration was associated with the duration of the follow-up and hemodynamic parameters (right atrial pressure and changes in vascular resistance within 4 months after therapy initiation). CONCLUSION The administration of sildenafil substantially improves survival in patients with PAH associated with CTD as compared with the historical control. The identification of poor prognostic factors in this cohort of patients and early diagnosis will favor the personification of therapy for the fatal manifestation of CTD. ",
+  "entities": [
+    {
+      "start": 32,
+      "end": 44,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 1685,
+      "end": 1688,
+      "mention": "CTD",
+      "label": "DISO"
+    },
+    {
+      "start": 245,
+      "end": 257,
+      "mention": "hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 236,
+      "end": 257,
+      "mention": "arterial hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 708,
+      "end": 713,
+      "mention": "heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1454,
+      "end": 1457,
+      "mention": "PAH",
+      "label": "DISO"
+    },
+    {
+      "start": 436,
+      "end": 439,
+      "mention": "PAH",
+      "label": "DISO"
+    },
+    {
+      "start": 1298,
+      "end": 1306,
+      "mention": "vascular",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 259,
+      "end": 262,
+      "mention": "PAH",
+      "label": "DISO"
+    },
+    {
+      "start": 569,
+      "end": 572,
+      "mention": "PAH",
+      "label": "DISO"
+    },
+    {
+      "start": 895,
+      "end": 898,
+      "mention": "PAH",
+      "label": "DISO"
+    },
+    {
+      "start": 1267,
+      "end": 1273,
+      "mention": "atrial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 702,
+      "end": 713,
+      "mention": "right heart",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 728,
+      "end": 734,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 308,
+      "end": 311,
+      "mention": "CTD",
+      "label": "DISO"
+    },
+    {
+      "start": 1474,
+      "end": 1477,
+      "mention": "CTD",
+      "label": "DISO"
+    },
+    {
+      "start": 23,
+      "end": 31,
+      "mention": "arterial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 823,
+      "end": 841,
+      "mention": "potent vasodilator",
+      "label": "CHEM"
+    },
+    {
+      "start": 23,
+      "end": 44,
+      "mention": "arterial hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 73,
+      "end": 79,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 226,
+      "end": 235,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 13,
+      "end": 22,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 785,
+      "end": 802,
+      "mention": "phosphodiesterase",
+      "label": "CHEM"
+    },
+    {
+      "start": 182,
+      "end": 192,
+      "mention": "sildenafil",
+      "label": "CHEM"
+    },
+    {
+      "start": 280,
+      "end": 297,
+      "mention": "connective tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 280,
+      "end": 306,
+      "mention": "connective tissue diseases",
+      "label": "DISO"
+    },
+    {
+      "start": 62,
+      "end": 88,
+      "mention": "connective tissue diseases",
+      "label": "DISO"
+    },
+    {
+      "start": 236,
+      "end": 244,
+      "mention": "arterial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 718,
+      "end": 727,
+      "mention": "pulmonary",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 62,
+      "end": 79,
+      "mention": "connective tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 291,
+      "end": 297,
+      "mention": "tissue",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 456,
+      "end": 459,
+      "mention": "CTD",
+      "label": "DISO"
+    },
+    {
+      "start": 1394,
+      "end": 1404,
+      "mention": "sildenafil",
+      "label": "CHEM"
+    },
+    {
+      "start": 785,
+      "end": 819,
+      "mention": "phosphodiesterase type 5 inhibitor",
+      "label": "CHEM"
+    },
+    {
+      "start": 771,
+      "end": 781,
+      "mention": "sildenafil",
+      "label": "CHEM"
+    },
+    {
+      "start": 13,
+      "end": 31,
+      "mention": "pulmonary arterial",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 226,
+      "end": 257,
+      "mention": "pulmonary arterial hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 101,
+      "end": 111,
+      "mention": "sildenafil",
+      "label": "CHEM"
+    },
+    {
+      "start": 13,
+      "end": 44,
+      "mention": "pulmonary arterial hypertension",
+      "label": "DISO"
+    },
+    {
+      "start": 718,
+      "end": 734,
+      "mention": "pulmonary artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 226,
+      "end": 244,
+      "mention": "pulmonary arterial",
+      "label": "ANATOMY"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "text": "[The effect of the succinic acid preparation on the dynamics of neurological and emotional disturbances in patients with dorsopathy]. OBJECTIVE To study the dynamics of neurological and emotional disturbances in patients with dorsopathy treated with cytoflavin.  MATERIAL AND METHODS We examined 120 patients aged from 21 to 55 years, mean age 38±9 years.  All patients received nonsteroid anti-inflammatory drugs, myorelaxants, vitamins. The main group comprised 67 patients who received cytoflavin (10ml of the solution in one injection once a day in 200 ml of isotonic solution of sodium chloride intravenously in drops in the morning during 10 days) in addition to standard treatment. The comparison group included 53 patients who received standard treatment during 10 days. RESULTS AND CONCLUSION The use of cytoflavin allowed earlier arresting of the pain syndrome, restored the disturbed sensitivity, improved emotional status and decreased the severity of a neuropathic pain component. ",
+  "entities": [
+    {
+      "start": 857,
+      "end": 870,
+      "mention": "pain syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 250,
+      "end": 260,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 885,
+      "end": 906,
+      "mention": "disturbed sensitivity",
+      "label": "DISO"
+    },
+    {
+      "start": 572,
+      "end": 580,
+      "mention": "solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 489,
+      "end": 499,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 513,
+      "end": 521,
+      "mention": "solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 19,
+      "end": 44,
+      "mention": "succinic acid preparation",
+      "label": "CHEM"
+    },
+    {
+      "start": 19,
+      "end": 32,
+      "mention": "succinic acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 563,
+      "end": 599,
+      "mention": "isotonic solution of sodium chloride",
+      "label": "CHEM"
+    },
+    {
+      "start": 813,
+      "end": 823,
+      "mention": "cytoflavin",
+      "label": "CHEM"
+    },
+    {
+      "start": 64,
+      "end": 76,
+      "mention": "neurological disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 91,
+      "end": 103,
+      "mention": "neurological disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 978,
+      "end": 982,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 121,
+      "end": 131,
+      "mention": "dorsopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 226,
+      "end": 236,
+      "mention": "dorsopathy",
+      "label": "DISO"
+    },
+    {
+      "start": 169,
+      "end": 181,
+      "mention": "neurological disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 196,
+      "end": 208,
+      "mention": "neurological disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 584,
+      "end": 590,
+      "mention": "sodium",
+      "label": "CHEM"
+    },
+    {
+      "start": 966,
+      "end": 992,
+      "mention": "neuropathic pain component",
+      "label": "DISO"
+    },
+    {
+      "start": 857,
+      "end": 861,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 415,
+      "end": 427,
+      "mention": "myorelaxants",
+      "label": "CHEM"
+    },
+    {
+      "start": 28,
+      "end": 32,
+      "mention": "acid",
+      "label": "CHEM"
+    },
+    {
+      "start": 563,
+      "end": 580,
+      "mention": "isotonic solution",
+      "label": "CHEM"
+    },
+    {
+      "start": 186,
+      "end": 208,
+      "mention": "emotional disturbances",
+      "label": "DISO"
+    },
+    {
+      "start": 584,
+      "end": 599,
+      "mention": "sodium chloride",
+      "label": "CHEM"
+    },
+    {
+      "start": 395,
+      "end": 407,
+      "mention": "inflammatory",
+      "label": "DISO"
+    },
+    {
+      "start": 591,
+      "end": 599,
+      "mention": "chloride",
+      "label": "CHEM"
+    },
+    {
+      "start": 390,
+      "end": 413,
+      "mention": "anti-inflammatory drugs",
+      "label": "CHEM"
+    },
+    {
+      "start": 429,
+      "end": 437,
+      "mention": "vitamins",
+      "label": "CHEM"
+    },
+    {
+      "start": 379,
+      "end": 413,
+      "mention": "nonsteroid anti-inflammatory drugs",
+      "label": "CHEM"
+    },
+    {
+      "start": 81,
+      "end": 103,
+      "mention": "emotional disturbances",
+      "label": "DISO"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "text": "[The efficacy of pharmacological preconditioning in carotid endarterectomy]. OBJECTIVE To assess the efficacy of pharmacological preconditioning with actovegin in carotid endarterectomy. MATERIAL AND METHODS The study was based on the results of surgical treatment of 80 patients with hemodynamically significant uni- and bilateral lesions of carotid arteries.  Half of the patients was operated immediately and others after pharmacological preconditioning with actovegin in dose of 1200 mg/daily during 1,5 months. RESULTS  Pharmacological preconditioning with actovegin increased the cerebral perfusion determined with one-photon emission computed tomography that improved significantly results of the surgery. There were significant changes in patient's state 7 days and 6 months after surgery.  The improvement was correlated with the less number of asymptotic post-surgery ischemic strokes in different brain areas. CONCLUSION A positive role of pharmacological preconditioning with actovegin in surgical treatment of carotid artery stenosis has been demonstrated. ",
+  "entities": [
+    {
+      "start": 1023,
+      "end": 1037,
+      "mention": "carotid artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1031,
+      "end": 1037,
+      "mention": "artery",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 586,
+      "end": 594,
+      "mention": "cerebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 887,
+      "end": 894,
+      "mention": "strokes",
+      "label": "DISO"
+    },
+    {
+      "start": 908,
+      "end": 913,
+      "mention": "brain",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 865,
+      "end": 894,
+      "mention": "post-surgery ischemic strokes",
+      "label": "DISO"
+    },
+    {
+      "start": 854,
+      "end": 894,
+      "mention": "asymptotic post-surgery ischemic strokes",
+      "label": "DISO"
+    },
+    {
+      "start": 562,
+      "end": 571,
+      "mention": "actovegin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1038,
+      "end": 1046,
+      "mention": "stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 462,
+      "end": 471,
+      "mention": "actovegin",
+      "label": "CHEM"
+    },
+    {
+      "start": 150,
+      "end": 159,
+      "mention": "actovegin",
+      "label": "CHEM"
+    },
+    {
+      "start": 908,
+      "end": 919,
+      "mention": "brain areas",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 878,
+      "end": 894,
+      "mention": "ischemic strokes",
+      "label": "DISO"
+    },
+    {
+      "start": 1023,
+      "end": 1030,
+      "mention": "carotid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 163,
+      "end": 170,
+      "mention": "carotid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 343,
+      "end": 350,
+      "mention": "carotid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 878,
+      "end": 886,
+      "mention": "ischemic",
+      "label": "DISO"
+    },
+    {
+      "start": 1023,
+      "end": 1046,
+      "mention": "carotid artery stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 52,
+      "end": 59,
+      "mention": "carotid",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 332,
+      "end": 359,
+      "mention": "lesions of carotid arteries",
+      "label": "DISO"
+    },
+    {
+      "start": 988,
+      "end": 997,
+      "mention": "actovegin",
+      "label": "CHEM"
+    },
+    {
+      "start": 343,
+      "end": 359,
+      "mention": "carotid arteries",
+      "label": "ANATOMY"
+    }
+  ]
+}

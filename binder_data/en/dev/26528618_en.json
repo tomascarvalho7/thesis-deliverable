@@ -1,0 +1,689 @@
+{
+  "text": "[Endoscopic endonasal removal of the invaginated odontoid process of the C2 vertebra].  UNLABELLED Pathological processes in the craniovertebral region (clivus, C1 anterior arch, odontoid process and body of the C2 vertebra, i.e. C0-C1-C2 segments) are very difficult to diagnose and treat.  The craniovertebral junction instability may develop in the case of a significant lesion of C1-C2 segments. Among diseases causing destruction of the clivus structures and C1-C2 vertebrae and compression of the spinal cord, the following ones are most common: chordoma, giant cell tumor, osteoblastoma, rheumatoid lesion, metastases, platybasia, and basilar impression. These diseases can cause the initial instability of the craniovertebral junction and be accompanied by gross neurological disorders, which complicates the diagnosis and surgical treatment of these patients.  MATERIAL AND METHODS We operated on two patients diagnosed with invagination of the odontoid process of the C2 vertebra.  In both cases, one-stage operation was performed that included occipitospondylodesis and endoscopic endonasal removal of the C2 odontoid process. RESULTS In the postoperative period, partial regression of the neurological symptoms was observed that included an increase in the strength and range of motions in the arms and distal legs, regressed spasticity in the arms and significantly reduced spasticity in the legs, and a significant improvement in all kinds of sensitivity in the arms, legs, and torso.  Postoperative liquorrhea was observed in 1 case (patient 2); re-operation to close a CSF fistula was conducted. Later, no signs of liquorrhea were noted. In both cases, control MRI and spiral CT revealed a postoperative bone defect of the C2 odontoid process and clivus, complete decompression of the medulla oblongata and upper cervical spine segments, and no evidence of spinal canal stenosis; the stabilizing system was competent and properly placed.  CONCLUSION The endoscopic endonasal approach, compared to the standard transoral approach, has significant advantages in that the soft palate remains intact, the oropharynx area is less damaged, and the hospitalization and rehabilitation duration is reduced. Also, there are no problems and complications such as possible failure of sutures in the oral cavity and a large wound surface in the oropharynx area.  The patient can eat on his own immediately after the operation without the use of a stomach tube (it does not cause any inflammatory complications of the oral cavity). However, the surgical technique of the endoscopic endonasal approach to the C1-C2 segment is more complex than that of transoral surgery and requires the surgeon to be skilled and experienced. ",
+  "entities": [
+    {
+      "start": 552,
+      "end": 560,
+      "mention": "chordoma",
+      "label": "DISO"
+    },
+    {
+      "start": 1589,
+      "end": 1596,
+      "mention": "fistula",
+      "label": "DISO"
+    },
+    {
+      "start": 1720,
+      "end": 1724,
+      "mention": "bone",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1801,
+      "end": 1818,
+      "mention": "medulla oblongata",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 423,
+      "end": 434,
+      "mention": "destruction",
+      "label": "DISO"
+    },
+    {
+      "start": 1387,
+      "end": 1397,
+      "mention": "spasticity",
+      "label": "DISO"
+    },
+    {
+      "start": 1322,
+      "end": 1326,
+      "mention": "legs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2303,
+      "end": 2314,
+      "mention": "oral cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2450,
+      "end": 2457,
+      "mention": "stomach",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 503,
+      "end": 514,
+      "mention": "spinal cord",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 718,
+      "end": 742,
+      "mention": "craniovertebral junction",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1873,
+      "end": 1885,
+      "mention": "spinal canal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1823,
+      "end": 1852,
+      "mention": "upper cervical spine segments",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1315,
+      "end": 1321,
+      "mention": "distal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1886,
+      "end": 1894,
+      "mention": "stenosis",
+      "label": "DISO"
+    },
+    {
+      "start": 374,
+      "end": 380,
+      "mention": "lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 606,
+      "end": 612,
+      "mention": "lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 1829,
+      "end": 1837,
+      "mention": "cervical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 642,
+      "end": 660,
+      "mention": "basilar impression",
+      "label": "DISO"
+    },
+    {
+      "start": 1315,
+      "end": 1326,
+      "mention": "distal legs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1873,
+      "end": 1879,
+      "mention": "spinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 37,
+      "end": 48,
+      "mention": "invaginated",
+      "label": "DISO"
+    },
+    {
+      "start": 442,
+      "end": 459,
+      "mention": "clivus structures",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 153,
+      "end": 159,
+      "mention": "clivus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 230,
+      "end": 232,
+      "mention": "C0",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 296,
+      "end": 320,
+      "mention": "craniovertebral junction",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1763,
+      "end": 1769,
+      "mention": "clivus",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2486,
+      "end": 2512,
+      "mention": "inflammatory complications",
+      "label": "DISO"
+    },
+    {
+      "start": 1405,
+      "end": 1409,
+      "mention": "legs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1482,
+      "end": 1486,
+      "mention": "legs",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2520,
+      "end": 2524,
+      "mention": "oral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2303,
+      "end": 2307,
+      "mention": "oral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 484,
+      "end": 514,
+      "mention": "compression of the spinal cord",
+      "label": "DISO"
+    },
+    {
+      "start": 1838,
+      "end": 1843,
+      "mention": "spine",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 934,
+      "end": 946,
+      "mention": "invagination",
+      "label": "DISO"
+    },
+    {
+      "start": 2520,
+      "end": 2531,
+      "mention": "oral cavity",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 626,
+      "end": 636,
+      "mention": "platybasia",
+      "label": "DISO"
+    },
+    {
+      "start": 1585,
+      "end": 1596,
+      "mention": "CSF fistula",
+      "label": "DISO"
+    },
+    {
+      "start": 580,
+      "end": 593,
+      "mention": "osteoblastoma",
+      "label": "DISO"
+    },
+    {
+      "start": 771,
+      "end": 793,
+      "mention": "neurological disorders",
+      "label": "DISO"
+    },
+    {
+      "start": 233,
+      "end": 235,
+      "mention": "C1",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 212,
+      "end": 223,
+      "mention": "C2 vertebra",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 387,
+      "end": 389,
+      "mention": "C2",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 73,
+      "end": 84,
+      "mention": "C2 vertebra",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 978,
+      "end": 980,
+      "mention": "C2",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 296,
+      "end": 332,
+      "mention": "craniovertebral junction instability",
+      "label": "DISO"
+    },
+    {
+      "start": 212,
+      "end": 214,
+      "mention": "C2",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 236,
+      "end": 238,
+      "mention": "C2",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 699,
+      "end": 742,
+      "mention": "instability of the craniovertebral junction",
+      "label": "DISO"
+    },
+    {
+      "start": 73,
+      "end": 75,
+      "mention": "C2",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 200,
+      "end": 223,
+      "mention": "body of the C2 vertebra",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 467,
+      "end": 469,
+      "mention": "C2",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 423,
+      "end": 459,
+      "mention": "destruction of the clivus structures",
+      "label": "DISO"
+    },
+    {
+      "start": 1201,
+      "end": 1222,
+      "mention": "neurological symptoms",
+      "label": "DISO"
+    },
+    {
+      "start": 1720,
+      "end": 1731,
+      "mention": "bone defect",
+      "label": "DISO"
+    },
+    {
+      "start": 1500,
+      "end": 1524,
+      "mention": "Postoperative liquorrhea",
+      "label": "DISO"
+    },
+    {
+      "start": 1706,
+      "end": 1731,
+      "mention": "postoperative bone defect",
+      "label": "DISO"
+    },
+    {
+      "start": 503,
+      "end": 509,
+      "mention": "spinal",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2610,
+      "end": 2612,
+      "mention": "C1",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 464,
+      "end": 466,
+      "mention": "C1",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 384,
+      "end": 386,
+      "mention": "C1",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 484,
+      "end": 495,
+      "mention": "compression",
+      "label": "DISO"
+    },
+    {
+      "start": 981,
+      "end": 989,
+      "mention": "vertebra",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 76,
+      "end": 84,
+      "mention": "vertebra",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 49,
+      "end": 65,
+      "mention": "odontoid process",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 179,
+      "end": 195,
+      "mention": "odontoid process",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1742,
+      "end": 1758,
+      "mention": "odontoid process",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 464,
+      "end": 479,
+      "mention": "C1-C2 vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2090,
+      "end": 2096,
+      "mention": "palate",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 954,
+      "end": 970,
+      "mention": "odontoid process",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1823,
+      "end": 1837,
+      "mention": "upper cervical",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 595,
+      "end": 612,
+      "mention": "rheumatoid lesion",
+      "label": "DISO"
+    },
+    {
+      "start": 215,
+      "end": 223,
+      "mention": "vertebra",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2610,
+      "end": 2623,
+      "mention": "C1-C2 segment",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 129,
+      "end": 151,
+      "mention": "craniovertebral region",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 718,
+      "end": 733,
+      "mention": "craniovertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 384,
+      "end": 398,
+      "mention": "C1-C2 segments",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 230,
+      "end": 247,
+      "mention": "C0-C1-C2 segments",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 470,
+      "end": 479,
+      "mention": "vertebrae",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 296,
+      "end": 311,
+      "mention": "craniovertebral",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 161,
+      "end": 163,
+      "mention": "C1",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1120,
+      "end": 1136,
+      "mention": "odontoid process",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2117,
+      "end": 2127,
+      "mention": "oropharynx",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1338,
+      "end": 1348,
+      "mention": "spasticity",
+      "label": "DISO"
+    },
+    {
+      "start": 2277,
+      "end": 2314,
+      "mention": "failure of sutures in the oral cavity",
+      "label": "DISO"
+    },
+    {
+      "start": 1631,
+      "end": 1641,
+      "mention": "liquorrhea",
+      "label": "DISO"
+    },
+    {
+      "start": 614,
+      "end": 624,
+      "mention": "metastases",
+      "label": "DISO"
+    },
+    {
+      "start": 573,
+      "end": 578,
+      "mention": "tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 1492,
+      "end": 1497,
+      "mention": "torso",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 161,
+      "end": 177,
+      "mention": "C1 anterior arch",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 978,
+      "end": 989,
+      "mention": "C2 vertebra",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1117,
+      "end": 1119,
+      "mention": "C2",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 734,
+      "end": 742,
+      "mention": "junction",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 312,
+      "end": 320,
+      "mention": "junction",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2085,
+      "end": 2096,
+      "mention": "soft palate",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2499,
+      "end": 2512,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 2288,
+      "end": 2295,
+      "mention": "sutures",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2246,
+      "end": 2259,
+      "mention": "complications",
+      "label": "DISO"
+    },
+    {
+      "start": 2486,
+      "end": 2498,
+      "mention": "inflammatory",
+      "label": "DISO"
+    },
+    {
+      "start": 1585,
+      "end": 1588,
+      "mention": "CSF",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2613,
+      "end": 2615,
+      "mention": "C2",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 374,
+      "end": 398,
+      "mention": "lesion of C1-C2 segments",
+      "label": "DISO"
+    },
+    {
+      "start": 1514,
+      "end": 1524,
+      "mention": "liquorrhea",
+      "label": "DISO"
+    },
+    {
+      "start": 2117,
+      "end": 2132,
+      "mention": "oropharynx area",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2348,
+      "end": 2363,
+      "mention": "oropharynx area",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 562,
+      "end": 578,
+      "mention": "giant cell tumor",
+      "label": "DISO"
+    },
+    {
+      "start": 568,
+      "end": 572,
+      "mention": "cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 562,
+      "end": 572,
+      "mention": "giant cell",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 2348,
+      "end": 2358,
+      "mention": "oropharynx",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1476,
+      "end": 1480,
+      "mention": "arms",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1356,
+      "end": 1360,
+      "mention": "arms",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1306,
+      "end": 1310,
+      "mention": "arms",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1739,
+      "end": 1741,
+      "mention": "C2",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1873,
+      "end": 1894,
+      "mention": "spinal canal stenosis",
+      "label": "DISO"
+    }
+  ]
+}

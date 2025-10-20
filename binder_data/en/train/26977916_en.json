@@ -1,0 +1,221 @@
+{
+  "text": "[Melatonin in chronic pain syndromes]. Melatonin, a neurohormone synthesized by the epiphysis and extrapineal structures, has several functions including chronobiotic, antioxidant, oncostatic, immunomodulating, normothymic and anxiolytic ones.  It impacts on the cardiovascular system and the gastrointestinal tract and is involved in reproductive functions, metabolism and body mass regulation. Moreover, recent studies have demonstrated the efficacy of melatonin in pain syndromes. The authors present a literature review on the studies of melatonin in treatment of fibromyalgia, headache, irritated bowel syndrome, chronic back pain and rheumatoid arthritis.  Possible mechanisms of analgesic properties of melatonin are discussed. On one hand, there is the improvement of sleep and activation of own adaptive potential of melatonin by normalizing circadian rhythms inevitably disturbed in chronic pain syndromes.  On the other hand, there are the data on the analgesic effect of melatonin realized through melatonin receptors and several neurotransmitter systems. ",
+  "entities": [
+    {
+      "start": 39,
+      "end": 48,
+      "mention": "Melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 14,
+      "end": 36,
+      "mention": "chronic pain syndromes",
+      "label": "DISO"
+    },
+    {
+      "start": 568,
+      "end": 580,
+      "mention": "fibromyalgia",
+      "label": "DISO"
+    },
+    {
+      "start": 374,
+      "end": 378,
+      "mention": "body",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 983,
+      "end": 992,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 293,
+      "end": 315,
+      "mention": "gastrointestinal tract",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 893,
+      "end": 915,
+      "mention": "chronic pain syndromes",
+      "label": "DISO"
+    },
+    {
+      "start": 826,
+      "end": 835,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1,
+      "end": 10,
+      "mention": "Melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1010,
+      "end": 1029,
+      "mention": "melatonin receptors",
+      "label": "CHEM"
+    },
+    {
+      "start": 710,
+      "end": 719,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 542,
+      "end": 551,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 455,
+      "end": 464,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 1010,
+      "end": 1019,
+      "mention": "melatonin",
+      "label": "CHEM"
+    },
+    {
+      "start": 651,
+      "end": 660,
+      "mention": "arthritis",
+      "label": "DISO"
+    },
+    {
+      "start": 592,
+      "end": 616,
+      "mention": "irritated bowel syndrome",
+      "label": "DISO"
+    },
+    {
+      "start": 582,
+      "end": 590,
+      "mention": "headache",
+      "label": "DISO"
+    },
+    {
+      "start": 263,
+      "end": 284,
+      "mention": "cardiovascular system",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 626,
+      "end": 630,
+      "mention": "back",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 468,
+      "end": 482,
+      "mention": "pain syndromes",
+      "label": "DISO"
+    },
+    {
+      "start": 22,
+      "end": 36,
+      "mention": "pain syndromes",
+      "label": "DISO"
+    },
+    {
+      "start": 901,
+      "end": 915,
+      "mention": "pain syndromes",
+      "label": "DISO"
+    },
+    {
+      "start": 602,
+      "end": 607,
+      "mention": "bowel",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 1042,
+      "end": 1066,
+      "mention": "neurotransmitter systems",
+      "label": "CHEM"
+    },
+    {
+      "start": 1042,
+      "end": 1058,
+      "mention": "neurotransmitter",
+      "label": "CHEM"
+    },
+    {
+      "start": 52,
+      "end": 64,
+      "mention": "neurohormone",
+      "label": "CHEM"
+    },
+    {
+      "start": 1020,
+      "end": 1029,
+      "mention": "receptors",
+      "label": "CHEM"
+    },
+    {
+      "start": 98,
+      "end": 120,
+      "mention": "extrapineal structures",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 640,
+      "end": 660,
+      "mention": "rheumatoid arthritis",
+      "label": "DISO"
+    },
+    {
+      "start": 618,
+      "end": 635,
+      "mention": "chronic back pain",
+      "label": "DISO"
+    },
+    {
+      "start": 631,
+      "end": 635,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 84,
+      "end": 93,
+      "mention": "epiphysis",
+      "label": "ANATOMY"
+    },
+    {
+      "start": 468,
+      "end": 472,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 22,
+      "end": 26,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 901,
+      "end": 905,
+      "mention": "pain",
+      "label": "DISO"
+    },
+    {
+      "start": 626,
+      "end": 635,
+      "mention": "back pain",
+      "label": "DISO"
+    }
+  ]
+}
